@@ -14,51 +14,35 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources" ".\orcad_my_library.olb")
-      (Select "Design Resources" ".\orcad_my_library.olb" "CC2460F128RSM"))
+      (Select "Design Resources" ".\orcad_my_library.olb"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 326"))
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 326"))
       (Tab 0))
-    (Doc
-      (Type "COrPrmBrowserDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 104 1286 104 469"))
-      (Path
-         "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
-      (Package "217184-0001_USB")
-      (PartType "1"))
-    (Doc
-      (Type "COrPrmBrowserDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 104 1286 104 469"))
-      (Path
-         "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
-      (Package "ANTENNA")
-      (PartType "1"))
-    (Doc
-      (Type "COrPrmBrowserDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 156 1338 156 521"))
-      (Path
-         "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
-      (Package "MCSJK-7E-24.00-8-10-60-B-10")
-      (PartType "1"))
     (Doc
       (Type "COrPrmBrowserDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 0 1182 0 365"))
       (Path
          "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
-      (Package "QTC332.76809B2R")
+      (Package "LPS-1301_9314_24")
       (PartType "1"))
     (Doc
       (Type "COrPrmBrowserDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 26 1208 26 391"))
+        (Placement "44 0 1 -1 -1 -8 -31 52 1234 52 417"))
       (Path
          "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
-      (Package "CC2460F128RSM")
+      (Package "M12")
+      (PartType "1"))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 104 1286 104 469"))
+      (Path
+         "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
+      (Package "HU-2477N-1-LF")
       (PartType "1")))
   (MPSSessionName "loris"))
