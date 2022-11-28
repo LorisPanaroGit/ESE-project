@@ -1,6 +1,6 @@
 \t (00:00:02) allegro 17.2 S083 Windows SPB 64-bit Edition
-\t (00:00:02)     Journal start - Mon Nov 28 11:50:59 2022
-\t (00:00:02)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=8432 CPUs=12
+\t (00:00:02)     Journal start - Mon Nov 28 12:28:07 2022
+\t (00:00:02)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=12800 CPUs=12
 \t (00:00:02) CmdLine= D:\Cadence\tools\bin\allegro.exe
 \t (00:00:02) 
    (00:00:02) Loading axlcore.cxt 
@@ -10,145 +10,56 @@
 \i (00:00:05) trapsize 207
 \i (00:00:05) trapsize 213
 \i (00:00:05) trapsize 207
-\i (00:00:05) trapsize 207
+\i (00:00:06) trapsize 207
 \i (00:00:06) generaledit 
-\i (00:22:58) add pin 
-\i (00:23:00) setwindow form.mini
-\i (00:23:00) FORM mini pad_browse  
-\i (00:25:21) fillin "menu_cancel"
-\i (00:25:28) setwindow pcb
-\i (00:25:28) add pin 
-\t (00:25:28) Exiting from Add Pin.
-\i (00:25:35) setwindow form.mini
-\i (00:25:35) FORM mini pad_browse  
-\i (00:25:43) fillin "smd_rect.pad"
-\e (00:25:43) ERROR(SPMHAP-7): Illegal pad name.
-\i (00:25:49) FORM mini pad_browse  
-\i (00:26:08) fillin "Smd_Rectangle_2D3_1D4"
-\e (00:26:08) ERROR(SPMHDB-274): Unable to load flash symbol INA333_STENCIL (Check PSMPATH setting for this symbol).
-\e (00:26:08) ERROR(SPMHAP-3): Problem loading 'Smd_Rectangle_2D3_1D4.pad'.
-\i (00:26:21) FORM mini x_spacing 0.0500 
-\i (00:26:33) FORM mini y_spacing 0.0500 
-\i (00:26:47) setwindow pcb
-\i (00:26:47) enved 
-\i (00:26:51) setwindow form.prfedit
-\i (00:26:51) FORM prfedit treelist  Library Paths 
-\i (00:26:56) FORM prfedit padpath  
-\i (00:27:05) FORM prfedit psmpath  
-\i (00:27:40) FORM prfedit psmpath  
-\i (00:27:44) FORM prfedit done  
-\i (00:27:46) setwindow pcb
-\i (00:27:46) pick grid 0.4847 -0.0630
-\t (00:27:46) last pick:  0.5000 -0.0500
-\e (00:27:46) ERROR(SPMHAP-2): No padstack specified.
-\i (00:27:46) pick grid 0.5470 1.0904
-\t (00:27:46) last pick:  0.5500 1.1000
-\e (00:27:46) ERROR(SPMHAP-2): No padstack specified.
-\i (00:28:25) setwindow form.mini
-\i (00:28:25) FORM mini x_count 3 
-\i (00:28:26) setwindow pcb
-\i (00:28:26) pick grid 0.9577 0.8954
-\t (00:28:26) last pick:  0.9500 0.9000
-\e (00:28:26) ERROR(SPMHAP-2): No padstack specified.
-\i (00:29:02) setwindow form.mini
-\i (00:29:02) FORM mini x_spacing 0.9500 
-\i (00:29:04) setwindow pcb
-\i (00:29:04) pick grid 0.9328 0.8166
-\t (00:29:04) last pick:  0.9500 0.8000
-\e (00:29:04) ERROR(SPMHAP-2): No padstack specified.
-\i (00:29:44) setwindow form.mini
-\i (00:29:44) FORM mini x_spacing 0.0500 
-\i (00:29:58) FORM mini x_count 1 
-\i (00:29:58) FORM mini pad_browse  
-\i (00:30:31) fillin "Smd_Rect"
-\e (00:30:31) ERROR(SPMHAP-3): Problem loading 'Smd_Rect.pad'.
-\e (00:30:31) ERROR(SPMHA1-161): Cannot open the design because of database problems. Run the dbdoctor command on the design and try to open again.
-\i (00:30:32) setwindow pcb
-\i (00:30:32) pick grid 0.7834 1.0862
-\t (00:30:32) last pick:  0.8000 1.1000
-\e (00:30:32) ERROR(SPMHAP-2): No padstack specified.
-\i (00:30:32) pick grid 0.7627 1.0157
-\t (00:30:32) last pick:  0.7500 1.0000
-\e (00:30:32) ERROR(SPMHAP-2): No padstack specified.
-\i (00:30:33) pick grid dbl 0.7627 1.0157
-\t (00:30:33) last pick:  0.7500 1.0000
-\e (00:30:33) ERROR(SPMHAP-2): No padstack specified.
-\i (00:30:33) pick grid 0.7627 1.0157
-\t (00:30:33) last pick:  0.7500 1.0000
-\e (00:30:33) ERROR(SPMHAP-2): No padstack specified.
-\i (00:30:33) pick grid dbl 0.7627 1.0157
-\t (00:30:33) last pick:  0.7500 1.0000
-\e (00:30:33) ERROR(SPMHAP-2): No padstack specified.
-\i (00:30:33) pick grid 0.7627 1.0157
-\t (00:30:33) last pick:  0.7500 1.0000
-\e (00:30:33) ERROR(SPMHAP-2): No padstack specified.
-\i (00:30:50) setwindow form.mini
-\i (00:30:50) FORM mini pad_browse  
-\i (00:31:51) fillin "smd_rectangle_0d.pad"
-\e (00:31:51) ERROR(SPMHAP-7): Illegal pad name.
-\i (00:31:53) setwindow pcb
-\i (00:31:53) pick grid 0.7751 1.0074
-\t (00:31:53) last pick:  0.8000 1.0000
-\e (00:31:53) ERROR(SPMHAP-2): No padstack specified.
-\i (00:31:54) pick grid 0.7420 1.0074
-\t (00:31:54) last pick:  0.7500 1.0000
-\e (00:31:54) ERROR(SPMHAP-2): No padstack specified.
-\i (00:31:59) setwindow form.mini
-\i (00:31:59) FORM mini pad_browse  
-\i (00:32:50) fillin "smd_rectangle_2d3_1d4.pad"
-\e (00:32:50) ERROR(SPMHAP-7): Illegal pad name.
-\i (00:32:52) setwindow pcb
-\i (00:32:52) pick grid 0.8457 0.8124
-\t (00:32:52) last pick:  0.8500 0.8000
-\e (00:32:52) ERROR(SPMHAP-2): No padstack specified.
-\i (00:33:20) save 
-\t (00:33:20) Exiting from Add Pin.
-\i (00:33:24) fillin yes 
-\e (00:33:24) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
-\i (00:33:24) generaledit 
-\i (00:33:29) setwindow text
-\i (00:33:29) close
-\i (00:34:56) add pin 
-\i (00:34:58) setwindow form.mini
-\i (00:34:58) FORM mini pad_browse  
-\i (00:35:30) fillin "Smd_Rectangle_2D3_1D4"
-\e (00:35:30) ERROR(SPMHAP-3): Problem loading 'Smd_Rectangle_2D3_1D4.pad'.
-\e (00:35:30) ERROR(SPMHA1-161): Cannot open the design because of database problems. Run the dbdoctor command on the design and try to open again.
-\i (00:35:47) setwindow pcb
-\i (00:35:47) pick grid 0.9411 0.8539
-\t (00:35:47) last pick:  0.9500 0.8500
-\e (00:35:47) ERROR(SPMHAP-2): No padstack specified.
-\i (00:36:01) dbdoctor 
-\t (00:36:01) Exiting from Add Pin.
-\i (00:36:22) setwindow form.dbdoctor_allegro
-\i (00:36:22) FORM dbdoctor_allegro drc YES 
-\i (00:36:23) FORM dbdoctor_allegro shapes YES 
-\i (00:36:26) FORM dbdoctor_allegro execute  
-\t (00:36:26) Dbdoctor in progress - wait...
-\t (00:36:26) Checking db records
-\t (00:36:26)     checking for orphans...
-\t (00:36:26)     Checked 100 percent
-\t (00:36:26) Regenerating DRC
-\t (00:36:26)   Original DRC errors: 0
-\t (00:36:26) Performing DRC...
-\t (00:36:26) No DRC errors detected.
-\t (00:36:26)   Updated DRC errors:  0
-\t (00:36:26) Done dbdoctor.
-\t (00:36:26) Dbdoctor completed.
-\i (00:36:34) FORM dbdoctor_allegro close  
-\i (00:36:34) setwindow pcb
-\i (00:36:34) generaledit 
-\i (00:36:38) add pin 
-\i (00:36:40) setwindow form.mini
-\i (00:36:40) FORM mini pad_browse  
-\i (00:36:44) fillin "Smd_Rectangle_2D3_1D4"
-\e (00:36:44) ERROR(SPMHAP-3): Problem loading 'Smd_Rectangle_2D3_1D4.pad'.
-\e (00:36:44) ERROR(SPMHA1-161): Cannot open the design because of database problems. Run the dbdoctor command on the design and try to open again.
-\i (00:36:57) setwindow pcb
-\i (00:36:57) exit 
-\t (00:36:57) Exiting from Add Pin.
-\e (00:36:57) Do you want to save the changes you made to D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/smd_MAX1555.dra?
-\i (00:37:00) fillin yes 
-\e (00:37:01) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
-   (00:37:01) Loading signal.cxt 
-\t (00:37:01)     Journal end - Mon Nov 28 12:27:58 2022
+\i (00:00:10) trapsize 337
+\i (00:00:12) trapsize 207
+\i (00:00:13) add pin 
+\i (00:00:15) setwindow form.mini
+\i (00:00:15) FORM mini pad_browse  
+\i (00:00:37) fillin "Smd_Rectangle_2D3_1D4"
+\e (00:00:37) ERROR(SPMHDB-274): Unable to load flash symbol INA333_STENCIL (Check PSMPATH setting for this symbol).
+\e (00:00:37) ERROR(SPMHAP-3): Problem loading 'Smd_Rectangle_2D3_1D4.pad'.
+\i (00:00:50) setwindow pcb
+\i (00:00:50) enved 
+\i (00:00:55) setwindow form.prfedit
+\i (00:00:55) FORM prfedit treelist  Library Paths 
+\i (00:00:57) FORM prfedit padpath  
+\i (00:01:28) FORM prfedit psmpath  
+\i (00:02:26) FORM prfedit done  
+\i (00:02:38) setwindow pcb
+\i (00:02:38) dbdoctor 
+\t (00:02:38) Exiting from Add Pin.
+\i (00:02:42) setwindow form.dbdoctor_allegro
+\i (00:02:42) FORM dbdoctor_allegro drc YES 
+\i (00:02:43) FORM dbdoctor_allegro shapes YES 
+\i (00:02:44) FORM dbdoctor_allegro execute  
+\t (00:02:44) Dbdoctor in progress - wait...
+\t (00:02:44) Checking db records
+\t (00:02:44)     checking for orphans...
+\t (00:02:44)     Checked 100 percent
+\t (00:02:44) Regenerating DRC
+\t (00:02:44)   Original DRC errors: 0
+\t (00:02:44) Performing DRC...
+\t (00:02:44) No DRC errors detected.
+\t (00:02:44)   Updated DRC errors:  0
+\t (00:02:44) Done dbdoctor.
+\t (00:02:44) Dbdoctor completed.
+\i (00:03:10) FORM dbdoctor_allegro close  
+\i (00:03:10) setwindow pcb
+\i (00:03:10) generaledit 
+\i (00:03:50) save 
+\i (00:03:53) fillin yes 
+   (00:03:53) Loading signal.cxt 
+\e (00:03:53) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:03:53) generaledit 
+\i (00:03:56) setwindow text
+\i (00:03:56) close
+\i (00:11:14) enved 
+\i (00:11:15) generaledit 
+\i (00:11:18) setwindow form.prfedit
+\i (00:11:18) FORM prfedit padpath  
+\i (00:11:30) FORM prfedit done  
+\i (00:29:55) setwindow pcb
+\i (00:29:55) exit 
+\t (00:29:55)     Journal end - Mon Nov 28 12:58:00 2022
