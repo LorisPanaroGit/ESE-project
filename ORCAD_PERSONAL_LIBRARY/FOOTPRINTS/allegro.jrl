@@ -45,3 +45,8 @@
 \i (00:07:06) save 
 \i (00:07:07) fillin yes 
 \e (00:07:07) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:07:08) generaledit 
+\i (00:07:11) setwindow text
+\i (00:07:11) close
+\i (00:09:58) exit 
+\t (00:09:59)     Journal end - Mon Nov 28 13:08:10 2022
