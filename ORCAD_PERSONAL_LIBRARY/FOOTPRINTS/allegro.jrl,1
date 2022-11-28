@@ -1,6 +1,6 @@
 \t (00:00:02) allegro 17.2 S083 Windows SPB 64-bit Edition
-\t (00:00:02)     Journal start - Mon Nov 28 12:28:07 2022
-\t (00:00:02)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=12800 CPUs=12
+\t (00:00:02)     Journal start - Mon Nov 28 12:58:13 2022
+\t (00:00:02)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=13388 CPUs=12
 \t (00:00:02) CmdLine= D:\Cadence\tools\bin\allegro.exe
 \t (00:00:02) 
    (00:00:02) Loading axlcore.cxt 
@@ -10,56 +10,43 @@
 \i (00:00:05) trapsize 207
 \i (00:00:05) trapsize 213
 \i (00:00:05) trapsize 207
-\i (00:00:06) trapsize 207
+\i (00:00:05) trapsize 207
 \i (00:00:06) generaledit 
-\i (00:00:10) trapsize 337
-\i (00:00:12) trapsize 207
-\i (00:00:13) add pin 
-\i (00:00:15) setwindow form.mini
-\i (00:00:15) FORM mini pad_browse  
-\i (00:00:37) fillin "Smd_Rectangle_2D3_1D4"
-\e (00:00:37) ERROR(SPMHDB-274): Unable to load flash symbol INA333_STENCIL (Check PSMPATH setting for this symbol).
-\e (00:00:37) ERROR(SPMHAP-3): Problem loading 'Smd_Rectangle_2D3_1D4.pad'.
-\i (00:00:50) setwindow pcb
-\i (00:00:50) enved 
-\i (00:00:55) setwindow form.prfedit
-\i (00:00:55) FORM prfedit treelist  Library Paths 
-\i (00:00:57) FORM prfedit padpath  
-\i (00:01:28) FORM prfedit psmpath  
-\i (00:02:26) FORM prfedit done  
-\i (00:02:38) setwindow pcb
-\i (00:02:38) dbdoctor 
-\t (00:02:38) Exiting from Add Pin.
-\i (00:02:42) setwindow form.dbdoctor_allegro
-\i (00:02:42) FORM dbdoctor_allegro drc YES 
-\i (00:02:43) FORM dbdoctor_allegro shapes YES 
-\i (00:02:44) FORM dbdoctor_allegro execute  
-\t (00:02:44) Dbdoctor in progress - wait...
-\t (00:02:44) Checking db records
-\t (00:02:44)     checking for orphans...
-\t (00:02:44)     Checked 100 percent
-\t (00:02:44) Regenerating DRC
-\t (00:02:44)   Original DRC errors: 0
-\t (00:02:44) Performing DRC...
-\t (00:02:44) No DRC errors detected.
-\t (00:02:44)   Updated DRC errors:  0
-\t (00:02:44) Done dbdoctor.
-\t (00:02:44) Dbdoctor completed.
-\i (00:03:10) FORM dbdoctor_allegro close  
-\i (00:03:10) setwindow pcb
-\i (00:03:10) generaledit 
-\i (00:03:50) save 
-\i (00:03:53) fillin yes 
-   (00:03:53) Loading signal.cxt 
-\e (00:03:53) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
-\i (00:03:53) generaledit 
-\i (00:03:56) setwindow text
-\i (00:03:56) close
-\i (00:11:14) enved 
-\i (00:11:15) generaledit 
-\i (00:11:18) setwindow form.prfedit
-\i (00:11:18) FORM prfedit padpath  
-\i (00:11:30) FORM prfedit done  
-\i (00:29:55) setwindow pcb
-\i (00:29:55) exit 
-\t (00:29:55)     Journal end - Mon Nov 28 12:58:00 2022
+\i (00:00:11) add pin 
+\i (00:00:12) setwindow form.mini
+\i (00:00:12) FORM mini pad_browse  
+\i (00:00:25) fillin "Smd_Rectangle_2D3_1D4"
+\e (00:00:26) ERROR(SPMHDB-274): Unable to load flash symbol INA333_STENCIL (Check PSMPATH setting for this symbol).
+\e (00:00:26) ERROR(SPMHAP-3): Problem loading 'Smd_Rectangle_2D3_1D4.pad'.
+\i (00:01:02) FORM mini pad_browse  
+\t (00:01:22) No valid name selected.
+\i (00:01:25) fillin "Smd_Rectangle_2D3_1D4"
+\e (00:01:25) ERROR(SPMHDB-274): Unable to load flash symbol INA333_STENCIL (Check PSMPATH setting for this symbol).
+\e (00:01:25) ERROR(SPMHAP-3): Problem loading 'Smd_Rectangle_2D3_1D4.pad'.
+\i (00:01:39) setwindow pcb
+\i (00:01:39) enved 
+\i (00:01:43) setwindow form.prfedit
+\i (00:01:43) FORM prfedit treelist  Library Paths 
+\i (00:01:48) FORM prfedit psmpath  
+\i (00:01:56) FORM prfedit padpath  
+\i (00:02:33) FORM prfedit cancel  
+\i (00:03:00) setwindow form.mini
+\i (00:03:00) FORM mini pad_browse  
+\t (00:03:07) No valid name selected.
+\i (00:03:09) fillin "Smd_Rectangle_2D3_1D4"
+\t (00:03:09) Using 'SMD_RECTANGLE_2D3_1D4.pad'.
+\i (00:06:59) setwindow pcb
+\i (00:06:59) pick grid -0.9590 -1.0421
+\t (00:06:59) last pick:  -0.9500 -1.0500
+\t (00:06:59) Using 'SMD_RECTANGLE_2D3_1D4.pad'.
+\i (00:07:04) done 
+\t (00:07:04) Exiting from Add Pin.
+\i (00:07:04) generaledit 
+\i (00:07:06) save 
+\i (00:07:07) fillin yes 
+\e (00:07:07) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:07:08) generaledit 
+\i (00:07:11) setwindow text
+\i (00:07:11) close
+\i (00:09:58) exit 
+\t (00:09:59)     Journal end - Mon Nov 28 13:08:10 2022
