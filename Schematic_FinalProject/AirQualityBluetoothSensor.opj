@@ -28,24 +28,24 @@
   (DefaultLibraryBrowseDirectory "library\PSpice")
   (MPSSessionName "loris")
   (PartMRUSelector
-    (GND_A
+    (OFF_PAGE_CONN
       (LibraryName
          "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
-      (DeviceIndex "0"))
-    (C
-      (FullPartName "C.Normal")
-      (LibraryName "D:\CADENCE\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
       (DeviceIndex "0"))
     (R
       (FullPartName "R.Normal")
       (LibraryName "D:\CADENCE\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
       (DeviceIndex "0"))
-    (LPS-1301_9314_24
-      (FullPartName "LPS-1301_9314_24.Normal")
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName "D:\CADENCE\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (GND_A
       (LibraryName
          "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
       (DeviceIndex "0"))
-    (OFF_PAGE_CONN
+    (LPS-1301_9314_24
+      (FullPartName "LPS-1301_9314_24.Normal")
       (LibraryName
          "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
       (DeviceIndex "0"))
@@ -102,7 +102,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 52 1234 52 417")
-        (Scroll "0 14")
+        (Scroll "0 0")
         (Zoom "140")
         (Occurrence "/"))
       (Path
@@ -113,10 +113,21 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 78 1260 78 443")
-        (Scroll "270 307")
+        (Scroll "-326 -5")
+        (Zoom "70")
+        (Occurrence "/"))
+      (Path
+         "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\SCHEMATIC_FINALPROJECT\AIRQUALITYBLUETOOTHSENSOR.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "Peripheral"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1286 104 469")
+        (Scroll "16 483")
         (Zoom "140")
         (Occurrence "/"))
       (Path
          "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\SCHEMATIC_FINALPROJECT\AIRQUALITYBLUETOOTHSENSOR.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "Peripheral"))))
+      (Page "Power"))))
