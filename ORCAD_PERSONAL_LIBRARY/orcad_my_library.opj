@@ -13,91 +13,20 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\orcad_my_library.olb"))
+      (Path "Design Resources" ".\orcad_my_library.olb")
+      (Select "Design Resources" ".\orcad_my_library.olb" "ANTENNA"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 270 0 477"))
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 326"))
       (Tab 0))
     (Doc
       (Type "COrPrmBrowserDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 1330 0 321"))
+        (Placement "44 2 3 -1 -1 -8 -31 52 1382 52 373"))
       (Path
          "C:\CADENCE\ESE-PROJECT\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
       (Package "ANTENNA")
-      (PartType "1"))
-    (Doc
-      (Type "COrPrmBrowserDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 26 1356 26 347"))
-      (Path
-         "C:\CADENCE\ESE-PROJECT\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
-      (Package "HU-2477N-1-LF")
-      (PartType "1"))
-    (Doc
-      (Type "COrPrmBrowserDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 78 1408 78 399"))
-      (Path
-         "C:\CADENCE\ESE-PROJECT\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
-      (Package "LPS-1301_9314_24")
-      (PartType "1"))
-    (Doc
-      (Type "COrPrmBrowserDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 104 1434 104 425"))
-      (Path
-         "C:\CADENCE\ESE-PROJECT\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
-      (Package "M12")
-      (PartType "1"))
-    (Doc
-      (Type "COrPrmBrowserDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 130 1460 130 451"))
-      (Path
-         "C:\CADENCE\ESE-PROJECT\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
-      (Package "MCP73831")
-      (PartType "1"))
-    (Doc
-      (Type "COrPrmBrowserDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 1330 0 321"))
-      (Path
-         "C:\CADENCE\ESE-PROJECT\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
-      (Package "MCSJK-7E-24.00-8-10-60-B-10")
-      (PartType "1"))
-    (Doc
-      (Type "COrPrmBrowserDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 26 1356 26 347"))
-      (Path
-         "C:\CADENCE\ESE-PROJECT\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
-      (Package "PMSA003I")
-      (PartType "1"))
-    (Doc
-      (Type "COrPrmBrowserDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 1382 52 373"))
-      (Path
-         "C:\CADENCE\ESE-PROJECT\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
-      (Package "QTC33276809B2R")
-      (PartType "1"))
-    (Doc
-      (Type "COrPrmBrowserDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 78 1408 78 399"))
-      (Path
-         "C:\CADENCE\ESE-PROJECT\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
-      (Package "SML-P11")
-      (PartType "1"))
-    (Doc
-      (Type "COrPrmBrowserDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 104 1434 104 425"))
-      (Path
-         "C:\CADENCE\ESE-PROJECT\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
-      (Package "TPS61033")
       (PartType "1")))
   (MPSSessionName "giaco"))
