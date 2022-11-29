@@ -13,7 +13,13 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
+<<<<<<< HEAD
       (Path "Design Resources" ".\orcad_my_library.olb"))
+=======
+      (Path "Design Resources" ".\orcad_my_library.olb")
+      (Select "Design Resources" ".\orcad_my_library.olb"
+         "MCSJK-7E-24.00-8-10-60-B-10"))
+>>>>>>> refs/remotes/origin/main
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -23,14 +29,22 @@
     (Doc
       (Type "COrPrmBrowserDoc")
       (Frame
+<<<<<<< HEAD
         (Placement "44 0 1 -1 -1 -8 -31 0 1330 0 321"))
       (Path
          "C:\CADENCE\ESE-PROJECT\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
       (Package "ANTENNA")
+=======
+        (Placement "44 0 1 -1 -1 -8 -31 182 1070 182 547"))
+      (Path
+         "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
+      (Package "CC2460F128RSM")
+>>>>>>> refs/remotes/origin/main
       (PartType "1"))
     (Doc
       (Type "COrPrmBrowserDoc")
       (Frame
+<<<<<<< HEAD
         (Placement "44 0 1 -1 -1 -8 -31 26 1356 26 347"))
       (Path
          "C:\CADENCE\ESE-PROJECT\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
@@ -99,5 +113,11 @@
       (Path
          "C:\CADENCE\ESE-PROJECT\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
       (Package "TPS61033")
+=======
+        (Placement "44 2 3 -1 -1 -8 -31 0 888 0 365"))
+      (Path
+         "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
+      (Package "MCSJK-7E-24.00-8-10-60-B-10")
+>>>>>>> refs/remotes/origin/main
       (PartType "1")))
   (MPSSessionName "giaco"))
