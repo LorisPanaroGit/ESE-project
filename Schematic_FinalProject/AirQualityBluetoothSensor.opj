@@ -28,6 +28,19 @@
   (DefaultLibraryBrowseDirectory "library\PSpice")
   (MPSSessionName "loris")
   (PartMRUSelector
+    (ANTENNA
+      (FullPartName "ANTENNA.Normal")
+      (LibraryName
+         "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
+      (DeviceIndex "0"))
+    (L
+      (FullPartName "L.Normal")
+      (LibraryName "D:\CADENCE\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName "D:\CADENCE\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
     (GND_A
       (LibraryName
          "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
@@ -42,10 +55,6 @@
       (LibraryName
          "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
       (DeviceIndex "0"))
-    (C
-      (FullPartName "C.Normal")
-      (LibraryName "D:\CADENCE\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
-      (DeviceIndex "0"))
     (CC2460F128RSM
       (FullPartName "CC2460F128RSM.Normal")
       (LibraryName
@@ -54,11 +63,6 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "D:\Cadence\cdssetup\OrCAD_Capture\17.2.0\Schematic_FinalProject\airqualitybluetoothsensor.dsn")
-      (Path "Design Resources"
-         "D:\Cadence\cdssetup\OrCAD_Capture\17.2.0\Schematic_FinalProject\airqualitybluetoothsensor.dsn"
-         "Design Cache")
       (Path "Design Resources" "Library"))
     (HierarchyView)
     (Doc
@@ -70,7 +74,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 52 1234 52 417")
-        (Scroll "168 28")
+        (Scroll "0 14")
         (Zoom "140")
         (Occurrence "/"))
       (Path
