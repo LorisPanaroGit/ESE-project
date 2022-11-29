@@ -14,8 +14,7 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources" ".\orcad_my_library.olb")
-      (Select "Design Resources" ".\orcad_my_library.olb"
-         "MCSJK-7E-24.00-8-10-60-B-10"))
+      (Select "Design Resources" ".\orcad_my_library.olb" "QTC33276809B2R"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -25,31 +24,7 @@
     (Doc
       (Type "COrPrmBrowserDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 1256 52 439"))
-      (Path
-         "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
-      (Package "CC2460F128RSM")
-      (PartType "1"))
-    (Doc
-      (Type "COrPrmBrowserDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 104 1286 104 469"))
-      (Path
-         "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
-      (Package "217184-0001_USB")
-      (PartType "1"))
-    (Doc
-      (Type "COrPrmBrowserDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 130 1312 130 495"))
-      (Path
-         "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
-      (Package "LM324")
-      (PartType "1"))
-    (Doc
-      (Type "COrPrmBrowserDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 156 1338 156 521"))
+        (Placement "44 2 3 -1 -1 -8 -31 130 1334 130 517"))
       (Path
          "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
       (Package "LPS-1301_9314_24")
@@ -60,14 +35,14 @@
         (Placement "44 0 1 -1 -1 -8 -31 182 1364 182 547"))
       (Path
          "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
-      (Package "MCP73831")
+      (Package "ANTENNA")
       (PartType "1"))
     (Doc
       (Type "COrPrmBrowserDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 1182 0 365"))
+        (Placement "44 0 1 -1 -1 -8 -31 0 1182 0 365"))
       (Path
          "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
-      (Package "MCSJK-7E-24.00-8-10-60-B-10")
+      (Package "QTC33276809B2R")
       (PartType "1")))
   (MPSSessionName "loris"))
