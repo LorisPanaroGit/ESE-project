@@ -14,7 +14,8 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources" ".\orcad_my_library.olb")
-      (Select "Design Resources" ".\orcad_my_library.olb" "ANTENNA"))
+      (Select "Design Resources" ".\orcad_my_library.olb"
+         "MCSJK-7E-24.00-8-10-60-B-10"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -24,9 +25,17 @@
     (Doc
       (Type "COrPrmBrowserDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 52 1234 52 417"))
+        (Placement "44 0 1 -1 -1 -8 -31 182 1070 182 547"))
       (Path
          "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
-      (Package "ANTENNA")
+      (Package "CC2460F128RSM")
+      (PartType "1"))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 888 0 365"))
+      (Path
+         "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
+      (Package "MCSJK-7E-24.00-8-10-60-B-10")
       (PartType "1")))
   (MPSSessionName "loris"))
