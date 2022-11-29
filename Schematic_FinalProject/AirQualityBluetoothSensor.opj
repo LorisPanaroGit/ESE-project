@@ -28,6 +28,37 @@
   (DefaultLibraryBrowseDirectory "library\PSpice")
   (MPSSessionName "loris")
   (PartMRUSelector
+    (GND_A
+      (LibraryName
+         "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
+      (DeviceIndex "0"))
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName "D:\CADENCE\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName "D:\CADENCE\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (LPS-1301_9314_24
+      (FullPartName "LPS-1301_9314_24.Normal")
+      (LibraryName
+         "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
+      (DeviceIndex "0"))
+    (OFF_PAGE_CONN
+      (LibraryName
+         "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
+      (DeviceIndex "0"))
+    (SML-P11
+      (FullPartName "SML-P11.Normal")
+      (LibraryName
+         "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
+      (DeviceIndex "0"))
+    (PMSA003I
+      (FullPartName "PMSA003I.Normal")
+      (LibraryName
+         "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
+      (DeviceIndex "0"))
     (ANTENNA
       (FullPartName "ANTENNA.Normal")
       (LibraryName
@@ -36,14 +67,6 @@
     (L
       (FullPartName "L.Normal")
       (LibraryName "D:\CADENCE\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
-      (DeviceIndex "0"))
-    (C
-      (FullPartName "C.Normal")
-      (LibraryName "D:\CADENCE\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
-      (DeviceIndex "0"))
-    (GND_A
-      (LibraryName
-         "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
       (DeviceIndex "0"))
     (MCSJK-7E-24.00-8-10-60-B-10
       (FullPartName "MCSJK-7E-24.00-8-10-60-B-10.Normal")
@@ -63,6 +86,11 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
+      (Path "Design Resources"
+         "d:\cadence\cdssetup\orcad_capture\17.2.0\schematic_finalproject\airqualitybluetoothsensor.dsn")
+      (Path "Design Resources"
+         "d:\cadence\cdssetup\orcad_capture\17.2.0\schematic_finalproject\airqualitybluetoothsensor.dsn"
+         "SCHEMATIC1")
       (Path "Design Resources" "Library"))
     (HierarchyView)
     (Doc
@@ -73,11 +101,22 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 52 1234 52 417")
+        (Placement "44 0 1 -1 -1 -8 -31 52 1234 52 417")
         (Scroll "0 14")
         (Zoom "140")
         (Occurrence "/"))
       (Path
          "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\SCHEMATIC_FINALPROJECT\AIRQUALITYBLUETOOTHSENSOR.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "PAGE1"))))
+      (Page "MCU"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 78 1260 78 443")
+        (Scroll "270 307")
+        (Zoom "140")
+        (Occurrence "/"))
+      (Path
+         "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\SCHEMATIC_FINALPROJECT\AIRQUALITYBLUETOOTHSENSOR.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "Peripheral"))))
