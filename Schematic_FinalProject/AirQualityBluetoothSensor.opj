@@ -10,6 +10,8 @@
       (File "D:\Cadence\tools\capture\LIBRARY\PSPICE\sourcstm.olb"
         (Type "Schematic Library"))
       (File "D:\Cadence\tools\capture\LIBRARY\PSPICE\special.olb"
+        (Type "Schematic Library"))
+      (File "..\orcad_personal_library\orcad_my_library.olb"
         (Type "Schematic Library")))
     (NoModify)
     (File ".\airqualitybluetoothsensor.dsn"
@@ -26,31 +28,59 @@
     (Folder "Include Files"
       (Sort User)))
   (DefaultLibraryBrowseDirectory "library\PSpice")
-  (MPSSessionName "loris")
+  (MPSSessionName "giaco")
   (PartMRUSelector
-    (OFF_PAGE_CONN
-      (LibraryName
-         "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
+    (VCC_BAR
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
     (R
       (FullPartName "R.Normal")
-      (LibraryName "D:\CADENCE\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
-      (DeviceIndex "0"))
-    (C
-      (FullPartName "C.Normal")
       (LibraryName "D:\CADENCE\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
       (DeviceIndex "0"))
     (GND_A
       (LibraryName
          "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
       (DeviceIndex "0"))
-    (LPS-1301_9314_24
-      (FullPartName "LPS-1301_9314_24.Normal")
+    (SML-P11
+      (FullPartName "SML-P11.Normal")
+      (LibraryName
+         "C:\CADENCE\ESE-PROJECT\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
+      (DeviceIndex "0"))
+    (M12
+      (FullPartName "M12.Normal")
+      (LibraryName
+         "C:\CADENCE\ESE-PROJECT\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
+      (DeviceIndex "0"))
+    (TPS61033
+      (FullPartName "TPS61033.Normal")
+      (LibraryName
+         "C:\CADENCE\ESE-PROJECT\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
+      (DeviceIndex "0"))
+    (217184-0001_usb
+      (FullPartName "217184-0001_usb.Normal")
+      (LibraryName
+         "C:\CADENCE\ESE-PROJECT\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
+      (DeviceIndex "0"))
+    (MCP73831
+      (FullPartName "MCP73831.Normal")
+      (LibraryName
+         "C:\CADENCE\ESE-PROJECT\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
+      (DeviceIndex "0"))
+    (HU-2477N-1-LF
+      (FullPartName "HU-2477N-1-LF.Normal")
+      (LibraryName
+         "C:\CADENCE\ESE-PROJECT\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
+      (DeviceIndex "0"))
+    (OFF_PAGE_CONN
       (LibraryName
          "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
       (DeviceIndex "0"))
-    (SML-P11
-      (FullPartName "SML-P11.Normal")
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName "D:\CADENCE\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (LPS-1301_9314_24
+      (FullPartName "LPS-1301_9314_24.Normal")
       (LibraryName
          "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
       (DeviceIndex "0"))
@@ -86,15 +116,12 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "d:\cadence\cdssetup\orcad_capture\17.2.0\schematic_finalproject\airqualitybluetoothsensor.dsn")
-      (Path "Design Resources"
-         "d:\cadence\cdssetup\orcad_capture\17.2.0\schematic_finalproject\airqualitybluetoothsensor.dsn"
-         "SCHEMATIC1")
-      (Path "Design Resources"
-         "d:\cadence\cdssetup\orcad_capture\17.2.0\schematic_finalproject\airqualitybluetoothsensor.dsn"
-         "Design Cache")
-      (Path "Design Resources" "Library"))
+      (Path "Design Resources" ".\airqualitybluetoothsensor.dsn")
+      (Path "Design Resources" ".\airqualitybluetoothsensor.dsn" "SCHEMATIC1")
+      (Path "Design Resources" ".\airqualitybluetoothsensor.dsn" "Design Cache")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library"
+         "C:\CADENCE\ESE-PROJECT\orcad_personal_library\orcad_my_library.olb"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -104,33 +131,33 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 1234 52 417")
-        (Scroll "0 462")
-        (Zoom "140")
+        (Placement "44 0 1 -1 -1 -8 -31 104 1088 104 475")
+        (Scroll "-124 0")
+        (Zoom "71")
         (Occurrence "/"))
       (Path
-         "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\SCHEMATIC_FINALPROJECT\AIRQUALITYBLUETOOTHSENSOR.DSN")
+         "C:\CADENCE\ESE-PROJECT\SCHEMATIC_FINALPROJECT\AIRQUALITYBLUETOOTHSENSOR.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "Power"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 156 1140 156 527")
+        (Scroll "0 20")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\CADENCE\ESE-PROJECT\SCHEMATIC_FINALPROJECT\AIRQUALITYBLUETOOTHSENSOR.DSN")
       (Schematic "SCHEMATIC1")
       (Page "MCU"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 78 1260 78 443")
-        (Scroll "0 171")
-        (Zoom "140")
+        (Placement "44 2 3 -1 -1 -8 -31 182 1166 182 553")
+        (Scroll "244 196")
+        (Zoom "142")
         (Occurrence "/"))
       (Path
-         "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\SCHEMATIC_FINALPROJECT\AIRQUALITYBLUETOOTHSENSOR.DSN")
+         "C:\CADENCE\ESE-PROJECT\SCHEMATIC_FINALPROJECT\AIRQUALITYBLUETOOTHSENSOR.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "Peripheral"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 104 1286 104 469")
-        (Scroll "16 483")
-        (Zoom "140")
-        (Occurrence "/"))
-      (Path
-         "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\SCHEMATIC_FINALPROJECT\AIRQUALITYBLUETOOTHSENSOR.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "Power"))))
+      (Page "Peripheral"))))
