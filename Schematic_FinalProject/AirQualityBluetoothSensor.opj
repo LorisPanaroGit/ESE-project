@@ -116,12 +116,15 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\airqualitybluetoothsensor.dsn")
-      (Path "Design Resources" ".\airqualitybluetoothsensor.dsn" "SCHEMATIC1")
-      (Path "Design Resources" ".\airqualitybluetoothsensor.dsn" "Design Cache")
-      (Path "Design Resources" "Library")
-      (Path "Design Resources" "Library"
-         "C:\CADENCE\ESE-PROJECT\orcad_personal_library\orcad_my_library.olb"))
+      (Path "Design Resources"
+         "c:\cadence\ese-project\schematic_finalproject\airqualitybluetoothsensor.dsn")
+      (Path "Design Resources"
+         "c:\cadence\ese-project\schematic_finalproject\airqualitybluetoothsensor.dsn"
+         "SCHEMATIC1")
+      (Path "Design Resources"
+         "c:\cadence\ese-project\schematic_finalproject\airqualitybluetoothsensor.dsn"
+         "Design Cache")
+      (Path "Design Resources" "Library"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -143,8 +146,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 156 1140 156 527")
-        (Scroll "0 20")
-        (Zoom "100")
+        (Scroll "0 216")
+        (Zoom "116")
         (Occurrence "/"))
       (Path
          "C:\CADENCE\ESE-PROJECT\SCHEMATIC_FINALPROJECT\AIRQUALITYBLUETOOTHSENSOR.DSN")
@@ -154,7 +157,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 182 1166 182 553")
-        (Scroll "244 196")
+        (Scroll "-25 0")
         (Zoom "142")
         (Occurrence "/"))
       (Path
