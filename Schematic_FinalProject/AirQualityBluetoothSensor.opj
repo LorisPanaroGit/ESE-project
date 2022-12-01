@@ -116,11 +116,15 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\airqualitybluetoothsensor.dsn")
-      (Path "Design Resources" ".\airqualitybluetoothsensor.dsn" "SCHEMATIC1")
+      (Path "Design Resources"
+         "d:\cadence\cdssetup\orcad_capture\17.2.0\schematic_finalproject\airqualitybluetoothsensor.dsn")
+      (Path "Design Resources"
+         "d:\cadence\cdssetup\orcad_capture\17.2.0\schematic_finalproject\airqualitybluetoothsensor.dsn"
+         "SCHEMATIC1")
       (Path "Design Resources" "Library")
-      (Select "Design Resources" ".\airqualitybluetoothsensor.dsn" "SCHEMATIC1"
-         "MCU"))
+      (Select "Design Resources"
+         "d:\cadence\cdssetup\orcad_capture\17.2.0\schematic_finalproject\airqualitybluetoothsensor.dsn"
+         "SCHEMATIC1" "Peripheral"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -141,11 +145,22 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 78 1260 78 443")
+        (Placement "44 0 1 -1 -1 -8 -31 78 1260 78 443")
+        (Scroll "-82 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\SCHEMATIC_FINALPROJECT\AIRQUALITYBLUETOOTHSENSOR.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "MCU"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 104 1286 104 469")
         (Scroll "-181 0")
         (Zoom "100")
         (Occurrence "/"))
       (Path
          "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\SCHEMATIC_FINALPROJECT\AIRQUALITYBLUETOOTHSENSOR.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "MCU"))))
+      (Page "Peripheral"))))
