@@ -205,24 +205,26 @@
       (Path "Design Resources"
          "d:\cadence\cdssetup\orcad_capture\17.2.0\schematic_finalproject\airqualitybluetoothsensor.dsn"
          "SCHEMATIC1")
+      (Path "Design Resources"
+         "d:\cadence\cdssetup\orcad_capture\17.2.0\schematic_finalproject\airqualitybluetoothsensor.dsn"
+         "Design Cache")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" "Library"
-         "D:\Cadence\tools\capture\LIBRARY\PSPICE\sourcstm.olb"))
+      (Select "Outputs"
+         "d:\cadence\cdssetup\orcad_capture\17.2.0\schematic_finalproject\airqualitybluetoothsensor.drc"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 326"))
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 326"))
       (Tab 0))
     (Doc
       (Type "TextFile")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 156 1338 156 521"))
+        (Placement "44 2 3 -1 -1 -8 -31 78 1260 78 443"))
       (Path
          "d:\cadence\cdssetup\orcad_capture\17.2.0\schematic_finalproject\airqualitybluetoothsensor.drc")
-      (Scroll "45")
-      (Select "67 22 68 50"))
+      (Scroll "0"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
@@ -249,10 +251,26 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 104 1286 104 469")
-        (Scroll "0 0")
+        (Scroll "0 280")
         (Zoom "140")
         (Occurrence "/"))
       (Path
          "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\SCHEMATIC_FINALPROJECT\AIRQUALITYBLUETOOTHSENSOR.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "Peripheral"))))
+      (Page "Peripheral"))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 1182 0 365"))
+      (Path
+         "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
+      (Package "M12")
+      (PartType "1"))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 1208 26 391"))
+      (Path
+         "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
+      (Package "LPS-1301_9314_24")
+      (PartType "1"))))
