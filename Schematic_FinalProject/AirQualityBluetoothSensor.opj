@@ -107,7 +107,7 @@
     (Folder "Include Files"
       (Sort User)))
   (DefaultLibraryBrowseDirectory "library\PSpice")
-  (MPSSessionName "loris")
+  (MPSSessionName "giaco")
   (PartMRUSelector
     (VCC_BAR
       (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
@@ -200,18 +200,11 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "d:\cadence\cdssetup\orcad_capture\17.2.0\schematic_finalproject\airqualitybluetoothsensor.dsn")
-      (Path "Design Resources"
-         "d:\cadence\cdssetup\orcad_capture\17.2.0\schematic_finalproject\airqualitybluetoothsensor.dsn"
-         "SCHEMATIC1")
-      (Path "Design Resources"
-         "d:\cadence\cdssetup\orcad_capture\17.2.0\schematic_finalproject\airqualitybluetoothsensor.dsn"
-         "Design Cache")
+      (Path "Design Resources" ".\airqualitybluetoothsensor.dsn")
+      (Path "Design Resources" ".\airqualitybluetoothsensor.dsn" "SCHEMATIC1")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Outputs"
-         "d:\cadence\cdssetup\orcad_capture\17.2.0\schematic_finalproject\airqualitybluetoothsensor.drc"))
+      (Select "Outputs" ".\airqualitybluetoothsensor.drc"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -219,58 +212,42 @@
         (Placement "44 0 1 -1 -1 -8 -31 0 200 0 326"))
       (Tab 0))
     (Doc
-      (Type "TextFile")
-      (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 78 1260 78 443"))
-      (Path
-         "d:\cadence\cdssetup\orcad_capture\17.2.0\schematic_finalproject\airqualitybluetoothsensor.drc")
-      (Scroll "0"))
-    (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 1234 52 417")
-        (Scroll "16 3")
-        (Zoom "140")
+        (Placement "44 0 1 -1 -1 -8 -31 78 1408 78 399")
+        (Scroll "-156 301")
+        (Zoom "100")
         (Occurrence "/"))
       (Path
-         "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\SCHEMATIC_FINALPROJECT\AIRQUALITYBLUETOOTHSENSOR.DSN")
+         "C:\CADENCE\ESE-PROJECT\SCHEMATIC_FINALPROJECT\AIRQUALITYBLUETOOTHSENSOR.DSN")
       (Schematic "SCHEMATIC1")
       (Page "Power"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 78 1260 78 443")
-        (Scroll "588 560")
-        (Zoom "200")
+        (Placement "44 0 1 -1 -1 -8 -31 104 1434 104 425")
+        (Scroll "-156 0")
+        (Zoom "100")
         (Occurrence "/"))
       (Path
-         "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\SCHEMATIC_FINALPROJECT\AIRQUALITYBLUETOOTHSENSOR.DSN")
+         "C:\CADENCE\ESE-PROJECT\SCHEMATIC_FINALPROJECT\AIRQUALITYBLUETOOTHSENSOR.DSN")
       (Schematic "SCHEMATIC1")
       (Page "MCU"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 104 1286 104 469")
-        (Scroll "0 280")
-        (Zoom "140")
+        (Placement "44 0 1 -1 -1 -8 -31 130 1460 130 451")
+        (Scroll "-156 0")
+        (Zoom "100")
         (Occurrence "/"))
       (Path
-         "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\SCHEMATIC_FINALPROJECT\AIRQUALITYBLUETOOTHSENSOR.DSN")
+         "C:\CADENCE\ESE-PROJECT\SCHEMATIC_FINALPROJECT\AIRQUALITYBLUETOOTHSENSOR.DSN")
       (Schematic "SCHEMATIC1")
       (Page "Peripheral"))
     (Doc
-      (Type "COrPrmBrowserDoc")
+      (Type "TextFile")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 1182 0 365"))
+        (Placement "44 2 3 -1 -1 -8 -31 26 1356 26 347"))
       (Path
-         "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
-      (Package "M12")
-      (PartType "1"))
-    (Doc
-      (Type "COrPrmBrowserDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 26 1208 26 391"))
-      (Path
-         "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
-      (Package "LPS-1301_9314_24")
-      (PartType "1"))))
+         "c:\cadence\ese-project\schematic_finalproject\airqualitybluetoothsensor.drc")
+      (Scroll "0"))))
