@@ -1,4 +1,4 @@
-Date and Time : 12/06/22 12:08:34
+Date and Time : 12/07/22 17:33:25
 
 --------------------------------------------------
 Checking Schematic:  SCHEMATIC1
@@ -8,10 +8,10 @@ WARNING(ORCAP-1829): Possible pin type conflict U4,Q1  Power Connected to Bidire
                     SCHEMATIC1, MCU  (5.00, 5.40) 
 WARNING(ORCAP-1829): Possible pin type conflict U1,X32K_Q1  Bidirectional Connected to Power
                     SCHEMATIC1, MCU  (4.90, 5.00) 
-WARNING(ORCAP-1829): Possible pin type conflict U4,Q2  Power Connected to Bidirectional
-                    SCHEMATIC1, MCU  (5.70, 5.40) 
 WARNING(ORCAP-1829): Possible pin type conflict U1,X32K_Q2  Bidirectional Connected to Power
                     SCHEMATIC1, MCU  (4.90, 4.80) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,Q2  Power Connected to Bidirectional
+                    SCHEMATIC1, MCU  (5.70, 5.40) 
 
 Checking For Single Node Nets
 

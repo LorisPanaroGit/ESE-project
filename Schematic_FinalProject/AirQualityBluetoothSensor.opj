@@ -63,7 +63,7 @@
     (DRC_Run_Electrical_Rules "TRUE")
     (DRC_Run_Physical_Rules "FALSE")
     (DRC_Report_File
-       "C:\Cadence\ESE-project\Schematic_FinalProject\AIRQUALITYBLUETOOTHSENSOR.DRC")
+       "D:\Cadence\cdssetup\OrCAD_Capture\17.2.0\Schematic_FinalProject\AIRQUALITYBLUETOOTHSENSOR.DRC")
     (DRC_Check_Ports "FALSE")
     (DRC_Check_Off-Page_Connectors "FALSE")
     (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
@@ -107,14 +107,18 @@
     (Folder "Include Files"
       (Sort User)))
   (DefaultLibraryBrowseDirectory "library\PSpice")
-  (MPSSessionName "giaco")
+  (MPSSessionName "loris")
   (PartMRUSelector
-    (VCC_BAR
-      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+    (OUT_PAGE_CONNECTOR
+      (LibraryName
+         "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
       (DeviceIndex "0"))
     (OFF_PAGE_CONN
       (LibraryName
          "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
+      (DeviceIndex "0"))
+    (VCC_BAR
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
     (GND_A
       (LibraryName
@@ -200,61 +204,14 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "c:\cadence\ese-project\schematic_finalproject\airqualitybluetoothsensor.dsn")
-      (Path "Design Resources"
-         "c:\cadence\ese-project\schematic_finalproject\airqualitybluetoothsensor.dsn"
-         "SCHEMATIC1")
-      (Path "Design Resources"
-         "c:\cadence\ese-project\schematic_finalproject\airqualitybluetoothsensor.dsn"
-         "Design Cache")
+      (Path "Design Resources" ".\airqualitybluetoothsensor.dsn")
+      (Path "Design Resources" ".\airqualitybluetoothsensor.dsn" "SCHEMATIC1")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Outputs"
-         "c:\cadence\ese-project\schematic_finalproject\airqualitybluetoothsensor.drc"))
+      (Select "Design Resources" ".\airqualitybluetoothsensor.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 326"))
-      (Tab 0))
-    (Doc
-      (Type "TextFile")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 130 1460 130 451"))
-      (Path
-         "c:\cadence\ese-project\schematic_finalproject\airqualitybluetoothsensor.drc")
-      (Scroll "0"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 78 1408 78 399")
-        (Scroll "795 138")
-        (Zoom "232")
-        (Occurrence "/"))
-      (Path
-         "C:\CADENCE\ESE-PROJECT\SCHEMATIC_FINALPROJECT\AIRQUALITYBLUETOOTHSENSOR.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "Power"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 104 1434 104 425")
-        (Scroll "-229 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "C:\CADENCE\ESE-PROJECT\SCHEMATIC_FINALPROJECT\AIRQUALITYBLUETOOTHSENSOR.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "MCU"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 130 1460 130 451")
-        (Scroll "-156 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "C:\CADENCE\ESE-PROJECT\SCHEMATIC_FINALPROJECT\AIRQUALITYBLUETOOTHSENSOR.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "Peripheral"))))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 326"))
+      (Tab 0))))
