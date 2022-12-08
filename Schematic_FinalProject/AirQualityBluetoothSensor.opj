@@ -204,11 +204,16 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\airqualitybluetoothsensor.dsn")
-      (Path "Design Resources" ".\airqualitybluetoothsensor.dsn" "SCHEMATIC1")
+      (Path "Design Resources"
+         "d:\cadence\cdssetup\orcad_capture\17.2.0\schematic_finalproject\airqualitybluetoothsensor.dsn")
+      (Path "Design Resources"
+         "d:\cadence\cdssetup\orcad_capture\17.2.0\schematic_finalproject\airqualitybluetoothsensor.dsn"
+         "SCHEMATIC1")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\airqualitybluetoothsensor.dsn"))
+      (Select "Design Resources"
+         "d:\cadence\cdssetup\orcad_capture\17.2.0\schematic_finalproject\airqualitybluetoothsensor.dsn"
+         "SCHEMATIC1" "Peripheral"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
