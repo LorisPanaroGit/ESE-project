@@ -1,0 +1,33 @@
+\t (00:01:14) allegro 17.2 S083 Windows SPB 64-bit Edition
+\t (00:01:14)     Journal start - Thu Dec 15 18:36:46 2022
+\t (00:01:14)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=14344 CPUs=12
+\t (00:01:14) CmdLine= D:\Cadence\tools\bin\allegro.exe
+\t (00:01:14) 
+\t (00:01:14) Starting new design...
+\i (00:01:14) trapsize 7112
+\i (00:01:14) trapsize 7294
+\i (00:01:14) trapsize 7112
+\i (00:01:15) trapsize 8636
+\i (00:01:15) trapsize 8636
+\i (00:01:15) trapsize 8389
+\i (00:01:20) QtSignal spbdip_extents_group spbdip_extheight_edit editingFinished 200.0000
+\i (00:01:20) QtSignal SPBDesignInitPrompt spbdip_ok_button clicked
+\i (00:01:20) generaledit 
+\i (00:01:33) shape add 
+\i (00:01:38) pick grid -18.2886 41.2751
+\t (00:01:38) last pick:  -18.4150 41.2750
+\i (00:01:43) pick grid -18.4564 9.2282
+\t (00:01:43) last pick:  -18.4150 9.5250
+\i (00:07:30) pick grid 15.1007 17.6174
+\t (00:07:30) last pick:  15.2400 17.7800
+\i (00:07:30) pick grid dbl 15.1007 17.7852
+\t (00:07:30) last pick:  15.2400 17.7800
+\t (00:07:30) last pick:  15.2400 17.7800
+\w (00:07:30) WARNING(SPMHA1-339): Pick equals previous pick ... try again.
+\i (00:07:33) done 
+\i (00:07:33) generaledit 
+\i (00:07:55) save 
+\t (00:07:57) Symbol 'usb_l_slot.ssm' created.
+\i (00:07:57) generaledit 
+\i (00:50:28) exit 
+\t (00:50:28)     Journal end - Thu Dec 15 19:26:01 2022

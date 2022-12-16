@@ -218,5 +218,16 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 326"))
-      (Tab 0))))
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 326"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 52 1234 52 417")
+        (Scroll "-181 30")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\SCHEMATIC_FINALPROJECT\AIRQUALITYBLUETOOTHSENSOR.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "Peripheral"))))

@@ -1,10 +1,7 @@
 \t (00:00:00) padstack_editor 17.2 S083 Windows SPB 64-bit Edition
-\t (00:00:00)     Journal start - Mon Nov 14 12:19:50 2022
-\t (00:00:00)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=2104 CPUs=12
-\t (00:00:00) CmdLine= d:\cadence\tools\bin\padstack_editor.exe D:\Cadence\cdssetup\OrCAD_Capture\17.2.0\ORCAD_PERSONAL_LIBRARY\PADSTACK\smd_rectangle_2d3_1d4.pad
+\t (00:00:00)     Journal start - Fri Dec 16 12:22:36 2022
+\t (00:00:00)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=21348 CPUs=12
+\t (00:00:00) CmdLine= d:\cadence\tools\bin\padstack_editor.exe D:\Cadence\cdssetup\OrCAD_Capture\17.2.0\ORCAD_PERSONAL_LIBRARY\PADSTACK\th_circle_d12.pad
 \t (00:00:00) 
-\d (00:00:02) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
-\d (00:00:05) QtSignal GuidedMaskLayersTab PadShape CurrentIndexChanged "Rounded rectangle"
-\d (00:00:07) QtSignal GuidedTabsParent GuidedTabs currentChanged Start
-\d (00:00:12) QtSignal MainWindow Save triggered
-\t (00:00:14)     Journal end - Mon Nov 14 12:20:04 2022
+\d (00:00:02) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\t (00:00:04)     Journal end - Fri Dec 16 12:22:40 2022
