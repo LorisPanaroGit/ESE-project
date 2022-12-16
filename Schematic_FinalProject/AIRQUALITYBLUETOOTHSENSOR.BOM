@@ -1,4 +1,4 @@
-HAQB_MCU  Revised: Wednesday, December 07, 2022
+HAQB_MCU  Revised: Friday, December 16, 2022
 1          Revision: 1.0
 
 
@@ -7,7 +7,7 @@ HAQB_MCU  Revised: Wednesday, December 07, 2022
 
 
 
-Bill Of Materials       December 7,2022      17:34:26	Page1
+Bill Of Materials       December 16,2022      17:03:41	Page1
 
 Item	Quantity	Reference	Part
 ______________________________________________
@@ -43,5 +43,5 @@ ______________________________________________
 29	1	U12	HU-2477N-1-LF
 30	1	U13	MCP73831
 31	1	U14	TPS61033
-32	1	U15	217184-0001
+32	1	U15	USB4110-GF-A
 33	1	U16	M12
