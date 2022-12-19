@@ -1,351 +1,1366 @@
-\t (00:00:02) allegro 17.2 S083 Windows SPB 64-bit Edition
-\t (00:00:02)     Journal start - Mon Nov 28 13:17:06 2022
-\t (00:00:02)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=12924 CPUs=12
-\t (00:00:02) CmdLine= D:\Cadence\tools\bin\allegro.exe
-\t (00:00:02) 
-   (00:00:02) Loading axlcore.cxt 
-\t (00:00:04) Opening existing design...
-\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged smd_MAX1555
-\d (00:00:04) Design opened: D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/smd_MAX1555.dra
-\i (00:00:05) trapsize 207
-\i (00:00:05) trapsize 213
-\i (00:00:05) trapsize 207
-\i (00:00:06) trapsize 207
-\i (00:00:06) generaledit 
-\i (00:00:12) pick grid -0.8429 -1.0836
-\t (00:00:12) last pick:  -0.8500 -1.1000
-\i (00:00:16) pick grid -0.9756 -1.1666
-\t (00:00:16) last pick:  -1.0000 -1.1500
-\i (00:00:16) prepopup -0.9756 -1.1666
-\i (00:00:18) pop dyn_option_select @:@Delete 
-\i (00:00:18) delete 
-\i (00:00:18) generaledit 
-\i (00:00:23) tab 
-\i (00:00:23) setwindow pcb
-\i (00:00:23) mouse_pos -0.3741 1.3601
-\i (00:00:23) tab
-\i (00:00:25) add pin 
-\t (00:00:25) Using 'SMD_RECTANGLE_2D3_1D4.pad'.
-\i (00:01:48) setwindow form.mini
-\i (00:01:48) FORM mini next_pin_number 1 
-\i (00:02:36) FORM mini next_pin_number 4 
-\i (00:02:38) FORM mini offsetx 0.0000 
-\i (00:03:24) setwindow pcb
-\i (00:03:24) pick grid 0.9287 1.2024
-\t (00:03:24) last pick:  0.9500 1.2000
-\t (00:03:24) Using 'SMD_RECTANGLE_2D3_1D4.pad'.
-\i (00:03:59) pick grid -0.9715 1.2024
-\t (00:03:59) last pick:  -0.9500 1.2000
-\t (00:03:59) Using 'SMD_RECTANGLE_2D3_1D4.pad'.
-\i (00:04:09) setwindow form.mini
-\i (00:04:09) FORM mini next_pin_number 1 
-\i (00:04:46) FORM mini x_count 3 
-\i (00:04:52) FORM mini x_spacing 0.9500 
-\i (00:05:24) setwindow pcb
-\i (00:05:24) pick grid -0.7848 -0.9674
-\t (00:05:24) last pick:  -0.8000 -0.9500
-\t (00:05:24) Using 'SMD_RECTANGLE_2D3_1D4.pad'.
-\i (00:05:36) done 
-\t (00:05:36) Exiting from Add Pin.
-\i (00:05:36) generaledit 
-\i (00:05:37) drag_start grid -0.7682 -0.9342
-\i (00:05:38) drag_stop -1.0503 -0.9301
-\i (00:05:39) drag_start grid -1.3656 -2.0585
-\i (00:05:41) drag_stop 1.7211 -0.7724
-\i (00:05:42) drag_start grid 0.1445 -0.9882
-\i (00:05:43) drag_stop -0.6811 -1.0421
-\i (00:05:44) drag_start grid -0.7724 -0.9799
-\i (00:05:44) drag_stop -1.0047 -0.9716
-\i (00:05:45) prepopup -0.8346 -0.9840
-\i (00:05:46) pick grid -1.2121 -2.0046
-\t (00:05:46) last pick:  -1.2000 -2.0000
-\i (00:05:47) drag_start grid -1.6643 -1.9714
-\i (00:05:48) drag_stop 1.8455 -0.4530
-\i (00:05:50) prepopup -0.7143 -0.9799
-\i (00:05:53) pop dyn_option_select @:@Move 
-\i (00:05:53) move 
-\t (00:05:53) last pick:  -0.7000 -1.0000
-\t (00:05:53) Element has no origin, using pick.
-\t (00:05:53) Element has no origin, using pick.
-\t (00:05:53) Pick new location for the element(s).
-\i (00:06:02) pick grid -0.7599 -0.9757
-\t (00:06:02) last pick:  -0.7500 -1.0000
-\i (00:06:02) generaledit 
-\i (00:06:05) pick grid 0.4598 -2.0627
-\t (00:06:05) last pick:  0.4500 -2.0500
-\i (00:06:06) pick grid 0.1985 -1.1043
-\t (00:06:06) last pick:  0.2000 -1.1000
-\i (00:06:06) prepopup 0.1985 -1.1043
-\i (00:06:08) pop dyn_option_select @:@Delete 
-\i (00:06:08) delete 
-\i (00:06:08) generaledit 
-\i (00:06:09) prepopup -0.7516 -1.1002
-\i (00:06:10) pop dyn_option_select @:@Delete 
-\i (00:06:10) delete 
-\i (00:06:10) generaledit 
-\i (00:06:11) prepopup 0.8872 -1.0048
-\i (00:06:14) pop dyn_option_select @:@Delete 
-\i (00:06:14) delete 
-\i (00:06:14) generaledit 
-\i (00:06:16) prepopup 1.1319 -1.1002
-\i (00:06:17) pop dyn_option_select @:@Delete 
-\i (00:06:17) delete 
-\i (00:06:18) generaledit 
-\i (00:06:19) pick grid 0.4640 0.1859
-\t (00:06:19) last pick:  0.4500 0.2000
-\i (00:06:20) pick grid 0.9204 0.9244
-\t (00:06:20) last pick:  0.9000 0.9000
-\i (00:06:24) drag_start grid 0.9328 0.9493
-\i (00:06:25) drag_stop 0.9452 0.7751
-\i (00:06:25) prepopup 0.8996 1.0116
-\i (00:06:26) pop dyn_option_select @:@Move 
-\i (00:06:26) move 
-\t (00:06:26) last pick:  0.9000 1.0000
-\t (00:06:26) Element has no origin, using pick.
-\t (00:06:26) Element has no origin, using pick.
-\t (00:06:27) Pick new location for the element(s).
-\i (00:06:36) pick grid 0.6922 0.3726
-\t (00:06:36) last pick:  0.7000 0.3500
-\i (00:06:37) generaledit 
-\i (00:06:38) prepopup 0.7751 0.5054
-\i (00:06:39) pop dyn_option_select @:@Delete 
-\i (00:06:39) delete 
-\i (00:06:39) generaledit 
-\i (00:06:41) undo 
-\i (00:06:41) trapsize 207
-\i (00:06:41) generaledit 
-\i (00:06:42) pick grid -1.0420 0.3643
-\t (00:06:42) last pick:  -1.0500 0.3500
-\i (00:06:43) prepopup -0.8719 1.0821
-\i (00:06:44) pop dyn_option_select @:@Delete 
-\i (00:06:45) delete 
-\i (00:06:45) generaledit 
-\i (00:06:46) pick grid 0.8042 0.7377
-\t (00:06:46) last pick:  0.8000 0.7500
-\i (00:06:46) prepopup 0.7959 0.7377
-\i (00:06:48) pop dyn_option_select @:@Delete 
-\i (00:06:48) delete 
-\i (00:06:48) generaledit 
-\i (00:06:49) drag_start grid -0.1874 -0.6894
-\i (00:06:50) drag_stop -0.0422 -0.3285
-\i (00:06:51) drag_start grid -2.1746 0.4515
-\i (00:06:52) drag_stop 2.1028 -1.6935
-\i (00:06:52) drag_start grid 0.5594 -0.7060
-\i (00:06:53) drag_stop 0.7627 0.0947
-\i (00:06:53) prepopup 0.5138 -0.1708
-\i (00:06:54) pick grid 0.4101 -1.2122
-\t (00:06:54) last pick:  0.4000 -1.2000
-\i (00:06:55) pick grid 0.3935 -1.1873
-\t (00:06:55) last pick:  0.4000 -1.2000
-\i (00:06:55) pick grid dbl 0.3935 -1.1873
-\t (00:06:55) last pick:  0.4000 -1.2000
-\i (00:06:56) pick grid 0.0574 -1.4487
-\t (00:06:56) last pick:  0.0500 -1.4500
-\i (00:06:56) pick grid dbl 0.0574 -1.4487
-\t (00:06:56) last pick:  0.0500 -1.4500
-\i (00:06:56) pick grid 0.0574 -1.4487
-\t (00:06:56) last pick:  0.0500 -1.4500
-\i (00:07:02) undo 
-\i (00:07:02) trapsize 207
-\i (00:07:02) generaledit 
-\i (00:07:02) undo 
-\i (00:07:02) trapsize 207
-\i (00:07:02) undo 
-\i (00:07:02) trapsize 207
-\i (00:07:03) generaledit 
-\i (00:07:03) undo 
-\i (00:07:03) trapsize 207
-\i (00:07:03) generaledit 
-\i (00:07:04) undo 
-\i (00:07:04) trapsize 207
-\i (00:07:04) generaledit 
-\i (00:07:04) undo 
-\i (00:07:04) trapsize 207
-\i (00:07:05) generaledit 
-\i (00:07:05) undo 
-\i (00:07:05) trapsize 207
-\i (00:07:05) generaledit 
-\i (00:07:06) undo 
-\i (00:07:06) trapsize 207
-\i (00:07:06) generaledit 
-\i (00:07:07) undo 
-\i (00:07:07) trapsize 207
-\i (00:07:07) generaledit 
-\i (00:07:11) add pin 
-\t (00:07:11) Using 'SMD_RECTANGLE_2D3_1D4.pad'.
-\i (00:07:17) setwindow form.mini
-\i (00:07:17) FORM mini x_count 3 
-\i (00:07:22) FORM mini x_spacing 0.9500 
-\i (00:07:26) FORM mini next_pin_number 1 
-\i (00:07:39) setwindow pcb
-\i (00:07:39) pick grid -0.9466 -1.1790
-\t (00:07:39) last pick:  -0.9500 -1.2000
-\t (00:07:39) Using 'SMD_RECTANGLE_2D3_1D4.pad'.
-\i (00:07:50) setwindow form.mini
-\i (00:07:50) FORM mini x_count 1 
-\i (00:07:59) setwindow pcb
-\i (00:07:59) pick grid 0.9618 1.1775
-\t (00:07:59) last pick:  0.9500 1.2000
-\t (00:07:59) Using 'SMD_RECTANGLE_2D3_1D4.pad'.
-\i (00:08:13) pick grid -0.9259 1.2190
-\t (00:08:13) last pick:  -0.9500 1.2000
-\t (00:08:13) Using 'SMD_RECTANGLE_2D3_1D4.pad'.
-\i (00:08:15) done 
-\t (00:08:15) Exiting from Add Pin.
-\i (00:08:16) generaledit 
-\i (00:08:20) save 
-\i (00:08:21) fillin yes 
-\e (00:08:24) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
-\i (00:08:25) generaledit 
-\i (00:08:51) setwindow text
-\i (00:08:51) close
-\i (00:08:57) shape add circle 
-\i (00:09:01) setwindow form.mini
-\i (00:09:01) FORM mini subclass SILKSCREEN_TOP 
-\i (00:09:09) FORM mini cir_place YES 
-\i (00:09:20) FORM mini cir_radius 0.3000 
-\i (00:09:31) setwindow pcb
-\i (00:09:31) pick grid -0.9715 -0.2455
-\t (00:09:31) last pick:  -0.9500 -0.2500
-\i (00:09:34) done 
-\i (00:09:34) generaledit 
-\i (00:10:00) drag_start grid -1.3947 -1.0296
-\i (00:10:00) move 
-\t (00:10:00) last pick:  -1.2700 -1.2000
-\t (00:10:00) Pick new location for the element(s).
-\i (00:10:03) drag_stop grid 0.1777 -1.4030
-\i (00:10:03) generaledit 
-\i (00:10:05) drag_start grid -0.3865 -1.0172
-\i (00:10:05) move 
-\t (00:10:05) last pick:  -0.3200 -1.2000
-\t (00:10:05) Pick new location for the element(s).
-\i (00:10:08) drag_stop grid 1.1319 -1.4487
-\i (00:10:08) generaledit 
-\i (00:10:09) drag_start grid -2.3862 -0.8761
-\i (00:10:09) move 
-\t (00:10:10) last pick:  -2.2200 -1.2000
-\t (00:10:10) Pick new location for the element(s).
-\i (00:10:14) drag_stop grid -0.7516 -1.4279
-\i (00:10:14) generaledit 
-\i (00:10:17) drag_start grid -2.3613 1.4845
-\i (00:10:17) move 
-\t (00:10:17) last pick:  -2.2200 1.2000
-\t (00:10:17) Pick new location for the element(s).
-\i (00:10:20) drag_stop grid -0.7682 0.8332
-\i (00:10:20) generaledit 
-\i (00:10:21) drag_start grid -0.5566 1.3767
-\i (00:10:21) move 
-\t (00:10:21) last pick:  -0.3200 1.2000
-\t (00:10:21) Pick new location for the element(s).
-\i (00:10:25) drag_stop grid 1.1319 0.8373
-\i (00:10:25) generaledit 
-\i (00:10:31) label refdes 
-\t (00:10:31) Pick text location.
-\i (00:10:44) setwindow form.mini
-\i (00:10:44) FORM mini text_block 2 
-\i (00:10:57) setwindow pcb
-\i (00:10:57) pick grid 0.0159 0.0076
-\t (00:10:57) last pick:  0.0000 0.0000
-\t (00:10:57) Enter text string.
-\i (00:11:10) setwindow pcb
-\i (00:11:10) save 
-\i (00:11:10) setwindow pcb
-\i (00:11:10) pick 0.0000 0.0000
-\i (00:11:12) fillin yes 
-\t (00:11:12) Symbol 'smd_max1555.psm' created.
-\i (00:11:12) setwindow pcb
-\i (00:11:12) generaledit 
-\i (00:11:35) move 
-\t (00:11:35) last pick:  1.1500 0.8500
-\t (00:11:35) Pick new location for the element(s).
-\i (00:11:40) pick grid 1.1278 0.8581
-\t (00:11:40) last pick:  1.1500 0.8500
-\i (00:11:40) generaledit 
-\i (00:11:41) drag_start grid 0.4806 0.2025
-\i (00:11:41) move 
-\t (00:11:42) last pick:  0.0000 0.0000
-\t (00:11:42) Pick new location for the element(s).
-\i (00:11:43) drag_stop grid -0.6271 -0.1791
-\i (00:11:44) generaledit 
-\i (00:11:57) setwindow form.mini
-\i (00:11:57) FORM mini subclass SILKSCREEN_TOP 
-\i (00:12:06) setwindow pcb
-\i (00:12:06) pick grid -0.0712 0.0573
-\t (00:12:06) last pick:  -0.0500 0.0500
-\i (00:12:15) pick grid -0.0961 0.0034
-\t (00:12:15) last pick:  -0.1000 0.0000
-\i (00:12:18) pick grid 2.2521 0.2150
-\t (00:12:18) last pick:  2.2500 0.2000
-\i (00:12:31) dbdoctor 
-\i (00:12:33) setwindow form.dbdoctor_allegro
-\i (00:12:33) FORM dbdoctor_allegro drc YES 
-\i (00:12:33) FORM dbdoctor_allegro shapes YES 
-\i (00:12:34) FORM dbdoctor_allegro execute  
-\t (00:12:34) Dbdoctor in progress - wait...
-\t (00:12:34) Checking db records
-\t (00:12:34)     checking for orphans...
-\t (00:12:34)     Checked 100 percent
-\t (00:12:34) Regenerating DRC
-\t (00:12:34)   Original DRC errors: 0
-\t (00:12:34) Performing DRC...
-\t (00:12:34) No DRC errors detected.
-\t (00:12:34)   Updated DRC errors:  0
-\t (00:12:34) Done dbdoctor.
-\t (00:12:34) Dbdoctor completed.
-\i (00:14:00) FORM dbdoctor_allegro close  
-\i (00:14:00) setwindow pcb
-\i (00:14:00) generaledit 
-\i (00:14:01) save 
-\i (00:14:03) fillin yes 
-   (00:14:03) Loading signal.cxt 
-\t (00:14:04) Symbol 'smd_max1555.psm' created.
-\i (00:14:04) generaledit 
-\i (00:14:18) color192 
-\i (00:14:19) generaledit 
-\i (00:15:36) QtSignal CVDColorTable CVDColorButton0:0 clicked
-\i (00:15:37) QtSignal CVDColorTable CVDColorButton0:0 clicked
-\i (00:15:38) QtSignal CVDColorTable CVDColorButton0:0 clicked
-\i (00:15:38) QtSignal CVDColorTable CVDColorButton0:0 clicked
-\i (00:15:45) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Stack-Up Conductor
-\i (00:15:46) QtSignal CVDColorTable CVDColorButton0:0 clicked
-\i (00:15:49) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor 0 0
-\i (00:15:49) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
-\i (00:15:49) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
-\i (00:15:49) QtSignal CVDTabs CVDLayerContainer keyPressEvent 16777251 134217728 false 1
-\i (00:16:17) QtSignal ColorVisibilityDialog CVDApplyButton clicked
-\i (00:16:18) QtSignal ColorVisibilityDialog CVDOkButton clicked
-\i (00:16:29) color192 
-\i (00:16:30) generaledit 
-\i (00:16:32) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Stack-Up Conductor
-\i (00:16:48) QtSignal CVDLayerTable CVDLayerTableDelegate clickedColor 1 0
-\i (00:16:48) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 1 0
-\i (00:16:48) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
-\i (00:16:51) QtSignal CVDLayerContainer CVDVisibilityOn clicked
-\i (00:16:53) QtSignal ColorVisibilityDialog CVDApplyButton clicked
-\i (00:16:55) QtSignal ColorVisibilityDialog CVDOkButton clicked
-\i (00:17:05) save 
-\i (00:17:07) fillin yes 
-\t (00:17:07) Symbol 'smd_max1555.psm' created.
-\i (00:17:07) generaledit 
-\i (00:17:11) pick grid -1.0254 1.0945
-\t (00:17:11) last pick:  -1.0500 1.1000
-\i (00:17:13) color192 
-\i (00:17:14) generaledit 
-\i (00:17:17) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Stack-Up Conductor Pin
-\i (00:17:20) QtSignal CVDLayerContainer CVDVisibilityOn clicked
-\i (00:17:21) QtSignal CVDLayerContainer CVDVisibilityOff clicked
-\i (00:17:22) QtSignal CVDLayerContainer CVDVisibilityOn clicked
-\i (00:17:30) QtSignal ColorVisibilityDialog CVDApplyButton clicked
-\i (00:17:31) QtSignal ColorVisibilityDialog CVDOkButton clicked
-\i (00:17:32) pick grid -2.7140 -0.1335
-\t (00:17:32) last pick:  -2.7000 -0.1500
-\i (00:17:34) pick grid -0.6064 -1.7266
-\t (00:17:34) last pick:  -0.6000 -1.7500
-\i (00:17:34) prepopup -0.6064 -1.7266
-\i (00:17:35) pick grid -1.0047 -2.1623
-\t (00:17:35) last pick:  -1.0000 -2.1500
-\i (00:18:01) exit 
-\e (00:18:01) Do you want to save the changes you made to D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/smd_MAX1555.dra?
-\i (00:18:03) fillin yes 
-\t (00:18:04) Symbol 'smd_max1555.psm' created.
-\t (00:18:04)     Journal end - Mon Nov 28 13:35:08 2022
+\t (00:06:42) allegro 17.2 S083 Windows SPB 64-bit Edition
+\t (00:06:42)     Journal start - Mon Dec 19 09:01:18 2022
+\t (00:06:42)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=10252 CPUs=12
+\t (00:06:42) CmdLine= D:\Cadence\tools\bin\allegro.exe
+\t (00:06:42) 
+\t (00:06:42) Starting new design...
+\i (00:06:42) trapsize 1
+\i (00:06:42) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged MCP73831
+\i (00:06:42) trapsize 1
+\i (00:06:43) trapsize 1
+\i (00:06:43) trapsize 747
+\i (00:07:01) QtSignal spbdip_extents_group spbdip_extheight_edit editingFinished 17000.0
+\i (00:07:01) QtSignal SPBDesignInitPrompt spbdip_ok_button clicked
+\i (00:07:01) generaledit 
+\i (00:07:04) prmed 
+\i (00:07:13) setwindow form.prmedit
+\i (00:07:13) FORM prmedit display_plated_holes YES 
+\i (00:07:14) FORM prmedit display_backdrill_holes YES 
+\i (00:07:15) FORM prmedit display_non_plated_holes YES 
+\i (00:07:16) FORM prmedit display_thermal YES 
+\i (00:07:35) FORM prmedit design  
+\i (00:07:37) FORM prmedit units Millimeter 
+\e (00:07:37) Change may cause round-off; run dbcheck.
+\i (00:09:40) FORM prmedit x -5.0000 
+\i (00:09:45) FORM prmedit y -5.0000 
+\i (00:09:49) FORM prmedit width 10.0000 
+\i (00:09:52) FORM prmedit height 10.0000 
+\i (00:10:41) FORM prmedit display  
+\i (00:10:42) FORM prmedit display_grid YES 
+\i (00:12:00) FORM prmedit cpoint_size 0.0500 
+\i (00:12:24) FORM prmedit cancel  
+\i (00:12:24) setwindow pcb
+\i (00:12:24) generaledit 
+\i (00:12:26) prmed 
+\i (00:12:32) setwindow form.prmedit
+\i (00:12:32) FORM prmedit display_plated_holes YES 
+\i (00:12:32) FORM prmedit display_backdrill_holes YES 
+\i (00:12:33) FORM prmedit display_non_plated_holes YES 
+\i (00:12:34) FORM prmedit display_thermal YES 
+\i (00:12:37) FORM prmedit design  
+\i (00:12:40) FORM prmedit units Millimeter 
+\e (00:12:40) Change may cause round-off; run dbcheck.
+\i (00:12:48) FORM prmedit x -5.0000 
+\i (00:12:51) FORM prmedit y -5.0000 
+\i (00:12:55) FORM prmedit width 10.0000 
+\i (00:13:03) FORM prmedit height 10.0000 
+\i (00:13:03) FORM prmedit display  
+\i (00:13:04) FORM prmedit display_grid YES 
+\i (00:13:14) FORM prmedit design  
+\i (00:13:17) FORM prmedit display  
+\i (00:13:19) FORM prmedit display_grid NO 
+\i (00:13:20) FORM prmedit view_grids_button  
+\t (00:13:20) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:13:29) setwindow form.grid
+\i (00:13:29) FORM grid non_etch non_etch_x_grids 0.05 
+\e (00:13:29) ERROR(SPMHA1-350): Illegal grid increment.
+\i (00:13:34) FORM grid done  
+\i (00:13:39) setwindow form.prmedit
+\i (00:13:39) FORM prmedit design  
+\i (00:13:50) FORM prmedit text  
+\i (00:13:50) FORM prmedit design  
+\i (00:13:52) FORM prmedit apply  
+\w (00:13:52) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:13:52) setwindow pcb
+\i (00:13:52) trapsize 419
+\t (00:13:52) Performing DRC...
+\t (00:13:52) No DRC errors detected.
+\i (00:13:52) trapsize 432
+\i (00:13:52) trapsize 445
+\i (00:13:52) trapsize 432
+\i (00:13:53) trapsize 419
+\i (00:13:58) setwindow form.prmedit
+\i (00:13:58) FORM prmedit display  
+\i (00:14:00) FORM prmedit display_grid YES 
+\i (00:14:01) FORM prmedit display_grid NO 
+\i (00:14:35) FORM prmedit design  
+\i (00:14:40) FORM prmedit apply  
+\i (00:14:43) FORM prmedit display  
+\i (00:14:44) FORM prmedit display_grid YES 
+\i (00:14:45) FORM prmedit display_grid NO 
+\i (00:14:46) FORM prmedit view_grids_button  
+\t (00:14:46) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:14:50) setwindow form.grid
+\i (00:14:50) FORM grid non_etch non_etch_x_grids 0.05 
+\i (00:14:50) FORM grid done  
+\i (00:14:52) setwindow form.prmedit
+\i (00:14:52) FORM prmedit view_grids_button  
+\t (00:14:52) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:15:01) setwindow form.grid
+\i (00:15:01) FORM grid non_etch non_etch_y_grids 0.0500 
+\i (00:15:03) FORM grid top subclass_x_grids 0.0500 
+\i (00:15:05) FORM grid top subclass_y_grids 0.0500 
+\i (00:15:07) FORM grid bottom subclass_x_grids 0.0500 
+\i (00:15:09) FORM grid bottom subclass_y_grids 0.0500 
+\i (00:15:09) FORM grid done  
+\i (00:15:11) setwindow form.prmedit
+\i (00:15:11) FORM prmedit display_grid YES 
+\i (00:15:19) FORM prmedit design  
+\i (00:15:45) FORM prmedit apply  
+\i (00:15:46) FORM prmedit done  
+\i (00:15:47) setwindow pcb
+\i (00:15:47) generaledit 
+\i (00:16:32) showhide find 
+\i (00:16:32) generaledit 
+\i (00:16:40) showhide find 
+\i (00:16:40) generaledit 
+\i (00:16:45) trapsize 422
+\i (00:16:45) trapsize 420
+\i (00:16:45) trapsize 419
+\i (00:16:52) trapsize 420
+\i (00:16:52) trapsize 419
+\i (00:17:09) showhide find 
+\i (00:17:09) generaledit 
+\i (00:17:16) zoom in 1 
+\i (00:17:16) setwindow pcb
+\i (00:17:16) zoom in 0.7383 -2.4497
+\i (00:17:16) trapsize 210
+\i (00:17:16) zoom out 1 
+\i (00:17:16) setwindow pcb
+\i (00:17:16) zoom out 0.7384 -2.4496
+\i (00:17:16) trapsize 419
+\i (00:17:18) roam start
+\i (00:17:19) roam end
+\i (00:17:20) zoom in 1 
+\i (00:17:20) setwindow pcb
+\i (00:17:20) zoom in -0.5034 0.1762
+\i (00:17:20) trapsize 210
+\i (00:17:20) zoom in 1 
+\i (00:17:20) setwindow pcb
+\i (00:17:20) zoom in -0.5034 0.1762
+\i (00:17:20) trapsize 105
+\i (00:17:21) zoom in 1 
+\i (00:17:21) setwindow pcb
+\i (00:17:21) zoom in -0.5033 0.1762
+\i (00:17:21) trapsize 52
+\i (00:17:21) zoom in 1 
+\i (00:17:21) setwindow pcb
+\i (00:17:21) zoom in -0.5033 0.1762
+\i (00:17:21) trapsize 26
+\i (00:17:22) zoom in 1 
+\i (00:17:22) setwindow pcb
+\i (00:17:22) zoom in -0.5033 0.1762
+\i (00:17:22) trapsize 13
+\i (00:17:22) zoom in 1 
+\i (00:17:22) setwindow pcb
+\i (00:17:22) zoom in -0.5033 0.1763
+\i (00:17:22) trapsize 7
+\i (00:17:23) zoom in 1 
+\i (00:17:23) setwindow pcb
+\i (00:17:23) zoom in -0.5032 0.1763
+\i (00:17:23) trapsize 3
+\i (00:17:24) zoom out 1 
+\i (00:17:24) setwindow pcb
+\i (00:17:24) zoom out -0.5032 0.1763
+\i (00:17:24) trapsize 7
+\i (00:17:24) zoom out 1 
+\i (00:17:24) setwindow pcb
+\i (00:17:24) zoom out -0.5032 0.1761
+\i (00:17:24) trapsize 13
+\i (00:17:24) zoom out 1 
+\i (00:17:24) setwindow pcb
+\i (00:17:24) zoom out -0.5031 0.1761
+\i (00:17:24) trapsize 26
+\i (00:17:24) zoom out 1 
+\i (00:17:24) setwindow pcb
+\i (00:17:24) zoom out -0.5031 0.1761
+\i (00:17:24) trapsize 52
+\i (00:17:24) zoom out 1 
+\i (00:17:24) setwindow pcb
+\i (00:17:24) zoom out -0.5032 0.1761
+\i (00:17:24) trapsize 105
+\i (00:17:24) zoom out 1 
+\i (00:17:24) setwindow pcb
+\i (00:17:24) zoom out -0.5033 0.1761
+\i (00:17:24) trapsize 210
+\i (00:17:25) zoom in 1 
+\i (00:17:25) setwindow pcb
+\i (00:17:25) zoom in 1.4050 1.0610
+\i (00:17:25) trapsize 105
+\i (00:17:26) zoom out 1 
+\i (00:17:26) setwindow pcb
+\i (00:17:26) zoom out 1.4050 1.0610
+\i (00:17:26) trapsize 210
+\i (00:17:26) zoom out 1 
+\i (00:17:26) setwindow pcb
+\i (00:17:26) zoom out 1.4009 1.0569
+\i (00:17:26) trapsize 419
+\i (00:17:26) zoom out 1 
+\i (00:17:26) setwindow pcb
+\i (00:17:26) zoom out 3.1460 1.8037
+\i (00:17:26) trapsize 419
+\i (00:17:26) zoom out 1 
+\i (00:17:26) setwindow pcb
+\i (00:17:26) zoom out -0.8977 -0.1175
+\i (00:17:26) trapsize 419
+\i (00:17:26) zoom out 1 
+\i (00:17:26) setwindow pcb
+\i (00:17:26) zoom out -0.8977 -0.1175
+\i (00:17:26) trapsize 419
+\i (00:17:27) zoom out 1 
+\i (00:17:27) setwindow pcb
+\i (00:17:27) zoom out -0.8977 -0.1426
+\i (00:17:27) trapsize 419
+\i (00:17:28) zoom in 1 
+\i (00:17:28) setwindow pcb
+\i (00:17:28) zoom in -0.1258 -0.8977
+\i (00:17:28) trapsize 210
+\i (00:17:29) zoom out 1 
+\i (00:17:29) setwindow pcb
+\i (00:17:29) zoom out -0.1258 -0.8976
+\i (00:17:29) trapsize 419
+\i (00:17:30) zoom out 1 
+\i (00:17:30) setwindow pcb
+\i (00:17:30) zoom out -0.1846 -0.6460
+\i (00:17:30) trapsize 419
+\i (00:17:32) zoom in 1 
+\i (00:17:32) setwindow pcb
+\i (00:17:32) zoom in -0.0336 -0.1258
+\i (00:17:32) trapsize 210
+\i (00:20:55) zoom out 1 
+\i (00:20:55) setwindow pcb
+\i (00:20:55) zoom out 0.7089 -0.1048
+\i (00:20:55) trapsize 419
+\i (00:20:59) shape add rect 
+\i (00:21:38) pick -1.55 y 0.9 
+\t (00:21:38) last pick:  -1.5500 0.9000
+\i (00:21:41) zoom in 1 
+\i (00:21:41) setwindow pcb
+\i (00:21:41) zoom in 1.1577 -0.8473
+\i (00:21:41) trapsize 210
+\i (00:22:07) pick grid 1.5731 -0.8892
+\t (00:22:07) last pick:  1.5500 -0.9000
+\i (00:22:10) done 
+\i (00:22:10) generaledit 
+\i (00:22:14) save 
+\e (00:22:16) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:22:17) generaledit 
+\i (00:22:20) setwindow text
+\i (00:22:20) close
+\i (00:32:18) zoom in 1 
+\i (00:32:18) setwindow pcb
+\i (00:32:18) zoom in -1.1283 0.2643
+\i (00:32:18) trapsize 105
+\i (00:32:19) zoom in 1 
+\i (00:32:19) setwindow pcb
+\i (00:32:19) zoom in -1.1283 0.2622
+\i (00:32:19) trapsize 52
+\i (00:32:19) zoom out 1 
+\i (00:32:19) setwindow pcb
+\i (00:32:19) zoom out -1.0664 0.2423
+\i (00:32:19) trapsize 105
+\i (00:32:20) zoom out 1 
+\i (00:32:20) setwindow pcb
+\i (00:32:20) zoom out -0.9343 0.1941
+\i (00:32:20) trapsize 210
+\i (00:32:28) setwindow form.mini
+\i (00:32:28) FORM mini subclass SILKSCREEN_TOP 
+\i (00:32:41) setwindow pcb
+\i (00:32:41) zoom in 1 
+\i (00:32:41) setwindow pcb
+\i (00:32:41) zoom in -1.5678 0.8862
+\i (00:32:41) trapsize 105
+\i (00:32:43) zoom out 1 
+\i (00:32:43) setwindow pcb
+\i (00:32:43) zoom out -0.5317 0.3304
+\i (00:32:43) trapsize 210
+\i (00:33:13) pick -1.55 y 0.9 
+\t (00:33:13) last pick:  -1.5500 0.9000
+\i (00:33:20) done 
+\i (00:33:20) generaledit 
+\i (00:33:22) shape add rect 
+\i (00:33:27) pick -1.55 y 0.9 
+\t (00:33:27) last pick:  -1.5500 0.9000
+\i (00:33:30) zoom in 1 
+\i (00:33:30) setwindow pcb
+\i (00:33:30) zoom in 1.5825 -0.9950
+\i (00:33:30) trapsize 105
+\i (00:33:31) zoom in 1 
+\i (00:33:31) setwindow pcb
+\i (00:33:31) zoom in 1.5741 -0.9908
+\i (00:33:31) trapsize 52
+\i (00:33:34) pick grid 1.5259 -0.8932
+\t (00:33:34) last pick:  1.5500 -0.9000
+\i (00:33:36) done 
+\i (00:33:36) generaledit 
+\i (00:33:37) zoom out 1 
+\i (00:33:37) setwindow pcb
+\i (00:33:37) zoom out 1.2574 -0.9866
+\i (00:33:37) trapsize 105
+\i (00:33:37) zoom out 1 
+\i (00:33:37) setwindow pcb
+\i (00:33:37) zoom out 1.2575 -0.9865
+\i (00:33:37) trapsize 210
+\i (00:35:59) add pin 
+\i (00:36:03) setwindow form.mini
+\i (00:36:03) FORM mini pad_browse  
+\t (00:36:46) No valid name selected.
+\e (00:37:29) ERROR(SPMHUT-1): Illegal character(s) present in the name or value.
+\i (00:37:44) fillin "Smd_Rect_W06_H11"
+\e (00:37:44) ERROR(SPMHAP-3): Problem loading 'Smd_Rect_W06_H11.pad'.
+\e (00:37:44) ERROR(SPMHA1-161): Cannot open the design because of database problems. Run the dbdoctor command on the design and try to open again.
+\i (00:38:10) FORM mini x_count 3 
+\i (00:38:36) FORM mini x_spacing 0.3500 
+\i (00:39:28) setwindow pcb
+\i (00:39:28) pick grid -0.2316 -0.9530
+\t (00:39:28) last pick:  -0.2500 -0.9500
+\e (00:39:28) ERROR(SPMHAP-2): No padstack specified.
+\i (00:39:31) setwindow form.mini
+\i (00:39:31) FORM mini pad_browse  
+\e (00:41:28) ERROR(SPMHUT-1): Illegal character(s) present in the name or value.
+\i (00:41:31) fillin "Smd_Rect_W06_H11"
+\e (00:41:31) ERROR(SPMHAP-3): Problem loading 'Smd_Rect_W06_H11.pad'.
+\e (00:41:31) ERROR(SPMHA1-161): Cannot open the design because of database problems. Run the dbdoctor command on the design and try to open again.
+\i (00:43:57) FORM mini x_count 1 
+\i (00:43:59) setwindow pcb
+\i (00:43:59) pick grid 0.9136 -0.9320
+\t (00:43:59) last pick:  0.9000 -0.9500
+\e (00:43:59) ERROR(SPMHAP-2): No padstack specified.
+\i (00:44:05) pick grid 2.0629 -1.0537
+\t (00:44:05) last pick:  2.0500 -1.0500
+\e (00:44:05) ERROR(SPMHAP-2): No padstack specified.
+\i (00:45:03) setwindow form.mini
+\i (00:45:03) FORM mini pad_browse  
+\i (00:45:16) fillin "Smd30rec14"
+\t (00:45:16) Using 'SMD30REC14.pad'.
+\i (00:45:18) setwindow pcb
+\i (00:45:18) done 
+\t (00:45:18) Exiting from Add Pin.
+\i (00:45:19) generaledit 
+\i (00:45:27) add pin 
+\t (00:45:27) Using 'SMD30REC14.pad'.
+\i (00:45:29) setwindow form.mini
+\i (00:45:29) FORM mini pad_browse  
+\e (00:45:37) ERROR(SPMHUT-1): Illegal character(s) present in the name or value.
+\i (00:45:45) fillin "Smd_Rect_W06_H11"
+\e (00:45:45) ERROR(SPMHAP-3): Problem loading 'Smd_Rect_W06_H11.pad'.
+\e (00:45:45) ERROR(SPMHA1-161): Cannot open the design because of database problems. Run the dbdoctor command on the design and try to open again.
+\i (00:45:55) FORM mini x_count 3 
+\i (00:46:02) setwindow pcb
+\i (00:46:02) prepopup -0.8020 -1.1585
+\i (00:46:04) rotate 
+\t (00:46:04) Spin the element(s).
+\i (00:46:08) iangle 89.544
+\t (00:46:08) last angle:  +89.544 Degrees
+\t (00:46:08) Pin rotated by '89.544' degrees.
+\t (00:46:08) Using 'SMD30REC14.pad'.
+\i (00:46:16) done 
+\t (00:46:16) Exiting from Add Pin.
+\i (00:46:16) generaledit 
+\i (00:46:19) setwindow form.mini
+\i (00:46:19) FORM mini subclass ASSEMBLY_TOP 
+\i (00:46:33) setwindow pcb
+\i (00:46:33) add pin 
+\t (00:46:33) Using 'SMD30REC14.pad'.
+\i (00:46:35) setwindow form.mini
+\i (00:46:35) FORM mini pad_browse  
+\e (00:46:41) ERROR(SPMHUT-1): Illegal character(s) present in the name or value.
+\i (00:46:54) fillin "smd_rect_w06_h11.pad"
+\e (00:46:54) ERROR(SPMHAP-7): Illegal pad name.
+\i (00:47:12) FORM mini next_pin_number 4 
+\i (00:47:15) FORM mini x_count 1 
+\i (00:47:33) FORM mini x_count 3 
+\i (00:47:42) FORM mini next_pin_number 1 
+\i (00:47:44) setwindow pcb
+\i (00:47:44) prepopup -0.6049 -1.4396
+\i (00:47:45) rotate 
+\t (00:47:45) Spin the element(s).
+\i (00:47:53) iangle 90.136
+\t (00:47:53) last angle:  +90.136 Degrees
+\t (00:47:53) Pin rotated by '90.136' degrees.
+\t (00:47:53) Using 'SMD30REC14.pad'.
+\i (00:49:13) zoom in 1 
+\i (00:49:13) setwindow pcb
+\i (00:49:13) zoom in -1.2509 -1.2298
+\i (00:49:13) trapsize 105
+\i (00:49:31) zoom in 1 
+\i (00:49:31) setwindow pcb
+\i (00:49:31) zoom in -1.3096 -1.1983
+\i (00:49:31) trapsize 52
+\i (00:49:31) zoom in 1 
+\i (00:49:31) setwindow pcb
+\i (00:49:31) zoom in -1.3096 -1.1983
+\i (00:49:31) trapsize 26
+\i (00:49:32) zoom out 1 
+\i (00:49:32) setwindow pcb
+\i (00:49:32) zoom out -1.3075 -1.1978
+\i (00:49:32) trapsize 52
+\i (00:49:33) zoom out 1 
+\i (00:49:33) setwindow pcb
+\i (00:49:33) zoom out -1.0852 -1.1946
+\i (00:49:33) trapsize 105
+\i (00:49:33) zoom out 1 
+\i (00:49:33) setwindow pcb
+\i (00:49:33) zoom out -1.0852 -1.1945
+\i (00:49:33) trapsize 210
+\i (00:49:34) zoom in 1 
+\i (00:49:34) setwindow pcb
+\i (00:49:34) zoom in -0.9174 -1.1945
+\i (00:49:34) trapsize 105
+\i (00:49:35) zoom in 1 
+\i (00:49:35) setwindow pcb
+\i (00:49:35) zoom in -1.1942 -1.2134
+\i (00:49:35) trapsize 52
+\i (01:10:24) zoom out 1 
+\i (01:10:24) setwindow pcb
+\i (01:10:24) zoom out -1.1889 -1.1819
+\i (01:10:24) trapsize 105
+\i (01:15:07) pick grid -0.9750 -0.9177
+\t (01:15:07) last pick:  -0.9500 -0.9000
+\t (01:15:07) Using 'SMD30REC14.pad'.
+\i (01:15:10) zoom out 1 
+\i (01:15:10) setwindow pcb
+\i (01:15:10) zoom out 0.0862 -1.0855
+\i (01:15:10) trapsize 210
+\i (01:15:10) zoom out 1 
+\i (01:15:10) setwindow pcb
+\i (01:15:10) zoom out 0.0863 -1.0855
+\i (01:15:10) trapsize 419
+\i (01:15:10) zoom out 1 
+\i (01:15:10) setwindow pcb
+\i (01:15:10) zoom out 3.0789 -2.1896
+\i (01:15:10) trapsize 419
+\i (01:15:11) zoom in 1 
+\i (01:15:11) setwindow pcb
+\i (01:15:11) zoom in 0.0671 -2.1728
+\i (01:15:11) trapsize 210
+\i (01:15:11) zoom in 1 
+\i (01:15:11) setwindow pcb
+\i (01:15:11) zoom in 0.0672 -2.1728
+\i (01:15:11) trapsize 105
+\i (01:15:13) pick grid 0.5265 -1.0969
+\t (01:15:13) last pick:  0.5500 -1.1000
+\t (01:15:13) Using 'SMD30REC14.pad'.
+\i (01:15:16) done 
+\t (01:15:16) Exiting from Add Pin.
+\i (01:15:17) generaledit 
+\i (01:15:19) pick grid 0.5433 -1.2961
+\t (01:15:19) last pick:  0.5500 -1.3000
+\i (01:15:21) prepopup 0.5433 -1.2961
+\i (01:15:22) pop dyn_option_select @:@Delete 
+\i (01:15:22) delete 
+\i (01:15:23) generaledit 
+\i (01:15:23) prepopup 0.7341 -1.2458
+\i (01:15:25) pop dyn_option_select @:@Delete 
+\i (01:15:25) delete 
+\i (01:15:25) generaledit 
+\i (01:15:26) prepopup 1.1892 -1.1326
+\i (01:15:27) pop dyn_option_select @:@Delete 
+\i (01:15:27) delete 
+\i (01:15:27) generaledit 
+\i (01:15:31) prepopup -0.1845 -1.1850
+\i (01:15:32) pop dyn_option_select @:@Delete 
+\i (01:15:32) delete 
+\i (01:15:32) generaledit 
+\i (01:15:33) prepopup -0.5390 -1.0801
+\i (01:15:34) pop dyn_option_select @:@Delete 
+\i (01:15:34) delete 
+\i (01:15:34) generaledit 
+\i (01:15:35) prepopup -1.0486 -1.0130
+\i (01:15:35) pop dyn_option_select @:@Delete 
+\i (01:15:35) delete 
+\i (01:15:36) generaledit 
+\i (01:15:37) zoom out 1 
+\i (01:15:37) setwindow pcb
+\i (01:15:37) zoom out -0.5872 -1.2836
+\i (01:15:37) trapsize 210
+\i (01:15:37) zoom out 1 
+\i (01:15:37) setwindow pcb
+\i (01:15:37) zoom out -0.5872 -1.2835
+\i (01:15:37) trapsize 419
+\i (01:15:38) zoom in 1 
+\i (01:15:38) setwindow pcb
+\i (01:15:38) zoom in -1.6862 0.7970
+\i (01:15:38) trapsize 210
+\i (01:15:38) zoom in 1 
+\i (01:15:38) setwindow pcb
+\i (01:15:38) zoom in -1.6862 0.7970
+\i (01:15:38) trapsize 105
+\i (01:15:38) zoom out 1 
+\i (01:15:38) setwindow pcb
+\i (01:15:38) zoom out -1.6736 0.7907
+\i (01:15:38) trapsize 210
+\i (01:15:40) zoom in 1 
+\i (01:15:40) setwindow pcb
+\i (01:15:40) zoom in -0.5997 -0.8786
+\i (01:15:40) trapsize 105
+\i (01:16:22) add pin 
+\t (01:16:22) Using 'SMD30REC14.pad'.
+\i (01:16:24) setwindow form.mini
+\i (01:16:24) FORM mini pad_browse  
+\i (01:16:41) fillin "Smd_Rect_W06_H11"
+\e (01:16:41) ERROR(SPMHAP-3): Problem loading 'Smd_Rect_W06_H11.pad'.
+\e (01:16:41) ERROR(SPMHA1-161): Cannot open the design because of database problems. Run the dbdoctor command on the design and try to open again.
+\i (01:16:42) setwindow pcb
+\i (01:16:42) prepopup -0.3878 0.2498
+\i (01:16:44) rotate 
+\t (01:16:44) Spin the element(s).
+\i (01:16:52) zoom in 1 
+\i (01:16:52) setwindow pcb
+\i (01:16:52) zoom in -0.4025 0.8034
+\i (01:16:52) trapsize 52
+\i (01:17:11) iangle 90.226
+\t (01:17:11) last angle:  +90.226 Degrees
+\t (01:17:11) Pin rotated by '90.226' degrees.
+\t (01:17:11) Using 'SMD30REC14.pad'.
+\i (01:17:12) zoom out 1 
+\i (01:17:12) setwindow pcb
+\i (01:17:12) zoom out -0.3374 0.3368
+\i (01:17:12) trapsize 105
+\i (01:17:17) done 
+\t (01:17:17) Exiting from Add Pin.
+\i (01:17:17) generaledit 
+\i (01:17:19) zoom out 1 
+\i (01:17:19) setwindow pcb
+\i (01:17:19) zoom out -0.6626 0.1354
+\i (01:17:19) trapsize 210
+\i (01:17:22) show measure 
+\i (01:17:24) zoom in 1 
+\i (01:17:24) setwindow pcb
+\i (01:17:24) zoom in -1.5308 0.8947
+\i (01:17:24) trapsize 105
+\i (01:17:24) zoom in 1 
+\i (01:17:24) setwindow pcb
+\i (01:17:24) zoom in -1.5308 0.8947
+\i (01:17:24) trapsize 52
+\i (01:17:24) zoom in 1 
+\i (01:17:24) setwindow pcb
+\i (01:17:24) zoom in -1.5308 0.8947
+\i (01:17:24) trapsize 26
+\i (01:17:24) zoom in 1 
+\i (01:17:24) setwindow pcb
+\i (01:17:24) zoom in -1.5307 0.8947
+\i (01:17:24) trapsize 13
+\i (01:17:25) zoom in 1 
+\i (01:17:25) setwindow pcb
+\i (01:17:25) zoom in -1.5590 0.8931
+\i (01:17:25) trapsize 7
+\i (01:17:25) zoom in 1 
+\i (01:17:25) setwindow pcb
+\i (01:17:25) zoom in -1.5587 0.8932
+\i (01:17:25) trapsize 3
+\i (01:17:25) zoom in 1 
+\i (01:17:25) setwindow pcb
+\i (01:17:25) zoom in -1.5587 0.8932
+\i (01:17:25) trapsize 2
+\i (01:17:27) pick grid -1.5500 0.9000
+\t (01:17:27) last pick:  -1.5500 0.9000
+\i (01:17:27) zoom out 1 
+\i (01:17:27) setwindow pcb
+\i (01:17:27) zoom out -1.5500 0.9000
+\i (01:17:27) trapsize 3
+\i (01:17:27) zoom out 1 
+\i (01:17:27) setwindow pcb
+\i (01:17:27) zoom out -1.5500 0.9000
+\i (01:17:27) trapsize 7
+\i (01:17:27) zoom out 1 
+\i (01:17:27) setwindow pcb
+\i (01:17:27) zoom out -1.5499 0.9000
+\i (01:17:27) trapsize 13
+\i (01:17:27) zoom out 1 
+\i (01:17:27) setwindow pcb
+\i (01:17:27) zoom out -1.5499 0.8999
+\i (01:17:27) trapsize 26
+\i (01:17:28) zoom out 1 
+\i (01:17:28) setwindow pcb
+\i (01:17:28) zoom out -1.4924 0.8377
+\i (01:17:28) trapsize 52
+\i (01:17:28) zoom out 1 
+\i (01:17:28) setwindow pcb
+\i (01:17:28) zoom out -1.4923 0.8366
+\i (01:17:28) trapsize 105
+\i (01:17:28) zoom out 1 
+\i (01:17:28) setwindow pcb
+\i (01:17:28) zoom out -1.4922 0.8366
+\i (01:17:28) trapsize 209
+\i (01:17:28) zoom out 1 
+\i (01:17:28) setwindow pcb
+\i (01:17:28) zoom out -1.4922 0.8367
+\i (01:17:28) trapsize 419
+\i (01:17:28) zoom out 1 
+\i (01:17:28) setwindow pcb
+\i (01:17:28) zoom out 1.0570 1.8372
+\i (01:17:28) trapsize 419
+\i (01:17:29) zoom in 1 
+\i (01:17:29) setwindow pcb
+\i (01:17:29) zoom in 1.4933 0.6963
+\i (01:17:29) trapsize 210
+\i (01:17:29) zoom in 1 
+\i (01:17:29) setwindow pcb
+\i (01:17:29) zoom in 1.4934 0.6964
+\i (01:17:29) trapsize 105
+\i (01:17:29) zoom in 1 
+\i (01:17:29) setwindow pcb
+\i (01:17:29) zoom in 1.4934 0.6964
+\i (01:17:29) trapsize 52
+\i (01:17:30) pick grid 1.5469 0.9009
+\t (01:17:30) last pick:  1.5500 0.9000
+\i (01:17:41) setwindow text
+\i (01:17:41) close
+\i (01:17:43) redraw 
+\i (01:17:45) done 
+\i (01:17:45) generaledit 
+\i (01:19:33) zoom out 1 
+\i (01:19:33) setwindow pcb
+\i (01:19:33) zoom out 1.4253 0.5098
+\i (01:19:33) trapsize 105
+\i (01:19:34) zoom out 1 
+\i (01:19:34) setwindow pcb
+\i (01:19:34) zoom out 1.4190 0.5076
+\i (01:19:34) trapsize 210
+\i (01:19:36) zoom in 1 
+\i (01:19:36) setwindow pcb
+\i (01:19:36) zoom in -1.0181 -0.8807
+\i (01:19:36) trapsize 105
+\i (01:19:36) zoom out 1 
+\i (01:19:36) setwindow pcb
+\i (01:19:36) zoom out -0.8796 -0.8555
+\i (01:19:36) trapsize 210
+\i (01:19:38) zoom in 1 
+\i (01:19:38) setwindow pcb
+\i (01:19:38) zoom in -1.2949 -0.8639
+\i (01:19:38) trapsize 105
+\i (01:19:38) zoom out 1 
+\i (01:19:38) setwindow pcb
+\i (01:19:38) zoom out -1.2948 -0.8639
+\i (01:19:38) trapsize 210
+\i (01:19:39) zoom in 1 
+\i (01:19:39) setwindow pcb
+\i (01:19:39) zoom in -1.5214 -0.8806
+\i (01:19:39) trapsize 105
+\i (01:19:40) zoom in 1 
+\i (01:19:40) setwindow pcb
+\i (01:19:40) zoom in -1.5214 -0.8806
+\i (01:19:40) trapsize 52
+\i (01:19:40) zoom in 1 
+\i (01:19:40) setwindow pcb
+\i (01:19:40) zoom in -1.5214 -0.8806
+\i (01:19:40) trapsize 26
+\i (01:19:41) zoom out 1 
+\i (01:19:41) setwindow pcb
+\i (01:19:41) zoom out -1.3913 -0.9136
+\i (01:19:41) trapsize 52
+\i (01:19:42) zoom in 1 
+\i (01:19:42) setwindow pcb
+\i (01:19:42) zoom in -1.5812 -0.8989
+\i (01:19:42) trapsize 26
+\i (01:19:43) zoom out 1 
+\i (01:19:43) setwindow pcb
+\i (01:19:43) zoom out -1.4532 -0.8642
+\i (01:19:43) trapsize 52
+\i (01:27:08) prmed 
+\i (01:27:10) setwindow form.prmedit
+\i (01:27:10) FORM prmedit display  
+\i (01:27:11) FORM prmedit view_grids_button  
+\t (01:27:11) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (01:27:21) setwindow form.grid
+\i (01:27:21) FORM grid done  
+\i (01:27:22) setwindow form.prmedit
+\i (01:27:22) FORM prmedit done  
+\i (01:27:22) setwindow pcb
+\i (01:27:22) generaledit 
+\i (01:30:22) zoom out 1 
+\i (01:30:22) setwindow pcb
+\i (01:30:22) zoom out -0.9971 -0.3022
+\i (01:30:22) trapsize 105
+\i (01:30:23) zoom out 1 
+\i (01:30:23) setwindow pcb
+\i (01:30:23) zoom out -0.9970 -0.3022
+\i (01:30:23) trapsize 210
+\i (01:30:23) zoom out 1 
+\i (01:30:23) setwindow pcb
+\i (01:30:23) zoom out -0.9970 -0.3021
+\i (01:30:23) trapsize 419
+\i (01:30:23) zoom in 1 
+\i (01:30:23) setwindow pcb
+\i (01:30:23) zoom in 0.7802 0.5872
+\i (01:30:23) trapsize 210
+\i (01:30:23) zoom in 1 
+\i (01:30:23) setwindow pcb
+\i (01:30:23) zoom in 0.7802 0.5872
+\i (01:30:23) trapsize 105
+\i (01:30:28) add pin 
+\t (01:30:29) Using 'SMD30REC14.pad'.
+\i (01:30:30) setwindow form.mini
+\i (01:30:30) FORM mini pad_browse  
+\i (01:30:41) fillin "Smd_Rect_W06_H11"
+\e (01:30:41) ERROR(SPMHAP-3): Problem loading 'Smd_Rect_W06_H11.pad'.
+\e (01:30:41) ERROR(SPMHA1-161): Cannot open the design because of database problems. Run the dbdoctor command on the design and try to open again.
+\i (01:30:42) setwindow pcb
+\i (01:30:42) prepopup 1.0088 1.0276
+\i (01:30:44) rotate 
+\t (01:30:44) Spin the element(s).
+\i (01:30:46) iangle 89.511
+\t (01:30:46) last angle:  +89.511 Degrees
+\t (01:30:46) Pin rotated by '89.511' degrees.
+\t (01:30:46) Using 'SMD30REC14.pad'.
+\i (01:30:48) prepopup 1.0613 0.9773
+\i (01:30:50) rotate 
+\t (01:30:50) Spin the element(s).
+\i (01:30:53) zoom in 1 
+\i (01:30:53) setwindow pcb
+\i (01:30:53) zoom in 1.2312 0.9983
+\i (01:30:53) trapsize 52
+\i (01:30:53) zoom in 1 
+\i (01:30:53) setwindow pcb
+\i (01:30:53) zoom in 1.2312 0.9983
+\i (01:30:53) trapsize 26
+\i (01:30:56) iangle -0.031
+\t (01:30:56) last angle:  +359.969 Degrees
+\t (01:30:56) Pin rotated by '89.480' degrees.
+\t (01:30:56) Using 'SMD30REC14.pad'.
+\i (01:30:56) zoom out 1 
+\i (01:30:56) setwindow pcb
+\i (01:30:56) zoom out 1.0503 0.9999
+\i (01:30:56) trapsize 52
+\i (01:30:58) zoom in 1 
+\i (01:30:58) setwindow pcb
+\i (01:30:58) zoom in 1.0461 0.9916
+\i (01:30:58) trapsize 26
+\i (01:31:00) prepopup 1.0466 0.9916
+\i (01:31:01) rotate 
+\t (01:31:01) Spin the element(s).
+\i (01:31:08) iangle 0.174
+\t (01:31:08) last angle:  +0.174 Degrees
+\t (01:31:08) Pin rotated by '89.654' degrees.
+\t (01:31:08) Using 'SMD30REC14.pad'.
+\i (01:31:09) zoom out 1 
+\i (01:31:09) setwindow pcb
+\i (01:31:09) zoom out 1.0503 1.0000
+\i (01:31:09) trapsize 52
+\i (01:31:09) zoom out 1 
+\i (01:31:09) setwindow pcb
+\i (01:31:09) zoom out 1.0503 1.0001
+\i (01:31:09) trapsize 105
+\i (01:31:24) zoom out 1 
+\i (01:31:24) setwindow pcb
+\i (01:31:24) zoom out 0.9685 -0.1556
+\i (01:31:24) trapsize 210
+\i (01:31:24) zoom out 1 
+\i (01:31:24) setwindow pcb
+\i (01:31:24) zoom out 0.9685 -0.1555
+\i (01:31:24) trapsize 419
+\i (01:31:24) zoom out 1 
+\i (01:31:24) setwindow pcb
+\i (01:31:24) zoom out -0.6040 -2.2987
+\i (01:31:24) trapsize 419
+\i (01:31:25) zoom in 1 
+\i (01:31:25) setwindow pcb
+\i (01:31:25) zoom in -1.2584 -1.1577
+\i (01:31:25) trapsize 210
+\i (01:31:25) zoom in 1 
+\i (01:31:25) setwindow pcb
+\i (01:31:25) zoom in -1.2584 -1.1576
+\i (01:31:25) trapsize 105
+\i (01:31:25) zoom in 1 
+\i (01:31:25) setwindow pcb
+\i (01:31:25) zoom in -1.2584 -1.1576
+\i (01:31:25) trapsize 52
+\i (01:31:25) zoom in 1 
+\i (01:31:25) setwindow pcb
+\i (01:31:25) zoom in -1.2584 -1.1576
+\i (01:31:25) trapsize 26
+\i (01:31:26) zoom out 1 
+\i (01:31:26) setwindow pcb
+\i (01:31:26) zoom out -1.2641 -1.1093
+\i (01:31:26) trapsize 52
+\i (01:31:26) zoom out 1 
+\i (01:31:26) setwindow pcb
+\i (01:31:26) zoom out -1.2641 -1.1093
+\i (01:31:26) trapsize 105
+\i (01:32:29) pick grid -0.9370 -1.0255
+\t (01:32:29) last pick:  -0.9500 -1.0500
+\t (01:32:29) Using 'SMD30REC14.pad'.
+\i (01:32:32) done 
+\t (01:32:32) Exiting from Add Pin.
+\i (01:32:32) generaledit 
+\i (01:32:35) prepopup -0.1568 -1.2667
+\i (01:32:36) pick grid -0.2470 -1.3275
+\t (01:32:36) last pick:  -0.2500 -1.3500
+\i (01:32:38) prepopup -0.3183 -1.2751
+\i (01:32:40) pick grid -0.3917 -1.7344
+\t (01:32:40) last pick:  -0.4000 -1.7500
+\i (01:32:40) prepopup -0.5238 -1.3883
+\i (01:32:42) pop dyn_option_select @:@Delete 
+\i (01:32:42) delete 
+\i (01:32:42) generaledit 
+\i (01:32:43) prepopup -0.3078 -1.2331
+\i (01:32:44) pop dyn_option_select @:@Delete 
+\i (01:32:44) delete 
+\i (01:32:44) generaledit 
+\i (01:32:46) done 
+\i (01:32:46) generaledit 
+\i (01:32:47) pick grid -0.4169 -1.2981
+\t (01:32:47) last pick:  -0.4000 -1.3000
+\i (01:32:48) zoom in 1 
+\i (01:32:48) setwindow pcb
+\i (01:32:48) zoom in -0.5322 -1.2352
+\i (01:32:48) trapsize 52
+\i (01:33:10) show measure 
+\i (01:33:11) zoom in 1 
+\i (01:33:11) setwindow pcb
+\i (01:33:11) zoom in -0.7838 -0.9185
+\i (01:33:11) trapsize 26
+\i (01:33:11) zoom in 1 
+\i (01:33:11) setwindow pcb
+\i (01:33:11) zoom in -0.7838 -0.9184
+\i (01:33:11) trapsize 13
+\i (01:33:11) zoom out 1 
+\i (01:33:11) setwindow pcb
+\i (01:33:11) zoom out -0.7838 -0.9184
+\i (01:33:11) trapsize 26
+\i (01:33:11) zoom out 1 
+\i (01:33:11) setwindow pcb
+\i (01:33:11) zoom out -0.7838 -0.9183
+\i (01:33:11) trapsize 52
+\i (01:33:13) zoom in 1 
+\i (01:33:13) setwindow pcb
+\i (01:33:13) zoom in -0.7764 -0.6646
+\i (01:33:13) trapsize 26
+\i (01:33:15) pick grid -0.7198 -0.6063
+\t (01:33:15) last pick:  -0.7000 -0.6000
+\i (01:33:18) done 
+\i (01:33:18) setwindow text
+\i (01:33:18) close
+\i (01:33:18) generaledit 
+\i (01:33:20) zoom out 1 
+\i (01:33:20) setwindow pcb
+\i (01:33:20) zoom out -0.7329 -0.8627
+\i (01:33:20) trapsize 52
+\i (01:33:20) zoom out 1 
+\i (01:33:20) setwindow pcb
+\i (01:33:20) zoom out -0.7318 -0.8628
+\i (01:33:20) trapsize 105
+\i (01:33:20) zoom in 1 
+\i (01:33:20) setwindow pcb
+\i (01:33:20) zoom in -0.6962 -1.1795
+\i (01:33:20) trapsize 52
+\i (01:33:20) zoom in 1 
+\i (01:33:20) setwindow pcb
+\i (01:33:20) zoom in -0.6951 -1.1805
+\i (01:33:20) trapsize 26
+\i (01:33:21) zoom out 1 
+\i (01:33:21) setwindow pcb
+\i (01:33:21) zoom out -0.6904 -1.1993
+\i (01:33:21) trapsize 52
+\i (01:34:43) pick grid -0.8257 -1.2822
+\t (01:34:43) last pick:  -0.8500 -1.3000
+\i (01:34:43) prepopup -0.8257 -1.2832
+\i (01:34:45) pop dyn_option_select @:@Delete 
+\i (01:34:45) delete 
+\i (01:34:45) generaledit 
+\i (01:34:48) add pin 
+\t (01:34:48) Using 'SMD30REC14.pad'.
+\i (01:34:52) setwindow form.mini
+\i (01:34:52) FORM mini pad_browse  
+\i (01:35:01) fillin "Smd_Rect_W06_H11"
+\e (01:35:01) ERROR(SPMHAP-3): Problem loading 'Smd_Rect_W06_H11.pad'.
+\e (01:35:01) ERROR(SPMHA1-161): Cannot open the design because of database problems. Run the dbdoctor command on the design and try to open again.
+\i (01:35:02) setwindow pcb
+\i (01:35:02) prepopup -0.9851 -1.0546
+\i (01:35:07) rotate 
+\t (01:35:07) Spin the element(s).
+\i (01:35:12) zoom in 1 
+\i (01:35:12) setwindow pcb
+\i (01:35:12) zoom in -1.0218 -1.2560
+\i (01:35:12) trapsize 26
+\i (01:35:26) iangle -89.943
+\t (01:35:26) last angle:  +270.057 Degrees
+\t (01:35:26) Pin rotated by '270.057' degrees.
+\t (01:35:26) Using 'SMD30REC14.pad'.
+\i (01:35:27) zoom out 1 
+\i (01:35:27) setwindow pcb
+\i (01:35:27) zoom out -0.9998 -1.0493
+\i (01:35:27) trapsize 52
+\i (01:36:03) pick grid -0.9326 -1.3755
+\t (01:36:03) last pick:  -0.9500 -1.4000
+\t (01:36:03) Using 'SMD30REC14.pad'.
+\i (01:36:10) done 
+\t (01:36:10) Exiting from Add Pin.
+\i (01:36:10) generaledit 
+\i (01:36:11) prepopup -0.3328 -1.3168
+\i (01:36:12) pick grid -0.4492 -1.4206
+\t (01:36:12) last pick:  -0.4500 -1.4000
+\i (01:36:12) pick grid -0.4492 -1.4206
+\t (01:36:12) last pick:  -0.4500 -1.4000
+\i (01:36:13) prepopup -0.4492 -1.4206
+\i (01:36:13) pop dyn_option_select @:@Delete 
+\i (01:36:13) delete 
+\i (01:36:14) generaledit 
+\i (01:36:14) pick grid -0.3254 -1.3713
+\t (01:36:14) last pick:  -0.3500 -1.3500
+\i (01:36:14) pick grid dbl -0.3254 -1.3713
+\t (01:36:14) last pick:  -0.3500 -1.3500
+\i (01:36:15) prepopup -0.3254 -1.3713
+\i (01:36:16) pop dyn_option_select @:@Delete 
+\i (01:36:16) delete 
+\i (01:36:16) generaledit 
+\i (01:36:16) zoom out 1 
+\i (01:36:16) setwindow pcb
+\i (01:36:16) zoom out -0.8424 -1.3986
+\i (01:36:16) trapsize 105
+\i (01:36:17) prepopup -0.9746 -1.5244
+\i (01:36:19) pop dyn_option_select @:@Delete 
+\i (01:36:19) delete 
+\i (01:36:19) generaledit 
+\i (01:36:41) save 
+\i (01:36:43) fillin yes 
+\e (01:36:43) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (01:36:43) generaledit 
+\i (01:36:46) setwindow text
+\i (01:36:46) close
+\i (01:36:49) add pin 
+\t (01:36:49) Using 'SMD30REC14.pad'.
+\i (01:36:51) setwindow form.mini
+\i (01:36:51) FORM mini pad_browse  
+\i (01:37:00) fillin "smd_rect_w06_h11.pad"
+\e (01:37:00) ERROR(SPMHAP-7): Illegal pad name.
+\i (01:37:01) setwindow pcb
+\i (01:37:01) prepopup -0.8257 -1.1490
+\i (01:37:02) rotate 
+\t (01:37:02) Spin the element(s).
+\i (01:37:04) zoom in 1 
+\i (01:37:04) setwindow pcb
+\i (01:37:04) zoom in -0.8047 -1.0043
+\i (01:37:04) trapsize 52
+\i (01:37:04) zoom in 1 
+\i (01:37:04) setwindow pcb
+\i (01:37:04) zoom in -0.8088 -1.0021
+\i (01:37:04) trapsize 26
+\i (01:37:05) zoom in 1 
+\i (01:37:05) setwindow pcb
+\i (01:37:05) zoom in -0.8491 -0.9471
+\i (01:37:05) trapsize 13
+\i (01:37:06) zoom in 1 
+\i (01:37:06) setwindow pcb
+\i (01:37:06) zoom in -0.8491 -0.9470
+\i (01:37:06) trapsize 7
+\i (01:37:08) zoom out 1 
+\i (01:37:08) setwindow pcb
+\i (01:37:08) zoom out -0.8519 -0.9386
+\i (01:37:08) trapsize 13
+\i (01:37:09) zoom out 1 
+\i (01:37:09) setwindow pcb
+\i (01:37:09) zoom out -0.8519 -0.9386
+\i (01:37:09) trapsize 26
+\i (01:37:12) iangle 89.973
+\t (01:37:12) last angle:  +89.973 Degrees
+\t (01:37:12) Pin rotated by '89.973' degrees.
+\t (01:37:12) Using 'SMD30REC14.pad'.
+\i (01:37:13) zoom out 1 
+\i (01:37:13) setwindow pcb
+\i (01:37:13) zoom out -0.8499 -1.1498
+\i (01:37:13) trapsize 52
+\i (01:37:13) zoom out 1 
+\i (01:37:13) setwindow pcb
+\i (01:37:13) zoom out -0.8499 -1.1498
+\i (01:37:13) trapsize 105
+\i (01:37:25) setwindow form.mini
+\i (01:37:25) FORM mini x_count 1 
+\i (01:37:28) FORM mini next_pin_number 1 
+\i (01:37:35) setwindow pcb
+\i (01:37:35) pick grid -0.9253 -1.3764
+\t (01:37:35) last pick:  -0.9500 -1.4000
+\t (01:37:35) Using 'SMD30REC14.pad'.
+\i (01:37:48) pick grid 0.0017 -1.3764
+\t (01:37:48) last pick:  0.0000 -1.4000
+\t (01:37:48) Using 'SMD30REC14.pad'.
+\i (01:37:49) zoom out 1 
+\i (01:37:49) setwindow pcb
+\i (01:37:49) zoom out 0.5742 -1.2904
+\i (01:37:49) trapsize 210
+\i (01:37:51) zoom in 1 
+\i (01:37:51) setwindow pcb
+\i (01:37:51) zoom in 0.9267 -1.3281
+\i (01:37:51) trapsize 105
+\i (01:37:59) pick grid 0.9372 -1.3763
+\t (01:37:59) last pick:  0.9500 -1.4000
+\t (01:37:59) Using 'SMD30REC14.pad'.
+\i (01:38:00) zoom out 1 
+\i (01:38:00) setwindow pcb
+\i (01:38:00) zoom out 0.9372 -1.3784
+\i (01:38:00) trapsize 210
+\i (01:38:00) zoom out 1 
+\i (01:38:00) setwindow pcb
+\i (01:38:00) zoom out 0.9373 -1.3784
+\i (01:38:00) trapsize 419
+\i (01:38:01) zoom in 1 
+\i (01:38:01) setwindow pcb
+\i (01:38:01) zoom in 1.6107 -1.3926
+\i (01:38:02) trapsize 210
+\i (01:38:02) zoom in 1 
+\i (01:38:02) setwindow pcb
+\i (01:38:02) zoom in 1.6108 -1.3926
+\i (01:38:02) trapsize 105
+\i (01:38:02) zoom out 1 
+\i (01:38:02) setwindow pcb
+\i (01:38:02) zoom out 1.6485 -1.4072
+\i (01:38:02) trapsize 210
+\i (01:38:07) done 
+\t (01:38:07) Exiting from Add Pin.
+\i (01:38:07) generaledit 
+\i (01:38:39) zoom in 1 
+\i (01:38:39) setwindow pcb
+\i (01:38:39) zoom in 0.0378 -1.6883
+\i (01:38:39) trapsize 105
+\i (01:38:39) zoom in 1 
+\i (01:38:39) setwindow pcb
+\i (01:38:39) zoom in 0.0379 -1.6883
+\i (01:38:39) trapsize 52
+\i (01:39:31) zoom out 1 
+\i (01:39:31) setwindow pcb
+\i (01:39:31) zoom out 0.3724 -1.7879
+\i (01:39:31) trapsize 105
+\i (01:39:31) zoom out 1 
+\i (01:39:31) setwindow pcb
+\i (01:39:31) zoom out 0.3725 -1.7879
+\i (01:39:31) trapsize 210
+\i (01:39:31) zoom out 1 
+\i (01:39:31) setwindow pcb
+\i (01:39:31) zoom out 0.3725 -1.7879
+\i (01:39:31) trapsize 419
+\i (01:39:31) zoom out 1 
+\i (01:39:31) setwindow pcb
+\i (01:39:31) zoom out 1.2164 -2.8104
+\i (01:39:31) trapsize 419
+\i (01:39:32) zoom in 1 
+\i (01:39:32) setwindow pcb
+\i (01:39:32) zoom in -0.0839 -2.1896
+\i (01:39:32) trapsize 210
+\i (01:39:32) zoom in 1 
+\i (01:39:32) setwindow pcb
+\i (01:39:32) zoom in -0.0838 -2.1896
+\i (01:39:32) trapsize 105
+\i (01:39:32) zoom out 1 
+\i (01:39:32) setwindow pcb
+\i (01:39:32) zoom out -0.0838 -2.1896
+\i (01:39:32) trapsize 210
+\i (01:39:33) zoom out 1 
+\i (01:39:33) setwindow pcb
+\i (01:39:33) zoom out -0.0837 -2.1896
+\i (01:39:33) trapsize 419
+\i (01:39:33) zoom in 1 
+\i (01:39:33) setwindow pcb
+\i (01:39:33) zoom in -0.0839 -2.1896
+\i (01:39:33) trapsize 210
+\i (01:40:17) add pin 
+\t (01:40:17) Using 'SMD30REC14.pad'.
+\i (01:40:18) setwindow form.mini
+\i (01:40:18) FORM mini pad_browse  
+\i (01:40:26) fillin "smd_rect_w06_h11.pad"
+\e (01:40:26) ERROR(SPMHAP-7): Illegal pad name.
+\i (01:40:28) setwindow pcb
+\i (01:40:28) prepopup 1.0991 0.5747
+\i (01:40:29) rotate 
+\t (01:40:29) Spin the element(s).
+\i (01:40:30) zoom in 1 
+\i (01:40:30) setwindow pcb
+\i (01:40:30) zoom in 1.0529 0.7844
+\i (01:40:30) trapsize 105
+\i (01:40:30) zoom in 1 
+\i (01:40:30) setwindow pcb
+\i (01:40:30) zoom in 1.0529 0.7844
+\i (01:40:30) trapsize 52
+\i (01:40:30) zoom in 1 
+\i (01:40:30) setwindow pcb
+\i (01:40:30) zoom in 1.0529 0.7844
+\i (01:40:30) trapsize 26
+\i (01:40:33) iangle 89.974
+\t (01:40:33) last angle:  +89.974 Degrees
+\t (01:40:33) Pin rotated by '89.974' degrees.
+\t (01:40:33) Using 'SMD30REC14.pad'.
+\i (01:40:34) zoom out 1 
+\i (01:40:34) setwindow pcb
+\i (01:40:34) zoom out 1.0970 0.5579
+\i (01:40:34) trapsize 52
+\i (01:40:34) zoom out 1 
+\i (01:40:34) setwindow pcb
+\i (01:40:34) zoom out 1.0970 0.5579
+\i (01:40:34) trapsize 105
+\i (01:40:34) zoom out 1 
+\i (01:40:34) setwindow pcb
+\i (01:40:34) zoom out 1.0970 0.5578
+\i (01:40:34) trapsize 210
+\i (01:40:51) pick grid 0.9544 1.4220
+\t (01:40:51) last pick:  0.9500 1.4000
+\t (01:40:51) Using 'SMD30REC14.pad'.
+\i (01:40:59) pick grid -0.9626 1.4178
+\t (01:40:59) last pick:  -0.9500 1.4000
+\t (01:40:59) Using 'SMD30REC14.pad'.
+\i (01:41:01) done 
+\t (01:41:01) Exiting from Add Pin.
+\i (01:41:01) generaledit 
+\i (01:41:35) zoom out 1 
+\i (01:41:35) setwindow pcb
+\i (01:41:35) zoom out 0.1616 -0.9270
+\i (01:41:35) trapsize 419
+\i (01:41:35) zoom out 1 
+\i (01:41:35) setwindow pcb
+\i (01:41:35) zoom out 1.3171 -2.3909
+\i (01:41:35) trapsize 419
+\i (01:41:37) pick grid 0.7802 -3.0705
+\t (01:41:37) last pick:  0.8000 -3.0500
+\i (01:41:37) prepopup 0.7802 -3.0705
+\i (01:41:39) pop dyn_option_select @:@Spin 
+\i (01:41:39) spin 
+\i (01:41:43) iangle 0.000
+\t (01:41:43) last angle:  89.973 Degrees
+\i (01:41:43) generaledit 
+\i (01:41:44) zoom in 1 
+\i (01:41:44) setwindow pcb
+\i (01:41:44) zoom in 0.9312 -3.0369
+\i (01:41:44) trapsize 210
+\i (01:41:45) prepopup 0.6376 -2.8145
+\i (01:41:51) pop dyn_option_select @:@Spin 
+\i (01:41:51) spin 
+\i (01:41:55) iangle -90.000
+\t (01:41:55) last angle:  359.973 Degrees
+\i (01:41:55) generaledit 
+\i (01:41:56) drag_start grid 0.8054 -2.3321
+\i (01:41:56) move 
+\t (01:41:56) last pick:  0.9494 -2.6700
+\t (01:41:56) Pick new location for the element(s).
+\i (01:42:00) drag_stop grid 1.1368 -2.1518
+\i (01:42:00) generaledit 
+\i (01:42:02) pick grid -0.5243 -2.9781
+\t (01:42:02) last pick:  -0.5000 -3.0000
+\i (01:42:02) prepopup -0.5243 -2.9781
+\i (01:42:03) pop dyn_option_select @:@Spin 
+\i (01:42:04) spin 
+\i (01:42:05) iangle -90.000
+\t (01:42:05) last angle:  359.973 Degrees
+\i (01:42:05) generaledit 
+\i (01:42:06) drag_start grid -0.2055 -2.4496
+\i (01:42:06) move 
+\t (01:42:06) last pick:  -0.0006 -2.6700
+\t (01:42:06) Pick new location for the element(s).
+\i (01:42:10) drag_stop grid 0.1636 -2.1014
+\i (01:42:10) generaledit 
+\i (01:42:13) drag_start grid -0.0923 -2.1140
+\i (01:42:13) move 
+\t (01:42:13) last pick:  0.1500 -2.1000
+\t (01:42:13) Pick new location for the element(s).
+\i (01:42:21) drag_stop grid 0.1846 -2.1182
+\i (01:42:21) generaledit 
+\i (01:42:23) zoom in 1 
+\i (01:42:23) setwindow pcb
+\i (01:42:23) zoom in -0.1929 -2.4832
+\i (01:42:23) trapsize 105
+\i (01:42:26) drag_start grid -0.1006 -2.0994
+\i (01:42:26) move 
+\t (01:42:26) last pick:  0.2000 -2.1000
+\t (01:42:26) Pick new location for the element(s).
+\i (01:42:33) drag_stop grid 0.1888 -2.1287
+\i (01:42:33) generaledit 
+\i (01:42:34) zoom out 1 
+\i (01:42:34) setwindow pcb
+\i (01:42:34) zoom out -0.4760 -2.5146
+\i (01:42:34) trapsize 210
+\i (01:42:36) pick grid -1.1220 -2.8838
+\t (01:42:36) last pick:  -1.1000 -2.9000
+\i (01:42:36) prepopup -1.1220 -2.8838
+\i (01:42:37) pop dyn_option_select @:@Spin 
+\i (01:42:37) spin 
+\i (01:42:39) iangle -90.000
+\t (01:42:39) last angle:  359.973 Degrees
+\i (01:42:39) generaledit 
+\i (01:42:41) drag_start grid -1.1514 -2.3301
+\i (01:42:41) move 
+\t (01:42:41) last pick:  -0.9506 -2.6700
+\t (01:42:41) Pick new location for the element(s).
+\i (01:42:44) drag_stop grid -0.7361 -2.1413
+\i (01:42:44) generaledit 
+\i (01:42:55) zoom out 1 
+\i (01:42:55) setwindow pcb
+\i (01:42:55) zoom out 0.9418 -0.0650
+\i (01:42:55) trapsize 419
+\i (01:42:57) zoom in 1 
+\i (01:42:57) setwindow pcb
+\i (01:42:57) zoom in 0.8725 -0.0503
+\i (01:42:57) trapsize 210
+\i (01:42:59) pick grid 0.7761 -0.0083
+\t (01:42:59) last pick:  0.8000 0.0000
+\i (01:42:59) prepopup 0.7803 -0.0083
+\i (01:43:00) pop dyn_option_select @:@Spin 
+\i (01:43:00) spin 
+\i (01:43:02) iangle -90.000
+\t (01:43:02) last angle:  359.974 Degrees
+\i (01:43:02) generaledit 
+\i (01:43:04) drag_start grid 0.8390 0.5706
+\i (01:43:04) move 
+\t (01:43:04) last pick:  0.9494 0.1300
+\t (01:43:04) Pick new location for the element(s).
+\i (01:43:07) drag_stop grid 1.1326 1.4808
+\i (01:43:07) generaledit 
+\i (01:43:08) pick grid -1.4429 -0.1509
+\t (01:43:08) last pick:  -1.4500 -0.1500
+\i (01:43:09) prepopup -1.4387 -0.1509
+\i (01:43:10) pop dyn_option_select @:@Spin 
+\i (01:43:10) spin 
+\i (01:43:11) iangle -90.000
+\t (01:43:11) last angle:  359.974 Degrees
+\i (01:43:11) generaledit 
+\i (01:43:12) drag_start grid -1.0654 0.5412
+\i (01:43:12) move 
+\t (01:43:13) last pick:  -0.9506 0.1300
+\t (01:43:13) Pick new location for the element(s).
+\i (01:43:17) drag_stop grid -0.7634 1.4598
+\i (01:43:17) generaledit 
+\i (01:43:21) done 
+\i (01:43:21) generaledit 
+\i (01:43:23) pick grid 2.1394 -0.9899
+\t (01:43:23) last pick:  2.1500 -1.0000
+\i (01:45:24) shape add circle 
+\i (01:45:35) shape add circle 
+\i (01:45:49) shape add circle 
+\i (01:45:57) setwindow form.mini
+\i (01:45:57) FORM mini cir_place YES 
+\i (01:46:21) FORM mini class PACKAGE GEOMETRY 
+\i (01:46:24) FORM mini subclass SILKSCREEN_TOP 
+\i (01:46:36) FORM mini cir_radius 0.3000 
+\i (01:46:39) setwindow pcb
+\i (01:46:39) pick grid -0.9269 -0.5200
+\t (01:46:39) last pick:  -0.9500 -0.5000
+\i (01:46:42) done 
+\i (01:46:42) generaledit 
+\i (01:46:57) zoom in 1 
+\i (01:46:57) setwindow pcb
+\i (01:46:57) zoom in 1.2753 -0.4362
+\i (01:46:57) trapsize 105
+\i (01:46:57) zoom in 1 
+\i (01:46:57) setwindow pcb
+\i (01:46:57) zoom in 1.2648 -0.4131
+\i (01:46:57) trapsize 52
+\i (01:46:57) zoom out 1 
+\i (01:46:57) setwindow pcb
+\i (01:46:57) zoom out 1.2868 -0.2117
+\i (01:46:57) trapsize 105
+\i (01:46:59) zoom out 1 
+\i (01:46:59) setwindow pcb
+\i (01:46:59) zoom out 1.1274 0.3042
+\i (01:46:59) trapsize 210
+\i (01:46:59) zoom out 1 
+\i (01:46:59) setwindow pcb
+\i (01:46:59) zoom out 1.1275 0.3043
+\i (01:46:59) trapsize 419
+\i (01:47:00) zoom in 1 
+\i (01:47:00) setwindow pcb
+\i (01:47:00) zoom in 1.3003 0.9228
+\i (01:47:00) trapsize 210
+\i (01:47:00) zoom in 1 
+\i (01:47:00) setwindow pcb
+\i (01:47:00) zoom in 1.3004 0.9228
+\i (01:47:00) trapsize 105
+\i (01:47:00) zoom in 1 
+\i (01:47:00) setwindow pcb
+\i (01:47:00) zoom in 1.2479 0.9962
+\i (01:47:00) trapsize 52
+\i (01:47:08) zoom out 1 
+\i (01:47:08) setwindow pcb
+\i (01:47:08) zoom out 1.1923 0.8914
+\i (01:47:08) trapsize 105
+\i (01:47:09) zoom out 1 
+\i (01:47:09) setwindow pcb
+\i (01:47:09) zoom out 0.2444 0.7550
+\i (01:47:09) trapsize 210
+\i (01:47:09) zoom out 1 
+\i (01:47:09) setwindow pcb
+\i (01:47:09) zoom out 0.0335 0.7551
+\i (01:47:09) trapsize 419
+\i (01:47:09) zoom out 1 
+\i (01:47:09) setwindow pcb
+\i (01:47:09) zoom out -3.1208 -0.1678
+\i (01:47:09) trapsize 419
+\i (01:47:09) zoom out 1 
+\i (01:47:09) setwindow pcb
+\i (01:47:09) zoom out -3.1208 -0.1678
+\i (01:47:09) trapsize 419
+\i (01:47:09) zoom out 1 
+\i (01:47:09) setwindow pcb
+\i (01:47:09) zoom out -3.1208 -0.1594
+\i (01:47:09) trapsize 419
+\i (01:47:09) zoom in 1 
+\i (01:47:09) setwindow pcb
+\i (01:47:09) zoom in -1.1661 0.6963
+\i (01:47:09) trapsize 210
+\i (01:47:09) zoom in 1 
+\i (01:47:09) setwindow pcb
+\i (01:47:09) zoom in -1.1702 0.7006
+\i (01:47:09) trapsize 105
+\i (01:47:09) zoom in 1 
+\i (01:47:09) setwindow pcb
+\i (01:47:09) zoom in -1.1702 0.7006
+\i (01:47:09) trapsize 52
+\i (01:47:17) zoom out 1 
+\i (01:47:17) setwindow pcb
+\i (01:47:17) zoom out -1.3118 0.9533
+\i (01:47:17) trapsize 105
+\i (01:47:17) zoom out 1 
+\i (01:47:17) setwindow pcb
+\i (01:47:17) zoom out -0.9322 0.7142
+\i (01:47:17) trapsize 210
+\i (01:47:17) zoom out 1 
+\i (01:47:17) setwindow pcb
+\i (01:47:17) zoom out -0.9279 0.7143
+\i (01:47:17) trapsize 419
+\i (01:47:18) zoom in 1 
+\i (01:47:18) setwindow pcb
+\i (01:47:18) zoom in -0.2097 1.7282
+\i (01:47:18) trapsize 210
+\i (01:47:19) zoom in 1 
+\i (01:47:19) setwindow pcb
+\i (01:47:19) zoom in -0.2264 1.5520
+\i (01:47:19) trapsize 105
+\i (01:47:20) zoom out 1 
+\i (01:47:20) setwindow pcb
+\i (01:47:20) zoom out -0.3292 1.2563
+\i (01:47:20) trapsize 210
+\i (01:47:23) pick grid -0.8996 1.2312
+\t (01:47:23) last pick:  -0.9000 1.2500
+\i (01:47:24) prepopup -0.8325 1.3738
+\i (01:47:26) pop dyn_option_select @:@Move 
+\i (01:47:26) move 
+\t (01:47:26) last pick:  -0.8500 1.3500
+\t (01:47:26) last pick:  -0.9500 1.4000
+\t (01:47:26) Pick new location for the element(s).
+\i (01:47:31) pick grid -0.9290 1.3990
+\t (01:47:31) last pick:  -0.9500 1.4000
+\i (01:47:31) generaledit 
+\i (01:47:33) done 
+\i (01:47:33) generaledit 
+\i (01:47:34) zoom in 1 
+\i (01:47:34) setwindow pcb
+\i (01:47:34) zoom in -0.9248 1.0005
+\i (01:47:34) trapsize 105
+\i (01:47:34) zoom in 1 
+\i (01:47:34) setwindow pcb
+\i (01:47:34) zoom in -0.9248 1.0005
+\i (01:47:34) trapsize 52
+\i (01:47:34) zoom out 1 
+\i (01:47:34) setwindow pcb
+\i (01:47:34) zoom out -1.0423 1.0205
+\i (01:47:34) trapsize 105
+\i (01:47:45) zoom out 1 
+\i (01:47:45) setwindow pcb
+\i (01:47:45) zoom out 0.7258 0.7981
+\i (01:47:45) trapsize 210
+\i (01:47:46) zoom in 1 
+\i (01:47:46) setwindow pcb
+\i (01:47:46) zoom in 1.4054 1.1128
+\i (01:47:46) trapsize 105
+\i (01:47:46) zoom in 1 
+\i (01:47:46) setwindow pcb
+\i (01:47:46) zoom in 1.4054 1.1128
+\i (01:47:46) trapsize 52
+\i (01:47:47) zoom out 1 
+\i (01:47:47) setwindow pcb
+\i (01:47:47) zoom out 1.2985 0.9870
+\i (01:47:47) trapsize 105
+\i (01:47:57) save 
+\i (01:47:59) fillin yes 
+\e (01:47:59) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (01:47:59) generaledit 
+\i (01:48:00) setwindow text
+\i (01:48:00) close
+\i (01:48:01) exit 
+\t (01:48:01)     Journal end - Mon Dec 19 10:42:37 2022

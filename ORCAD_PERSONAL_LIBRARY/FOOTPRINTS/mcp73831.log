@@ -1,18 +1,23 @@
 (---------------------------------------------------------------------)
 (                                                                     )
-(    DBDOCTOR                                                         )
+(    CREATE SYMBOL                                                    )
 (                                                                     )
 (    Drawing          : MCP73831.dra                                  )
 (    Software Version : 17.2S083                                      )
-(    Date/Time        : Mon Dec 19 12:49:44 2022                      )
+(    Date/Time        : Mon Dec 19 12:51:24 2022                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
+Create Symbol of type: PACKAGE
+    Directory = D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS
+    Name      = mcp73831.psm
+    User      = loris
+    Machine   = LAPTOP-PO6VQ7BQ
 
-Regenerating DRC
-  Original DRC errors:   0
-  Updated DRC errors:    0
-  DRC elapsed time:      00:00:00
 
-0 warnings, 0 errors detected, 0 errors  fixed.
+Create symbol started.
+ 
+
+Create symbol completed.
+

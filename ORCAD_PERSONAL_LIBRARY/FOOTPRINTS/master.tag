@@ -1,1 +1,1 @@
-smd_MAX1555.dra
+MCP73831.dra
