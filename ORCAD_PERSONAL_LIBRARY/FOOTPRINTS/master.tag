@@ -1,1 +1,1 @@
-MCP73831.dra
+JTAG.dra
