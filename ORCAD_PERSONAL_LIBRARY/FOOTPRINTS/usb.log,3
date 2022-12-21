@@ -2,16 +2,16 @@
 (                                                                     )
 (    CREATE SYMBOL                                                    )
 (                                                                     )
-(    Drawing          : TPS.dra                                       )
+(    Drawing          : USB.dra                                       )
 (    Software Version : 17.2S083                                      )
-(    Date/Time        : Tue Dec 20 16:27:54 2022                      )
+(    Date/Time        : Wed Dec 21 17:57:49 2022                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 Create Symbol of type: PACKAGE
     Directory = D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS
-    Name      = tps.psm
+    Name      = usb.psm
     User      = loris
     Machine   = LAPTOP-PO6VQ7BQ
 

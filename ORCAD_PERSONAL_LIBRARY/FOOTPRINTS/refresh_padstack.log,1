@@ -1,0 +1,52 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : MCU.dra                                       )
+(    Software Version : 17.2S083                                      )
+(    Date/Time        : Wed Dec 21 16:10:47 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Wed Dec 21 16:10:47 2022				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/MCU.dra'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           D:/Cadence/share/local/pcb/symbols 
+           D:/Cadence/share/pcb/pcb_lib/symbols 
+           D:/Cadence/share/pcb/allegrolib/symbols 
+           D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           D:/Cadence/share/local/pcb/padstacks 
+           D:/Cadence/share/pcb/pcb_lib/symbols 
+           D:/Cadence/share/pcb/allegrolib/symbols 
+           D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/PADSTACK/ 
+
+
+------ Pad Stack Refresh Messages ------
+
+'SMD_ROUNDRECT_W06_H025_R005'  pad stack refresh starting.
+
+     'SMD_ROUNDRECT_W06_H025_R005'  pad stack refreshed successfully.
+     
+'SMD_ROUNDRECT_H28'  pad stack refresh starting.
+
+     'SMD_ROUNDRECT_H28'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.

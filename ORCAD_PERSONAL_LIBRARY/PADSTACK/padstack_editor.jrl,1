@@ -1,6 +1,11 @@
 \t (00:00:00) padstack_editor 17.2 S083 Windows SPB 64-bit Edition
-\t (00:00:00)     Journal start - Mon Dec 19 12:58:09 2022
-\t (00:00:00)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=20128 CPUs=12
-\t (00:00:00) CmdLine= d:\cadence\tools\bin\padstack_editor.exe D:\Cadence\cdssetup\OrCAD_Capture\17.2.0\ORCAD_PERSONAL_LIBRARY\PADSTACK\th_circle_d11.pad
+\t (00:00:00)     Journal start - Wed Dec 21 12:53:30 2022
+\t (00:00:00)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=13524 CPUs=12
+\t (00:00:00) CmdLine= d:\cadence\tools\bin\padstack_editor.exe D:\Cadence\cdssetup\OrCAD_Capture\17.2.0\ORCAD_PERSONAL_LIBRARY\PADSTACK\smd_roundrect_w06_h025_r005.pad
 \t (00:00:00) 
-\t (00:00:48)     Journal end - Mon Dec 19 12:58:58 2022
+\d (00:00:01) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:03) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:06) QtSignal MainWindow Save triggered
+\d (00:04:58) QtSignal MainWindow SaveAs triggered
+\d (00:05:15) QtFillin smd_roundrect_w055_h02.pad
+\t (00:05:19)     Journal end - Wed Dec 21 12:58:49 2022
