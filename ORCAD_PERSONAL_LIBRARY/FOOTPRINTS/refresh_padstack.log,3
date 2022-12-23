@@ -2,19 +2,19 @@
 (                                                                     )
 (    Refresh Padstack                                                 )
 (                                                                     )
-(    Drawing          : USB.dra                                       )
+(    Drawing          : MS12.dra                                      )
 (    Software Version : 17.2S083                                      )
-(    Date/Time        : Fri Dec 23 08:56:15 2022                      )
+(    Date/Time        : Fri Dec 23 08:55:02 2022                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Fri Dec 23 08:56:15 2022				Page     1
+Fri Dec 23 08:55:02 2022				Page     1
 
 
 ------ Pad Stack Refresh Options ------
 
-Input design  = 'D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/USB.dra'
+Input design  = 'D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/MS12.dra'
 Output design = ''
 Reset symbol text and size locations   = 'NO'
 
@@ -41,20 +41,8 @@ PADPATH =  .
 
 ------ Pad Stack Refresh Messages ------
 
-'SMD_RECT_W03_H115'  pad stack refresh starting.
+'TH_CIRCLE_D09'  pad stack refresh starting.
 
-     'SMD_RECT_W03_H115'  pad stack refreshed successfully.
-     
-'SMD_RECT_W218_H200'  pad stack refresh starting.
-
-     'SMD_RECT_W218_H200'  pad stack refreshed successfully.
-     
-'TH_CIRCLE_D065'  pad stack refresh starting.
-
-     'TH_CIRCLE_D065'  pad stack refreshed successfully.
-     
-'SMD_RECT_W06_H115'  pad stack refresh starting.
-
-     'SMD_RECT_W06_H115'  pad stack refreshed successfully.
+     'TH_CIRCLE_D09'  pad stack refreshed successfully.
      
 Completed refreshing all pad stacks successfully.

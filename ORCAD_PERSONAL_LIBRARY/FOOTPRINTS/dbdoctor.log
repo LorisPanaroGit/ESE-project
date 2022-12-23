@@ -2,17 +2,17 @@
 (                                                                     )
 (    DBDOCTOR                                                         )
 (                                                                     )
-(    Drawing          : USB.dra                                       )
+(    Drawing          : PATCH_an043.dra                               )
 (    Software Version : 17.2S083                                      )
-(    Date/Time        : Wed Dec 21 18:01:31 2022                      )
+(    Date/Time        : Fri Dec 23 13:09:28 2022                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 
 Regenerating DRC
-  Original DRC errors:   0
-  Updated DRC errors:    0
+  Original DRC errors:   2
+  Updated DRC errors:    2
   DRC elapsed time:      00:00:00
 
 0 warnings, 0 errors detected, 0 errors  fixed.

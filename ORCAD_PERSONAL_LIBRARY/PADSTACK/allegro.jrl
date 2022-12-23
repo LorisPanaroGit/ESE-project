@@ -1,19 +1,35 @@
-\t (00:00:05) allegro 17.2 S083 Windows SPB 64-bit Edition
-\t (00:00:05)     Journal start - Fri Dec 16 16:24:16 2022
-\t (00:00:05)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=6588 CPUs=12
-\t (00:00:05) CmdLine= D:\Cadence\tools\bin\allegro.exe
-\t (00:00:05) 
-   (00:00:05) Loading axlcore.cxt 
-\t (00:00:05) Opening existing design...
-\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged square_L123
-\d (00:00:05) Design opened: D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/PADSTACK/square_L123.dra
-\i (00:00:06) trapsize 31
-\i (00:00:06) trapsize 32
-\i (00:00:06) trapsize 31
-\i (00:00:06) trapsize 31
-\i (00:00:07) generaledit 
-\i (00:00:09) open 
-\i (00:00:43) fillin "menu_cancel"
-\i (00:00:43) generaledit 
-\i (00:01:29) exit 
-\t (00:01:29)     Journal end - Fri Dec 16 16:25:40 2022
+\t (00:00:00) allegro 17.2 S083 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Fri Dec 23 09:31:57 2022
+\t (00:00:00)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=8772 CPUs=12
+\t (00:00:00) CmdLine= d:\cadence\tools\bin\allegro.exe D:\Cadence\cdssetup\OrCAD_Capture\17.2.0\ORCAD_PERSONAL_LIBRARY\PADSTACK\square_L123.dra
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:00) Opening existing design...
+\i (00:00:01) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged square_L123
+\d (00:00:01) Design opened: D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/PADSTACK/square_L123.dra
+\i (00:00:01) trapsize 31
+\i (00:00:01) trapsize 32
+\i (00:00:01) trapsize 31
+\i (00:00:01) trapsize 32
+\i (00:00:02) trapsize 32
+\i (00:00:02) generaledit 
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out 0.1915 1.0069
+\i (00:00:05) trapsize 65
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out 0.1915 0.8460
+\t (00:00:05) Grids are drawn 0.0200, 0.0200 apart for enhanced viewing.
+\i (00:00:05) trapsize 126
+\i (00:00:16) pick grid 0.1579 0.4247
+\t (00:00:16) last pick:  0.1600 0.4200
+\i (00:00:17) pick grid 0.0824 0.4650
+\t (00:00:17) last pick:  0.0800 0.4700
+\i (00:00:17) pick grid 0.1000 0.4574
+\t (00:00:17) last pick:  0.1000 0.4600
+\i (00:00:22) shape add rect 
+\i (00:00:30) exit 
+\e (00:00:30) Do you want to save the changes you made to square_L123.dra?
+\i (00:00:32) fillin no 
+\t (00:00:32)     Journal end - Fri Dec 23 09:32:29 2022

@@ -1,859 +1,234 @@
-\t (00:00:02) allegro 17.2 S083 Windows SPB 64-bit Edition
-\t (00:00:02)     Journal start - Wed Dec 21 17:12:48 2022
-\t (00:00:02)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=14248 CPUs=12
-\t (00:00:02) CmdLine= D:\Cadence\tools\bin\allegro.exe
-\t (00:00:02) 
-   (00:00:02) Loading axlcore.cxt 
-\t (00:00:04) Opening existing design...
-\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged MCU
-\d (00:00:04) Design opened: D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/MCU.dra
-\i (00:00:05) trapsize 336
-\i (00:00:05) trapsize 345
-\i (00:00:05) trapsize 356
-\i (00:00:05) trapsize 345
-\i (00:00:05) trapsize 336
-\i (00:00:05) trapsize 336
-\i (00:00:06) generaledit 
-\i (00:00:09) new 
-\i (00:00:23) newdrawfillin "USB.dra" "Package Symbol"
-\t (00:00:23) Starting new design...
-\i (00:00:23) trapsize 336
-\i (00:00:23) trapsize 336
-\i (00:00:25) QtSignal spbdip_extents_group spbdip_extheight_edit editingFinished 8.0000
-\i (00:00:25) QtSignal SPBDesignInitPrompt spbdip_ok_button clicked
-\i (00:00:25) generaledit 
-\i (00:00:57) prmed 
-\i (00:01:00) setwindow form.prmedit
-\i (00:01:00) FORM prmedit display_padless_holes YES 
-\i (00:01:00) FORM prmedit display_non_plated_holes YES 
-\i (00:01:01) FORM prmedit display_backdrill_holes YES 
-\i (00:01:05) FORM prmedit display_plated_holes YES 
-\i (00:01:06) FORM prmedit display_thermal YES 
-\i (00:01:07) FORM prmedit view_grids_button  
-\t (00:01:07) Spacing fields allow simple equations to aid calculations; prefix with =
-\i (00:01:10) setwindow form.grid
-\i (00:01:10) FORM grid done  
-\i (00:01:12) setwindow form.prmedit
-\i (00:01:12) FORM prmedit design  
-\i (00:01:19) FORM prmedit x -8.0000 
-\i (00:01:22) FORM prmedit y -8.0000 
-\i (00:01:27) FORM prmedit width 16.0000 
-\i (00:01:33) FORM prmedit height 16.0000 
-\i (00:01:33) FORM prmedit apply  
-\i (00:01:33) setwindow pcb
-\i (00:01:33) trapsize 336
-\i (00:01:34) trapsize 344
-\i (00:01:34) trapsize 336
-\i (00:01:35) setwindow form.prmedit
-\i (00:01:35) FORM prmedit display  
-\i (00:01:38) FORM prmedit view_grids_button  
-\t (00:01:38) Spacing fields allow simple equations to aid calculations; prefix with =
-\i (00:01:48) setwindow form.grid
-\i (00:01:48) FORM grid non_etch non_etch_x_grids 0.1 
-\i (00:01:52) FORM grid non_etch non_etch_y_grids 0.1 
-\i (00:01:55) FORM grid top subclass_x_grids 0.1 
-\i (00:01:57) FORM grid top subclass_y_grids 0.1 
-\i (00:01:59) FORM grid bottom subclass_x_grids 0.1 
-\i (00:02:00) FORM grid bottom subclass_y_grids 0.1 
-\i (00:02:00) FORM grid done  
-\i (00:02:02) setwindow form.prmedit
-\i (00:02:02) FORM prmedit display_grid YES 
-\i (00:02:04) FORM prmedit done  
-\i (00:02:04) setwindow pcb
-\i (00:02:04) generaledit 
-\i (00:02:06) zoom out 1 
-\i (00:02:06) setwindow pcb
-\i (00:02:06) zoom out -0.4497 -1.8725
-\i (00:02:06) trapsize 671
-\i (00:02:06) zoom out 1 
-\i (00:02:06) setwindow pcb
-\i (00:02:06) zoom out -0.8993 -3.7450
-\i (00:02:06) trapsize 671
-\i (00:02:06) zoom out 1 
-\i (00:02:06) setwindow pcb
-\i (00:02:06) zoom out -0.8993 -3.7450
-\i (00:02:06) trapsize 671
-\i (00:02:06) zoom out 1 
-\i (00:02:06) setwindow pcb
-\i (00:02:06) zoom out -0.8993 -3.7450
-\i (00:02:06) trapsize 671
-\i (00:02:06) zoom out 1 
-\i (00:02:06) setwindow pcb
-\i (00:02:06) zoom out -0.8993 -3.7450
-\i (00:02:06) trapsize 671
-\i (00:02:06) zoom out 1 
-\i (00:02:06) setwindow pcb
-\i (00:02:06) zoom out -0.8993 -3.7450
-\i (00:02:06) trapsize 671
-\i (00:02:06) zoom in 1 
-\i (00:02:06) setwindow pcb
-\i (00:02:06) zoom in -0.8993 -3.7450
-\i (00:02:06) trapsize 336
-\i (00:02:07) zoom in 1 
-\i (00:02:07) setwindow pcb
-\i (00:02:07) zoom in -0.8993 -3.7450
-\i (00:02:07) trapsize 168
-\i (00:02:07) zoom out 1 
-\i (00:02:07) setwindow pcb
-\i (00:02:07) zoom out 0.0135 -2.7315
-\i (00:02:07) trapsize 336
-\i (00:02:07) zoom out 1 
-\i (00:02:07) setwindow pcb
-\i (00:02:07) zoom out 0.0135 -2.7315
-\i (00:02:07) trapsize 671
-\i (00:02:07) zoom out 1 
-\i (00:02:07) setwindow pcb
-\i (00:02:07) zoom out 2.7517 0.3087
-\i (00:02:07) trapsize 671
-\i (00:05:46) prmed 
-\i (00:05:51) setwindow form.prmedit
-\i (00:05:51) FORM prmedit design  
-\i (00:06:02) FORM prmedit y 0.0000 
-\i (00:06:02) FORM prmedit done  
-\i (00:06:02) setwindow pcb
-\i (00:06:02) trapsize 671
-\i (00:06:02) trapsize 691
-\i (00:06:03) trapsize 712
-\i (00:06:03) trapsize 691
-\i (00:06:03) trapsize 671
-\i (00:06:03) generaledit 
-\i (00:06:04) zoom out 1 
-\i (00:06:04) setwindow pcb
-\i (00:06:04) zoom out -1.1812 2.5906
-\i (00:06:04) trapsize 671
-\i (00:06:04) zoom out 1 
-\i (00:06:04) setwindow pcb
-\i (00:06:04) zoom out -1.1812 2.5906
-\i (00:06:04) trapsize 671
-\i (00:06:04) zoom out 1 
-\i (00:06:04) setwindow pcb
-\i (00:06:04) zoom out -1.1812 2.5906
-\i (00:06:04) trapsize 671
-\i (00:06:04) zoom out 1 
-\i (00:06:04) setwindow pcb
-\i (00:06:04) zoom out -1.1678 2.5906
-\i (00:06:04) trapsize 671
-\i (00:06:05) zoom out 1 
-\i (00:06:05) setwindow pcb
-\i (00:06:05) zoom out -0.9128 2.3758
-\i (00:06:05) trapsize 671
-\i (00:06:05) zoom out 1 
-\i (00:06:05) setwindow pcb
-\i (00:06:05) zoom out -0.9128 2.3758
-\i (00:06:05) trapsize 671
-\i (00:06:05) zoom out 1 
-\i (00:06:05) setwindow pcb
-\i (00:06:05) zoom out -0.9128 2.3624
-\i (00:06:05) trapsize 671
-\i (00:06:05) zoom out 1 
-\i (00:06:05) setwindow pcb
-\i (00:06:05) zoom out -0.4967 1.8121
-\i (00:06:05) trapsize 671
-\i (00:06:05) zoom out 1 
-\i (00:06:05) setwindow pcb
-\i (00:06:05) zoom out -0.4430 1.7315
-\i (00:06:05) trapsize 671
-\i (00:06:05) zoom out 1 
-\i (00:06:05) setwindow pcb
-\i (00:06:05) zoom out -0.4161 1.7315
-\i (00:06:05) trapsize 671
-\i (00:06:05) zoom out 1 
-\i (00:06:05) setwindow pcb
-\i (00:06:05) zoom out -0.4027 1.7315
-\i (00:06:05) trapsize 671
-\i (00:06:05) zoom out 1 
-\i (00:06:05) setwindow pcb
-\i (00:06:05) zoom out -0.4027 1.7181
-\i (00:06:05) trapsize 671
-\i (00:06:05) zoom out 1 
-\i (00:06:05) setwindow pcb
-\i (00:06:05) zoom out -0.3624 1.7047
-\i (00:06:05) trapsize 671
-\i (00:06:05) zoom out 1 
-\i (00:06:05) setwindow pcb
-\i (00:06:05) zoom out -0.3624 1.6779
-\i (00:06:05) trapsize 671
-\i (00:06:05) zoom out 1 
-\i (00:06:05) setwindow pcb
-\i (00:06:05) zoom out -0.3490 1.6779
-\i (00:06:05) trapsize 671
-\i (00:07:09) add pin 
-\i (00:07:11) setwindow form.mini
-\i (00:07:11) FORM mini pad_browse  
-\t (00:07:50) No valid name selected.
-\i (00:07:53) fillin "Smd_Rect_W218_H200"
-\t (00:07:53) Using 'SMD_RECT_W218_H200.pad'.
-\i (00:09:06) FORM mini y_count 2 
-\i (00:09:21) FORM mini y_spacing 3.9300 
-\i (00:09:23) FORM mini y_direction Up 
-\i (00:09:25) setwindow pcb
-\i (00:09:25) pick 5.11 y 2.85 
-\t (00:09:25) last pick:  5.1100 2.8500
-\t (00:09:25) Using 'SMD_RECT_W218_H200.pad'.
-\i (00:09:43) pick -5.11 y 2.85 
-\t (00:09:43) last pick:  -5.1100 2.8500
-\t (00:09:43) Using 'SMD_RECT_W218_H200.pad'.
-\i (00:09:56) done 
-\t (00:09:56) Exiting from Add Pin.
-\i (00:09:56) generaledit 
-\i (00:10:25) add pin 
-\t (00:10:25) Using 'SMD_RECT_W218_H200.pad'.
-\i (00:10:26) setwindow form.mini
-\i (00:10:26) FORM mini pad_browse  
-\t (00:10:44) No valid name selected.
-\i (00:10:47) fillin "Th_Circle_D065"
-\t (00:10:47) Using 'TH_CIRCLE_D065.pad'.
-\i (00:10:53) FORM mini y_count 1 
-\i (00:10:56) FORM mini x_count 2 
-\i (00:11:16) FORM mini x_spacing 5.7800 
-\i (00:12:19) setwindow pcb
-\i (00:12:19) pick -2.89 y 6.28 
-\t (00:12:19) last pick:  -2.8900 6.2800
-\t (00:12:19) Using 'TH_CIRCLE_D065.pad'.
-\i (00:12:28) done 
-\t (00:12:28) Exiting from Add Pin.
-\i (00:12:28) generaledit 
-\i (00:13:33) add pin 
-\t (00:13:33) Using 'TH_CIRCLE_D065.pad'.
-\i (00:13:35) setwindow form.mini
-\i (00:13:35) FORM mini pad_browse  
-\t (00:14:41) No valid name selected.
-\i (00:14:44) fillin "Smd_Rect_W06_H115"
-\t (00:14:44) Using 'SMD_RECT_W06_H115.pad'.
-\i (00:15:25) FORM mini x_spacing 0.8000 
-\i (00:16:22) setwindow pcb
-\i (00:16:22) pick -3.2 y 7.355 
-\t (00:16:22) last pick:  -3.2000 7.3550
-\t (00:16:22) Using 'SMD_RECT_W06_H115.pad'.
-\i (00:16:39) pick 3.2 y 7.355 
-\t (00:16:39) last pick:  3.2000 7.3550
-\t (00:16:39) Using 'SMD_RECT_W06_H115.pad'.
-\i (00:16:51) done 
-\t (00:16:51) Exiting from Add Pin.
-\i (00:16:52) generaledit 
-\i (00:16:56) move 
-\t (00:16:56) Select element(s) to move.
-\i (00:16:57) drag_start grid 0.9799 8.4966
-\i (00:16:58) drag_stop 3.8389 7.0201
-\i (00:16:59) pick grid 3.3288 7.6510
-\t (00:16:59) last pick:  3.3000 7.7000
-\t (00:16:59) Pick new location for the element(s).
-\i (00:17:02) undo 
-\i (00:17:02) trapsize 671
-\i (00:17:02) generaledit 
-\i (00:17:04) done 
-\i (00:17:04) generaledit 
-\i (00:17:05) zoom in 1 
-\i (00:17:05) setwindow pcb
-\i (00:17:05) zoom in 3.3020 7.8255
-\i (00:17:05) trapsize 336
-\i (00:17:05) zoom in 1 
-\i (00:17:05) setwindow pcb
-\i (00:17:05) zoom in 3.3020 7.8255
-\i (00:17:05) trapsize 168
-\i (00:17:07) prepopup 3.0537 7.6679
-\i (00:17:08) pop dyn_option_select @:@Delete 
-\i (00:17:08) delete 
-\i (00:17:09) generaledit 
-\i (00:17:11) prepopup 3.8322 7.1410
-\i (00:17:12) pop dyn_option_select @:@Delete 
-\i (00:17:12) delete 
-\i (00:17:12) generaledit 
-\i (00:17:13) zoom out 1 
-\i (00:17:13) setwindow pcb
-\i (00:17:13) zoom out 3.0973 7.5504
-\i (00:17:13) trapsize 336
-\i (00:17:13) zoom out 1 
-\i (00:17:13) setwindow pcb
-\i (00:17:13) zoom out 3.0973 7.5504
-\i (00:17:13) trapsize 671
-\i (00:17:14) zoom in 1 
-\i (00:17:14) setwindow pcb
-\i (00:17:14) zoom in -3.7450 7.3423
-\i (00:17:14) trapsize 336
-\i (00:17:28) zoom in 1 
-\i (00:17:28) setwindow pcb
-\i (00:17:28) zoom in -2.7450 6.5638
-\i (00:17:28) trapsize 168
-\i (00:17:29) zoom in 1 
-\i (00:17:29) setwindow pcb
-\i (00:17:29) zoom in -2.7449 6.5638
-\i (00:17:29) trapsize 84
-\i (00:17:29) zoom in 1 
-\i (00:17:29) setwindow pcb
-\i (00:17:29) zoom in -2.7449 6.5639
-\i (00:17:29) trapsize 42
-\i (00:17:30) zoom out 1 
-\i (00:17:30) setwindow pcb
-\i (00:17:30) zoom out -2.7448 6.5639
-\i (00:17:30) trapsize 84
-\i (00:17:31) zoom out 1 
-\i (00:17:31) setwindow pcb
-\i (00:17:31) zoom out -2.7449 6.5639
-\i (00:17:31) trapsize 168
-\i (00:17:38) zoom out 1 
-\i (00:17:38) setwindow pcb
-\i (00:17:38) zoom out -1.6274 6.3827
-\i (00:17:38) trapsize 336
-\i (00:17:38) zoom out 1 
-\i (00:17:38) setwindow pcb
-\i (00:17:38) zoom out -1.6273 6.3826
-\i (00:17:38) trapsize 671
-\i (00:22:18) refresh padstack 
-\i (00:22:21) setwindow form.rf_pad
-\i (00:22:21) FORM rf_pad execute  
-\t (00:22:21) Starting Refreshing padstacks...
-\t (00:22:21) Opening existing design...
-\i (00:22:21) setwindow pcb
-\i (00:22:21) trapsize 691
-\i (00:22:22) trapsize 712
-\i (00:22:22) trapsize 691
-\i (00:22:22) trapsize 691
-\i (00:22:22) trapsize 671
-\i (00:22:25) setwindow form.rf_pad
-\i (00:22:25) FORM rf_pad cancel  
-\i (00:22:26) setwindow pcb
-\i (00:22:26) generaledit 
-\i (00:22:45) add pin 
-\t (00:22:46) Using 'SMD_RECT_W06_H115.pad'.
-\i (00:22:57) setwindow form.mini
-\i (00:22:57) FORM mini x_direction Left 
-\i (00:23:01) setwindow pcb
-\i (00:23:01) pick 3.2 y 7.355 
-\t (00:23:01) last pick:  3.2000 7.3550
-\t (00:23:01) Using 'SMD_RECT_W06_H115.pad'.
-\i (00:23:09) done 
-\t (00:23:09) Exiting from Add Pin.
-\i (00:23:10) generaledit 
-\i (00:23:11) prepopup 2.7382 7.6778
-\i (00:23:13) pop dyn_option_select @:@Delete 
-\i (00:23:13) delete 
-\i (00:23:13) generaledit 
-\i (00:23:15) prepopup 2.9664 7.6913
-\i (00:23:19) pop dyn_option_select @:@Delete 
-\i (00:23:19) delete 
-\i (00:23:19) generaledit 
-\i (00:23:26) add pin 
-\t (00:23:27) Using 'SMD_RECT_W06_H115.pad'.
-\i (00:23:32) setwindow form.mini
-\i (00:23:32) FORM mini next_pin_number 9 
-\i (00:23:32) setwindow pcb
-\i (00:23:32) pick 3.2 y 7.355 
-\t (00:23:33) last pick:  3.2000 7.3550
-\t (00:23:33) Using 'SMD_RECT_W06_H115.pad'.
-\i (00:23:40) done 
-\t (00:23:40) Exiting from Add Pin.
-\i (00:23:41) generaledit 
-\i (00:23:43) zoom in 1 
-\i (00:23:43) setwindow pcb
-\i (00:23:43) zoom in -4.0940 6.7785
-\i (00:23:43) trapsize 336
-\i (00:23:44) drag_start grid -3.7383 7.5906
-\i (00:23:44) move 
-\t (00:23:45) last pick:  -3.6700 7.3550
-\t (00:23:45) Pick new location for the element(s).
-\i (00:23:46) drag_stop grid -2.2416 8.2148
-\i (00:23:46) generaledit 
-\i (00:23:48) drag_start grid -4.4967 7.9799
-\i (00:23:48) move 
-\t (00:23:48) last pick:  -4.4700 7.3550
-\t (00:23:48) Pick new location for the element(s).
-\i (00:23:52) drag_stop grid -3.0403 8.1678
-\i (00:23:52) generaledit 
-\i (00:23:53) zoom out 1 
-\i (00:23:53) setwindow pcb
-\i (00:23:53) zoom out -3.0269 8.1611
-\i (00:23:53) trapsize 671
-\i (00:23:53) zoom in 1 
-\i (00:23:53) setwindow pcb
-\i (00:23:53) zoom in 2.0134 7.4497
-\i (00:23:53) trapsize 336
-\i (00:23:53) zoom in 1 
-\i (00:23:53) setwindow pcb
-\i (00:23:53) zoom in 2.0134 7.4497
-\i (00:23:53) trapsize 168
-\i (00:23:55) drag_start grid 1.8490 7.5739
-\i (00:23:55) move 
-\t (00:23:55) last pick:  1.9300 7.3550
-\t (00:23:55) Pick new location for the element(s).
-\i (00:23:59) drag_stop grid 3.3926 8.1343
-\i (00:23:59) generaledit 
-\i (00:24:00) zoom out 1 
-\i (00:24:00) setwindow pcb
-\i (00:24:00) zoom out 3.0940 7.9866
-\i (00:24:00) trapsize 336
-\i (00:24:02) drag_start grid 3.3557 8.3893
-\i (00:24:02) move 
-\t (00:24:02) last pick:  3.4000 8.1000
-\t (00:24:02) Pick new location for the element(s).
-\i (00:24:05) drag_stop grid 3.3691 8.2283
-\i (00:24:05) generaledit 
-\i (00:24:06) drag_start grid 1.1007 7.4632
-\i (00:24:06) move 
-\t (00:24:06) last pick:  1.1300 7.3550
-\t (00:24:06) Pick new location for the element(s).
-\i (00:24:09) drag_stop grid 2.7517 8.1679
-\i (00:24:10) generaledit 
-\i (00:24:12) zoom out 1 
-\i (00:24:12) setwindow pcb
-\i (00:24:12) zoom out 2.8524 6.5907
-\i (00:24:12) trapsize 671
-\i (00:24:16) drag_start grid 3.5839 6.9396
-\i (00:24:16) move 
-\t (00:24:16) last pick:  3.8400 6.7800
-\t (00:24:16) Pick new location for the element(s).
-\i (00:24:18) drag_stop grid 5.4765 4.9933
-\i (00:24:18) generaledit 
-\i (00:24:19) drag_start grid 3.6376 2.7517
-\i (00:24:19) move 
-\t (00:24:19) last pick:  3.8400 2.8500
-\t (00:24:19) Pick new location for the element(s).
-\i (00:24:22) drag_stop grid 5.4094 1.1409
-\i (00:24:22) generaledit 
-\i (00:24:23) drag_start grid 1.4094 6.1074
-\i (00:24:23) move 
-\t (00:24:24) last pick:  1.6200 6.2800
-\t (00:24:24) Pick new location for the element(s).
-\i (00:24:26) drag_stop grid 2.4295 5.0336
-\i (00:24:26) generaledit 
-\i (00:24:29) drag_start grid -6.4564 6.9127
-\i (00:24:29) move 
-\t (00:24:29) last pick:  -6.3800 6.7800
-\t (00:24:29) Pick new location for the element(s).
-\i (00:24:33) drag_stop grid -4.8859 4.9530
-\i (00:24:33) generaledit 
-\i (00:24:34) drag_start grid -6.4966 3.1812
-\i (00:24:34) move 
-\t (00:24:35) last pick:  -6.3800 2.8500
-\t (00:24:35) Pick new location for the element(s).
-\i (00:24:37) drag_stop grid -4.9530 1.0470
-\i (00:24:37) generaledit 
-\i (00:24:40) setwindow form.find
-\i (00:24:40) FORM find all_off  
-\i (00:24:44) FORM find text YES 
-\i (00:24:47) setwindow pcb
-\i (00:24:47) drag_start grid -4.5235 6.4966
-\i (00:24:47) move 
-\t (00:24:47) last pick:  -4.1600 6.2800
-\t (00:24:47) Pick new location for the element(s).
-\i (00:24:51) drag_stop grid -2.6711 5.0067
-\i (00:24:51) generaledit 
-\i (00:24:52) pick grid 0.3893 11.1007
-\t (00:24:52) last pick:  0.4000 11.1000
-\i (00:24:55) save 
-\e (00:24:55) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
-\i (00:24:55) generaledit 
-\i (00:24:57) setwindow text
-\i (00:24:57) close
-\i (00:25:24) add pin 
-\t (00:25:24) Using 'SMD_RECT_W06_H115.pad'.
-\i (00:25:27) setwindow form.mini
-\i (00:25:27) FORM mini pad_browse  
-\t (00:25:36) No valid name selected.
-\i (00:25:39) fillin "Smd_Rect_W03_H115"
-\t (00:25:39) Using 'SMD_RECT_W03_H115.pad'.
-\i (00:25:58) FORM mini x_count 8 
-\i (00:26:00) FORM mini x_direction Right 
-\i (00:26:53) setwindow pcb
-\i (00:26:53) pick -1.75 y 7.355 
-\t (00:26:53) last pick:  -1.7500 7.3550
-\t (00:26:53) Using 'SMD_RECT_W03_H115.pad'.
-\i (00:27:06) undo 
-\t (00:27:06) Exiting from Add Pin.
-\i (00:27:06) trapsize 671
-\i (00:27:06) generaledit 
-\i (00:27:11) add pin 
-\t (00:27:11) Using 'SMD_RECT_W06_H115.pad'.
-\e (00:27:33) Must be a real number.
-\i (00:27:46) setwindow form.mini
-\i (00:27:46) FORM mini y_spacing 0.5000 
-\i (00:27:48) setwindow pcb
-\i (00:27:48) pick -1.75 y 7.355 
-\t (00:27:48) last pick:  -1.7500 7.3550
-\t (00:27:48) Using 'SMD_RECT_W06_H115.pad'.
-\i (00:27:54) done 
-\t (00:27:54) Exiting from Add Pin.
-\i (00:27:54) generaledit 
-\i (00:27:55) undo 
-\i (00:27:55) trapsize 671
-\i (00:27:55) generaledit 
-\i (00:27:58) add pin 
-\t (00:27:58) Using 'SMD_RECT_W06_H115.pad'.
-\i (00:28:01) setwindow form.mini
-\i (00:28:01) FORM mini pad_browse  
-\t (00:28:10) No valid name selected.
-\i (00:28:13) fillin "Smd_Rect_W03_H115"
-\t (00:28:13) Using 'SMD_RECT_W03_H115.pad'.
-\i (00:28:21) FORM mini x_count 8 
-\i (00:28:32) FORM mini x_spacing 0.5000 
-\i (00:28:34) FORM mini x_direction Right 
-\i (00:28:38) setwindow pcb
-\i (00:28:38) pick -1.75 y 7.355 
-\t (00:28:39) last pick:  -1.7500 7.3550
-\t (00:28:39) Using 'SMD_RECT_W03_H115.pad'.
-\i (00:28:46) done 
-\t (00:28:46) Exiting from Add Pin.
-\i (00:28:46) generaledit 
-\i (00:28:51) zoom in 1 
-\i (00:28:51) setwindow pcb
-\i (00:28:51) zoom in -2.9262 7.2617
-\i (00:28:51) trapsize 336
-\i (00:28:55) drag_start grid -4.0067 8.0537
-\i (00:28:58) drag_stop 0.4161 7.3692
-\i (00:28:59) pick grid -0.3759 8.7651
-\t (00:28:59) last pick:  -0.4000 8.8000
-\i (00:29:01) drag_start grid 0.6778 7.5235
-\i (00:29:02) drag_stop -3.8054 7.6779
-\i (00:29:04) move 
-\i (00:29:06) pick grid -1.2215 7.8121
-\t (00:29:06) last pick:  -1.2000 7.8000
-\t (00:29:06) Pick new location for the element(s).
-\i (00:29:31) pick grid -0.0671 10.1544
-\t (00:29:31) last pick:  -0.1000 10.2000
-\i (00:29:31) generaledit 
-\i (00:30:33) pick grid 1.0872 8.8524
-\t (00:30:33) last pick:  1.1000 8.9000
-\i (00:30:36) drag_start grid 1.4832 9.8322
-\i (00:30:36) move 
-\t (00:30:36) last pick:  1.5800 9.7550
-\t (00:30:36) Pick new location for the element(s).
-\i (00:30:40) drag_stop grid 2.2349 9.2349
-\i (00:30:41) generaledit 
-\i (00:30:42) drag_start grid 0.9060 9.8457
-\i (00:30:42) move 
-\t (00:30:42) last pick:  1.0800 9.7550
-\t (00:30:42) Pick new location for the element(s).
-\i (00:30:47) drag_stop grid 1.6510 8.3423
-\i (00:30:47) generaledit 
-\i (00:30:48) drag_start grid 0.5168 10.0806
-\i (00:30:48) move 
-\t (00:30:49) last pick:  0.5800 9.7550
-\t (00:30:49) Pick new location for the element(s).
-\i (00:30:56) drag_stop grid 1.0201 9.2416
-\i (00:30:57) generaledit 
-\i (00:30:59) drag_start grid -0.0537 10.0537
-\i (00:30:59) move 
-\t (00:31:00) last pick:  0.0800 9.7550
-\t (00:31:00) Pick new location for the element(s).
-\i (00:31:09) drag_stop grid 0.3960 8.2953
-\i (00:31:09) generaledit 
-\i (00:31:11) drag_start grid -0.5369 9.8188
-\i (00:31:11) move 
-\t (00:31:12) last pick:  -0.4200 9.7550
-\t (00:31:12) Pick new location for the element(s).
-\i (00:31:16) drag_stop grid -0.0738 9.2349
-\i (00:31:17) generaledit 
-\i (00:31:19) drag_start grid 0.2013 8.8255
-\i (00:31:19) move 
-\t (00:31:19) last pick:  0.4000 8.3000
-\t (00:31:19) Pick new location for the element(s).
-\i (00:31:23) drag_stop grid 0.4966 8.3356
-\i (00:31:24) generaledit 
-\i (00:31:25) drag_start grid -1.1007 9.7181
-\i (00:31:25) move 
-\t (00:31:26) last pick:  -0.9200 9.7550
-\t (00:31:26) Pick new location for the element(s).
-\i (00:31:34) drag_stop grid -0.5571 8.2551
-\i (00:31:34) generaledit 
-\i (00:31:35) drag_start grid -1.6108 9.7047
-\i (00:31:35) move 
-\t (00:31:35) last pick:  -1.4200 9.7550
-\t (00:31:35) Pick new location for the element(s).
-\i (00:31:39) drag_stop grid -1.0940 9.2014
-\i (00:31:39) generaledit 
-\i (00:31:40) drag_start grid -2.0671 9.8725
-\i (00:31:40) move 
-\t (00:31:41) last pick:  -1.9200 9.7550
-\t (00:31:41) Pick new location for the element(s).
-\i (00:31:46) drag_stop grid -1.4094 5.8725
-\i (00:31:46) generaledit 
-\i (00:31:47) drag_start grid -0.8792 8.3289
-\i (00:31:47) move 
-\t (00:31:47) last pick:  -0.6000 8.3000
-\t (00:31:47) Pick new location for the element(s).
-\i (00:31:52) drag_stop grid -0.4161 5.8792
-\i (00:31:52) generaledit 
-\i (00:31:54) drag_start grid 0.2013 8.2618
-\i (00:31:54) move 
-\t (00:31:54) last pick:  0.5000 8.3000
-\t (00:31:54) Pick new location for the element(s).
-\i (00:31:58) drag_stop grid 0.5906 5.9128
-\i (00:31:58) generaledit 
-\i (00:32:01) drag_start grid 0.9463 8.6443
-\i (00:32:01) move 
-\t (00:32:01) last pick:  1.7000 8.3000
-\t (00:32:01) Pick new location for the element(s).
-\i (00:32:04) drag_stop grid 1.6644 5.9262
-\i (00:32:04) generaledit 
-\i (00:32:07) drag_start grid -1.3826 9.3356
-\i (00:32:07) move 
-\t (00:32:07) last pick:  -1.1000 9.2000
-\t (00:32:07) Pick new location for the element(s).
-\i (00:32:10) drag_stop grid -0.9195 8.3624
-\i (00:32:11) generaledit 
-\i (00:32:12) drag_start grid -0.4631 9.3289
-\i (00:32:12) move 
-\t (00:32:12) last pick:  -0.1000 9.2000
-\t (00:32:12) Pick new location for the element(s).
-\i (00:32:15) drag_stop grid 0.1879 8.4497
-\i (00:32:15) generaledit 
-\i (00:32:16) drag_start grid 0.7114 9.3222
-\i (00:32:16) move 
-\t (00:32:16) last pick:  1.0000 9.2000
-\t (00:32:16) Pick new location for the element(s).
-\i (00:32:19) drag_stop grid 1.1745 8.4228
-\i (00:32:19) generaledit 
-\i (00:32:22) zoom out 1 
-\i (00:32:22) setwindow pcb
-\i (00:32:22) zoom out 1.2215 7.8322
-\i (00:32:22) trapsize 671
-\i (00:32:22) zoom out 1 
-\i (00:32:22) setwindow pcb
-\i (00:32:22) zoom out 5.3691 8.4027
-\i (00:32:22) trapsize 671
-\i (00:32:22) zoom out 1 
-\i (00:32:22) setwindow pcb
-\i (00:32:22) zoom out 5.3691 8.4027
-\i (00:32:22) trapsize 671
-\i (00:32:22) zoom out 1 
-\i (00:32:22) setwindow pcb
-\i (00:32:22) zoom out 5.3691 8.4027
-\i (00:32:22) trapsize 671
-\i (00:32:30) save 
-\i (00:32:32) fillin yes 
-\e (00:32:32) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
-\i (00:32:32) generaledit 
-\i (00:32:34) setwindow text
-\i (00:32:34) close
-\i (00:37:30) shape select 
-\i (00:37:51) shape select 
-\i (00:37:57) setwindow form.mini
-\i (00:37:57) FORM mini subclass SILKSCREEN_TOP 
-\i (00:38:42) setwindow pcb
-\i (00:38:42) pick 7 y 1.425 
-\t (00:38:42) last pick:  7.0000 1.4250
-\i (00:38:52) setwindow form.find
-\i (00:38:52) FORM find all_on  
-\i (00:38:56) FORM find all_on  
-\i (00:38:57) FORM find all_on  
-\i (00:38:58) setwindow pcb
-\i (00:38:58) done 
-\i (00:38:58) generaledit 
-\i (00:39:00) setwindow form.find
-\i (00:39:00) FORM find all_on  
-\i (00:39:01) FORM find all_on  
-\i (00:39:04) setwindow pcb
-\i (00:39:04) shape select 
-\i (00:39:11) shape add rect 
-\i (00:40:07) pick -7 y 8.5 
-\t (00:40:07) last pick:  -7.0000 8.5000
-\i (00:40:25) pick 7 y 1.425 
-\t (00:40:25) last pick:  7.0000 1.4250
-\i (00:40:31) pick grid 5.7986 10.8322
-\t (00:40:31) last pick:  5.8000 10.8000
-\i (00:41:35) done 
-\i (00:41:35) generaledit 
-\i (00:43:31) drag_start grid 5.2886 1.1812
-\i (00:43:31) move 
-\t (00:43:31) last pick:  5.4000 1.1000
-\t (00:43:31) Pick new location for the element(s).
-\i (00:43:33) drag_stop grid 3.2886 2.5503
-\i (00:43:33) generaledit 
-\i (00:43:35) drag_start grid -5.0604 1.1812
-\i (00:43:35) move 
-\t (00:43:35) last pick:  -5.0000 1.0000
-\t (00:43:35) Pick new location for the element(s).
-\i (00:43:37) drag_stop grid -3.2215 2.6443
-\i (00:43:38) generaledit 
-\i (00:44:21) zoom in 1 
-\i (00:44:21) setwindow pcb
-\i (00:44:21) zoom in 0.8725 8.8859
-\i (00:44:21) trapsize 336
-\i (00:44:21) zoom in 1 
-\i (00:44:21) setwindow pcb
-\i (00:44:21) zoom in 0.8725 8.8859
-\i (00:44:21) trapsize 168
-\i (00:44:22) zoom out 1 
-\i (00:44:22) setwindow pcb
-\i (00:44:22) zoom out 0.6007 8.6175
-\i (00:44:22) trapsize 336
-\i (00:44:25) drag_start grid -1.5805 8.5034
-\i (00:44:25) move 
-\t (00:44:25) last pick:  -0.9000 8.4000
-\t (00:44:25) Pick new location for the element(s).
-\i (00:44:28) drag_stop grid -0.8892 8.2417
-\i (00:44:28) generaledit 
-\i (00:44:29) drag_start grid -0.5000 8.5504
-\i (00:44:29) move 
-\t (00:44:30) last pick:  0.2000 8.4000
-\t (00:44:30) Pick new location for the element(s).
-\i (00:44:32) drag_stop grid 0.1846 8.2484
-\i (00:44:32) generaledit 
-\i (00:44:33) drag_start grid 0.4061 8.5773
-\i (00:44:33) move 
-\t (00:44:34) last pick:  1.2000 8.4000
-\t (00:44:34) Pick new location for the element(s).
-\i (00:44:38) drag_stop grid 1.1510 8.2081
-\i (00:44:38) generaledit 
-\i (00:44:39) drag_start grid 1.5269 9.1679
-\i (00:44:39) move 
-\t (00:44:40) last pick:  2.2000 9.2000
-\t (00:44:40) Pick new location for the element(s).
-\i (00:44:43) drag_stop grid 1.9766 8.2283
-\i (00:44:44) generaledit 
-\i (00:44:45) drag_start grid 3.2249 8.3826
-\i (00:44:45) move 
-\t (00:44:45) last pick:  3.4000 8.2000
-\t (00:44:45) Pick new location for the element(s).
-\i (00:44:47) drag_stop grid 3.8625 8.2216
-\i (00:44:47) generaledit 
-\i (00:44:49) drag_start grid 2.6276 8.1880
-\i (00:44:49) move 
-\t (00:44:49) last pick:  2.8000 8.2000
-\t (00:44:49) Pick new location for the element(s).
-\i (00:44:50) drag_stop grid 3.0504 8.2149
-\i (00:44:50) generaledit 
-\i (00:44:52) drag_start grid 1.8222 8.2551
-\i (00:44:52) move 
-\t (00:44:52) last pick:  2.0000 8.2000
-\t (00:44:52) Pick new location for the element(s).
-\i (00:44:55) drag_stop grid 2.1645 8.2283
-\i (00:44:55) generaledit 
-\i (00:44:56) zoom out 1 
-\i (00:44:56) setwindow pcb
-\i (00:44:56) zoom out -0.2114 8.2618
-\i (00:44:56) trapsize 671
-\i (00:44:56) zoom out 1 
-\i (00:44:56) setwindow pcb
-\i (00:44:56) zoom out -1.8389 7.1007
-\i (00:44:56) trapsize 671
-\i (00:45:01) save 
-\i (00:45:02) fillin yes 
-\e (00:45:03) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
-\i (00:45:03) generaledit 
-\i (00:45:04) setwindow text
-\i (00:45:04) close
-\i (00:46:40) label refdes 
-\t (00:46:41) Pick text location.
-\i (00:46:46) pick grid 0.0805 4.1879
-\t (00:46:46) last pick:  0.1000 4.2000
-\t (00:46:46) Enter text string.
-\i (00:46:51) setwindow pcb
-\i (00:46:51) move 
-\i (00:46:51) setwindow pcb
-\i (00:46:51) pick 0.1000 4.2000
-\t (00:46:51) last pick:  2.2000 8.2000
-\t (00:46:51) Pick new location for the element(s).
-\i (00:46:55) setwindow pcb
-\i (00:46:55) undo 
-\i (00:46:55) trapsize 671
-\i (00:46:55) generaledit 
-\i (00:46:58) pick grid -3.3423 13.0067
-\t (00:46:58) last pick:  -3.3000 13.0000
-\i (00:47:00) move 
-\t (00:47:00) Select element(s) to move.
-\i (00:47:02) pick grid 0.3087 4.0940
-\t (00:47:02) last pick:  0.3000 4.1000
-\t (00:47:02) last pick:  0.1000 4.2000
-\t (00:47:02) Pick new location for the element(s).
-\i (00:47:04) pick grid -0.2685 3.9463
-\t (00:47:04) last pick:  -0.3000 3.9000
-\i (00:47:12) label refdes 
-\t (00:47:12) Pick text location.
-\i (00:47:16) setwindow form.mini
-\i (00:47:16) FORM mini subclass SILKSCREEN_TOP 
-\i (00:47:18) setwindow pcb
-\i (00:47:18) pick grid 0.4966 3.1678
-\t (00:47:18) last pick:  0.5000 3.2000
-\t (00:47:18) Enter text string.
-\i (00:47:22) setwindow pcb
-\i (00:47:22) pick grid -2.8188 12.4832
-\t (00:47:22) last pick:  -2.8000 12.5000
-\i (00:47:22) setwindow pcb
-\i (00:47:22) pick 0.5000 3.2000
-\i (00:47:24) move 
-\t (00:47:24) Select element(s) to move.
-\i (00:47:26) pick grid 0.8054 3.5302
-\t (00:47:26) last pick:  0.8000 3.5000
-\t (00:47:26) last pick:  0.5000 3.2000
-\t (00:47:26) Pick new location for the element(s).
-\i (00:47:27) zoom in 1 
-\i (00:47:27) setwindow pcb
-\i (00:47:27) zoom in -0.2013 3.9597
-\i (00:47:27) trapsize 336
-\i (00:47:27) zoom in 1 
-\i (00:47:27) setwindow pcb
-\i (00:47:27) zoom in -0.2013 3.9598
-\i (00:47:27) trapsize 168
-\i (00:47:29) pick grid -0.2516 3.9095
-\t (00:47:29) last pick:  -0.3000 3.9000
-\i (00:48:29) zoom out 1 
-\i (00:48:29) setwindow pcb
-\i (00:48:29) zoom out -0.2650 3.9129
-\i (00:48:29) trapsize 336
-\i (00:48:29) zoom out 1 
-\i (00:48:29) setwindow pcb
-\i (00:48:29) zoom out -0.2650 3.9128
-\i (00:48:29) trapsize 671
-\i (00:48:29) zoom out 1 
-\i (00:48:29) setwindow pcb
-\i (00:48:29) zoom out -0.4564 3.7718
-\i (00:48:29) trapsize 671
-\i (00:48:29) zoom out 1 
-\i (00:48:29) setwindow pcb
-\i (00:48:29) zoom out -0.4564 3.7718
-\i (00:48:29) trapsize 671
-\i (00:48:30) zoom out 1 
-\i (00:48:30) setwindow pcb
-\i (00:48:30) zoom out -0.4564 3.7718
-\i (00:48:30) trapsize 671
-\i (00:48:39) dbdoctor 
-\i (00:48:42) setwindow form.dbdoctor_allegro
-\i (00:48:42) FORM dbdoctor_allegro drc YES 
-\i (00:48:42) FORM dbdoctor_allegro shapes YES 
-\i (00:48:44) FORM dbdoctor_allegro execute  
-\t (00:48:44) Dbdoctor in progress - wait...
-\t (00:48:44) Checking db records
-\t (00:48:44)     checking for orphans...
-\t (00:48:44)     Checked 100 percent
-\t (00:48:44) Regenerating DRC
-\t (00:48:44)   Original DRC errors: 0
-\t (00:48:45) Performing DRC...
-\t (00:48:45) No DRC errors detected.
-\t (00:48:45)   Updated DRC errors:  0
-\t (00:48:45) Done dbdoctor.
-\t (00:48:45) Dbdoctor completed.
-\i (00:48:47) FORM dbdoctor_allegro close  
-\i (00:48:47) setwindow pcb
-\i (00:48:47) generaledit 
-\i (00:48:49) save 
-\i (00:48:51) fillin yes 
-   (00:48:51) Loading signal.cxt 
-\t (00:48:51) Symbol 'usb.psm' created.
-\i (00:48:51) generaledit 
-\i (00:50:25) zoom in 1 
-\i (00:50:25) setwindow pcb
-\i (00:50:25) zoom in -3.3960 7.4094
-\i (00:50:25) trapsize 336
-\i (00:50:25) zoom in 1 
-\i (00:50:25) setwindow pcb
-\i (00:50:25) zoom in -3.3960 7.4094
-\i (00:50:25) trapsize 168
-\i (00:50:34) zoom out 1 
-\i (00:50:34) setwindow pcb
-\i (00:50:34) zoom out -3.3960 7.4094
-\i (00:50:34) trapsize 336
-\i (00:50:35) zoom out 1 
-\i (00:50:35) setwindow pcb
-\i (00:50:35) zoom out -3.2349 10.0471
-\i (00:50:35) trapsize 671
-\i (00:50:35) zoom out 1 
-\i (00:50:35) setwindow pcb
-\i (00:50:35) zoom out -3.0738 12.6846
-\i (00:50:35) trapsize 671
-\i (00:50:35) zoom out 1 
-\i (00:50:35) setwindow pcb
-\i (00:50:35) zoom out -3.0738 12.6846
-\i (00:50:35) trapsize 671
-\i (00:50:57) exit 
-\t (00:50:57)     Journal end - Wed Dec 21 18:03:43 2022
+\t (00:00:05) allegro 17.2 S083 Windows SPB 64-bit Edition
+\t (00:00:05)     Journal start - Fri Dec 23 12:57:03 2022
+\t (00:00:05)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=13180 CPUs=12
+\t (00:00:05) CmdLine= D:\Cadence\tools\bin\allegro.exe
+\t (00:00:05) 
+   (00:00:05) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged PATCH_an043
+\d (00:00:06) Design opened: D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/PATCH_an043.dra
+\i (00:00:06) trapsize 356
+\i (00:00:06) trapsize 365
+\i (00:00:06) trapsize 356
+\i (00:00:06) trapsize 366
+\i (00:00:06) trapsize 366
+\i (00:00:07) generaledit 
+\i (00:00:16) shape add 
+\i (00:00:24) pick 0 y 4.9 
+\t (00:00:24) last pick:  0.0000 4.9000
+\i (00:00:34) done 
+\i (00:00:34) generaledit 
+\i (00:00:36) shape add 
+\i (00:00:42) pick 0 y 0 
+\t (00:00:42) last pick:  0.0000 0.0000
+\i (00:00:50) pick 0 y 4.9 
+\t (00:00:50) last pick:  0.0000 4.9000
+\i (00:01:11) pick 5 y 4.9 
+\t (00:01:11) last pick:  5.0000 4.9000
+\i (00:01:23) pick 5 y 2.26 
+\t (00:01:23) last pick:  5.0000 2.2600
+\i (00:01:33) pick 7 2.26 
+\t (00:01:33) last pick:  7.0000 2.2600
+\i (00:01:36) zoom out 1 
+\i (00:01:36) setwindow pcb
+\i (00:01:36) zoom out 7.5746 0.5906
+\i (00:01:36) trapsize 731
+\i (00:01:37) zoom out 1 
+\i (00:01:37) setwindow pcb
+\i (00:01:37) zoom out 16.1491 -4.8187
+\i (00:01:37) trapsize 731
+\i (00:01:53) pick 7 y 4.9 
+\t (00:01:53) last pick:  7.0000 4.9000
+\i (00:02:07) pick 9.7 y 4.9 
+\t (00:02:07) last pick:  9.7000 4.9000
+\i (00:02:20) pick 9.7 y 2.26 
+\t (00:02:20) last pick:  9.7000 2.2600
+\i (00:02:36) pick 11.7 y 2.26 
+\t (00:02:36) last pick:  11.7000 2.2600
+\i (00:02:48) pick 11.7 y 4.9 
+\t (00:02:48) last pick:  11.7000 4.9000
+\i (00:03:01) pick 14.4 y 4.9 
+\t (00:03:01) last pick:  14.4000 4.9000
+\i (00:03:19) pick 14.4 y 0.46 
+\t (00:03:19) last pick:  14.4000 0.4600
+\i (00:03:30) pick 13.9 y 0.46 
+\t (00:03:30) last pick:  13.9000 0.4600
+\i (00:03:45) pick 13.9 y 4.4 
+\t (00:03:45) last pick:  13.9000 4.4000
+\i (00:03:58) pick 12.2 y 4.4 
+\t (00:03:58) last pick:  12.2000 4.4000
+\i (00:04:12) pick 12.2 y 1.76 
+\t (00:04:12) last pick:  12.2000 1.7600
+\i (00:04:31) pick 9.2 y 1.76 
+\t (00:04:31) last pick:  9.2000 1.7600
+\i (00:04:53) pick 9.2 y 4.4 
+\t (00:04:53) last pick:  9.2000 4.4000
+\i (00:05:05) pick 7.5 y 4.4 
+\t (00:05:05) last pick:  7.5000 4.4000
+\i (00:05:18) pick 7.5 y 1.74 
+\t (00:05:18) last pick:  7.5000 1.7400
+\i (00:05:38) pick 4.5 y 1.76 
+\t (00:05:38) last pick:  4.5000 1.7600
+\i (00:05:54) pick 4.5 y 4.4 
+\t (00:05:54) last pick:  4.5000 4.4000
+\i (00:06:09) pick 2.8 y 4.4 
+\t (00:06:09) last pick:  2.8000 4.4000
+\i (00:06:35) pick 2.8 y 0 
+\t (00:06:35) last pick:  2.8000 0.0000
+\i (00:06:45) pick 2.3 y 0 
+\t (00:06:45) last pick:  2.3000 0.0000
+\i (00:07:05) pick 2.3 y 4.4 
+\t (00:07:05) last pick:  2.3000 4.4000
+\i (00:07:16) pick 0.9 y 4.4 
+\t (00:07:16) last pick:  0.9000 4.4000
+\i (00:07:48) pick 0.9 y 0 
+\t (00:07:48) last pick:  0.9000 0.0000
+\i (00:07:52) pick 0 y 0 
+\t (00:07:52) last pick:  0.0000 0.0000
+\i (00:08:04) save 
+\i (00:08:06) fillin yes 
+\e (00:08:08) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:08:09) generaledit 
+\i (00:08:11) setwindow text
+\i (00:08:11) close
+\i (00:08:20) zoom in 1 
+\i (00:08:20) setwindow pcb
+\i (00:08:20) zoom in 1.9240 0.2251
+\i (00:08:20) trapsize 366
+\i (00:08:24) zoom out 1 
+\i (00:08:24) setwindow pcb
+\i (00:08:24) zoom out 2.2529 0.2544
+\i (00:08:24) trapsize 731
+\i (00:08:24) zoom out 1 
+\i (00:08:24) setwindow pcb
+\i (00:08:24) zoom out 2.5819 -5.4912
+\i (00:08:24) trapsize 731
+\i (00:08:24) zoom out 1 
+\i (00:08:24) setwindow pcb
+\i (00:08:24) zoom out 2.5819 -5.4912
+\i (00:08:24) trapsize 731
+\i (00:08:25) zoom in 1 
+\i (00:08:25) setwindow pcb
+\i (00:08:25) zoom in 0.1988 -0.6667
+\i (00:08:25) trapsize 366
+\i (00:08:25) zoom in 1 
+\i (00:08:25) setwindow pcb
+\i (00:08:25) zoom in 0.1987 2.6667
+\i (00:08:25) trapsize 183
+\i (00:08:27) zoom out 1 
+\i (00:08:27) setwindow pcb
+\i (00:08:27) zoom out 0.5971 1.7785
+\i (00:08:27) trapsize 366
+\i (00:08:27) zoom out 1 
+\i (00:08:27) setwindow pcb
+\i (00:08:27) zoom out 0.5970 0.8903
+\i (00:08:27) trapsize 731
+\i (00:08:46) add pin 
+\t (00:08:46) Using 'SMD_RECT_W09_H05.pad'.
+\i (00:08:48) setwindow form.mini
+\i (00:08:48) FORM mini pad_browse  
+\t (00:09:15) No valid name selected.
+\i (00:09:19) fillin "Smd_Square_L05"
+\t (00:09:19) Using 'SMD_SQUARE_L05.pad'.
+\i (00:11:03) setwindow pcb
+\i (00:11:03) pick 2.55 y -0.25 
+\t (00:11:03) last pick:  2.5500 -0.2500
+\t (00:11:03) Using 'SMD_SQUARE_L05.pad'.
+\i (00:11:13) done 
+\t (00:11:13) Exiting from Add Pin.
+\i (00:11:13) generaledit 
+\i (00:11:19) save 
+\i (00:11:21) fillin yes 
+\e (00:11:21) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:11:21) generaledit 
+\i (00:11:23) setwindow text
+\i (00:11:23) close
+\i (00:11:29) label refdes 
+\t (00:11:29) Pick text location.
+\i (00:11:32) pick grid 7.2749 0.5175
+\t (00:11:32) last pick:  7.3000 0.5000
+\t (00:11:32) Enter text string.
+\i (00:11:41) setwindow pcb
+\i (00:11:41) label refdes 
+\i (00:11:41) setwindow pcb
+\i (00:11:41) pick 7.3000 0.5000
+\t (00:11:41) Pick text location.
+\i (00:11:42) setwindow pcb
+\i (00:11:42) pick grid 7.6842 0.7368
+\t (00:11:42) last pick:  7.7000 0.7000
+\t (00:11:42) Refdes of this subclass is already defined, change subclass.
+\i (00:11:47) pick grid 9.0439 1.5848
+\t (00:11:47) last pick:  9.0000 1.6000
+\t (00:11:47) Refdes of this subclass is already defined, change subclass.
+\i (00:11:52) label refdes 
+\t (00:11:53) Pick text location.
+\i (00:11:56) setwindow form.mini
+\i (00:11:56) FORM mini subclass SILKSCREEN_TOP 
+\i (00:11:57) setwindow pcb
+\i (00:11:57) pick grid 9.7749 0.4444
+\t (00:11:57) last pick:  9.8000 0.4000
+\t (00:11:57) Enter text string.
+\i (00:12:07) setwindow pcb
+\i (00:12:07) pick grid 4.9357 -0.6667
+\t (00:12:07) last pick:  4.9000 -0.7000
+\i (00:12:07) setwindow pcb
+\i (00:12:07) pick 9.8000 0.4000
+\i (00:12:09) move 
+\t (00:12:10) Select element(s) to move.
+\i (00:12:11) pick grid 10.5643 0.5322
+\t (00:12:11) last pick:  10.6000 0.5000
+\t (00:12:11) last pick:  9.8000 0.4000
+\t (00:12:11) Pick new location for the element(s).
+\i (00:12:15) pick grid 7.3480 0.5322
+\t (00:12:15) last pick:  7.3000 0.5000
+\i (00:12:17) done 
+\i (00:12:17) generaledit 
+\i (00:12:23) dbdoctor 
+\i (00:12:25) setwindow form.dbdoctor_allegro
+\i (00:12:25) FORM dbdoctor_allegro drc YES 
+\i (00:12:28) FORM dbdoctor_allegro shapes YES 
+\i (00:12:30) FORM dbdoctor_allegro execute  
+\t (00:12:30) Dbdoctor in progress - wait...
+\t (00:12:30) Checking db records
+\t (00:12:30)     checking for orphans...
+\t (00:12:30)     Checked 100 percent
+\t (00:12:30) Regenerating DRC
+\t (00:12:30)   Original DRC errors: 2
+\t (00:12:30) Performing DRC...
+\t (00:12:30) DRC done; 2 errors detected.
+\t (00:12:30)   Updated DRC errors:  2
+\t (00:12:30) Done dbdoctor.
+\t (00:12:30) Dbdoctor completed.
+\i (00:12:43) FORM dbdoctor_allegro close  
+\i (00:12:43) setwindow pcb
+\i (00:12:43) generaledit 
+\i (00:12:46) save 
+\i (00:12:48) fillin yes 
+   (00:12:48) Loading signal.cxt 
+\t (00:12:49) Symbol 'patch_an043.psm' created.
+\i (00:12:49) generaledit 
+\i (00:13:32) shape add rect 
+\i (00:13:36) setwindow form.mini
+\i (00:13:36) FORM mini subclass ASSEMBLY_TOP 
+\i (00:13:56) setwindow pcb
+\i (00:13:56) pick -0.75 y 5.65 
+\t (00:13:56) last pick:  -0.7500 5.6500
+\i (00:14:03) done 
+\i (00:14:03) generaledit 
+\i (00:14:05) shape add rect 
+\i (00:14:11) setwindow form.mini
+\i (00:14:11) FORM mini class PACKAGE GEOMETRY 
+\i (00:14:20) setwindow pcb
+\i (00:14:20) pick -0.75 y 5.65 
+\t (00:14:20) last pick:  -0.7500 5.6500
+\i (00:15:17) pick 15.15 y -1.25 
+\t (00:15:17) last pick:  15.1500 -1.2500
+\w (00:15:17) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:15:47) pick grid 15.0965 -0.9591
+\t (00:15:47) last pick:  15.1000 -1.0000
+\i (00:15:50) save 
+\i (00:15:52) fillin yes 
+\t (00:15:52) Symbol 'patch_an043.psm' created.
+\i (00:15:53) generaledit 
+\i (00:15:57) exit 
+\t (00:15:57)     Journal end - Fri Dec 23 13:12:55 2022

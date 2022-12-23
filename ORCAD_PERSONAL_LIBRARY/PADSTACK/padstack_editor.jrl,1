@@ -1,11 +1,15 @@
 \t (00:00:00) padstack_editor 17.2 S083 Windows SPB 64-bit Edition
-\t (00:00:00)     Journal start - Wed Dec 21 12:53:30 2022
-\t (00:00:00)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=13524 CPUs=12
-\t (00:00:00) CmdLine= d:\cadence\tools\bin\padstack_editor.exe D:\Cadence\cdssetup\OrCAD_Capture\17.2.0\ORCAD_PERSONAL_LIBRARY\PADSTACK\smd_roundrect_w06_h025_r005.pad
+\t (00:00:00)     Journal start - Fri Dec 23 00:42:33 2022
+\t (00:00:00)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=12308 CPUs=12
+\t (00:00:00) CmdLine= d:\cadence\tools\bin\padstack_editor.exe D:\Cadence\cdssetup\OrCAD_Capture\17.2.0\ORCAD_PERSONAL_LIBRARY\PADSTACK\th_circle_d20.pad
 \t (00:00:00) 
-\d (00:00:01) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
-\d (00:00:03) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
-\d (00:00:06) QtSignal MainWindow Save triggered
-\d (00:04:58) QtSignal MainWindow SaveAs triggered
-\d (00:05:15) QtFillin smd_roundrect_w055_h02.pad
-\t (00:05:19)     Journal end - Wed Dec 21 12:58:49 2022
+\d (00:00:03) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:04) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:06) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:08) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 4 Pad
+\d (00:00:08) QtSignal GuidedMaskLayersTab LayersTable cellClicked 4 Pad 4 1
+\d (00:00:11) QtSignal GuidedMaskLayersTab PadShape CurrentIndexChanged None
+\d (00:00:12) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 5 Pad
+\d (00:00:12) QtSignal GuidedMaskLayersTab LayersTable cellClicked 5 Pad 5 1
+\d (00:00:17) QtSignal MainWindow Save triggered
+\t (00:00:20)     Journal end - Fri Dec 23 00:42:53 2022
