@@ -1,234 +1,33 @@
-\t (00:00:05) allegro 17.2 S083 Windows SPB 64-bit Edition
-\t (00:00:05)     Journal start - Fri Dec 23 12:57:03 2022
-\t (00:00:05)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=13180 CPUs=12
-\t (00:00:05) CmdLine= D:\Cadence\tools\bin\allegro.exe
-\t (00:00:05) 
-   (00:00:05) Loading axlcore.cxt 
-\t (00:00:06) Opening existing design...
-\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged PATCH_an043
-\d (00:00:06) Design opened: D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/PATCH_an043.dra
-\i (00:00:06) trapsize 356
-\i (00:00:06) trapsize 365
-\i (00:00:06) trapsize 356
-\i (00:00:06) trapsize 366
-\i (00:00:06) trapsize 366
-\i (00:00:07) generaledit 
-\i (00:00:16) shape add 
-\i (00:00:24) pick 0 y 4.9 
-\t (00:00:24) last pick:  0.0000 4.9000
-\i (00:00:34) done 
-\i (00:00:34) generaledit 
-\i (00:00:36) shape add 
-\i (00:00:42) pick 0 y 0 
-\t (00:00:42) last pick:  0.0000 0.0000
-\i (00:00:50) pick 0 y 4.9 
-\t (00:00:50) last pick:  0.0000 4.9000
-\i (00:01:11) pick 5 y 4.9 
-\t (00:01:11) last pick:  5.0000 4.9000
-\i (00:01:23) pick 5 y 2.26 
-\t (00:01:23) last pick:  5.0000 2.2600
-\i (00:01:33) pick 7 2.26 
-\t (00:01:33) last pick:  7.0000 2.2600
-\i (00:01:36) zoom out 1 
-\i (00:01:36) setwindow pcb
-\i (00:01:36) zoom out 7.5746 0.5906
-\i (00:01:36) trapsize 731
-\i (00:01:37) zoom out 1 
-\i (00:01:37) setwindow pcb
-\i (00:01:37) zoom out 16.1491 -4.8187
-\i (00:01:37) trapsize 731
-\i (00:01:53) pick 7 y 4.9 
-\t (00:01:53) last pick:  7.0000 4.9000
-\i (00:02:07) pick 9.7 y 4.9 
-\t (00:02:07) last pick:  9.7000 4.9000
-\i (00:02:20) pick 9.7 y 2.26 
-\t (00:02:20) last pick:  9.7000 2.2600
-\i (00:02:36) pick 11.7 y 2.26 
-\t (00:02:36) last pick:  11.7000 2.2600
-\i (00:02:48) pick 11.7 y 4.9 
-\t (00:02:48) last pick:  11.7000 4.9000
-\i (00:03:01) pick 14.4 y 4.9 
-\t (00:03:01) last pick:  14.4000 4.9000
-\i (00:03:19) pick 14.4 y 0.46 
-\t (00:03:19) last pick:  14.4000 0.4600
-\i (00:03:30) pick 13.9 y 0.46 
-\t (00:03:30) last pick:  13.9000 0.4600
-\i (00:03:45) pick 13.9 y 4.4 
-\t (00:03:45) last pick:  13.9000 4.4000
-\i (00:03:58) pick 12.2 y 4.4 
-\t (00:03:58) last pick:  12.2000 4.4000
-\i (00:04:12) pick 12.2 y 1.76 
-\t (00:04:12) last pick:  12.2000 1.7600
-\i (00:04:31) pick 9.2 y 1.76 
-\t (00:04:31) last pick:  9.2000 1.7600
-\i (00:04:53) pick 9.2 y 4.4 
-\t (00:04:53) last pick:  9.2000 4.4000
-\i (00:05:05) pick 7.5 y 4.4 
-\t (00:05:05) last pick:  7.5000 4.4000
-\i (00:05:18) pick 7.5 y 1.74 
-\t (00:05:18) last pick:  7.5000 1.7400
-\i (00:05:38) pick 4.5 y 1.76 
-\t (00:05:38) last pick:  4.5000 1.7600
-\i (00:05:54) pick 4.5 y 4.4 
-\t (00:05:54) last pick:  4.5000 4.4000
-\i (00:06:09) pick 2.8 y 4.4 
-\t (00:06:09) last pick:  2.8000 4.4000
-\i (00:06:35) pick 2.8 y 0 
-\t (00:06:35) last pick:  2.8000 0.0000
-\i (00:06:45) pick 2.3 y 0 
-\t (00:06:45) last pick:  2.3000 0.0000
-\i (00:07:05) pick 2.3 y 4.4 
-\t (00:07:05) last pick:  2.3000 4.4000
-\i (00:07:16) pick 0.9 y 4.4 
-\t (00:07:16) last pick:  0.9000 4.4000
-\i (00:07:48) pick 0.9 y 0 
-\t (00:07:48) last pick:  0.9000 0.0000
-\i (00:07:52) pick 0 y 0 
-\t (00:07:52) last pick:  0.0000 0.0000
-\i (00:08:04) save 
-\i (00:08:06) fillin yes 
-\e (00:08:08) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
-\i (00:08:09) generaledit 
-\i (00:08:11) setwindow text
-\i (00:08:11) close
-\i (00:08:20) zoom in 1 
-\i (00:08:20) setwindow pcb
-\i (00:08:20) zoom in 1.9240 0.2251
-\i (00:08:20) trapsize 366
-\i (00:08:24) zoom out 1 
-\i (00:08:24) setwindow pcb
-\i (00:08:24) zoom out 2.2529 0.2544
-\i (00:08:24) trapsize 731
-\i (00:08:24) zoom out 1 
-\i (00:08:24) setwindow pcb
-\i (00:08:24) zoom out 2.5819 -5.4912
-\i (00:08:24) trapsize 731
-\i (00:08:24) zoom out 1 
-\i (00:08:24) setwindow pcb
-\i (00:08:24) zoom out 2.5819 -5.4912
-\i (00:08:24) trapsize 731
-\i (00:08:25) zoom in 1 
-\i (00:08:25) setwindow pcb
-\i (00:08:25) zoom in 0.1988 -0.6667
-\i (00:08:25) trapsize 366
-\i (00:08:25) zoom in 1 
-\i (00:08:25) setwindow pcb
-\i (00:08:25) zoom in 0.1987 2.6667
-\i (00:08:25) trapsize 183
-\i (00:08:27) zoom out 1 
-\i (00:08:27) setwindow pcb
-\i (00:08:27) zoom out 0.5971 1.7785
-\i (00:08:27) trapsize 366
-\i (00:08:27) zoom out 1 
-\i (00:08:27) setwindow pcb
-\i (00:08:27) zoom out 0.5970 0.8903
-\i (00:08:27) trapsize 731
-\i (00:08:46) add pin 
-\t (00:08:46) Using 'SMD_RECT_W09_H05.pad'.
-\i (00:08:48) setwindow form.mini
-\i (00:08:48) FORM mini pad_browse  
-\t (00:09:15) No valid name selected.
-\i (00:09:19) fillin "Smd_Square_L05"
-\t (00:09:19) Using 'SMD_SQUARE_L05.pad'.
-\i (00:11:03) setwindow pcb
-\i (00:11:03) pick 2.55 y -0.25 
-\t (00:11:03) last pick:  2.5500 -0.2500
-\t (00:11:03) Using 'SMD_SQUARE_L05.pad'.
-\i (00:11:13) done 
-\t (00:11:13) Exiting from Add Pin.
-\i (00:11:13) generaledit 
-\i (00:11:19) save 
-\i (00:11:21) fillin yes 
-\e (00:11:21) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
-\i (00:11:21) generaledit 
-\i (00:11:23) setwindow text
-\i (00:11:23) close
-\i (00:11:29) label refdes 
-\t (00:11:29) Pick text location.
-\i (00:11:32) pick grid 7.2749 0.5175
-\t (00:11:32) last pick:  7.3000 0.5000
-\t (00:11:32) Enter text string.
-\i (00:11:41) setwindow pcb
-\i (00:11:41) label refdes 
-\i (00:11:41) setwindow pcb
-\i (00:11:41) pick 7.3000 0.5000
-\t (00:11:41) Pick text location.
-\i (00:11:42) setwindow pcb
-\i (00:11:42) pick grid 7.6842 0.7368
-\t (00:11:42) last pick:  7.7000 0.7000
-\t (00:11:42) Refdes of this subclass is already defined, change subclass.
-\i (00:11:47) pick grid 9.0439 1.5848
-\t (00:11:47) last pick:  9.0000 1.6000
-\t (00:11:47) Refdes of this subclass is already defined, change subclass.
-\i (00:11:52) label refdes 
-\t (00:11:53) Pick text location.
-\i (00:11:56) setwindow form.mini
-\i (00:11:56) FORM mini subclass SILKSCREEN_TOP 
-\i (00:11:57) setwindow pcb
-\i (00:11:57) pick grid 9.7749 0.4444
-\t (00:11:57) last pick:  9.8000 0.4000
-\t (00:11:57) Enter text string.
-\i (00:12:07) setwindow pcb
-\i (00:12:07) pick grid 4.9357 -0.6667
-\t (00:12:07) last pick:  4.9000 -0.7000
-\i (00:12:07) setwindow pcb
-\i (00:12:07) pick 9.8000 0.4000
-\i (00:12:09) move 
-\t (00:12:10) Select element(s) to move.
-\i (00:12:11) pick grid 10.5643 0.5322
-\t (00:12:11) last pick:  10.6000 0.5000
-\t (00:12:11) last pick:  9.8000 0.4000
-\t (00:12:11) Pick new location for the element(s).
-\i (00:12:15) pick grid 7.3480 0.5322
-\t (00:12:15) last pick:  7.3000 0.5000
-\i (00:12:17) done 
-\i (00:12:17) generaledit 
-\i (00:12:23) dbdoctor 
-\i (00:12:25) setwindow form.dbdoctor_allegro
-\i (00:12:25) FORM dbdoctor_allegro drc YES 
-\i (00:12:28) FORM dbdoctor_allegro shapes YES 
-\i (00:12:30) FORM dbdoctor_allegro execute  
-\t (00:12:30) Dbdoctor in progress - wait...
-\t (00:12:30) Checking db records
-\t (00:12:30)     checking for orphans...
-\t (00:12:30)     Checked 100 percent
-\t (00:12:30) Regenerating DRC
-\t (00:12:30)   Original DRC errors: 2
-\t (00:12:30) Performing DRC...
-\t (00:12:30) DRC done; 2 errors detected.
-\t (00:12:30)   Updated DRC errors:  2
-\t (00:12:30) Done dbdoctor.
-\t (00:12:30) Dbdoctor completed.
-\i (00:12:43) FORM dbdoctor_allegro close  
-\i (00:12:43) setwindow pcb
-\i (00:12:43) generaledit 
-\i (00:12:46) save 
-\i (00:12:48) fillin yes 
-   (00:12:48) Loading signal.cxt 
-\t (00:12:49) Symbol 'patch_an043.psm' created.
-\i (00:12:49) generaledit 
-\i (00:13:32) shape add rect 
-\i (00:13:36) setwindow form.mini
-\i (00:13:36) FORM mini subclass ASSEMBLY_TOP 
-\i (00:13:56) setwindow pcb
-\i (00:13:56) pick -0.75 y 5.65 
-\t (00:13:56) last pick:  -0.7500 5.6500
-\i (00:14:03) done 
-\i (00:14:03) generaledit 
-\i (00:14:05) shape add rect 
-\i (00:14:11) setwindow form.mini
-\i (00:14:11) FORM mini class PACKAGE GEOMETRY 
-\i (00:14:20) setwindow pcb
-\i (00:14:20) pick -0.75 y 5.65 
-\t (00:14:20) last pick:  -0.7500 5.6500
-\i (00:15:17) pick 15.15 y -1.25 
-\t (00:15:17) last pick:  15.1500 -1.2500
-\w (00:15:17) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
-\i (00:15:47) pick grid 15.0965 -0.9591
-\t (00:15:47) last pick:  15.1000 -1.0000
-\i (00:15:50) save 
-\i (00:15:52) fillin yes 
-\t (00:15:52) Symbol 'patch_an043.psm' created.
-\i (00:15:53) generaledit 
-\i (00:15:57) exit 
-\t (00:15:57)     Journal end - Fri Dec 23 13:12:55 2022
+\t (00:00:01) allegro 17.2 S083 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Sat Dec 24 17:14:50 2022
+\t (00:00:01)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=14004 CPUs=12
+\t (00:00:01) CmdLine= D:\Cadence\tools\bin\allegro.exe
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged X24M
+\d (00:00:04) Design opened: D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/X24M.dra
+\i (00:00:04) trapsize 252
+\i (00:00:04) trapsize 259
+\i (00:00:05) trapsize 267
+\i (00:00:05) trapsize 259
+\i (00:00:05) trapsize 252
+\i (00:00:05) trapsize 252
+\i (00:00:05) generaledit 
+\i (00:00:09) shape add circle 
+\i (00:00:13) setwindow form.mini
+\i (00:00:13) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:18) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:20) FORM mini cir_place YES 
+\i (00:00:27) FORM mini cir_radius 0.1000 
+\i (00:00:52) setwindow pcb
+\i (00:00:52) pick grid -1.8523 -1.3842
+\t (00:00:52) last pick:  -1.9000 -1.4000
+\i (00:01:00) done 
+\i (00:01:00) generaledit 
+\i (00:01:07) save 
+\i (00:01:09) fillin yes 
+\t (00:01:09) Symbol 'x24m.psm' created.
+\i (00:01:09) generaledit 
+\i (00:01:10) exit 
+\t (00:01:10)     Journal end - Sat Dec 24 17:15:58 2022

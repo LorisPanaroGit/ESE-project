@@ -2,9 +2,9 @@
 (                                                                     )
 (    DRC Update                                                       )
 (                                                                     )
-(    Drawing          : PATCH_an043.dra                               )
+(    Drawing          : X24M.dra                                      )
 (    Software Version : 17.2S083                                      )
-(    Date/Time        : Fri Dec 23 13:09:28 2022                      )
+(    Date/Time        : Sat Dec 24 17:14:27 2022                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -20,7 +20,7 @@
  ========= check standalone text              0:00:00
  ========= check standalone rectangles        0:00:00
 
- ..... Total number of DRC errors  2
+ ..... Total number of DRC errors  0
 
  ..... DRC update completed, total CPU time   0:00:00
  *************************************************************************
