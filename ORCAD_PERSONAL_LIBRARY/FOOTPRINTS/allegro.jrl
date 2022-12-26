@@ -1,33 +1,59 @@
 \t (00:00:01) allegro 17.2 S083 Windows SPB 64-bit Edition
-\t (00:00:01)     Journal start - Sat Dec 24 17:14:50 2022
-\t (00:00:01)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=14004 CPUs=12
-\t (00:00:01) CmdLine= D:\Cadence\tools\bin\allegro.exe
+\t (00:00:01)     Journal start - Mon Dec 26 12:02:29 2022
+\t (00:00:01)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=9444 CPUs=12
+\t (00:00:01) CmdLine= d:\cadence\tools\bin\allegro.exe D:\Cadence\cdssetup\OrCAD_Capture\17.2.0\ORCAD_PERSONAL_LIBRARY\FOOTPRINTS\X32k.dra
 \t (00:00:01) 
    (00:00:01) Loading axlcore.cxt 
 \t (00:00:04) Opening existing design...
-\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged X24M
-\d (00:00:04) Design opened: D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/X24M.dra
-\i (00:00:04) trapsize 252
-\i (00:00:04) trapsize 259
-\i (00:00:05) trapsize 267
-\i (00:00:05) trapsize 259
+\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged X32k
+\d (00:00:04) Design opened: D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/X32k.dra
+\i (00:00:04) trapsize 245
+\i (00:00:05) trapsize 251
+\i (00:00:05) trapsize 245
 \i (00:00:05) trapsize 252
 \i (00:00:05) trapsize 252
 \i (00:00:05) generaledit 
-\i (00:00:09) shape add circle 
-\i (00:00:13) setwindow form.mini
-\i (00:00:13) FORM mini class PACKAGE GEOMETRY 
-\i (00:00:18) FORM mini subclass SILKSCREEN_TOP 
-\i (00:00:20) FORM mini cir_place YES 
-\i (00:00:27) FORM mini cir_radius 0.1000 
-\i (00:00:52) setwindow pcb
-\i (00:00:52) pick grid -1.8523 -1.3842
-\t (00:00:52) last pick:  -1.9000 -1.4000
-\i (00:01:00) done 
-\i (00:01:00) generaledit 
-\i (00:01:07) save 
-\i (00:01:09) fillin yes 
-\t (00:01:09) Symbol 'x24m.psm' created.
-\i (00:01:09) generaledit 
-\i (00:01:10) exit 
-\t (00:01:10)     Journal end - Sat Dec 24 17:15:58 2022
+\i (00:00:12) drag_start grid -1.2030 -1.5755
+\i (00:00:12) move 
+\t (00:00:12) last pick:  -1.0000 -1.9000
+\t (00:00:12) Pick new location for the element(s).
+\i (00:00:14) drag_stop grid -1.0923 0.8054
+\i (00:00:14) generaledit 
+\i (00:00:16) drag_start grid 1.4095 -1.4899
+\i (00:00:16) move 
+\t (00:00:16) last pick:  1.5000 -1.9000
+\t (00:00:16) Pick new location for the element(s).
+\i (00:00:20) drag_stop grid 1.4850 0.7803
+\i (00:00:20) generaledit 
+\i (00:00:21) pick grid -1.4798 -2.0990
+\t (00:00:21) last pick:  -1.5000 -2.1000
+\i (00:00:24) add text 
+\t (00:00:24) Pick text location.
+\i (00:00:26) setwindow form.mini
+\i (00:00:26) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:28) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) pick grid -0.8808 -2.1745
+\t (00:00:29) last pick:  -0.9000 -2.2000
+\t (00:00:29) Enter text string.
+\i (00:00:34) setwindow pcb
+\i (00:00:34) prepopup -1.7819 -2.5168
+\i (00:00:35) done 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) pick -0.9000 -2.2000
+\i (00:00:35) setwindow pcb
+\i (00:00:35) generaledit 
+\i (00:00:37) drag_start grid -0.6594 -2.0386
+\i (00:00:37) move 
+\t (00:00:37) last pick:  -0.9000 -2.2000
+\t (00:00:37) Pick new location for the element(s).
+\i (00:00:41) drag_stop grid -0.8557 -2.3557
+\i (00:00:41) generaledit 
+\i (00:00:42) pick grid -1.1527 -2.3305
+\t (00:00:42) last pick:  -1.2000 -2.3000
+\i (00:00:43) save 
+\i (00:00:44) fillin yes 
+\t (00:00:45) Symbol 'x32k.psm' created.
+\i (00:00:45) generaledit 
+\i (00:02:32) exit 
+\t (00:02:32)     Journal end - Mon Dec 26 12:04:59 2022
