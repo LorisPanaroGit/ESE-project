@@ -21,7 +21,7 @@
       (Path "Design Resources")
       (Path "Design Resources" ".\orcad_my_library.olb")
       (Path "Outputs")
-      (Select "Design Resources" ".\orcad_my_library.olb" "217184-0001_usb"))
+      (Select "Design Resources" ".\orcad_my_library.olb" "PMSA003I"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -31,9 +31,17 @@
     (Doc
       (Type "COrPrmBrowserDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 156 1338 156 521"))
+        (Placement "44 0 1 -1 -1 -8 -31 0 1208 0 332"))
       (Path
          "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
-      (Package "USB4110-GF-A")
+      (Package "LPS-1301_9314_24")
+      (PartType "1"))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 1234 26 358"))
+      (Path
+         "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
+      (Package "PMSA003I")
       (PartType "1")))
   (MPSSessionName "loris"))

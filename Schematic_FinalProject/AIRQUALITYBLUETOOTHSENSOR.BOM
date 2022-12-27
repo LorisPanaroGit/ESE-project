@@ -1,4 +1,4 @@
-HAQB_MCU  Revised: Friday, December 16, 2022
+HAQB_MCU  Revised: Tuesday, December 27, 2022
 1          Revision: 1.0
 
 
@@ -7,7 +7,7 @@ HAQB_MCU  Revised: Friday, December 16, 2022
 
 
 
-Bill Of Materials       December 16,2022      17:03:41	Page1
+Bill Of Materials       December 27,2022      18:36:53	Page1
 
 Item	Quantity	Reference	Part
 ______________________________________________
@@ -32,16 +32,17 @@ ______________________________________________
 18	1	R6	270k
 19	1	R8	100k
 20	1	R9	15 k
-21	1	U1	CC2640F128RSM
-22	1	U2	Antenna test
-23	1	U3	MCSJK-7E-24.00-8-10-60-B-10
-24	1	U4	QTC332.76809B2R
-25	1	U5	PMSA003I
-26	4	U6,U7,U8,U11	SML-P11
-27	1	U9	LPS-1301_9314_24
-28	1	U10	FTSH-105-01-F-DV-K
-29	1	U12	HU-2477N-1-LF
-30	1	U13	MCP73831
-31	1	U14	TPS61033
-32	1	U15	USB4110-GF-A
-33	1	U16	M12
+21	1	R10	470
+22	1	U1	CC2640F128RSM
+23	1	U2	an03
+24	1	U3	MCSJK-7E-24.00-8-10-60-B-10
+25	1	U4	QTC332.76809B2R
+26	1	U5	PMSA003I
+27	5	U6,U7,U8,U11,U15	SML-P11
+28	1	U9	LPS-1301_9314_24
+29	1	U10	FTSH-105-01-F-DV-K
+30	1	U12	HU-2477N-1-LF
+31	1	U13	MCP73831
+32	1	U14	TPS61033
+33	1	U16	USB4110-GF-A
+34	1	U17	M12

@@ -1,45 +1,578 @@
-\t (00:00:01) allegro 17.2 S083 Windows SPB 64-bit Edition
-\t (00:00:01)     Journal start - Mon Dec 26 12:01:51 2022
-\t (00:00:01)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=15880 CPUs=12
-\t (00:00:01) CmdLine= d:\cadence\tools\bin\allegro.exe D:\Cadence\cdssetup\OrCAD_Capture\17.2.0\ORCAD_PERSONAL_LIBRARY\FOOTPRINTS\X24M.dra
-\t (00:00:01) 
-   (00:00:01) Loading axlcore.cxt 
-\t (00:00:04) Opening existing design...
-\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged X24M
-\d (00:00:04) Design opened: D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/X24M.dra
-\i (00:00:04) trapsize 252
-\i (00:00:05) trapsize 259
-\i (00:00:05) trapsize 267
-\i (00:00:05) trapsize 259
-\i (00:00:05) trapsize 252
-\i (00:00:05) trapsize 252
-\i (00:00:06) generaledit 
-\i (00:00:11) add text 
-\t (00:00:12) Pick text location.
-\i (00:00:14) setwindow form.mini
-\i (00:00:14) FORM mini subclass ASSEMBLY_TOP 
-\i (00:00:16) setwindow pcb
-\i (00:00:16) pick grid -1.3138 -2.3557
-\t (00:00:16) last pick:  -1.3000 -2.4000
-\t (00:00:16) Enter text string.
-\i (00:00:22) setwindow pcb
-\i (00:00:22) prepopup -1.5101 -2.3104
-\i (00:00:23) done 
-\i (00:00:23) setwindow pcb
-\i (00:00:23) pick -1.3000 -2.4000
-\i (00:00:23) setwindow pcb
-\i (00:00:23) generaledit 
-\i (00:00:24) drag_start grid -0.6443 -2.3003
-\i (00:00:24) move 
-\t (00:00:25) last pick:  -1.3000 -2.4000
-\t (00:00:25) Pick new location for the element(s).
-\i (00:00:30) drag_stop grid -1.0470 -2.2752
-\i (00:00:30) generaledit 
-\i (00:00:31) pick grid -1.6409 -2.3960
-\t (00:00:31) last pick:  -1.6000 -2.4000
-\i (00:00:32) save 
-\i (00:00:33) fillin yes 
-\t (00:00:33) Symbol 'x24m.psm' created.
-\i (00:00:33) generaledit 
-\i (00:00:35) exit 
-\t (00:00:35)     Journal end - Mon Dec 26 12:02:24 2022
+\t (00:00:26) allegro 17.2 S083 Windows SPB 64-bit Edition
+\t (00:00:26)     Journal start - Tue Dec 27 17:34:06 2022
+\t (00:00:26)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=12380 CPUs=12
+\t (00:00:26) CmdLine= D:\Cadence\tools\bin\allegro.exe
+\t (00:00:26) 
+\t (00:00:26) Starting new design...
+\i (00:00:26) trapsize 839
+\i (00:00:26) trapsize 839
+\i (00:00:27) QtSignal spbdip_extents_group spbdip_extheight_edit editingFinished 20.0000
+\i (00:00:27) QtSignal SPBDesignInitPrompt spbdip_ok_button clicked
+\i (00:00:28) generaledit 
+\i (00:00:55) prmed 
+\i (00:00:59) setwindow form.prmedit
+\i (00:00:59) FORM prmedit display_padless_holes YES 
+\i (00:00:59) FORM prmedit display_backdrill_holes YES 
+\i (00:01:00) FORM prmedit display_plated_holes YES 
+\i (00:01:01) FORM prmedit display_non_plated_holes YES 
+\i (00:01:01) FORM prmedit display_thermal YES 
+\i (00:01:03) FORM prmedit design  
+\i (00:01:11) FORM prmedit x -2.0000 
+\i (00:01:14) FORM prmedit width 4.0000 
+\i (00:01:17) FORM prmedit y -2.0000 
+\i (00:01:22) FORM prmedit height 4.0000 
+\i (00:01:22) FORM prmedit display  
+\i (00:01:23) FORM prmedit view_grids_button  
+\t (00:01:23) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:01:29) setwindow form.grid
+\i (00:01:29) FORM grid non_etch non_etch_x_grids 0.05 
+\i (00:01:31) FORM grid non_etch non_etch_y_grids 0.05 
+\i (00:01:33) FORM grid top subclass_x_grids 0.05 
+\i (00:01:35) FORM grid top subclass_y_grids 0.05 
+\i (00:01:36) FORM grid bottom subclass_x_grids 0.05 
+\i (00:01:38) FORM grid bottom subclass_y_grids 0.05 
+\i (00:01:38) FORM grid done  
+\i (00:01:40) setwindow form.prmedit
+\i (00:01:40) FORM prmedit display_grid YES 
+\t (00:01:40) Grids are drawn 0.1000, 0.1000 apart for enhanced viewing.
+\i (00:01:41) FORM prmedit done  
+\i (00:01:41) setwindow pcb
+\i (00:01:41) trapsize 168
+\i (00:01:41) trapsize 173
+\i (00:01:42) trapsize 178
+\i (00:01:42) trapsize 173
+\i (00:01:42) trapsize 168
+\i (00:01:42) generaledit 
+\i (00:01:53) shape add rect 
+\i (00:02:25) pick -0.775 y 0.425 
+\t (00:02:25) last pick:  -0.7750 0.4250
+\i (00:02:35) pick 0.775 y -0.425 
+\t (00:02:35) last pick:  0.7750 -0.4250
+\i (00:03:02) add pin 
+\i (00:03:04) setwindow form.mini
+\i (00:03:04) FORM mini pad_browse  
+\t (00:03:13) No valid name selected.
+\i (00:03:16) fillin "Smd_Rect_W075_H09"
+\t (00:03:16) Using 'SMD_RECT_W075_H09.pad'.
+\i (00:03:37) FORM mini x_count 2 
+\i (00:03:47) FORM mini x_spacing 1.4000 
+\i (00:03:54) setwindow pcb
+\i (00:03:54) pick 0.7 y 0 
+\t (00:03:54) last pick:  0.7000 0.0000
+\t (00:03:54) Using 'SMD_RECT_W075_H09.pad'.
+\e (00:03:54) ERROR(SPMHAP-22): Pin will extend outside of extents.
+\i (00:03:58) prmed 
+\t (00:03:58) Exiting from Add Pin.
+\i (00:04:01) setwindow form.prmedit
+\i (00:04:01) FORM prmedit design  
+\i (00:04:07) FORM prmedit x -3.0000 
+\i (00:04:15) FORM prmedit y -3.0000 
+\i (00:04:18) FORM prmedit width 6.0000 
+\i (00:04:21) FORM prmedit height 6.0000 
+\i (00:04:21) FORM prmedit done  
+\i (00:04:21) setwindow pcb
+\i (00:04:21) trapsize 168
+\i (00:04:21) trapsize 172
+\i (00:04:22) trapsize 168
+\i (00:04:22) generaledit 
+\i (00:04:26) add pin 
+\t (00:04:26) Using 'SMD_RECT_W075_H09.pad'.
+\i (00:04:32) pick 0.7 y 0 
+\t (00:04:32) last pick:  0.7000 0.0000
+\t (00:04:32) Using 'SMD_RECT_W075_H09.pad'.
+\i (00:04:40) done 
+\t (00:04:40) Exiting from Add Pin.
+\i (00:04:40) generaledit 
+\i (00:04:43) move 
+\t (00:04:44) Select element(s) to move.
+\i (00:04:47) done 
+\i (00:04:47) generaledit 
+\i (00:04:48) pick grid 1.9564 -0.1376
+\t (00:04:48) last pick:  1.9500 -0.1500
+\i (00:04:49) pick grid tgl 0.9564 -0.0604
+\t (00:04:49) last pick:  0.9500 -0.0500
+\i (00:04:52) move 
+\i (00:04:53) pick grid 0.9329 -0.0336
+\t (00:04:53) last pick:  0.9500 -0.0500
+\t (00:04:53) Pick new location for the element(s).
+\i (00:04:58) pick -0.7 y 0 
+\t (00:04:58) last pick:  -0.7000 0.0000
+\i (00:04:58) generaledit 
+\i (00:05:06) drag_start grid 0.5570 0.0403
+\i (00:05:06) drag_stop 0.6040 -0.3456
+\i (00:05:08) move 
+\t (00:05:08) last pick:  0.4500 0.0500
+\t (00:05:08) Pick new location for the element(s).
+\i (00:05:10) pick grid 1.4262 -0.9530
+\t (00:05:10) last pick:  1.4500 -0.9500
+\i (00:05:10) generaledit 
+\i (00:05:14) move 
+\t (00:05:14) last pick:  1.4500 -0.9500
+\t (00:05:14) Pick new location for the element(s).
+\i (00:05:19) pick 0.7 y 0 
+\t (00:05:19) last pick:  0.7000 0.0000
+\i (00:05:19) generaledit 
+\i (00:05:24) drag_start grid -0.6980 0.5973
+\i (00:05:25) drag_stop -1.0235 1.1946
+\i (00:05:26) drag_start grid -0.7315 0.6007
+\i (00:05:26) move 
+\t (00:05:26) last pick:  -0.5700 0.0000
+\t (00:05:26) Pick new location for the element(s).
+\i (00:05:28) drag_stop grid 1.4899 -0.2349
+\i (00:05:28) generaledit 
+\i (00:05:29) pick grid -1.0638 0.0839
+\t (00:05:29) last pick:  -1.0500 0.1000
+\i (00:05:29) drag_start grid -1.0470 0.0638
+\i (00:05:29) drag_stop -0.9866 -0.1510
+\i (00:05:31) move 
+\t (00:05:31) last pick:  -0.9500 0.0500
+\t (00:05:31) Pick new location for the element(s).
+\i (00:05:32) pick grid 0.2081 -1.1275
+\t (00:05:32) last pick:  0.2000 -1.1500
+\i (00:05:32) generaledit 
+\i (00:05:33) drag_start grid -1.2953 -0.8960
+\i (00:05:34) drag_stop -0.3255 -1.0940
+\i (00:05:35) drag_start grid -1.2752 -0.9732
+\i (00:05:35) move 
+\t (00:05:35) last pick:  -1.0700 -1.1500
+\t (00:05:35) Pick new location for the element(s).
+\i (00:05:38) drag_stop grid -0.0940 -1.4262
+\i (00:05:38) generaledit 
+\i (00:05:39) pick grid 0.0201 -1.1510
+\t (00:05:39) last pick:  0.0000 -1.1500
+\i (00:05:40) move 
+\t (00:05:40) last pick:  0.2000 -1.1500
+\t (00:05:40) Pick new location for the element(s).
+\i (00:05:45) pick -0.7 y 0 
+\t (00:05:45) last pick:  -0.7000 0.0000
+\i (00:05:45) generaledit 
+\i (00:05:48) done 
+\i (00:05:49) generaledit 
+\i (00:05:49) pick grid 0.4631 -1.1242
+\t (00:05:49) last pick:  0.4500 -1.1000
+\i (00:05:53) shape add rect 
+\i (00:05:56) setwindow form.mini
+\i (00:05:56) FORM mini subclass SILKSCREEN_TOP 
+\i (00:06:18) setwindow pcb
+\i (00:06:18) pick -1 y 0.75 
+\t (00:06:18) last pick:  -1.0000 0.7500
+\i (00:06:23) done 
+\i (00:06:23) generaledit 
+\i (00:06:24) shape add rect 
+\i (00:06:43) pick -2 y 1 
+\t (00:06:43) last pick:  -2.0000 1.0000
+\i (00:06:44) zoom out 1 
+\i (00:06:44) setwindow pcb
+\i (00:06:44) zoom out 0.5336 -0.4631
+\i (00:06:44) trapsize 252
+\i (00:06:44) zoom out 1 
+\i (00:06:44) setwindow pcb
+\i (00:06:44) zoom out 0.8003 -0.6946
+\i (00:06:44) trapsize 252
+\i (00:06:52) pick 2 y -1 
+\t (00:06:52) last pick:  2.0000 -1.0000
+\i (00:06:54) done 
+\i (00:06:54) generaledit 
+\i (00:06:54) pick grid 0.7550 -1.8272
+\t (00:06:54) last pick:  0.7500 -1.8500
+\i (00:06:56) zoom in 1 
+\i (00:06:56) setwindow pcb
+\i (00:06:56) zoom in -0.2668 -0.4832
+\i (00:06:56) trapsize 126
+\i (00:06:56) zoom out 1 
+\i (00:06:56) setwindow pcb
+\i (00:06:56) zoom out -0.2668 -0.4832
+\i (00:06:56) trapsize 252
+\i (00:07:03) label refdes 
+\t (00:07:04) Pick text location.
+\i (00:07:09) pick grid 0.0151 0.0252
+\t (00:07:09) last pick:  0.0000 0.0500
+\t (00:07:09) Enter text string.
+\i (00:07:18) setwindow pcb
+\i (00:07:18) move 
+\i (00:07:18) setwindow pcb
+\i (00:07:18) pick 0.0000 0.0500
+\t (00:07:18) Select element(s) to move.
+\i (00:07:19) setwindow pcb
+\i (00:07:19) pick grid 0.1409 0.6393
+\t (00:07:19) last pick:  0.1500 0.6500
+\t (00:07:19) last pick:  0.0000 0.0500
+\t (00:07:19) Pick new location for the element(s).
+\i (00:07:23) pick grid -0.3876 -1.2232
+\t (00:07:23) last pick:  -0.4000 -1.2000
+\i (00:07:25) pick grid 0.5084 2.2701
+\t (00:07:25) last pick:  0.5000 2.2500
+\i (00:07:28) label refdes 
+\t (00:07:28) Pick text location.
+\i (00:07:30) setwindow form.mini
+\i (00:07:30) FORM mini subclass SILKSCREEN_TOP 
+\i (00:07:32) setwindow pcb
+\i (00:07:32) pick grid -0.1913 -0.9262
+\t (00:07:32) last pick:  -0.2000 -0.9500
+\t (00:07:32) Enter text string.
+\i (00:07:37) setwindow pcb
+\i (00:07:37) move 
+\i (00:07:37) setwindow pcb
+\i (00:07:37) pick -0.2000 -0.9500
+\t (00:07:38) Select element(s) to move.
+\i (00:07:39) setwindow pcb
+\i (00:07:39) pick grid 0.1007 -0.6846
+\t (00:07:39) last pick:  0.1000 -0.7000
+\t (00:07:39) last pick:  -0.2000 -0.9500
+\t (00:07:39) Pick new location for the element(s).
+\i (00:07:42) pick grid -0.3926 -1.1779
+\t (00:07:42) last pick:  -0.4000 -1.2000
+\i (00:07:43) done 
+\i (00:07:43) generaledit 
+\i (00:07:43) pick grid -0.6695 -1.8725
+\t (00:07:43) last pick:  -0.6500 -1.8500
+\i (00:07:46) save 
+\t (00:07:46) Symbol '0603r.psm' created.
+\i (00:07:46) generaledit 
+\i (00:07:51) dbdoctor 
+\i (00:07:52) setwindow form.dbdoctor_allegro
+\i (00:07:52) FORM dbdoctor_allegro shapes YES 
+\i (00:07:53) FORM dbdoctor_allegro drc YES 
+\i (00:07:54) FORM dbdoctor_allegro execute  
+\t (00:07:54) Dbdoctor in progress - wait...
+\t (00:07:54) Checking db records
+\t (00:07:54)     checking for orphans...
+\t (00:07:54)     Checked 100 percent
+\t (00:07:54) Regenerating DRC
+\t (00:07:54)   Original DRC errors: 0
+\t (00:07:54) Performing DRC...
+\t (00:07:54) No DRC errors detected.
+\t (00:07:54)   Updated DRC errors:  0
+\t (00:07:54) Done dbdoctor.
+\t (00:07:54) Dbdoctor completed.
+\i (00:07:55) FORM dbdoctor_allegro close  
+\i (00:07:55) setwindow pcb
+\i (00:07:55) generaledit 
+\i (00:07:56) save 
+\i (00:07:58) fillin yes 
+   (00:07:58) Loading signal.cxt 
+\t (00:07:58) Symbol '0603r.psm' created.
+\i (00:07:58) generaledit 
+\i (00:08:01) new 
+\i (00:08:14) newdrawfillin "0603C.dra" "Package Symbol"
+\t (00:08:14) Starting new design...
+\i (00:08:14) trapsize 252
+\i (00:08:14) trapsize 252
+\i (00:08:15) QtSignal spbdip_extents_group spbdip_extheight_edit editingFinished 6.0000
+\i (00:08:15) QtSignal SPBDesignInitPrompt spbdip_ok_button clicked
+\i (00:08:15) generaledit 
+\i (00:08:18) prmed 
+\i (00:08:22) setwindow form.prmedit
+\i (00:08:22) FORM prmedit display  
+\i (00:08:24) FORM prmedit display_padless_holes YES 
+\i (00:08:24) FORM prmedit display_non_plated_holes YES 
+\i (00:08:24) FORM prmedit display_backdrill_holes YES 
+\i (00:08:26) FORM prmedit display_thermal YES 
+\i (00:08:27) FORM prmedit display_plated_holes YES 
+\i (00:08:28) FORM prmedit display_grid YES 
+\i (00:08:31) FORM prmedit view_grids_button  
+\t (00:08:31) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:08:36) setwindow form.grid
+\i (00:08:36) FORM grid non_etch non_etch_x_grids 0.05 
+\i (00:08:37) FORM grid non_etch non_etch_y_grids 0.05 
+\i (00:08:39) FORM grid top subclass_x_grids 0.05 
+\i (00:08:41) FORM grid top subclass_y_grids 0.05 
+\i (00:08:43) FORM grid bottom subclass_x_grids 0.05 
+\i (00:08:44) FORM grid bottom subclass_y_grids 0.05 
+\i (00:08:44) FORM grid done  
+\i (00:08:45) setwindow form.prmedit
+\i (00:08:45) FORM prmedit done  
+\i (00:08:46) setwindow pcb
+\i (00:08:46) generaledit 
+\i (00:08:48) shape add rect 
+\i (00:08:56) setwindow form.mini
+\i (00:08:56) FORM mini class PACKAGE GEOMETRY 
+\i (00:09:14) setwindow pcb
+\i (00:09:14) pick -0.775 y 0.425 
+\t (00:09:14) last pick:  -0.7750 0.4250
+\i (00:09:23) pick 0.775 y -0.425 
+\t (00:09:23) last pick:  0.7750 -0.4250
+\i (00:09:25) done 
+\i (00:09:25) generaledit 
+\i (00:09:26) pick grid 0.7198 -1.1779
+\t (00:09:26) last pick:  0.7000 -1.2000
+\i (00:09:28) auto_pin_renumber 
+\w (00:09:28) We cannot detect a pin array that supports one of our renumber methods.
+\i (00:09:28) generaledit 
+\i (00:09:29) add pin 
+\i (00:09:31) setwindow form.mini
+\i (00:09:31) FORM mini pad_browse  
+\t (00:09:34) No valid name selected.
+\t (00:09:37) No valid name selected.
+\t (00:09:37) No valid name selected.
+\t (00:09:37) No valid name selected.
+\t (00:09:41) No valid name selected.
+\t (00:09:41) No valid name selected.
+\t (00:09:41) No valid name selected.
+\i (00:09:45) fillin "Smd_Rect_W075_H09"
+\t (00:09:45) Using 'SMD_RECT_W075_H09.pad'.
+\i (00:09:52) FORM mini x_count 2 
+\i (00:10:01) FORM mini x_spacing 1.4000 
+\i (00:10:06) setwindow pcb
+\i (00:10:06) pick -0.7 y 0 
+\t (00:10:06) last pick:  -0.7000 0.0000
+\t (00:10:06) Using 'SMD_RECT_W075_H09.pad'.
+\i (00:10:08) done 
+\t (00:10:08) Exiting from Add Pin.
+\i (00:10:08) generaledit 
+\i (00:10:10) drag_start grid -0.6795 0.5436
+\i (00:10:10) move 
+\t (00:10:10) last pick:  -0.5700 0.0000
+\t (00:10:10) Pick new location for the element(s).
+\i (00:10:12) drag_stop grid 1.4799 -0.2869
+\i (00:10:13) generaledit 
+\i (00:10:14) drag_start grid -2.1846 0.1258
+\i (00:10:14) move 
+\t (00:10:14) last pick:  -1.9700 0.0000
+\t (00:10:14) Pick new location for the element(s).
+\i (00:10:16) drag_stop grid -1.0923 -0.3171
+\i (00:10:16) generaledit 
+\i (00:10:16) pick grid -0.0856 -1.4950
+\t (00:10:16) last pick:  -0.1000 -1.5000
+\i (00:10:19) shape add rect 
+\i (00:10:25) setwindow form.mini
+\i (00:10:25) FORM mini subclass SILKSCREEN_TOP 
+\i (00:10:35) setwindow pcb
+\i (00:10:35) pick -2 y 1 
+\t (00:10:35) last pick:  -2.0000 1.0000
+\i (00:10:39) pick 2 y -1 
+\t (00:10:39) last pick:  2.0000 -1.0000
+\i (00:10:41) done 
+\i (00:10:41) generaledit 
+\i (00:10:41) pick grid 1.8523 -1.9430
+\t (00:10:41) last pick:  1.8500 -1.9500
+\i (00:10:45) label refdes 
+\t (00:10:45) Pick text location.
+\i (00:10:46) pick grid -0.1409 -0.7953
+\t (00:10:46) last pick:  -0.1500 -0.8000
+\t (00:10:46) Enter text string.
+\i (00:10:50) setwindow pcb
+\i (00:10:50) pick grid -0.4883 -1.2886
+\t (00:10:50) last pick:  -0.5000 -1.3000
+\i (00:10:50) setwindow pcb
+\i (00:10:50) pick -0.1500 -0.8000
+\i (00:10:51) move 
+\t (00:10:51) Select element(s) to move.
+\i (00:10:52) pick grid -0.0503 -0.8154
+\t (00:10:52) last pick:  -0.0500 -0.8000
+\t (00:10:52) last pick:  -0.1500 -0.8000
+\t (00:10:52) Pick new location for the element(s).
+\i (00:10:55) pick grid -0.3876 -1.2282
+\t (00:10:55) last pick:  -0.4000 -1.2500
+\i (00:10:58) label refdes 
+\t (00:10:58) Pick text location.
+\i (00:11:00) setwindow form.mini
+\i (00:11:00) FORM mini subclass SILKSCREEN_TOP 
+\i (00:11:02) setwindow pcb
+\i (00:11:02) pick grid -0.6745 -1.1779
+\t (00:11:02) last pick:  -0.6500 -1.2000
+\t (00:11:02) Enter text string.
+\i (00:11:06) setwindow pcb
+\i (00:11:06) pick grid -1.2634 -1.3641
+\t (00:11:06) last pick:  -1.2500 -1.3500
+\i (00:11:06) setwindow pcb
+\i (00:11:06) pick -0.6500 -1.2000
+\i (00:11:08) move 
+\t (00:11:08) Select element(s) to move.
+\i (00:11:09) pick grid -0.4933 -0.7198
+\t (00:11:09) last pick:  -0.5000 -0.7000
+\t (00:11:09) last pick:  -0.6500 -1.2000
+\t (00:11:09) Pick new location for the element(s).
+\i (00:11:10) pick grid -0.4228 -1.2584
+\t (00:11:10) last pick:  -0.4000 -1.2500
+\i (00:11:12) done 
+\i (00:11:12) generaledit 
+\i (00:11:12) pick grid -1.9128 1.4094
+\t (00:11:12) last pick:  -1.9000 1.4000
+\i (00:11:15) dbdoctor 
+\i (00:11:17) setwindow form.dbdoctor_allegro
+\i (00:11:17) FORM dbdoctor_allegro shapes YES 
+\i (00:11:17) FORM dbdoctor_allegro drc YES 
+\i (00:11:18) FORM dbdoctor_allegro execute  
+\t (00:11:18) Dbdoctor in progress - wait...
+\t (00:11:18) Checking db records
+\t (00:11:18)     checking for orphans...
+\t (00:11:18)     Checked 100 percent
+\t (00:11:18) Regenerating DRC
+\t (00:11:18)   Original DRC errors: 0
+\t (00:11:18) Performing DRC...
+\t (00:11:18) No DRC errors detected.
+\t (00:11:18)   Updated DRC errors:  0
+\t (00:11:18) Done dbdoctor.
+\t (00:11:18) Dbdoctor completed.
+\i (00:11:20) FORM dbdoctor_allegro execute  
+\t (00:11:20) Dbdoctor in progress - wait...
+\t (00:11:20) Checking db records
+\t (00:11:20)     checking for orphans...
+\t (00:11:20)     Checked 100 percent
+\t (00:11:20) Regenerating DRC
+\t (00:11:20)   Original DRC errors: 0
+\t (00:11:20) Performing DRC...
+\t (00:11:20) No DRC errors detected.
+\t (00:11:20)   Updated DRC errors:  0
+\t (00:11:20) Done dbdoctor.
+\t (00:11:20) Dbdoctor completed.
+\i (00:11:22) FORM dbdoctor_allegro close  
+\i (00:11:22) setwindow pcb
+\i (00:11:22) generaledit 
+\i (00:11:24) save 
+\t (00:11:24) Symbol '0603c.psm' created.
+\i (00:11:24) generaledit 
+\i (00:11:26) new 
+\i (00:11:35) newdrawfillin "0603L.dra" "Package Symbol"
+\t (00:11:35) Starting new design...
+\i (00:11:36) trapsize 252
+\i (00:11:36) trapsize 252
+\i (00:11:37) QtSignal spbdip_extents_group spbdip_extheight_edit editingFinished 6.0000
+\i (00:11:37) QtSignal SPBDesignInitPrompt spbdip_ok_button clicked
+\i (00:11:37) generaledit 
+\i (00:11:39) prmed 
+\i (00:11:42) setwindow form.prmedit
+\i (00:11:42) FORM prmedit display_thermal YES 
+\i (00:11:42) FORM prmedit display_padless_holes YES 
+\i (00:11:43) FORM prmedit display_non_plated_holes YES 
+\i (00:11:43) FORM prmedit display_backdrill_holes YES 
+\i (00:11:44) FORM prmedit display_plated_holes YES 
+\i (00:11:46) FORM prmedit design  
+\i (00:11:47) FORM prmedit display  
+\i (00:11:48) FORM prmedit view_grids_button  
+\t (00:11:48) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:11:53) setwindow form.grid
+\i (00:11:53) FORM grid non_etch non_etch_x_grids 0.05 
+\i (00:11:56) FORM grid non_etch non_etch_y_grids 0.05 
+\i (00:11:57) FORM grid top subclass_x_grids 0.05 
+\i (00:11:59) FORM grid top subclass_y_grids 0.05 
+\i (00:12:00) FORM grid bottom subclass_x_grids 0.05 
+\i (00:12:02) FORM grid bottom subclass_y_grids 0.05 
+\i (00:12:02) FORM grid done  
+\i (00:12:04) setwindow form.prmedit
+\i (00:12:04) FORM prmedit display_grid YES 
+\i (00:12:05) FORM prmedit done  
+\i (00:12:05) setwindow pcb
+\i (00:12:05) generaledit 
+\i (00:12:06) shape add rect 
+\i (00:12:09) setwindow form.mini
+\i (00:12:09) FORM mini class PACKAGE GEOMETRY 
+\i (00:12:18) setwindow pcb
+\i (00:12:18) pick -0.775 y 0.425 
+\t (00:12:18) last pick:  -0.7750 0.4250
+\i (00:12:26) pick 0.775 y -0.425 
+\t (00:12:26) last pick:  0.7750 -0.4250
+\i (00:12:29) done 
+\i (00:12:29) generaledit 
+\i (00:12:29) pick grid -2.2701 2.3205
+\t (00:12:29) last pick:  -2.2500 2.3000
+\i (00:12:31) add pin 
+\i (00:12:32) setwindow form.mini
+\i (00:12:32) FORM mini pad_browse  
+\t (00:12:36) No valid name selected.
+\i (00:12:40) fillin "Smd_Rect_W075_H09"
+\t (00:12:40) Using 'SMD_RECT_W075_H09.pad'.
+\i (00:12:47) FORM mini x_count 2 
+\i (00:12:51) FORM mini x_spacing 1.4000 
+\i (00:12:55) setwindow pcb
+\i (00:12:55) pick -0.7 y 0 
+\t (00:12:55) last pick:  -0.7000 0.0000
+\t (00:12:55) Using 'SMD_RECT_W075_H09.pad'.
+\i (00:12:57) done 
+\t (00:12:57) Exiting from Add Pin.
+\i (00:12:57) generaledit 
+\i (00:12:58) drag_start grid -0.7550 0.6141
+\i (00:12:58) move 
+\t (00:12:59) last pick:  -0.5700 0.0000
+\t (00:12:59) Pick new location for the element(s).
+\i (00:13:00) drag_stop grid 1.4899 -0.3070
+\i (00:13:00) generaledit 
+\i (00:13:01) drag_start grid -2.2047 0.2617
+\i (00:13:01) move 
+\t (00:13:02) last pick:  -1.9700 0.0000
+\t (00:13:02) Pick new location for the element(s).
+\i (00:13:04) drag_stop grid -1.0419 -0.3121
+\i (00:13:04) generaledit 
+\i (00:13:05) pick grid -1.3087 -0.6644
+\t (00:13:05) last pick:  -1.3000 -0.6500
+\i (00:13:06) shape add rect 
+\i (00:13:10) setwindow form.mini
+\i (00:13:10) FORM mini subclass SILKSCREEN_TOP 
+\i (00:13:18) setwindow pcb
+\i (00:13:18) pick -2 y 1 
+\t (00:13:18) last pick:  -2.0000 1.0000
+\i (00:13:23) pick 2 y -1 
+\t (00:13:23) last pick:  2.0000 -1.0000
+\i (00:13:25) done 
+\i (00:13:25) generaledit 
+\i (00:13:25) pick grid -0.2013 -1.9933
+\t (00:13:25) last pick:  -0.2000 -2.0000
+\i (00:13:28) pick grid -1.3691 2.3557
+\t (00:13:28) last pick:  -1.3500 2.3500
+\i (00:13:32) label refdes 
+\t (00:13:32) Pick text location.
+\i (00:13:34) pick grid -0.4732 -0.9413
+\t (00:13:34) last pick:  -0.4500 -0.9500
+\t (00:13:34) Enter text string.
+\i (00:13:39) setwindow pcb
+\i (00:13:39) move 
+\i (00:13:39) setwindow pcb
+\i (00:13:39) pick -0.4500 -0.9500
+\t (00:13:39) Select element(s) to move.
+\i (00:13:40) setwindow pcb
+\i (00:13:40) pick grid -0.2668 -0.8859
+\t (00:13:40) last pick:  -0.2500 -0.9000
+\t (00:13:40) last pick:  -0.4500 -0.9500
+\t (00:13:40) Pick new location for the element(s).
+\i (00:13:42) pick grid -0.3826 -1.1779
+\t (00:13:42) last pick:  -0.4000 -1.2000
+\i (00:13:46) label refdes 
+\t (00:13:46) Pick text location.
+\i (00:13:48) setwindow form.mini
+\i (00:13:48) FORM mini subclass SILKSCREEN_TOP 
+\i (00:13:49) setwindow pcb
+\i (00:13:49) pick grid -0.5436 -0.9815
+\t (00:13:49) last pick:  -0.5500 -1.0000
+\t (00:13:49) Enter text string.
+\i (00:13:54) setwindow pcb
+\i (00:13:54) pick grid -1.1124 -1.6963
+\t (00:13:54) last pick:  -1.1000 -1.7000
+\i (00:13:54) setwindow pcb
+\i (00:13:54) pick -0.5500 -1.0000
+\i (00:13:55) move 
+\t (00:13:55) Select element(s) to move.
+\i (00:13:57) pick grid -0.5235 -0.8104
+\t (00:13:57) last pick:  -0.5000 -0.8000
+\t (00:13:57) last pick:  -0.5500 -1.0000
+\t (00:13:57) Pick new location for the element(s).
+\i (00:13:59) pick grid -0.3926 -1.2232
+\t (00:13:59) last pick:  -0.4000 -1.2000
+\i (00:14:00) done 
+\i (00:14:00) generaledit 
+\i (00:14:01) pick grid -0.8003 -1.6611
+\t (00:14:01) last pick:  -0.8000 -1.6500
+\i (00:14:03) dbdoctor 
+\i (00:14:04) setwindow form.dbdoctor_allegro
+\i (00:14:04) FORM dbdoctor_allegro shapes YES 
+\i (00:14:05) FORM dbdoctor_allegro drc YES 
+\i (00:14:06) FORM dbdoctor_allegro execute  
+\t (00:14:06) Dbdoctor in progress - wait...
+\t (00:14:06) Checking db records
+\t (00:14:06)     checking for orphans...
+\t (00:14:07)     Checked 100 percent
+\t (00:14:07) Regenerating DRC
+\t (00:14:07)   Original DRC errors: 0
+\t (00:14:07) Performing DRC...
+\t (00:14:07) No DRC errors detected.
+\t (00:14:07)   Updated DRC errors:  0
+\t (00:14:07) Done dbdoctor.
+\t (00:14:07) Dbdoctor completed.
+\i (00:14:08) FORM dbdoctor_allegro close  
+\i (00:14:08) setwindow pcb
+\i (00:14:08) generaledit 
+\i (00:14:09) save 
+\t (00:14:09) Symbol '0603l.psm' created.
+\i (00:14:09) generaledit 
+\i (00:14:15) exit 
+\t (00:14:15)     Journal end - Tue Dec 27 17:47:55 2022
