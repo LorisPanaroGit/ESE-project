@@ -1,0 +1,180 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : AIRQUALITYBLUETOOTHSENSOR.brd                 )
+(    Software Version : 17.2S083                                      )
+(    Date/Time        : Tue Dec 27 18:37:41 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\SCHEMATIC_FINALPROJECT\allegro'
+Design Directory:            'D:/CADENCE/CDSSETUP/ORCAD_CAPTURE/17.2.0/SCHEMATIC_FINALPROJECT/allegro'
+Old design name:             'D:/CADENCE/CDSSETUP/ORCAD_CAPTURE/17.2.0/SCHEMATIC_FINALPROJECT/allegro/AIRQUALITYBLUETOOTHSENSOR.brd'
+New design name:             'D:/CADENCE/CDSSETUP/ORCAD_CAPTURE/17.2.0/SCHEMATIC_FINALPROJECT/allegro/AIRQUALITYBLUETOOTHSENSOR.brd'
+
+CmdLine: netrev.exe -y 1 -n -i D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\SCHEMATIC_FINALPROJECT\allegro D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\SCHEMATIC_FINALPROJECT\allegro\AIRQUALITYBLUETOOTHSENSOR.brd D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\SCHEMATIC_FINALPROJECT\allegro\AIRQUALITYBLUETOOTHSENSOR.brd
+
+------ Preparing to read pst files ------
+
+Starting to read D:/CADENCE/CDSSETUP/ORCAD_CAPTURE/17.2.0/SCHEMATIC_FINALPROJECT/allegro/pstchip.dat 
+   Finished reading D:/CADENCE/CDSSETUP/ORCAD_CAPTURE/17.2.0/SCHEMATIC_FINALPROJECT/allegro/pstchip.dat (00:00:00.04)
+Starting to read D:/CADENCE/CDSSETUP/ORCAD_CAPTURE/17.2.0/SCHEMATIC_FINALPROJECT/allegro/pstxprt.dat 
+   Finished reading D:/CADENCE/CDSSETUP/ORCAD_CAPTURE/17.2.0/SCHEMATIC_FINALPROJECT/allegro/pstxprt.dat (00:00:00.00)
+Starting to read D:/CADENCE/CDSSETUP/ORCAD_CAPTURE/17.2.0/SCHEMATIC_FINALPROJECT/allegro/pstxnet.dat 
+   Finished reading D:/CADENCE/CDSSETUP/ORCAD_CAPTURE/17.2.0/SCHEMATIC_FINALPROJECT/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+#1   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+ERROR(SPMHNI-196): Symbol 'LIR' for device 'HU-2477N-1-LF_0_LIR_HU-2477N-1-' has extra pin '3'.
+
+#2   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+ERROR(SPMHNI-196): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' has extra pin '1'.
+
+ERROR(SPMHNI-196): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' has extra pin '2'.
+
+ERROR(SPMHNI-196): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' has extra pin '3'.
+
+ERROR(SPMHNI-196): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' has extra pin '4'.
+
+ERROR(SPMHNI-196): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' has extra pin '5'.
+
+ERROR(SPMHNI-196): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' has extra pin '6'.
+
+ERROR(SPMHNI-196): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' has extra pin '7'.
+
+ERROR(SPMHNI-196): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' has extra pin '8'.
+
+ERROR(SPMHNI-196): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' has extra pin '9'.
+
+ERROR(SPMHNI-196): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' has extra pin '10'.
+
+ERROR(SPMHNI-196): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' has extra pin '11'.
+
+ERROR(SPMHNI-196): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' has extra pin '12'.
+
+ERROR(SPMHNI-196): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' has extra pin '13'.
+
+ERROR(SPMHNI-196): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' has extra pin '14'.
+
+ERROR(SPMHNI-196): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' has extra pin '15'.
+
+ERROR(SPMHNI-196): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' has extra pin '16'.
+
+ERROR(SPMHNI-196): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' has extra pin '17'.
+
+ERROR(SPMHNI-196): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' has extra pin '18'.
+
+ERROR(SPMHNI-195): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' is missing pin 'A5'.
+
+ERROR(SPMHNI-195): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' is missing pin 'B5'.
+
+ERROR(SPMHNI-195): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' is missing pin 'A7'.
+
+ERROR(SPMHNI-195): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' is missing pin 'B7'.
+
+ERROR(SPMHNI-195): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' is missing pin 'A6'.
+
+ERROR(SPMHNI-195): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' is missing pin 'B6'.
+
+ERROR(SPMHNI-195): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' is missing pin 'A1'.
+
+ERROR(SPMHNI-195): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' is missing pin 'A12'.
+
+ERROR(SPMHNI-195): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' is missing pin 'B1'.
+
+ERROR(SPMHNI-195): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' is missing pin 'B12'.
+
+ERROR(SPMHNI-195): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' is missing pin 'A8'.
+
+ERROR(SPMHNI-195): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' is missing pin 'B8'.
+
+ERROR(SPMHNI-195): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' is missing pin 'A4'.
+
+ERROR(SPMHNI-195): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' is missing pin 'A9'.
+
+ERROR(SPMHNI-195): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' is missing pin 'B4'.
+
+ERROR(SPMHNI-195): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' is missing pin 'B9'.
+
+#3   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'CONNECTOR_PMSA003I' used by RefDes U5 for device 'PMSA003I_CONNECTOR_PMSA003I_PMS' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to migrat
+
+#4   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SLOT_LPS-1301_9314_24' used by RefDes U9 for device 'LPS-1301_9314_24_SLOT_LPS-1301_' not found. 
+The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
+
+Set the correct library path if not set or use dbdoctor to mig
+
+------ Library Paths ------
+MODULEPATH =  . 
+           D:/Cadence/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           D:/Cadence/share/local/pcb/symbols 
+           D:/Cadence/share/pcb/pcb_lib/symbols 
+           D:/Cadence/share/pcb/allegrolib/symbols 
+           D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           D:/Cadence/share/local/pcb/padstacks 
+           D:/Cadence/share/pcb/pcb_lib/symbols 
+           D:/Cadence/share/pcb/allegrolib/symbols 
+           D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/PADSTACK/ 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Dec 27 18:37:41 2022
+   DESIGN NAME : 'AIRQUALITYBLUETOOTHSENSOR'
+   PACKAGING ON May 24 2022 13:22:03
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+  4 warnings detected
+
+cpu time      0:00:51
+elapsed time  0:00:00
+

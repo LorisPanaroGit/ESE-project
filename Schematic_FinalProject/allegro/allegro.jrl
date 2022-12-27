@@ -1,0 +1,17 @@
+\t (00:00:00) allegro 17.2 S083 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Tue Dec 27 18:37:50 2022
+\t (00:00:00)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=11348 CPUs=12
+\t (00:00:00) CmdLine= D:\Cadence\tools\bin\allegro.exe -mpssession loris D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\SCHEMATIC_FINALPROJECT\allegro\AIRQUALITYBLUETOOTHSENSOR.brd
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\i (00:00:03) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged AIRQUALITYBLUETOOTHSENSOR
+\d (00:00:03) Design opened: D:/CADENCE/CDSSETUP/ORCAD_CAPTURE/17.2.0/SCHEMATIC_FINALPROJECT/allegro/AIRQUALITYBLUETOOTHSENSOR.brd
+\i (00:00:03) trapsize 7468
+\i (00:00:04) trapsize 7659
+\i (00:00:04) trapsize 7562
+\i (00:00:04) trapsize 7468
+\i (00:00:04) trapsize 7468
+\i (00:00:04) generaledit 
+\i (00:00:32) exit 
+\t (00:00:33)     Journal end - Tue Dec 27 18:38:22 2022
