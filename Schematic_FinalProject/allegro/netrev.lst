@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : AIRQUALITYBLUETOOTHSENSOR.brd                 )
 (    Software Version : 17.2S083                                      )
-(    Date/Time        : Tue Dec 27 18:37:41 2022                      )
+(    Date/Time        : Wed Dec 28 17:50:23 2022                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -19,10 +19,10 @@ Missing symbol has error:    No
 DRC update:                  Yes
 Schematic directory:         'D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\SCHEMATIC_FINALPROJECT\allegro'
 Design Directory:            'D:/CADENCE/CDSSETUP/ORCAD_CAPTURE/17.2.0/SCHEMATIC_FINALPROJECT/allegro'
-Old design name:             'D:/CADENCE/CDSSETUP/ORCAD_CAPTURE/17.2.0/SCHEMATIC_FINALPROJECT/allegro/AIRQUALITYBLUETOOTHSENSOR.brd'
+Old design name:             'D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/Schematic_FinalProject/allegro/AIRQUALITYBLUETOOTHSENSOR.brd'
 New design name:             'D:/CADENCE/CDSSETUP/ORCAD_CAPTURE/17.2.0/SCHEMATIC_FINALPROJECT/allegro/AIRQUALITYBLUETOOTHSENSOR.brd'
 
-CmdLine: netrev.exe -y 1 -n -i D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\SCHEMATIC_FINALPROJECT\allegro D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\SCHEMATIC_FINALPROJECT\allegro\AIRQUALITYBLUETOOTHSENSOR.brd D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\SCHEMATIC_FINALPROJECT\allegro\AIRQUALITYBLUETOOTHSENSOR.brd
+CmdLine: netrev.exe -y 1 -i D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\SCHEMATIC_FINALPROJECT\allegro D:\Cadence\cdssetup\OrCAD_Capture\17.2.0\Schematic_FinalProject\allegro\AIRQUALITYBLUETOOTHSENSOR.brd D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\SCHEMATIC_FINALPROJECT\allegro\AIRQUALITYBLUETOOTHSENSOR.brd
 
 ------ Preparing to read pst files ------
 
@@ -110,20 +110,6 @@ ERROR(SPMHNI-195): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' is mi
 
 ERROR(SPMHNI-195): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' is missing pin 'B9'.
 
-#3   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'CONNECTOR_PMSA003I' used by RefDes U5 for device 'PMSA003I_CONNECTOR_PMSA003I_PMS' not found. 
-The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
-
-Set the correct library path if not set or use dbdoctor to migrat
-
-#4   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-WARNING(SPMHNI-194): Symbol 'SLOT_LPS-1301_9314_24' used by RefDes U9 for device 'LPS-1301_9314_24_SLOT_LPS-1301_' not found. 
-The symbol either does not exist in the library path (PSMPATH) or is an old symbol from a previous release.  
-
-Set the correct library path if not set or use dbdoctor to mig
-
 ------ Library Paths ------
 MODULEPATH =  . 
            D:/Cadence/share/local/pcb/modules 
@@ -150,7 +136,7 @@ PADPATH =  .
 ------ Summary Statistics ------
 
 
-netrev run on Dec 27 18:37:41 2022
+netrev run on Dec 28 17:50:23 2022
    DESIGN NAME : 'AIRQUALITYBLUETOOTHSENSOR'
    PACKAGING ON May 24 2022 13:22:03
 
@@ -173,8 +159,8 @@ netrev run on Dec 27 18:37:41 2022
 
  No error detected
  No oversight detected
-  4 warnings detected
+  2 warnings detected
 
-cpu time      0:00:51
+cpu time      0:00:39
 elapsed time  0:00:00
 

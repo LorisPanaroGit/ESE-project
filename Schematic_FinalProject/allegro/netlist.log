@@ -1,4 +1,4 @@
-{ Using PSTWRITER 17.2.0 d001Dec-27-2022 at 18:37:39 }
+{ Using PSTWRITER 17.2.0 d001Dec-28-2022 at 17:50:22 }
 
 #1 WARNING(ORCAP-36042): Pin "VSS" is renamed to "VSS#3" as visible power pin of same name already exists in Package CC2460F128RSM , U1: SCHEMATIC1, MCU (3.50, 0.40).
 #2 WARNING(ORCAP-36042): Pin "VSS" is renamed to "VSS#7" as visible power pin of same name already exists in Package CC2460F128RSM , U1: SCHEMATIC1, MCU (3.50, 0.40).
@@ -22,12 +22,11 @@
 #20 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#2" as visible power pin of same name already exists in Package MCSJK-7E-24.00-8-10-60-B-10 , U3: SCHEMATIC1, MCU (6.60, 4.40).
 #21 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#4" as visible power pin of same name already exists in Package MCSJK-7E-24.00-8-10-60-B-10 , U3: SCHEMATIC1, MCU (6.60, 4.40).
 #22 WARNING(ORCAP-36006): Part Name "QTC33276809B2R_0_X32K_QTC332.76809B2R" is renamed to "QTC33276809B2R_0_X32K_QTC332.76".
-#23 WARNING(ORCAP-36006): Part Name "PMSA003I_CONNECTOR_PMSA003I_PMSA003I" is renamed to "PMSA003I_CONNECTOR_PMSA003I_PMS".
-#24 WARNING(ORCAP-36042): Pin "VCC" is renamed to "VCC#1" as visible power pin of same name already exists in Package PMSA003I , U5: SCHEMATIC1, Peripheral (2.30, 1.40).
-#25 WARNING(ORCAP-36042): Pin "VCC" is renamed to "VCC#2" as visible power pin of same name already exists in Package PMSA003I , U5: SCHEMATIC1, Peripheral (2.30, 1.40).
-#26 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#3" as visible power pin of same name already exists in Package PMSA003I , U5: SCHEMATIC1, Peripheral (2.30, 1.40).
-#27 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#4" as visible power pin of same name already exists in Package PMSA003I , U5: SCHEMATIC1, Peripheral (2.30, 1.40).
-#28 WARNING(ORCAP-36006): Part Name "LPS-1301_9314_24_SLOT_LPS-1301_9314_24_LPS-1301_9314_24" is renamed to "LPS-1301_9314_24_SLOT_LPS-1301_".
+#23 WARNING(ORCAP-36042): Pin "VCC" is renamed to "VCC#1" as visible power pin of same name already exists in Package PMSA003I , U5: SCHEMATIC1, Peripheral (2.30, 1.40).
+#24 WARNING(ORCAP-36042): Pin "VCC" is renamed to "VCC#2" as visible power pin of same name already exists in Package PMSA003I , U5: SCHEMATIC1, Peripheral (2.30, 1.40).
+#25 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#3" as visible power pin of same name already exists in Package PMSA003I , U5: SCHEMATIC1, Peripheral (2.30, 1.40).
+#26 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#4" as visible power pin of same name already exists in Package PMSA003I , U5: SCHEMATIC1, Peripheral (2.30, 1.40).
+#27 WARNING(ORCAP-36006): Part Name "LPS-1301_9314_24_LPS_LPS-1301_9314_24" is renamed to "LPS-1301_9314_24_LPS_LPS-1301_9".
 INFO(ORCAP-36080): Scanning netlist files ...
 
 Loading... D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\SCHEMATIC_FINALPROJECT\allegro/pstchip.dat

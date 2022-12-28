@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.2.0 d001Dec-28-2022 at 17:50:22}
+{ Using PSTWRITER 17.2.0 d001Dec-27-2022 at 18:37:40}
 primitive 'C_0603C_12PF';
   pin
     '1':
@@ -747,7 +747,7 @@ primitive 'QTC33276809B2R_0_X32K_QTC332.76';
     VALUE='QTC332.76809B2R';
   end_body;
 end_primitive;
-primitive 'PMSA003I_PM2_5_PMSA003I';
+primitive 'PMSA003I_CONNECTOR_PMSA003I_PMS';
   pin
     'VCC#1':
       PIN_NUMBER='(1)';
@@ -790,11 +790,11 @@ primitive 'PMSA003I_PM2_5_PMSA003I';
   end_pin;
   body
     PART_NAME='PMSA003I';
-    JEDEC_TYPE='PM2_5';
+    JEDEC_TYPE='connector_PMSA003I';
     VALUE='PMSA003I';
   end_body;
 end_primitive;
-primitive 'LPS-1301_9314_24_LPS_LPS-1301_9';
+primitive 'LPS-1301_9314_24_SLOT_LPS-1301_';
   pin
     'VDD1':
       PIN_NUMBER='(1)';
@@ -811,7 +811,7 @@ primitive 'LPS-1301_9314_24_LPS_LPS-1301_9';
   end_pin;
   body
     PART_NAME='LPS-1301_9314_24';
-    JEDEC_TYPE='LPS';
+    JEDEC_TYPE='slot_LPS-1301_9314_24';
     VALUE='LPS-1301_9314_24';
   end_body;
 end_primitive;

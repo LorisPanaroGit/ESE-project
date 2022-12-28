@@ -1,214 +1,117 @@
-\t (00:00:00) allegro 17.2 S083 Windows SPB 64-bit Edition
-\t (00:00:00)     Journal start - Tue Dec 27 18:13:02 2022
-\t (00:00:00)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=7824 CPUs=12
-\t (00:00:00) CmdLine= D:\Cadence\tools\bin\allegro.exe
-\t (00:00:00) 
-   (00:00:00) Loading axlcore.cxt 
-\t (00:00:03) Opening existing design...
-\i (00:00:03) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged 0603L
-\d (00:00:03) Design opened: D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/0603L.dra
-\i (00:00:03) trapsize 252
-\i (00:00:03) trapsize 259
-\i (00:00:04) trapsize 267
-\i (00:00:04) trapsize 259
-\i (00:00:04) trapsize 252
-\i (00:00:04) trapsize 252
-\i (00:00:04) generaledit 
-\i (00:00:07) new 
-\i (00:00:20) newdrawfillin "XGL4020.dra" "Package Symbol"
-\t (00:00:20) Starting new design...
-\i (00:00:20) trapsize 252
-\i (00:00:20) trapsize 252
-\i (00:00:21) QtSignal spbdip_extents_group spbdip_extheight_edit editingFinished 6.0000
-\i (00:00:21) QtSignal SPBDesignInitPrompt spbdip_ok_button clicked
-\i (00:00:21) generaledit 
-\i (00:00:34) prmed 
-\i (00:00:37) setwindow form.prmedit
-\i (00:00:37) FORM prmedit display_padless_holes YES 
-\i (00:00:37) FORM prmedit display_non_plated_holes YES 
-\i (00:00:37) FORM prmedit display_backdrill_holes YES 
-\i (00:00:39) FORM prmedit display_thermal YES 
-\i (00:00:40) FORM prmedit display_plated_holes YES 
-\i (00:00:42) FORM prmedit design  
-\i (00:00:47) FORM prmedit x -4.0000 
-\i (00:00:52) FORM prmedit y -4.0000 
-\i (00:00:55) FORM prmedit width 8.0000 
-\i (00:00:58) FORM prmedit height 8.0000 
-\i (00:00:58) FORM prmedit display  
-\i (00:01:01) FORM prmedit view_grids_button  
-\t (00:01:01) Spacing fields allow simple equations to aid calculations; prefix with =
-\i (00:01:07) setwindow form.grid
-\i (00:01:07) FORM grid non_etch non_etch_x_grids 0.05 
-\i (00:01:10) FORM grid non_etch non_etch_y_grids 0.05 
-\i (00:01:12) FORM grid top subclass_x_grids 0.05 
-\i (00:01:13) FORM grid top subclass_y_grids 0.05 
-\i (00:01:14) FORM grid bottom subclass_x_grids 0.05 
-\i (00:01:17) FORM grid bottom subclass_y_grids 0.05 
-\i (00:01:17) FORM grid done  
-\i (00:01:20) setwindow form.prmedit
-\i (00:01:20) FORM prmedit display_grid YES 
-\i (00:01:21) FORM prmedit done  
-\i (00:01:21) setwindow pcb
-\i (00:01:21) trapsize 252
-\i (00:01:21) trapsize 258
-\i (00:01:21) trapsize 252
-\i (00:01:22) generaledit 
-\i (00:01:31) shape add rect 
-\i (00:01:38) pick -2 y 2 
-\t (00:01:38) last pick:  -2.0000 2.0000
-\i (00:01:46) pick 2 y -2 
-\t (00:01:46) last pick:  2.0000 -2.0000
-\i (00:01:51) done 
-\i (00:01:51) generaledit 
-\i (00:01:51) zoom out 1 
-\i (00:01:51) setwindow pcb
-\i (00:01:51) zoom out 2.7031 -1.3590
-\i (00:01:51) trapsize 336
-\i (00:01:51) zoom out 1 
-\i (00:01:51) setwindow pcb
-\i (00:01:51) zoom out 3.6040 -1.8121
-\i (00:01:51) trapsize 336
-\i (00:01:51) zoom out 1 
-\i (00:01:51) setwindow pcb
-\i (00:01:51) zoom out 3.6040 -1.8121
-\i (00:01:51) trapsize 336
-\i (00:01:51) zoom out 1 
-\i (00:01:51) setwindow pcb
-\i (00:01:51) zoom out 3.6040 -1.8121
-\i (00:01:51) trapsize 336
-\i (00:01:51) zoom out 1 
-\i (00:01:51) setwindow pcb
-\i (00:01:51) zoom out 3.6040 -1.8121
-\i (00:01:51) trapsize 336
-\i (00:01:51) zoom out 1 
-\i (00:01:51) setwindow pcb
-\i (00:01:51) zoom out 3.6040 -1.8121
-\i (00:01:51) trapsize 336
-\i (00:01:52) pick grid 3.0067 -1.0738
-\t (00:01:52) last pick:  3.0000 -1.0500
-\i (00:02:09) add pin 
-\i (00:02:11) setwindow form.mini
-\i (00:02:11) FORM mini pad_browse  
-\t (00:02:21) No valid name selected.
-\i (00:02:25) fillin "Smd_Rect_W098_H34"
-\t (00:02:25) Using 'SMD_RECT_W098_H34.pad'.
-\i (00:02:44) FORM mini x_count 2 
-\i (00:02:48) FORM mini x_spacing 2.3700 
-\i (00:03:27) setwindow pcb
-\i (00:03:27) pick -1.185 y 0 
-\t (00:03:27) last pick:  -1.1850 0.0000
-\t (00:03:27) Using 'SMD_RECT_W098_H34.pad'.
-\i (00:03:32) done 
-\t (00:03:32) Exiting from Add Pin.
-\i (00:03:32) generaledit 
-\i (00:03:33) drag_start grid -0.1812 0.4631
-\i (00:03:33) move 
-\t (00:03:34) last pick:  -0.0850 0.0000
-\t (00:03:34) Pick new location for the element(s).
-\i (00:03:41) drag_stop grid 1.4295 1.7181
-\i (00:03:41) generaledit 
-\i (00:03:43) drag_start grid -2.6846 0.1476
-\i (00:03:43) move 
-\t (00:03:43) last pick:  -2.4550 0.0000
-\t (00:03:43) Pick new location for the element(s).
-\i (00:03:46) drag_stop grid -0.9597 1.6913
-\i (00:03:47) generaledit 
-\i (00:03:47) pick grid 0.0940 2.4564
-\t (00:03:47) last pick:  0.1000 2.4500
-\i (00:03:53) label refdes 
-\t (00:03:53) Pick text location.
-\i (00:03:57) pick grid -0.2215 -2.2819
-\t (00:03:57) last pick:  -0.2000 -2.3000
-\t (00:03:57) Enter text string.
-\i (00:04:12) setwindow pcb
-\i (00:04:12) move 
-\i (00:04:12) setwindow pcb
-\i (00:04:12) pick -0.2000 -2.3000
-\t (00:04:12) Select element(s) to move.
-\i (00:04:13) setwindow pcb
-\i (00:04:13) pick grid -0.1611 -2.3020
-\t (00:04:13) last pick:  -0.1500 -2.3000
-\t (00:04:13) last pick:  -0.2000 -2.3000
-\t (00:04:13) Pick new location for the element(s).
-\i (00:04:16) pick grid -0.2752 -2.8188
-\t (00:04:16) last pick:  -0.3000 -2.8000
-\i (00:04:18) done 
-\i (00:04:18) generaledit 
-\i (00:04:21) label refdes 
-\t (00:04:21) Pick text location.
-\i (00:04:23) setwindow form.mini
-\i (00:04:23) FORM mini subclass SILKSCREEN_TOP 
-\i (00:04:24) setwindow pcb
-\i (00:04:24) pick grid -0.3758 -2.6175
-\t (00:04:24) last pick:  -0.4000 -2.6000
-\t (00:04:24) Enter text string.
-\i (00:04:29) setwindow pcb
-\i (00:04:29) move 
-\i (00:04:29) setwindow pcb
-\i (00:04:29) pick -0.4000 -2.6000
-\t (00:04:29) Select element(s) to move.
-\i (00:04:30) setwindow pcb
-\i (00:04:30) pick grid -0.3222 -2.5705
-\t (00:04:30) last pick:  -0.3000 -2.5500
-\t (00:04:30) last pick:  -0.4000 -2.6000
-\t (00:04:30) Pick new location for the element(s).
-\i (00:04:32) pick grid -0.2752 -2.7987
-\t (00:04:32) last pick:  -0.3000 -2.8000
-\i (00:04:34) done 
-\i (00:04:34) generaledit 
-\i (00:04:46) shape add rect 
-\i (00:05:01) pick -2.5 y 2.5 
-\t (00:05:01) last pick:  -2.5000 2.5000
-\i (00:05:08) pick 2.5 y -2.5 
-\t (00:05:08) last pick:  2.5000 -2.5000
-\i (00:05:10) done 
-\i (00:05:10) generaledit 
-\i (00:05:11) pick grid 3.1208 -1.4966
-\t (00:05:11) last pick:  3.1000 -1.5000
-\i (00:05:16) prepopup 2.5168 -1.1275
-\i (00:05:17) pick grid 3.0537 -1.5168
-\t (00:05:17) last pick:  3.0500 -1.5000
-\i (00:05:17) pick grid 2.4698 -1.4765
-\t (00:05:17) last pick:  2.4500 -1.5000
-\i (00:05:22) prepopup 2.4698 -1.4765
-\i (00:05:24) pop dyn_option_select @:@Delete 
-\i (00:05:24) delete 
-\i (00:05:24) generaledit 
-\i (00:05:25) shape add rect 
-\i (00:05:28) setwindow form.mini
-\i (00:05:28) FORM mini class PACKAGE GEOMETRY 
-\i (00:05:31) FORM mini subclass SILKSCREEN_TOP 
-\i (00:05:36) setwindow pcb
-\i (00:05:36) pick -2.5 y 2.5 
-\t (00:05:36) last pick:  -2.5000 2.5000
-\i (00:05:37) pick 2.5 y -2.5 
-\t (00:05:37) last pick:  2.5000 -2.5000
-\i (00:05:39) done 
-\i (00:05:40) generaledit 
-\i (00:05:40) pick grid 3.2685 -2.1409
-\t (00:05:40) last pick:  3.2500 -2.1500
-\i (00:05:44) dbdoctor 
-\i (00:05:45) setwindow form.dbdoctor_allegro
-\i (00:05:45) FORM dbdoctor_allegro shapes YES 
-\i (00:05:46) FORM dbdoctor_allegro drc YES 
-\i (00:05:49) FORM dbdoctor_allegro execute  
-\t (00:05:49) Dbdoctor in progress - wait...
-\t (00:05:49) Checking db records
-\t (00:05:49)     checking for orphans...
-\t (00:05:49)     Checked 100 percent
-\t (00:05:49) Regenerating DRC
-\t (00:05:49)   Original DRC errors: 0
-\t (00:05:49) Performing DRC...
-\t (00:05:49) No DRC errors detected.
-\t (00:05:49)   Updated DRC errors:  0
-\t (00:05:49) Done dbdoctor.
-\t (00:05:49) Dbdoctor completed.
-\i (00:05:51) FORM dbdoctor_allegro close  
-\i (00:05:52) setwindow pcb
-\i (00:05:52) generaledit 
-\i (00:05:54) save 
-   (00:05:54) Loading signal.cxt 
-\t (00:05:55) Symbol 'xgl4020.psm' created.
-\i (00:05:55) generaledit 
-\i (00:05:57) exit 
-\t (00:05:57)     Journal end - Tue Dec 27 18:18:58 2022
+\t (00:00:30) allegro 17.2 S083 Windows SPB 64-bit Edition
+\t (00:00:30)     Journal start - Tue Dec 27 19:10:24 2022
+\t (00:00:30)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=16004 CPUs=12
+\t (00:00:30) CmdLine= D:\Cadence\tools\bin\allegro.exe
+\t (00:00:30) 
+\d (00:00:30) Design opened: D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/0603C.dra
+\i (00:00:30) trapsize 252
+\i (00:00:30) generaledit 
+\i (00:00:33) pick grid 2.0185 -0.6242
+\t (00:00:33) last pick:  2.0000 -0.6000
+\i (00:00:34) prepopup 2.0185 -0.6242
+\i (00:00:35) pop dyn_option_select @:@Delete 
+\i (00:00:35) delete 
+\i (00:00:36) generaledit 
+\i (00:00:38) shape add rect 
+\i (00:00:48) setwindow form.mini
+\i (00:00:48) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:52) FORM mini subclass SILKSCREEN_TOP 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) zoom in 1 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) zoom in -0.6795 -0.2013
+\i (00:01:08) trapsize 126
+\i (00:01:09) zoom in 1 
+\i (00:01:09) setwindow pcb
+\i (00:01:09) zoom in -0.7927 -0.3724
+\i (00:01:09) trapsize 63
+\i (00:01:30) pick -0.775 y 0.425 
+\t (00:01:30) last pick:  -0.7750 0.4250
+\i (00:01:38) pick 0.775 y -0.425 
+\t (00:01:38) last pick:  0.7750 -0.4250
+\i (00:01:39) zoom out 1 
+\i (00:01:39) setwindow pcb
+\i (00:01:39) zoom out 0.0844 -0.6115
+\i (00:01:39) trapsize 126
+\i (00:01:39) zoom out 1 
+\i (00:01:39) setwindow pcb
+\i (00:01:39) zoom out 0.0844 -0.6115
+\i (00:01:39) trapsize 252
+\i (00:01:39) zoom out 1 
+\i (00:01:39) setwindow pcb
+\i (00:01:39) zoom out 2.6023 -1.5000
+\i (00:01:39) trapsize 252
+\i (00:01:41) done 
+\i (00:01:41) generaledit 
+\i (00:01:41) pick grid 1.3037 -0.8406
+\t (00:01:41) last pick:  1.3000 -0.8500
+\i (00:01:45) save 
+\i (00:01:47) fillin yes 
+\t (00:01:47) Symbol '0603c.psm' created.
+\i (00:01:47) generaledit 
+\i (00:01:49) open 
+\i (00:01:52) fillin "0603L.dra"
+\t (00:01:52) Opening existing design...
+\i (00:01:52) trapsize 259
+\i (00:01:53) trapsize 267
+\i (00:01:53) trapsize 259
+\t (00:01:53) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
+\i (00:01:53) trapsize 259
+\d (00:01:53) Design opened: D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/0603L.dra
+\i (00:01:53) trapsize 252
+\i (00:01:53) generaledit 
+\i (00:01:54) pick grid 1.5805 -0.9765
+\t (00:01:54) last pick:  1.6000 -1.0000
+\i (00:01:55) prepopup 1.5805 -0.9765
+\i (00:01:56) pop dyn_option_select @:@Delete 
+\i (00:01:56) delete 
+\i (00:01:56) generaledit 
+\i (00:01:57) shape add rect 
+\i (00:02:00) setwindow form.mini
+\i (00:02:00) FORM mini class PACKAGE GEOMETRY 
+\i (00:02:02) FORM mini subclass SILKSCREEN_TOP 
+\i (00:02:13) setwindow pcb
+\i (00:02:13) pick -0.775 y 0.425 
+\t (00:02:13) last pick:  -0.7750 0.4250
+\i (00:02:19) pick 0.775 y -0.425 
+\t (00:02:19) last pick:  0.7750 -0.4250
+\i (00:02:21) done 
+\i (00:02:22) generaledit 
+\i (00:02:25) save 
+\i (00:02:26) fillin yes 
+\t (00:02:26) Symbol '0603l.psm' created.
+\i (00:02:27) generaledit 
+\i (00:02:28) open 
+\i (00:02:30) fillin "0603R.dra"
+\t (00:02:30) Opening existing design...
+\i (00:02:30) trapsize 259
+\i (00:02:31) trapsize 267
+\i (00:02:31) trapsize 259
+\t (00:02:31) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
+\i (00:02:31) trapsize 259
+\d (00:02:31) Design opened: D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/0603R.dra
+\i (00:02:31) trapsize 252
+\i (00:02:31) generaledit 
+\i (00:02:33) pick grid 1.3591 -0.9866
+\t (00:02:33) last pick:  1.3500 -1.0000
+\i (00:02:33) prepopup 1.3591 -0.9866
+\i (00:02:34) pop dyn_option_select @:@Delete 
+\i (00:02:34) delete 
+\i (00:02:34) generaledit 
+\i (00:02:36) shape add rect 
+\i (00:02:39) setwindow form.mini
+\i (00:02:39) FORM mini class PACKAGE GEOMETRY 
+\i (00:02:43) FORM mini subclass SILKSCREEN_TOP 
+\i (00:02:47) setwindow pcb
+\i (00:02:47) pick -0.775 y 0.425 
+\t (00:02:47) last pick:  -0.7750 0.4250
+\i (00:02:49) pick 0.775 y -0.425 
+\t (00:02:49) last pick:  0.7750 -0.4250
+\i (00:02:51) done 
+\i (00:02:51) generaledit 
+\i (00:02:53) save 
+\i (00:02:54) fillin yes 
+\t (00:02:54) Symbol '0603r.psm' created.
+\i (00:02:55) generaledit 
+\i (00:02:56) exit 
+\t (00:02:56)     Journal end - Tue Dec 27 19:12:51 2022

@@ -1,117 +1,34 @@
-\t (00:00:30) allegro 17.2 S083 Windows SPB 64-bit Edition
-\t (00:00:30)     Journal start - Tue Dec 27 19:10:24 2022
-\t (00:00:30)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=16004 CPUs=12
-\t (00:00:30) CmdLine= D:\Cadence\tools\bin\allegro.exe
-\t (00:00:30) 
-\d (00:00:30) Design opened: D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/0603C.dra
-\i (00:00:30) trapsize 252
-\i (00:00:30) generaledit 
-\i (00:00:33) pick grid 2.0185 -0.6242
-\t (00:00:33) last pick:  2.0000 -0.6000
-\i (00:00:34) prepopup 2.0185 -0.6242
-\i (00:00:35) pop dyn_option_select @:@Delete 
-\i (00:00:35) delete 
-\i (00:00:36) generaledit 
-\i (00:00:38) shape add rect 
-\i (00:00:48) setwindow form.mini
-\i (00:00:48) FORM mini class PACKAGE GEOMETRY 
-\i (00:00:52) FORM mini subclass SILKSCREEN_TOP 
-\i (00:01:08) setwindow pcb
-\i (00:01:08) zoom in 1 
-\i (00:01:08) setwindow pcb
-\i (00:01:08) zoom in -0.6795 -0.2013
-\i (00:01:08) trapsize 126
-\i (00:01:09) zoom in 1 
-\i (00:01:09) setwindow pcb
-\i (00:01:09) zoom in -0.7927 -0.3724
-\i (00:01:09) trapsize 63
-\i (00:01:30) pick -0.775 y 0.425 
-\t (00:01:30) last pick:  -0.7750 0.4250
-\i (00:01:38) pick 0.775 y -0.425 
-\t (00:01:38) last pick:  0.7750 -0.4250
-\i (00:01:39) zoom out 1 
-\i (00:01:39) setwindow pcb
-\i (00:01:39) zoom out 0.0844 -0.6115
-\i (00:01:39) trapsize 126
-\i (00:01:39) zoom out 1 
-\i (00:01:39) setwindow pcb
-\i (00:01:39) zoom out 0.0844 -0.6115
-\i (00:01:39) trapsize 252
-\i (00:01:39) zoom out 1 
-\i (00:01:39) setwindow pcb
-\i (00:01:39) zoom out 2.6023 -1.5000
-\i (00:01:39) trapsize 252
-\i (00:01:41) done 
-\i (00:01:41) generaledit 
-\i (00:01:41) pick grid 1.3037 -0.8406
-\t (00:01:41) last pick:  1.3000 -0.8500
-\i (00:01:45) save 
-\i (00:01:47) fillin yes 
-\t (00:01:47) Symbol '0603c.psm' created.
-\i (00:01:47) generaledit 
-\i (00:01:49) open 
-\i (00:01:52) fillin "0603L.dra"
-\t (00:01:52) Opening existing design...
-\i (00:01:52) trapsize 259
-\i (00:01:53) trapsize 267
-\i (00:01:53) trapsize 259
-\t (00:01:53) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
-\i (00:01:53) trapsize 259
-\d (00:01:53) Design opened: D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/0603L.dra
-\i (00:01:53) trapsize 252
-\i (00:01:53) generaledit 
-\i (00:01:54) pick grid 1.5805 -0.9765
-\t (00:01:54) last pick:  1.6000 -1.0000
-\i (00:01:55) prepopup 1.5805 -0.9765
-\i (00:01:56) pop dyn_option_select @:@Delete 
-\i (00:01:56) delete 
-\i (00:01:56) generaledit 
-\i (00:01:57) shape add rect 
-\i (00:02:00) setwindow form.mini
-\i (00:02:00) FORM mini class PACKAGE GEOMETRY 
-\i (00:02:02) FORM mini subclass SILKSCREEN_TOP 
-\i (00:02:13) setwindow pcb
-\i (00:02:13) pick -0.775 y 0.425 
-\t (00:02:13) last pick:  -0.7750 0.4250
-\i (00:02:19) pick 0.775 y -0.425 
-\t (00:02:19) last pick:  0.7750 -0.4250
-\i (00:02:21) done 
-\i (00:02:22) generaledit 
-\i (00:02:25) save 
-\i (00:02:26) fillin yes 
-\t (00:02:26) Symbol '0603l.psm' created.
-\i (00:02:27) generaledit 
-\i (00:02:28) open 
-\i (00:02:30) fillin "0603R.dra"
-\t (00:02:30) Opening existing design...
-\i (00:02:30) trapsize 259
-\i (00:02:31) trapsize 267
-\i (00:02:31) trapsize 259
-\t (00:02:31) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
-\i (00:02:31) trapsize 259
-\d (00:02:31) Design opened: D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/0603R.dra
-\i (00:02:31) trapsize 252
-\i (00:02:31) generaledit 
-\i (00:02:33) pick grid 1.3591 -0.9866
-\t (00:02:33) last pick:  1.3500 -1.0000
-\i (00:02:33) prepopup 1.3591 -0.9866
-\i (00:02:34) pop dyn_option_select @:@Delete 
-\i (00:02:34) delete 
-\i (00:02:34) generaledit 
-\i (00:02:36) shape add rect 
-\i (00:02:39) setwindow form.mini
-\i (00:02:39) FORM mini class PACKAGE GEOMETRY 
-\i (00:02:43) FORM mini subclass SILKSCREEN_TOP 
-\i (00:02:47) setwindow pcb
-\i (00:02:47) pick -0.775 y 0.425 
-\t (00:02:47) last pick:  -0.7750 0.4250
-\i (00:02:49) pick 0.775 y -0.425 
-\t (00:02:49) last pick:  0.7750 -0.4250
-\i (00:02:51) done 
-\i (00:02:51) generaledit 
-\i (00:02:53) save 
-\i (00:02:54) fillin yes 
-\t (00:02:54) Symbol '0603r.psm' created.
-\i (00:02:55) generaledit 
-\i (00:02:56) exit 
-\t (00:02:56)     Journal end - Tue Dec 27 19:12:51 2022
+\t (00:06:40) allegro 17.2 S083 Windows SPB 64-bit Edition
+\t (00:06:40)     Journal start - Wed Dec 28 17:57:08 2022
+\t (00:06:40)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=10248 CPUs=12
+\t (00:06:40) CmdLine= D:\Cadence\tools\bin\allegro.exe -mpssession loris D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\SCHEMATIC_FINALPROJECT\allegro\AIRQUALITYBLUETOOTHSENSOR.brd
+\t (00:06:40) 
+\d (00:06:40) Design opened: D:/Cadence/cdssetup/ORCAD_CAPTURE/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/USB.dra
+\i (00:06:40) trapsize 596
+\i (00:06:41) generaledit 
+\i (00:06:48) zoom in 1 
+\i (00:06:48) setwindow pcb
+\i (00:06:48) zoom in 1.9481 5.2723
+\i (00:06:48) trapsize 298
+\i (00:06:49) zoom in 1 
+\i (00:06:49) setwindow pcb
+\i (00:06:49) zoom in 1.9482 5.2723
+\i (00:06:49) trapsize 149
+\i (00:06:50) zoom out 1 
+\i (00:06:50) setwindow pcb
+\i (00:06:50) zoom out 1.5128 5.9821
+\i (00:06:50) trapsize 298
+\i (00:06:52) zoom out 1 
+\i (00:06:52) setwindow pcb
+\i (00:06:52) zoom out 1.4712 6.1073
+\i (00:06:52) trapsize 596
+\i (00:08:21) open 
+\i (00:08:34) fillin "D:/Documents/ESE/forno/CONSEGNA FINALE/CAD FILES/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/usb_4110_new.dra"
+\i (00:08:34) cd "D:/Documents/ESE/forno/CONSEGNA FINALE/CAD FILES/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS"
+\t (00:08:34) Opening existing design...
+\i (00:08:35) trapsize 676
+\i (00:08:35) trapsize 694
+\i (00:08:35) trapsize 676
+\t (00:08:35) Grids are drawn 1.6000, 1.6000 apart for enhanced viewing.
+\i (00:08:35) trapsize 676
+\t (00:08:35)     Journal end - Wed Dec 28 17:59:03 2022

@@ -1,24 +1,660 @@
-\t (00:00:02) allegro 17.2 S083 Windows SPB 64-bit Edition
-\t (00:00:02)     Journal start - Tue Dec 27 19:09:57 2022
-\t (00:00:02)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=16004 CPUs=12
-\t (00:00:02) CmdLine= D:\Cadence\tools\bin\allegro.exe
-\t (00:00:02) 
-   (00:00:02) Loading axlcore.cxt 
-\t (00:00:04) Opening existing design...
-\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged AIRQUALITYBLUETOOTHSENSOR
-\d (00:00:05) Design opened: D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/Schematic_FinalProject/allegro/AIRQUALITYBLUETOOTHSENSOR.brd
-\i (00:00:05) trapsize 52
-\i (00:00:05) trapsize 54
-\i (00:00:05) trapsize 52
-\i (00:00:06) trapsize 52
-\i (00:00:06) generaledit 
-\i (00:00:12) open 
-\i (00:00:29) fillin "D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/0603C.dra"
-\i (00:00:29) cd "D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS"
-\t (00:00:29) Opening existing design...
-\i (00:00:29) trapsize 259
-\i (00:00:29) trapsize 267
-\i (00:00:29) trapsize 259
-\t (00:00:29) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
-\i (00:00:30) trapsize 259
-\t (00:00:30)     Journal end - Tue Dec 27 19:10:24 2022
+\t (00:00:01) allegro 17.2 S083 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Wed Dec 28 18:25:07 2022
+\t (00:00:01)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=15948 CPUs=12
+\t (00:00:01) CmdLine= D:\Cadence\tools\bin\allegro.exe
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged AIRQUALITYBLUETOOTHSENSOR
+\d (00:00:04) Design opened: D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/Schematic_FinalProject/allegro/AIRQUALITYBLUETOOTHSENSOR.brd
+\t (00:00:04) Grids are drawn 0.1000, 0.1000 apart for enhanced viewing.
+\i (00:00:04) trapsize 889
+\i (00:00:04) trapsize 912
+\i (00:00:04) trapsize 889
+\t (00:00:04) Grids are drawn 0.1000, 0.1000 apart for enhanced viewing.
+\i (00:00:04) trapsize 1058
+\i (00:00:05) trapsize 1058
+\i (00:00:05) generaledit 
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out -14.7120 13.5903
+\t (00:00:06) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
+\i (00:00:06) trapsize 2117
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out -12.6376 11.7698
+\t (00:00:06) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
+\i (00:00:06) trapsize 4234
+\i (00:00:09) cmgr 
+\i (00:00:10) setwindow cmgr
+\i (00:00:10) cm newView ( kConsmgr worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" "167:All Layers" )
+\i (00:00:10) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:00:10) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:00:10) cm expand ( row ( Design "AIRQUALITYBLUETOOTHSENSOR" ) )
+\i (00:00:10) cm expand ( row ( Design "AIRQUALITYBLUETOOTHSENSOR" ) )
+\i (00:00:10) cm selectDesignTab ( kConsmgr worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" "167:All Layers" ) 0
+\i (00:00:10) cm newView ( kConsmgr worksheet 144:Properties 14:Net "423:Route/Vias Keepout Exception" "424:Route/Vias Keepout Exception" )
+\i (00:00:10) cm select ( frame ( kConsmgr workbook 144:Properties 14:Net "423:Route/Vias Keepout Exception" ) )
+\i (00:00:10) cm select ( frame ( kConsmgr workbook 144:Properties 14:Net "423:Route/Vias Keepout Exception" ) )
+\i (00:00:10) cm expand ( row ( Design "AIRQUALITYBLUETOOTHSENSOR" ) )
+\i (00:00:10) cm expand ( row ( Design "AIRQUALITYBLUETOOTHSENSOR" ) )
+\i (00:00:10) cm selectDesignTab ( kConsmgr worksheet 144:Properties 14:Net "423:Route/Vias Keepout Exception" "424:Route/Vias Keepout Exception" ) 0
+\i (00:00:10) cm newView ( kConsmgr worksheet 53:Electrical "1:Electrical Constraint Set" 7:Routing 8:Wiring )
+\i (00:00:10) cm select ( frame ( kConsmgr workbook 53:Electrical "1:Electrical Constraint Set" 7:Routing ) )
+\i (00:00:10) cm select ( frame ( kConsmgr workbook 53:Electrical "1:Electrical Constraint Set" 7:Routing ) )
+\i (00:00:10) cm selectDesignTab ( kConsmgr worksheet 53:Electrical "1:Electrical Constraint Set" 7:Routing 8:Wiring ) 0
+\i (00:00:10) cm newView ( kConsmgr worksheet 53:Electrical 66:Net 25:Routing 26:Wiring )
+\i (00:00:11) cm select ( frame ( kConsmgr workbook 53:Electrical 66:Net 25:Routing ) )
+\i (00:00:11) cm select ( frame ( kConsmgr workbook 53:Electrical 66:Net 25:Routing ) )
+\i (00:00:11) cm expand ( row ( Design "AIRQUALITYBLUETOOTHSENSOR" ) )
+\i (00:00:11) cm expand ( row ( Design "AIRQUALITYBLUETOOTHSENSOR" ) )
+\i (00:00:11) cm selectDesignTab ( kConsmgr worksheet 53:Electrical 66:Net 25:Routing 26:Wiring ) 0
+\i (00:00:11) cm newView ( kConsmgr worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "323:All Layers" )
+\i (00:00:11) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:00:11) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:00:11) cm expand ( row ( Design "AIRQUALITYBLUETOOTHSENSOR" ) )
+\i (00:00:11) cm expand ( row ( Design "AIRQUALITYBLUETOOTHSENSOR" ) )
+\i (00:00:11) cm selectDesignTab ( kConsmgr worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "323:All Layers" ) 0
+\i (00:00:11) cm newView ( kConsmgr worksheet 55:Physical 61:Net "62:All Layers" "63:All Layers" )
+\i (00:00:11) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:00:11) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:00:11) cm expand ( row ( Design "AIRQUALITYBLUETOOTHSENSOR" ) )
+\i (00:00:11) cm expand ( row ( Design "AIRQUALITYBLUETOOTHSENSOR" ) )
+\i (00:00:11) cm selectDesignTab ( kConsmgr worksheet 55:Physical 61:Net "62:All Layers" "63:All Layers" ) 0
+\i (00:00:11) cm newView ( kConsmgr worksheet 55:Physical 68:Region "69:All Layers" "70:All Layers" )
+\i (00:00:11) cm select ( frame ( kConsmgr workbook 55:Physical 68:Region "69:All Layers" ) )
+\i (00:00:11) cm select ( frame ( kConsmgr workbook 55:Physical 68:Region "69:All Layers" ) )
+\i (00:00:11) cm selectDesignTab ( kConsmgr worksheet 55:Physical 68:Region "69:All Layers" "70:All Layers" ) 0
+\i (00:00:11) setwindow pcb
+\i (00:00:11) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Spacing
+\i (00:00:11) QtSignal m_domainSelector WS_Spacing itemSelectionChanged "Spacing Constraint Set" +
+\i (00:00:11) QtSignal "All Layers"
+\i (00:00:11) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Properties
+\i (00:00:11) QtSignal m_domainSelector WS_Properties itemSelectionChanged Net "Route/Vias Keepout Exception"
+\i (00:00:11) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:00:11) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:00:11) QtSignal Routing Wiring
+\i (00:00:11) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:00:11) QtSignal m_domainSelector WS_Electrical itemSelectionChanged Net Routing Wiring
+\i (00:00:11) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Physical
+\i (00:00:11) QtSignal m_domainSelector WS_Physical itemSelectionChanged
+\i (00:00:11) QtSignal m_domainSelector WS_Physical itemSelectionChanged "Physical Constraint Set" +
+\i (00:00:11) QtSignal "All Layers"
+\i (00:00:11) QtSignal m_domainSelector WS_Physical itemSelectionChanged
+\i (00:00:11) QtSignal m_domainSelector WS_Physical itemSelectionChanged Net "All Layers"
+\i (00:00:11) QtSignal m_domainSelector WS_Physical itemSelectionChanged
+\i (00:00:11) QtSignal m_domainSelector WS_Physical itemSelectionChanged Region "All Layers"
+\i (00:00:11) generaledit 
+\i (00:00:17) QtSignal m_domainSelector WS_Physical itemSelectionChanged "Physical Constraint Set"
+\i (00:00:17) QtSignal m_domainSelector WS_Physical itemClicked "Physical Constraint Set"
+\i (00:00:34) setwindow cmgr
+\i (00:00:34) cm setColumnFilter ( kConsmgr column 55:Physical 68:Region "69:All Layers" "70:All Layers" 0:Vias ) "via_d025&#13;
+\i (00:00:41) cm close ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:00:41) cm close ( frame ( kConsmgr workbook 144:Properties 14:Net "423:Route/Vias Keepout Exception" ) )
+\i (00:00:41) cm close ( frame ( kConsmgr workbook 53:Electrical "1:Electrical Constraint Set" 7:Routing ) )
+\i (00:00:41) cm close ( frame ( kConsmgr workbook 53:Electrical 66:Net 25:Routing ) )
+\i (00:00:41) cm close ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:00:41) cm close ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:00:41) cm close ( frame ( kConsmgr workbook 55:Physical 68:Region "69:All Layers" ) )
+\i (00:00:41) cm exit
+\i (00:00:41) setwindow pcb
+\i (00:00:41) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:00:41) QtSignal m_domainSelector WS_Physical itemSelectionChanged
+\i (00:00:41) QtSignal m_domainSelector WS_Spacing itemSelectionChanged
+\i (00:00:41) QtSignal m_domainSelector WS_Properties itemSelectionChanged
+\i (00:00:42) zoom in 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom in -12.4894 -16.5538
+\t (00:00:42) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
+\i (00:00:42) trapsize 2117
+\i (00:00:42) zoom in 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom in -12.4894 -16.5538
+\t (00:00:42) Grids are drawn 0.1000, 0.1000 apart for enhanced viewing.
+\i (00:00:42) trapsize 1058
+\i (00:00:42) pick grid -11.7061 -14.4158
+\t (00:00:42) last pick:  -11.7000 -14.4000
+\i (00:00:42) pick grid dbl -11.7061 -14.4158
+\t (00:00:42) last pick:  -11.7000 -14.4000
+\i (00:00:47) add connect 
+\t (00:00:47) Pick first element.
+\i (00:00:49) pick grid -8.2557 -12.0872
+\t (00:00:49) last pick:  -8.2500 -12.1000
+\t (00:00:49) last pick:  -8.2500 -12.1000
+\i (00:00:49) pick grid dbl -8.2557 -12.0872
+\t (00:00:49) last pick:  -8.2500 -12.1000
+\t (00:00:49) VIA used for drill.
+\t (00:00:49) No DRC errors detected.
+\i (00:00:58) done 
+\i (00:00:59) generaledit 
+\i (00:01:00) prepopup -8.0228 -12.1084
+\i (00:01:13) pop dyn_option_select 'Replace padstack@:@Selected instance(s)' 
+\i (00:01:13) rep padstack 
+\t (00:01:19) No valid name selected.
+\i (00:01:22) fillin "Via_D025"
+\t (00:01:22) Performing DRC...
+\t (00:01:22) Multithreaded DRC update (12 threads).
+\t (00:01:23) DRC done; 46 errors detected.
+\i (00:01:23) generaledit 
+\i (00:01:24) zoom in 1 
+\i (00:01:24) setwindow pcb
+\i (00:01:24) zoom in -7.8746 -12.4048
+\i (00:01:24) trapsize 529
+\i (00:01:24) zoom in 1 
+\i (00:01:24) setwindow pcb
+\i (00:01:24) zoom in -7.8746 -12.4048
+\i (00:01:24) trapsize 265
+\i (00:01:24) zoom in 1 
+\i (00:01:24) setwindow pcb
+\i (00:01:24) zoom in -7.8799 -12.4153
+\i (00:01:24) trapsize 132
+\i (00:01:24) zoom in 1 
+\i (00:01:24) setwindow pcb
+\i (00:01:24) zoom in -7.8799 -12.4153
+\i (00:01:24) trapsize 66
+\i (00:01:25) zoom out 1 
+\i (00:01:25) setwindow pcb
+\i (00:01:25) zoom out -7.9540 -12.4060
+\i (00:01:25) trapsize 132
+\i (00:01:25) zoom out 1 
+\i (00:01:25) setwindow pcb
+\i (00:01:25) zoom out -7.9539 -12.4060
+\i (00:01:25) trapsize 265
+\i (00:01:25) zoom out 1 
+\i (00:01:25) setwindow pcb
+\i (00:01:25) zoom out -7.9645 -12.3954
+\i (00:01:25) trapsize 529
+\i (00:01:25) zoom out 1 
+\i (00:01:25) setwindow pcb
+\i (00:01:25) zoom out -7.9752 -12.3742
+\i (00:01:25) trapsize 1058
+\i (00:01:33) zoom in 1 
+\i (00:01:33) setwindow pcb
+\i (00:01:33) zoom in -7.7423 -10.1303
+\i (00:01:33) trapsize 529
+\i (00:01:34) zoom in 1 
+\i (00:01:34) setwindow pcb
+\i (00:01:34) zoom in -7.7422 -10.1302
+\i (00:01:34) trapsize 265
+\i (00:01:34) zoom out 1 
+\i (00:01:34) setwindow pcb
+\i (00:01:34) zoom out -7.7475 -10.1302
+\i (00:01:34) trapsize 529
+\i (00:01:34) zoom out 1 
+\i (00:01:34) setwindow pcb
+\i (00:01:34) zoom out -7.7475 -10.1302
+\i (00:01:34) trapsize 1058
+\i (00:01:34) zoom out 1 
+\i (00:01:34) setwindow pcb
+\i (00:01:34) zoom out -7.7475 -10.1303
+\t (00:01:34) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
+\i (00:01:34) trapsize 2117
+\i (00:01:36) zoom in 1 
+\i (00:01:36) setwindow pcb
+\i (00:01:36) zoom in -7.8745 -12.4589
+\t (00:01:36) Grids are drawn 0.1000, 0.1000 apart for enhanced viewing.
+\i (00:01:36) trapsize 1058
+\i (00:01:36) zoom in 1 
+\i (00:01:36) setwindow pcb
+\i (00:01:36) zoom in -7.8745 -12.4589
+\i (00:01:36) trapsize 529
+\i (00:01:36) zoom in 1 
+\i (00:01:36) setwindow pcb
+\i (00:01:36) zoom in -7.8745 -12.4589
+\i (00:01:36) trapsize 265
+\i (00:01:37) prepopup -8.2608 -12.1572
+\i (00:01:39) pop dyn_option_select @:@Delete 
+\i (00:01:39) delete 
+\i (00:01:39) generaledit 
+\i (00:01:39) zoom out 1 
+\i (00:01:39) setwindow pcb
+\i (00:01:39) zoom out -8.2608 -12.1572
+\i (00:01:39) trapsize 529
+\i (00:01:39) zoom out 1 
+\i (00:01:39) setwindow pcb
+\i (00:01:39) zoom out -8.2608 -12.1573
+\i (00:01:39) trapsize 1058
+\i (00:01:39) zoom out 1 
+\i (00:01:39) setwindow pcb
+\i (00:01:39) zoom out -8.2609 -12.1573
+\t (00:01:39) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
+\i (00:01:39) trapsize 2117
+\i (00:01:40) zoom out 1 
+\i (00:01:40) setwindow pcb
+\i (00:01:40) zoom out -8.2608 -12.1572
+\t (00:01:40) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
+\i (00:01:40) trapsize 4234
+\i (00:01:42) cmgr 
+\i (00:01:43) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:01:43) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:01:43) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:01:43) setwindow cmgr
+\i (00:01:43) cm newView ( kConsmgr worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" "167:All Layers" )
+\i (00:01:43) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:01:43) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:01:43) cm expand ( row ( Design "AIRQUALITYBLUETOOTHSENSOR" ) )
+\i (00:01:43) cm expand ( row ( Design "AIRQUALITYBLUETOOTHSENSOR" ) )
+\i (00:01:43) cm selectDesignTab ( kConsmgr worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" "167:All Layers" ) 0
+\i (00:01:43) cm newView ( kConsmgr worksheet 144:Properties 14:Net "423:Route/Vias Keepout Exception" "424:Route/Vias Keepout Exception" )
+\i (00:01:43) cm select ( frame ( kConsmgr workbook 144:Properties 14:Net "423:Route/Vias Keepout Exception" ) )
+\i (00:01:43) cm select ( frame ( kConsmgr workbook 144:Properties 14:Net "423:Route/Vias Keepout Exception" ) )
+\i (00:01:43) cm expand ( row ( Design "AIRQUALITYBLUETOOTHSENSOR" ) )
+\i (00:01:43) cm expand ( row ( Design "AIRQUALITYBLUETOOTHSENSOR" ) )
+\i (00:01:43) cm selectDesignTab ( kConsmgr worksheet 144:Properties 14:Net "423:Route/Vias Keepout Exception" "424:Route/Vias Keepout Exception" ) 0
+\i (00:01:43) cm newView ( kConsmgr worksheet 53:Electrical "1:Electrical Constraint Set" 7:Routing 8:Wiring )
+\i (00:01:43) cm select ( frame ( kConsmgr workbook 53:Electrical "1:Electrical Constraint Set" 7:Routing ) )
+\i (00:01:43) cm select ( frame ( kConsmgr workbook 53:Electrical "1:Electrical Constraint Set" 7:Routing ) )
+\i (00:01:43) cm selectDesignTab ( kConsmgr worksheet 53:Electrical "1:Electrical Constraint Set" 7:Routing 8:Wiring ) 0
+\i (00:01:43) cm newView ( kConsmgr worksheet 53:Electrical 66:Net 25:Routing 26:Wiring )
+\i (00:01:43) cm select ( frame ( kConsmgr workbook 53:Electrical 66:Net 25:Routing ) )
+\i (00:01:43) cm select ( frame ( kConsmgr workbook 53:Electrical 66:Net 25:Routing ) )
+\i (00:01:43) cm expand ( row ( Design "AIRQUALITYBLUETOOTHSENSOR" ) )
+\i (00:01:43) cm expand ( row ( Design "AIRQUALITYBLUETOOTHSENSOR" ) )
+\i (00:01:43) cm selectDesignTab ( kConsmgr worksheet 53:Electrical 66:Net 25:Routing 26:Wiring ) 0
+\i (00:01:43) cm newView ( kConsmgr worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "323:All Layers" )
+\i (00:01:43) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:01:43) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:01:43) cm expand ( row ( Design "AIRQUALITYBLUETOOTHSENSOR" ) )
+\i (00:01:43) cm expand ( row ( Design "AIRQUALITYBLUETOOTHSENSOR" ) )
+\i (00:01:43) cm selectDesignTab ( kConsmgr worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "323:All Layers" ) 0
+\i (00:01:43) cm newView ( kConsmgr worksheet 55:Physical 61:Net "62:All Layers" "63:All Layers" )
+\i (00:01:43) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:01:43) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:01:43) cm expand ( row ( Design "AIRQUALITYBLUETOOTHSENSOR" ) )
+\i (00:01:43) cm expand ( row ( Design "AIRQUALITYBLUETOOTHSENSOR" ) )
+\i (00:01:43) cm selectDesignTab ( kConsmgr worksheet 55:Physical 61:Net "62:All Layers" "63:All Layers" ) 0
+\i (00:01:43) cm newView ( kConsmgr worksheet 55:Physical 68:Region "69:All Layers" "70:All Layers" )
+\i (00:01:43) cm select ( frame ( kConsmgr workbook 55:Physical 68:Region "69:All Layers" ) )
+\i (00:01:43) cm select ( frame ( kConsmgr workbook 55:Physical 68:Region "69:All Layers" ) )
+\i (00:01:43) cm selectDesignTab ( kConsmgr worksheet 55:Physical 68:Region "69:All Layers" "70:All Layers" ) 0
+\i (00:01:44) setwindow pcb
+\i (00:01:44) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Physical
+\i (00:01:44) QtSignal m_domainSelector WS_Physical itemSelectionChanged Region "All Layers"
+\i (00:01:44) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Spacing
+\i (00:01:44) QtSignal m_domainSelector WS_Spacing itemSelectionChanged "Spacing Constraint Set" +
+\i (00:01:44) QtSignal "All Layers"
+\i (00:01:44) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Properties
+\i (00:01:44) QtSignal m_domainSelector WS_Properties itemSelectionChanged Net "Route/Vias Keepout Exception"
+\i (00:01:44) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:01:44) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:01:44) QtSignal Routing Wiring
+\i (00:01:44) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:01:44) QtSignal m_domainSelector WS_Electrical itemSelectionChanged Net Routing Wiring
+\i (00:01:44) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Physical
+\i (00:01:44) QtSignal m_domainSelector WS_Physical itemSelectionChanged
+\i (00:01:44) QtSignal m_domainSelector WS_Physical itemSelectionChanged "Physical Constraint Set" +
+\i (00:01:44) QtSignal "All Layers"
+\i (00:01:44) QtSignal m_domainSelector WS_Physical itemSelectionChanged
+\i (00:01:44) QtSignal m_domainSelector WS_Physical itemSelectionChanged Net "All Layers"
+\i (00:01:44) QtSignal m_domainSelector WS_Physical itemSelectionChanged
+\i (00:01:44) QtSignal m_domainSelector WS_Physical itemSelectionChanged Region "All Layers"
+\i (00:01:44) generaledit 
+\i (00:01:57) QtSignal m_domainSelector WS_Physical itemSelectionChanged "Physical Constraint Set" +
+\i (00:01:57) QtSignal "All Layers"
+\i (00:01:58) QtSignal m_domainSelector WS_Physical itemClicked "Physical Constraint Set" "All Layers"
+\w (00:02:04) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:02:04) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:02:04) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:02:04) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:02:04) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:02:04) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:02:04) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:02:04) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:02:04) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:02:04) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:02:04) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:02:06) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:02:06) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:02:06) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:02:06) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:02:06) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:02:06) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:02:10) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:02:10) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:02:10) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:02:12) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:02:12) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:02:12) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:02:15) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:02:17) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:02:17) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:02:18) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:02:18) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:02:18) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:02:19) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:02:19) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:02:32) setwindow cmgr
+\i (00:02:32) cm scope Design "AIRQUALITYBLUETOOTHSENSOR"
+\i (00:02:32) cm putValue ( "Physical CSet" "DEFAULT" ) VIA_LIST ( VIA VIA_D025 ) 0
+\i (00:02:32) cm endUndoBlock
+\i (00:02:35) setwindow pcb
+\i (00:02:35) QtSignal m_domainSelector WS_Physical itemSelectionChanged
+\i (00:02:35) QtSignal m_domainSelector WS_Physical itemSelectionChanged Net "All Layers"
+\i (00:02:35) QtSignal m_domainSelector WS_Physical itemSelectionChanged
+\i (00:02:35) QtSignal m_domainSelector WS_Physical itemSelectionChanged Region "All Layers"
+\i (00:02:35) setwindow cmgr
+\i (00:02:35) cm close ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:02:35) cm close ( frame ( kConsmgr workbook 144:Properties 14:Net "423:Route/Vias Keepout Exception" ) )
+\i (00:02:35) cm close ( frame ( kConsmgr workbook 53:Electrical "1:Electrical Constraint Set" 7:Routing ) )
+\i (00:02:35) cm close ( frame ( kConsmgr workbook 53:Electrical 66:Net 25:Routing ) )
+\i (00:02:35) cm close ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:02:35) cm close ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:02:36) cm close ( frame ( kConsmgr workbook 55:Physical 68:Region "69:All Layers" ) )
+\i (00:02:36) cm exit
+\i (00:02:36) setwindow pcb
+\i (00:02:36) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:02:36) QtSignal m_domainSelector WS_Physical itemSelectionChanged
+\i (00:02:36) QtSignal m_domainSelector WS_Spacing itemSelectionChanged
+\i (00:02:36) QtSignal m_domainSelector WS_Properties itemSelectionChanged
+\i (00:02:37) zoom in 1 
+\i (00:02:37) setwindow pcb
+\i (00:02:37) zoom in -8.4251 -10.6266
+\t (00:02:37) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
+\i (00:02:37) trapsize 2117
+\i (00:02:37) zoom in 1 
+\i (00:02:37) setwindow pcb
+\i (00:02:37) zoom in -8.4250 -10.6266
+\t (00:02:37) Grids are drawn 0.1000, 0.1000 apart for enhanced viewing.
+\i (00:02:37) trapsize 1058
+\i (00:02:38) add connect 
+\t (00:02:38) Pick first element.
+\i (00:02:39) pick grid -6.3716 -13.2515
+\t (00:02:39) last pick:  -6.3500 -13.2500
+\t (00:02:39) last pick:  -6.3500 -13.2500
+\i (00:02:39) pick grid dbl -6.3716 -13.2515
+\t (00:02:39) last pick:  -6.3500 -13.2500
+\t (00:02:39) VIA used for drill.
+\t (00:02:39) No DRC errors detected.
+\i (00:02:41) done 
+\i (00:02:41) generaledit 
+\i (00:02:41) zoom in 1 
+\i (00:02:41) setwindow pcb
+\i (00:02:41) zoom in -6.9643 -13.6960
+\i (00:02:41) trapsize 529
+\i (00:02:41) zoom in 1 
+\i (00:02:41) setwindow pcb
+\i (00:02:41) zoom in -6.9643 -13.6960
+\i (00:02:41) trapsize 265
+\i (00:02:42) zoom out 1 
+\i (00:02:42) setwindow pcb
+\i (00:02:42) zoom out -6.9484 -13.6801
+\i (00:02:42) trapsize 529
+\i (00:02:43) zoom out 1 
+\i (00:02:43) setwindow pcb
+\i (00:02:43) zoom out -6.3557 -13.9765
+\i (00:02:43) trapsize 1058
+\i (00:02:43) zoom out 1 
+\i (00:02:43) setwindow pcb
+\i (00:02:43) zoom out -6.3558 -13.9765
+\t (00:02:43) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
+\i (00:02:43) trapsize 2117
+\i (00:02:44) zoom in 1 
+\i (00:02:44) setwindow pcb
+\i (00:02:44) zoom in -6.3134 -14.3576
+\t (00:02:44) Grids are drawn 0.1000, 0.1000 apart for enhanced viewing.
+\i (00:02:44) trapsize 1058
+\i (00:02:44) zoom in 1 
+\i (00:02:44) setwindow pcb
+\i (00:02:44) zoom in -6.3134 -14.3576
+\i (00:02:44) trapsize 529
+\i (00:02:45) prepopup -6.2922 -13.1933
+\i (00:02:49) pop dyn_option_select '@:@Property edit' 
+\i (00:02:49) property edit 
+\i (00:02:53) setwindow text
+\i (00:02:53) close
+\i (00:02:53) generaledit 
+\i (00:02:54) prepopup -6.0805 -13.4367
+\i (00:02:59) pop dyn_option_select 'Replace padstack@:@Selected instance(s)' 
+\i (00:02:59) rep padstack 
+\i (00:03:04) fillin "Via_D025"
+\t (00:03:04) Performing DRC...
+\t (00:03:04) Multithreaded DRC update (12 threads).
+\t (00:03:05) DRC done; 46 errors detected.
+\i (00:03:05) generaledit 
+\i (00:03:06) zoom in 1 
+\i (00:03:06) setwindow pcb
+\i (00:03:06) zoom in -6.6944 -13.7437
+\i (00:03:06) trapsize 265
+\i (00:03:06) zoom in 1 
+\i (00:03:06) setwindow pcb
+\i (00:03:06) zoom in -6.6944 -13.7437
+\i (00:03:06) trapsize 132
+\i (00:03:07) zoom out 1 
+\i (00:03:07) setwindow pcb
+\i (00:03:07) zoom out -6.3240 -13.5664
+\i (00:03:07) trapsize 265
+\i (00:03:07) zoom out 1 
+\i (00:03:07) setwindow pcb
+\i (00:03:07) zoom out -6.3239 -13.5663
+\i (00:03:07) trapsize 529
+\i (00:03:07) zoom out 1 
+\i (00:03:07) setwindow pcb
+\i (00:03:07) zoom out -5.4877 -13.6404
+\i (00:03:07) trapsize 1058
+\i (00:03:07) zoom out 1 
+\i (00:03:07) setwindow pcb
+\i (00:03:07) zoom out -5.4878 -13.6405
+\t (00:03:07) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
+\i (00:03:07) trapsize 2117
+\i (00:03:08) zoom in 1 
+\i (00:03:08) setwindow pcb
+\i (00:03:08) zoom in -2.6088 -14.5718
+\t (00:03:08) Grids are drawn 0.1000, 0.1000 apart for enhanced viewing.
+\i (00:03:08) trapsize 1058
+\i (00:03:08) zoom in 1 
+\i (00:03:08) setwindow pcb
+\i (00:03:08) zoom in -2.6088 -14.5718
+\i (00:03:08) trapsize 529
+\i (00:03:08) zoom in 1 
+\i (00:03:08) setwindow pcb
+\i (00:03:08) zoom in -2.6088 -14.5718
+\i (00:03:08) trapsize 265
+\i (00:03:09) zoom out 1 
+\i (00:03:09) setwindow pcb
+\i (00:03:09) zoom out -3.9318 -14.4924
+\i (00:03:09) trapsize 529
+\i (00:03:10) prepopup -6.3344 -13.0741
+\i (00:03:15) pop dyn_option_select @:@Delete 
+\i (00:03:15) delete 
+\i (00:03:15) generaledit 
+\i (00:03:15) zoom out 1 
+\i (00:03:15) setwindow pcb
+\i (00:03:15) zoom out -5.5088 -15.3180
+\i (00:03:15) trapsize 1058
+\i (00:03:15) zoom out 1 
+\i (00:03:15) setwindow pcb
+\i (00:03:15) zoom out -5.5089 -15.3180
+\t (00:03:15) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
+\i (00:03:15) trapsize 2117
+\i (00:03:23) zoom in 1 
+\i (00:03:23) setwindow pcb
+\i (00:03:23) zoom in -2.0795 1.6592
+\t (00:03:23) Grids are drawn 0.1000, 0.1000 apart for enhanced viewing.
+\i (00:03:23) trapsize 1058
+\i (00:04:19) zoom in 1 
+\i (00:04:19) setwindow pcb
+\i (00:04:19) zoom in 6.2397 -7.2104
+\i (00:04:19) trapsize 529
+\i (00:04:19) zoom in 1 
+\i (00:04:19) setwindow pcb
+\i (00:04:19) zoom in 6.2397 -7.2104
+\i (00:04:19) trapsize 265
+\i (00:04:20) zoom out 1 
+\i (00:04:20) setwindow pcb
+\i (00:04:20) zoom out 6.1974 -7.3691
+\i (00:04:20) trapsize 529
+\i (00:04:49) setwindow form.find
+\i (00:04:49) FORM find all_off  
+\i (00:04:50) FORM find cline_segs YES 
+\i (00:04:52) setwindow pcb
+\i (00:04:52) drag_start grid -0.9999 -6.9987
+\i (00:04:54) drag_stop 3.6890 -4.6384
+\i (00:04:56) prepopup 2.6623 -4.0774
+\i (00:04:57) pop dyn_option_select @:@Delete 
+\i (00:04:57) delete 
+\i (00:04:57) generaledit 
+\i (00:04:58) drag_start grid -0.0790 -7.1786
+\i (00:05:00) drag_stop 5.4565 -8.0042
+\i (00:05:01) prepopup 1.9108 -7.5385
+\i (00:05:03) pop dyn_option_select @:@Delete 
+\i (00:05:03) delete 
+\i (00:05:03) generaledit 
+\i (00:05:06) drag_start grid 0.8735 -1.4737
+\i (00:05:08) drag_stop 2.0696 -3.6011
+\i (00:05:09) prepopup 1.8896 -2.4369
+\i (00:05:10) pop dyn_option_select @:@Delete 
+\i (00:05:10) delete 
+\i (00:05:10) generaledit 
+\i (00:05:12) drag_start grid 2.8740 -3.4953
+\i (00:05:14) drag_stop 5.5306 -6.7870
+\i (00:05:15) prepopup 5.6470 -5.0406
+\i (00:05:16) pop dyn_option_select @:@Delete 
+\i (00:05:16) delete 
+\i (00:05:16) generaledit 
+\i (00:05:17) drag_start grid 5.8058 -5.5063
+\i (00:05:17) drag_stop 6.4303 -5.7709
+\i (00:05:18) prepopup 6.1868 -5.6333
+\i (00:05:19) pop dyn_option_select @:@Delete 
+\i (00:05:19) delete 
+\i (00:05:19) generaledit 
+\i (00:05:43) save 
+\i (00:05:44) fillin yes 
+   (00:05:44) Loading consmgr.cxt 
+   (00:05:44) Loading acns_formula.cxt 
+\i (00:05:45) generaledit 
+\i (00:06:10) zoom out 1 
+\i (00:06:10) setwindow pcb
+\i (00:06:10) zoom out 6.0492 -4.1833
+\i (00:06:10) trapsize 1058
+\i (00:06:10) zoom out 1 
+\i (00:06:10) setwindow pcb
+\i (00:06:10) zoom out 5.5836 -4.7336
+\t (00:06:10) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
+\i (00:06:10) trapsize 2117
+\i (00:06:11) zoom out 1 
+\i (00:06:11) setwindow pcb
+\i (00:06:11) zoom out 2.0697 -7.1045
+\t (00:06:11) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
+\i (00:06:11) trapsize 4234
+\i (00:06:12) zoom in 1 
+\i (00:06:12) setwindow pcb
+\i (00:06:12) zoom in -2.0745 -10.0339
+\t (00:06:12) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
+\i (00:06:12) trapsize 2117
+\i (00:06:12) zoom in 1 
+\i (00:06:12) setwindow pcb
+\i (00:06:12) zoom in -2.0745 -10.1185
+\t (00:06:12) Grids are drawn 0.1000, 0.1000 apart for enhanced viewing.
+\i (00:06:12) trapsize 1058
+\i (00:06:12) zoom out 1 
+\i (00:06:12) setwindow pcb
+\i (00:06:12) zoom out -2.0744 -10.1185
+\t (00:06:12) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
+\i (00:06:12) trapsize 2117
+\i (00:06:22) diff pairs 
+   (00:06:22) Loading cmds.cxt 
+   (00:06:22) Loading fputil.cxt 
+\i (00:06:23) setwindow form.fpconsdiff
+\i (00:06:23) FORM fpconsdiff cancel  
+\i (00:06:24) setwindow pcb
+\i (00:06:24) generaledit 
+\i (00:06:33) cmgr 
+\i (00:06:33) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:06:33) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:06:33) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:06:33) setwindow cmgr
+\i (00:06:33) cm newView ( kConsmgr worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" "167:All Layers" )
+\i (00:06:33) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:06:33) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:06:33) cm expand ( row ( Design "AIRQUALITYBLUETOOTHSENSOR" ) )
+\i (00:06:33) cm expand ( row ( Design "AIRQUALITYBLUETOOTHSENSOR" ) )
+\i (00:06:33) cm selectDesignTab ( kConsmgr worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" "167:All Layers" ) 0
+\i (00:06:33) cm newView ( kConsmgr worksheet 144:Properties 14:Net "423:Route/Vias Keepout Exception" "424:Route/Vias Keepout Exception" )
+\i (00:06:34) cm select ( frame ( kConsmgr workbook 144:Properties 14:Net "423:Route/Vias Keepout Exception" ) )
+\i (00:06:34) cm select ( frame ( kConsmgr workbook 144:Properties 14:Net "423:Route/Vias Keepout Exception" ) )
+\i (00:06:34) cm expand ( row ( Design "AIRQUALITYBLUETOOTHSENSOR" ) )
+\i (00:06:34) cm expand ( row ( Design "AIRQUALITYBLUETOOTHSENSOR" ) )
+\i (00:06:34) cm selectDesignTab ( kConsmgr worksheet 144:Properties 14:Net "423:Route/Vias Keepout Exception" "424:Route/Vias Keepout Exception" ) 0
+\i (00:06:34) cm newView ( kConsmgr worksheet 53:Electrical "1:Electrical Constraint Set" 7:Routing 8:Wiring )
+\i (00:06:34) cm select ( frame ( kConsmgr workbook 53:Electrical "1:Electrical Constraint Set" 7:Routing ) )
+\i (00:06:34) cm select ( frame ( kConsmgr workbook 53:Electrical "1:Electrical Constraint Set" 7:Routing ) )
+\i (00:06:34) cm selectDesignTab ( kConsmgr worksheet 53:Electrical "1:Electrical Constraint Set" 7:Routing 8:Wiring ) 0
+\i (00:06:34) cm newView ( kConsmgr worksheet 53:Electrical 66:Net 25:Routing 26:Wiring )
+\i (00:06:34) cm select ( frame ( kConsmgr workbook 53:Electrical 66:Net 25:Routing ) )
+\i (00:06:34) cm select ( frame ( kConsmgr workbook 53:Electrical 66:Net 25:Routing ) )
+\i (00:06:34) cm expand ( row ( Design "AIRQUALITYBLUETOOTHSENSOR" ) )
+\i (00:06:34) cm expand ( row ( Design "AIRQUALITYBLUETOOTHSENSOR" ) )
+\i (00:06:34) cm selectDesignTab ( kConsmgr worksheet 53:Electrical 66:Net 25:Routing 26:Wiring ) 0
+\i (00:06:34) cm newView ( kConsmgr worksheet 55:Physical 61:Net "62:All Layers" "63:All Layers" )
+\i (00:06:34) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:06:34) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:06:34) cm expand ( row ( Design "AIRQUALITYBLUETOOTHSENSOR" ) )
+\i (00:06:34) cm expand ( row ( Design "AIRQUALITYBLUETOOTHSENSOR" ) )
+\i (00:06:34) cm selectDesignTab ( kConsmgr worksheet 55:Physical 61:Net "62:All Layers" "63:All Layers" ) 0
+\i (00:06:34) cm newView ( kConsmgr worksheet 55:Physical 68:Region "69:All Layers" "70:All Layers" )
+\i (00:06:34) cm select ( frame ( kConsmgr workbook 55:Physical 68:Region "69:All Layers" ) )
+\i (00:06:34) cm select ( frame ( kConsmgr workbook 55:Physical 68:Region "69:All Layers" ) )
+\i (00:06:34) cm selectDesignTab ( kConsmgr worksheet 55:Physical 68:Region "69:All Layers" "70:All Layers" ) 0
+\i (00:06:34) cm newView ( kConsmgr worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "323:All Layers" )
+\i (00:06:34) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:06:34) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:06:34) cm expand ( row ( Design "AIRQUALITYBLUETOOTHSENSOR" ) )
+\i (00:06:34) cm expand ( row ( Design "AIRQUALITYBLUETOOTHSENSOR" ) )
+\i (00:06:34) cm selectDesignTab ( kConsmgr worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "323:All Layers" ) 0
+\i (00:06:34) setwindow pcb
+\i (00:06:34) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Physical
+\i (00:06:34) QtSignal m_domainSelector WS_Physical itemSelectionChanged "Physical Constraint Set" +
+\i (00:06:34) QtSignal "All Layers"
+\i (00:06:34) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Spacing
+\i (00:06:34) QtSignal m_domainSelector WS_Spacing itemSelectionChanged "Spacing Constraint Set" +
+\i (00:06:34) QtSignal "All Layers"
+\i (00:06:34) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Properties
+\i (00:06:34) QtSignal m_domainSelector WS_Properties itemSelectionChanged Net "Route/Vias Keepout Exception"
+\i (00:06:34) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:06:34) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:06:34) QtSignal Routing Wiring
+\i (00:06:34) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:06:34) QtSignal m_domainSelector WS_Electrical itemSelectionChanged Net Routing Wiring
+\i (00:06:34) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Physical
+\i (00:06:34) QtSignal m_domainSelector WS_Physical itemSelectionChanged
+\i (00:06:34) QtSignal m_domainSelector WS_Physical itemSelectionChanged Net "All Layers"
+\i (00:06:34) QtSignal m_domainSelector WS_Physical itemSelectionChanged
+\i (00:06:34) QtSignal m_domainSelector WS_Physical itemSelectionChanged Region "All Layers"
+\i (00:06:34) QtSignal m_domainSelector WS_Physical itemSelectionChanged
+\i (00:06:34) QtSignal m_domainSelector WS_Physical itemSelectionChanged "Physical Constraint Set" +
+\i (00:06:34) QtSignal "All Layers"
+\i (00:06:34) generaledit 
+\i (00:06:45) setwindow cmgr
+\i (00:06:45) cm scope Design "AIRQUALITYBLUETOOTHSENSOR"
+\i (00:06:45) cm putValue ( "Physical CSet" "DEFAULT" ) MIN_LINE_WIDTH 0.12700 7 ( "Physical CSet" "DEFAULT" )
+\i (00:06:45) cm putValue ( "Physical CSet" "DEFAULT" ) MAX_LINE_WIDTH 0.12700 7 ( "Physical CSet" "DEFAULT" )
+\i (00:06:45) cm putValue ( "Physical CSet" "DEFAULT" ) MIN_NECK_WIDTH 0.12700 7 ( "Physical CSet" "DEFAULT" )
+\i (00:06:45) cm putValue ( "Physical CSet" "DEFAULT" ) MAXIMUM_NECK_LENGTH 0.12700 7 ( "Physical CSet" "DEFAULT" )
+\i (00:06:45) cm putValue ( "Physical CSet" "DEFAULT" ) DIFFP_MIN_SPACE 0.12700 7 ( "Physical CSet" "DEFAULT" )
+\i (00:06:45) cm putValue ( "Physical CSet" "DEFAULT" ) DIFFP_PRIMARY_GAP 0.12700 7 ( "Physical CSet" "DEFAULT" )
+\i (00:06:45) cm putValue ( "Physical CSet" "DEFAULT" ) DIFFP_NECK_GAP 0.12700 7 ( "Physical CSet" "DEFAULT" )
+\i (00:06:45) cm putValue ( "Physical CSet" "DEFAULT" ) DIFFP_COUPLED_PLUS 0.12700 7 ( "Physical CSet" "DEFAULT" )
+\i (00:06:45) cm putValue ( "Physical CSet" "DEFAULT" ) DIFFP_COUPLED_MINUS 0.12700 7 ( "Physical CSet" "DEFAULT" )
+\i (00:06:45) cm putValue ( "Physical CSet" "DEFAULT" ) MIN_BVIA_STAGGER 0.12700 7 ( "Physical CSet" "DEFAULT" )
+\i (00:06:45) cm putValue ( "Physical CSet" "DEFAULT" ) MAX_BVIA_STAGGER 0.12700 7 ( "Physical CSet" "DEFAULT" )
+\i (00:06:45) cm endUndoBlock
+\i (00:06:47) cm close ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:06:47) cm close ( frame ( kConsmgr workbook 144:Properties 14:Net "423:Route/Vias Keepout Exception" ) )
+\i (00:06:47) cm close ( frame ( kConsmgr workbook 53:Electrical "1:Electrical Constraint Set" 7:Routing ) )
+\i (00:06:47) cm close ( frame ( kConsmgr workbook 53:Electrical 66:Net 25:Routing ) )
+\i (00:06:47) cm close ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:06:47) cm close ( frame ( kConsmgr workbook 55:Physical 68:Region "69:All Layers" ) )
+\i (00:06:47) cm close ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:06:47) cm exit
+\i (00:06:47) setwindow pcb
+\i (00:06:47) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:06:47) QtSignal m_domainSelector WS_Physical itemSelectionChanged
+\i (00:06:47) QtSignal m_domainSelector WS_Spacing itemSelectionChanged
+\i (00:06:47) QtSignal m_domainSelector WS_Properties itemSelectionChanged
+\i (00:06:48) pick grid -5.8424 -10.2030
+\t (00:06:48) last pick:  -5.8500 -10.2000
+\i (00:06:50) save 
+\i (00:06:52) fillin yes 
+\i (00:06:52) generaledit 
+\i (00:06:55) exit 
+\t (00:06:55)     Journal end - Wed Dec 28 18:32:01 2022
