@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : AIRQUALITYBLUETOOTHSENSOR.brd                 )
 (    Software Version : 17.2S083                                      )
-(    Date/Time        : Wed Dec 28 17:50:23 2022                      )
+(    Date/Time        : Thu Dec 29 22:11:54 2022                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -27,7 +27,7 @@ CmdLine: netrev.exe -y 1 -i D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\SCHEMATIC_F
 ------ Preparing to read pst files ------
 
 Starting to read D:/CADENCE/CDSSETUP/ORCAD_CAPTURE/17.2.0/SCHEMATIC_FINALPROJECT/allegro/pstchip.dat 
-   Finished reading D:/CADENCE/CDSSETUP/ORCAD_CAPTURE/17.2.0/SCHEMATIC_FINALPROJECT/allegro/pstchip.dat (00:00:00.04)
+   Finished reading D:/CADENCE/CDSSETUP/ORCAD_CAPTURE/17.2.0/SCHEMATIC_FINALPROJECT/allegro/pstchip.dat (00:00:00.06)
 Starting to read D:/CADENCE/CDSSETUP/ORCAD_CAPTURE/17.2.0/SCHEMATIC_FINALPROJECT/allegro/pstxprt.dat 
    Finished reading D:/CADENCE/CDSSETUP/ORCAD_CAPTURE/17.2.0/SCHEMATIC_FINALPROJECT/allegro/pstxprt.dat (00:00:00.00)
 Starting to read D:/CADENCE/CDSSETUP/ORCAD_CAPTURE/17.2.0/SCHEMATIC_FINALPROJECT/allegro/pstxnet.dat 
@@ -37,10 +37,6 @@ Starting to read D:/CADENCE/CDSSETUP/ORCAD_CAPTURE/17.2.0/SCHEMATIC_FINALPROJECT
 
 
 #1   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-ERROR(SPMHNI-196): Symbol 'LIR' for device 'HU-2477N-1-LF_0_LIR_HU-2477N-1-' has extra pin '3'.
-
-#2   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
 
 ERROR(SPMHNI-196): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' has extra pin '1'.
 
@@ -136,7 +132,7 @@ PADPATH =  .
 ------ Summary Statistics ------
 
 
-netrev run on Dec 28 17:50:23 2022
+netrev run on Dec 29 22:11:54 2022
    DESIGN NAME : 'AIRQUALITYBLUETOOTHSENSOR'
    PACKAGING ON May 24 2022 13:22:03
 
@@ -159,8 +155,8 @@ netrev run on Dec 28 17:50:23 2022
 
  No error detected
  No oversight detected
-  2 warnings detected
+  1 warnings detected
 
-cpu time      0:00:39
-elapsed time  0:00:00
+cpu time      0:00:49
+elapsed time  0:00:01
 

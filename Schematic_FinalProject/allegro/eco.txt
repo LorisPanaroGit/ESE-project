@@ -3,44 +3,41 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  D:.../17.2.0/Schematic_FinalProject/allegro/AIRQUALITYBLUETOOTHSENSOR.brd   |
-|                                                    Wed Dec 28 17:50:23 2022  |
+|                                                    Thu Dec 29 22:11:54 2022  |
 |------------------------------------------------------------------------------|
 | COMPONENT DEFINITION added to design                                         |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    device type                                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- LPS-1301_9314_24_LPS_LPS-1301_9
- PMSA003I_PM2_5_PMSA003I
+ HU-2477N-1-LF_0_LIR_NEW_HU-2477
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   2  |
 |------------------------------------------------------------------------------|
 |  D:.../17.2.0/Schematic_FinalProject/allegro/AIRQUALITYBLUETOOTHSENSOR.brd   |
-|                                                    Wed Dec 28 17:50:23 2022  |
+|                                                    Thu Dec 29 22:11:54 2022  |
 |------------------------------------------------------------------------------|
 | COMPONENTS CHANGED from one device type to another in design                 |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    ref des        | new device type     |   x   |   y   |  old  device type  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- U5                  PMSA003I_PM2_5_PMSA003I                 PMSA003I_CONNECTOR_PMSA003I_PMS
- U9                  LPS-1301_9314_24_LPS_LPS-1301_9                 LPS-1301_9314_24_SLOT_LPS-1301_
+ U12                 HU-2477N-1-LF_0_LIR_NEW_HU-2477                 HU-2477N-1-LF_0_LIR_HU-2477N-1-
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   3  |
 |------------------------------------------------------------------------------|
 |  D:.../17.2.0/Schematic_FinalProject/allegro/AIRQUALITYBLUETOOTHSENSOR.brd   |
-|                                                    Wed Dec 28 17:50:23 2022  |
+|                                                    Thu Dec 29 22:11:54 2022  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- U5.2                           PRIM_FILE      .\pstchip.dat
- U9.2                           PRIM_FILE      .\pstchip.dat
+ U12.1                          PRIM_FILE      .\pstchip.dat
 |------------------------------------------------------------------------------|
-|       Comp definitions added:       2                                        |
-|       Components changed    :       2                                        |
-|       Slot property added   :       2                                        |
+|       Comp definitions added:       1                                        |
+|       Components changed    :       1                                        |
+|       Slot property added   :       1                                        |
 |                                                                              |
-|   Total ECO changes reported:       6                                        |
+|   Total ECO changes reported:       3                                        |
 |------------------------------------------------------------------------------|

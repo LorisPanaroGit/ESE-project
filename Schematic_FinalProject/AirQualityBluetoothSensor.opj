@@ -109,7 +109,19 @@
     ("Allegro Netlist Ignore Fixed Property" "FALSE")
     ("Allegro Netlist User Defined Property" "FALSE")
     ("Allegro Netlist Input Board File"
-       "D:\Cadence\cdssetup\OrCAD_Capture\17.2.0\Schematic_FinalProject\allegro\AIRQUALITYBLUETOOTHSENSOR.brd"))
+       "D:\Cadence\cdssetup\OrCAD_Capture\17.2.0\Schematic_FinalProject\allegro\AIRQUALITYBLUETOOTHSENSOR.brd")
+    (FLDSTUFF_Scope "0")
+    (FLDSTUFF_Action "0")
+    (FLDSTUFF_Report_File
+       "d:\cadence\cdssetup\orcad_capture\17.2.0\schematic_finalproject\airqualitybluetoothsensor.RPT")
+    (FLDSTUFF_Update_File
+       "d:\cadence\cdssetup\orcad_capture\17.2.0\schematic_finalproject\airqualitybluetoothsensor.UPD")
+    (FLDSTUFF__Uppercase_Result_Property "FALSE")
+    (FLDSTUFF_Uppercase_Update_Property "FALSE")
+    (FLDSTUFF_Uppercase_Unconditionally "FALSE")
+    (FLDSTUFF_Visibility "0")
+    (FLDSTUFF_inst_or_occurrence "1")
+    (FLDSTUFF_Create_Report_File "FALSE"))
   (Folder "Outputs"
     (File ".\airqualitybluetoothsensor.xrf"
       (Type "Report"))
@@ -243,6 +255,8 @@
          "d:\cadence\cdssetup\orcad_capture\17.2.0\schematic_finalproject\airqualitybluetoothsensor.dsn"
          "SCHEMATIC1")
       (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library"
+         "D:\Cadence\tools\capture\LIBRARY\PSPICE\sourcstm.olb")
       (Path "Outputs"))
     (HierarchyView)
     (Doc
@@ -253,9 +267,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 52 1234 52 417")
-        (Scroll "36 171")
-        (Zoom "280")
+        (Placement "44 0 1 -1 -1 -8 -31 52 1234 52 417")
+        (Scroll "16 0")
+        (Zoom "140")
         (Occurrence "/"))
       (Path
          "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\SCHEMATIC_FINALPROJECT\AIRQUALITYBLUETOOTHSENSOR.DSN")
@@ -264,12 +278,23 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 78 1260 78 443")
-        (Scroll "0 450")
-        (Zoom "200")
+        (Placement "44 2 3 -1 -1 -8 -31 78 1260 78 443")
+        (Scroll "-181 150")
+        (Zoom "100")
         (Occurrence "/"))
       (Path
          "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\SCHEMATIC_FINALPROJECT\AIRQUALITYBLUETOOTHSENSOR.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "Power")))
+      (Page "Power"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1286 104 469")
+        (Scroll "-82 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\SCHEMATIC_FINALPROJECT\AIRQUALITYBLUETOOTHSENSOR.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "MCU")))
   (ISPCBBASICLICENSE "false"))

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : LIR_new.dra                                   )
+(    Software Version : 17.2S083                                      )
+(    Date/Time        : Thu Dec 29 22:05:19 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS
+    Name      = lir_new.psm
+    User      = loris
+    Machine   = LAPTOP-PO6VQ7BQ
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

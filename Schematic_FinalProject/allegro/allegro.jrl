@@ -1,32 +1,18 @@
-\t (00:00:00) allegro 17.2 S083 Windows SPB 64-bit Edition
-\t (00:00:00)     Journal start - Wed Dec 28 18:32:05 2022
-\t (00:00:00)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=3616 CPUs=12
-\t (00:00:00) CmdLine= D:\Cadence\tools\bin\allegro.exe
-\t (00:00:00) 
-   (00:00:00) Loading axlcore.cxt 
-\t (00:00:03) Opening existing design...
-\i (00:00:03) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged AIRQUALITYBLUETOOTHSENSOR
-\d (00:00:03) Design opened: D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/Schematic_FinalProject/allegro/AIRQUALITYBLUETOOTHSENSOR.brd
-\t (00:00:04) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
-\i (00:00:04) trapsize 1778
-\i (00:00:04) trapsize 1823
-\i (00:00:04) trapsize 1778
-\t (00:00:04) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
-\i (00:00:04) trapsize 2117
-\i (00:00:04) trapsize 2117
-\i (00:00:05) generaledit 
-\i (00:00:06) zoom in 1 
-\i (00:00:06) setwindow pcb
-\i (00:00:06) zoom in -2.8788 1.3127
-\t (00:00:06) Grids are drawn 0.1000, 0.1000 apart for enhanced viewing.
-\i (00:00:06) trapsize 1058
-\i (00:00:06) zoom in 1 
-\i (00:00:06) setwindow pcb
-\i (00:00:06) zoom in -2.8788 1.3126
-\i (00:00:06) trapsize 529
-\i (00:00:07) zoom in 1 
-\i (00:00:07) setwindow pcb
-\i (00:00:07) zoom in -0.3174 3.7259
-\i (00:00:07) trapsize 265
-\i (00:00:08) exit 
-\t (00:00:08)     Journal end - Wed Dec 28 18:32:13 2022
+\t (00:00:01) allegro 17.2 S083 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Thu Dec 29 23:48:23 2022
+\t (00:00:01)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=7328 CPUs=12
+\t (00:00:01) CmdLine= D:\Cadence\tools\bin\allegro.exe
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged AIRQUALITYBLUETOOTHSENSOR
+\d (00:00:04) Design opened: D:/CADENCE/CDSSETUP/ORCAD_CAPTURE/17.2.0/SCHEMATIC_FINALPROJECT/allegro/AIRQUALITYBLUETOOTHSENSOR.brd
+\i (00:00:04) trapsize 4195
+\i (00:00:05) trapsize 4318
+\i (00:00:05) trapsize 4448
+\i (00:00:05) trapsize 4318
+\i (00:00:05) trapsize 4195
+\i (00:00:05) trapsize 4195
+\i (00:00:06) generaledit 
+\i (00:00:09) exit 
+\t (00:00:09)     Journal end - Thu Dec 29 23:48:30 2022

@@ -1,34 +1,24 @@
-\t (00:06:40) allegro 17.2 S083 Windows SPB 64-bit Edition
-\t (00:06:40)     Journal start - Wed Dec 28 17:57:08 2022
-\t (00:06:40)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=10248 CPUs=12
-\t (00:06:40) CmdLine= D:\Cadence\tools\bin\allegro.exe -mpssession loris D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\SCHEMATIC_FINALPROJECT\allegro\AIRQUALITYBLUETOOTHSENSOR.brd
-\t (00:06:40) 
-\d (00:06:40) Design opened: D:/Cadence/cdssetup/ORCAD_CAPTURE/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/USB.dra
-\i (00:06:40) trapsize 596
-\i (00:06:41) generaledit 
-\i (00:06:48) zoom in 1 
-\i (00:06:48) setwindow pcb
-\i (00:06:48) zoom in 1.9481 5.2723
-\i (00:06:48) trapsize 298
-\i (00:06:49) zoom in 1 
-\i (00:06:49) setwindow pcb
-\i (00:06:49) zoom in 1.9482 5.2723
-\i (00:06:49) trapsize 149
-\i (00:06:50) zoom out 1 
-\i (00:06:50) setwindow pcb
-\i (00:06:50) zoom out 1.5128 5.9821
-\i (00:06:50) trapsize 298
-\i (00:06:52) zoom out 1 
-\i (00:06:52) setwindow pcb
-\i (00:06:52) zoom out 1.4712 6.1073
-\i (00:06:52) trapsize 596
-\i (00:08:21) open 
-\i (00:08:34) fillin "D:/Documents/ESE/forno/CONSEGNA FINALE/CAD FILES/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/usb_4110_new.dra"
-\i (00:08:34) cd "D:/Documents/ESE/forno/CONSEGNA FINALE/CAD FILES/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS"
-\t (00:08:34) Opening existing design...
-\i (00:08:35) trapsize 676
-\i (00:08:35) trapsize 694
-\i (00:08:35) trapsize 676
-\t (00:08:35) Grids are drawn 1.6000, 1.6000 apart for enhanced viewing.
-\i (00:08:35) trapsize 676
-\t (00:08:35)     Journal end - Wed Dec 28 17:59:03 2022
+\t (00:00:00) allegro 17.2 S083 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Thu Dec 29 22:06:35 2022
+\t (00:00:00)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=9640 CPUs=12
+\t (00:00:00) CmdLine= D:\Cadence\tools\bin\allegro.exe
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\i (00:00:03) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged LIR_new
+\d (00:00:03) Design opened: D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/LIR_new.dra
+\i (00:00:03) trapsize 2134
+\i (00:00:03) trapsize 2188
+\i (00:00:04) trapsize 2134
+\i (00:00:04) trapsize 2193
+\i (00:00:04) trapsize 2193
+\i (00:00:04) generaledit 
+\i (00:00:06) open 
+\i (00:00:16) fillin "D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/Schematic_FinalProject/allegro/AIRQUALITYBLUETOOTHSENSOR.brd"
+\i (00:00:16) cd "D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/Schematic_FinalProject/allegro"
+\t (00:00:16) Opening existing design...
+\i (00:00:17) trapsize 4318
+\i (00:00:17) trapsize 4448
+\i (00:00:17) trapsize 4318
+\i (00:00:17) trapsize 4318
+\t (00:00:17)     Journal end - Thu Dec 29 22:06:51 2022
