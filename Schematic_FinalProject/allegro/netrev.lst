@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : AIRQUALITYBLUETOOTHSENSOR.brd                 )
 (    Software Version : 17.2S083                                      )
-(    Date/Time        : Thu Dec 29 22:11:54 2022                      )
+(    Date/Time        : Sun Jan 01 12:43:23 2023                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -27,7 +27,7 @@ CmdLine: netrev.exe -y 1 -i D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\SCHEMATIC_F
 ------ Preparing to read pst files ------
 
 Starting to read D:/CADENCE/CDSSETUP/ORCAD_CAPTURE/17.2.0/SCHEMATIC_FINALPROJECT/allegro/pstchip.dat 
-   Finished reading D:/CADENCE/CDSSETUP/ORCAD_CAPTURE/17.2.0/SCHEMATIC_FINALPROJECT/allegro/pstchip.dat (00:00:00.06)
+   Finished reading D:/CADENCE/CDSSETUP/ORCAD_CAPTURE/17.2.0/SCHEMATIC_FINALPROJECT/allegro/pstchip.dat (00:00:00.07)
 Starting to read D:/CADENCE/CDSSETUP/ORCAD_CAPTURE/17.2.0/SCHEMATIC_FINALPROJECT/allegro/pstxprt.dat 
    Finished reading D:/CADENCE/CDSSETUP/ORCAD_CAPTURE/17.2.0/SCHEMATIC_FINALPROJECT/allegro/pstxprt.dat (00:00:00.00)
 Starting to read D:/CADENCE/CDSSETUP/ORCAD_CAPTURE/17.2.0/SCHEMATIC_FINALPROJECT/allegro/pstxnet.dat 
@@ -132,7 +132,7 @@ PADPATH =  .
 ------ Summary Statistics ------
 
 
-netrev run on Dec 29 22:11:54 2022
+netrev run on Jan 1 12:43:23 2023
    DESIGN NAME : 'AIRQUALITYBLUETOOTHSENSOR'
    PACKAGING ON May 24 2022 13:22:03
 
@@ -157,6 +157,6 @@ netrev run on Dec 29 22:11:54 2022
  No oversight detected
   1 warnings detected
 
-cpu time      0:00:49
-elapsed time  0:00:01
+cpu time      0:00:39
+elapsed time  0:00:00
 

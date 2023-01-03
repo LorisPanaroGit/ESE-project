@@ -1,24 +1,97 @@
-\t (00:00:00) allegro 17.2 S083 Windows SPB 64-bit Edition
-\t (00:00:00)     Journal start - Thu Dec 29 22:06:35 2022
-\t (00:00:00)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=9640 CPUs=12
-\t (00:00:00) CmdLine= D:\Cadence\tools\bin\allegro.exe
-\t (00:00:00) 
-   (00:00:00) Loading axlcore.cxt 
-\t (00:00:03) Opening existing design...
-\i (00:00:03) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged LIR_new
-\d (00:00:03) Design opened: D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/LIR_new.dra
-\i (00:00:03) trapsize 2134
-\i (00:00:03) trapsize 2188
-\i (00:00:04) trapsize 2134
-\i (00:00:04) trapsize 2193
-\i (00:00:04) trapsize 2193
-\i (00:00:04) generaledit 
-\i (00:00:06) open 
-\i (00:00:16) fillin "D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/Schematic_FinalProject/allegro/AIRQUALITYBLUETOOTHSENSOR.brd"
-\i (00:00:16) cd "D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/Schematic_FinalProject/allegro"
-\t (00:00:16) Opening existing design...
-\i (00:00:17) trapsize 4318
-\i (00:00:17) trapsize 4448
-\i (00:00:17) trapsize 4318
-\i (00:00:17) trapsize 4318
-\t (00:00:17)     Journal end - Thu Dec 29 22:06:51 2022
+\t (00:51:29) allegro 17.2 S083 Windows SPB 64-bit Edition
+\t (00:51:29)     Journal start - Tue Jan 03 15:22:15 2023
+\t (00:51:29)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=14164 CPUs=12
+\t (00:51:29) CmdLine= D:\Cadence\tools\bin\allegro.exe
+\t (00:51:29) 
+\d (00:51:29) Design opened: D:/Cadence/cdssetup/ORCAD_CAPTURE/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/LPS.dra
+\i (00:51:30) trapsize 419
+\i (00:51:30) generaledit 
+\i (00:51:33) open 
+\i (00:51:40) fillin "MS12.dra"
+\t (00:51:40) Opening existing design...
+\i (00:51:40) trapsize 512
+\i (00:51:40) trapsize 525
+\i (00:51:40) trapsize 512
+\t (00:51:40) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
+\i (00:51:40) trapsize 512
+\d (00:51:40) Design opened: D:/Cadence/cdssetup/ORCAD_CAPTURE/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/MS12.dra
+\i (00:51:41) generaledit 
+\i (00:51:45) text edit 
+\i (00:51:45) zoom in 1 
+\i (00:51:45) setwindow pcb
+\i (00:51:45) zoom in -2.9474 -1.1754
+\i (00:51:45) trapsize 256
+\i (00:51:46) zoom in 1 
+\i (00:51:46) setwindow pcb
+\i (00:51:46) zoom in -2.9474 0.9123
+\i (00:51:46) trapsize 128
+\i (00:51:46) zoom out 1 
+\i (00:51:46) setwindow pcb
+\i (00:51:46) zoom out -2.4024 0.4621
+\i (00:51:46) trapsize 256
+\i (00:51:46) zoom out 1 
+\i (00:51:46) setwindow pcb
+\i (00:51:46) zoom out -2.4024 0.0117
+\i (00:51:46) trapsize 512
+\i (00:51:47) zoom in 1 
+\i (00:51:47) setwindow pcb
+\i (00:51:47) zoom in -3.0497 -0.2339
+\i (00:51:47) trapsize 256
+\i (00:51:48) pick grid -2.5124 -0.9452
+\t (00:51:48) last pick:  -2.5000 -0.9500
+\i (00:51:50) setwindow pcb
+\i (00:51:50) zoom out 1 
+\i (00:51:50) setwindow pcb
+\i (00:51:50) zoom out -2.3026 -0.6279
+\i (00:51:50) trapsize 512
+\i (00:51:50) zoom out 1 
+\i (00:51:50) setwindow pcb
+\i (00:51:50) zoom out -1.3509 -4.2763
+\i (00:51:50) trapsize 512
+\i (00:51:51) pick grid 2.5482 -1.0526
+\t (00:51:51) last pick:  2.5500 -1.0500
+\i (00:51:51) setwindow pcb
+\i (00:51:51) pick -2.5124 -0.9452
+\t (00:51:51) Pick text to edit.
+\i (00:51:55) setwindow pcb
+\i (00:51:55) pick grid -5.5365 -2.5672
+\t (00:51:55) last pick:  -5.5500 -2.5500
+\i (00:51:55) setwindow pcb
+\i (00:51:55) pick 2.5482 -1.0526
+\t (00:51:55) Pick text to edit.
+\e (00:51:55) ERROR(SPMHA1-441): Text not found.
+\i (00:52:00) setwindow pcb
+\i (00:52:00) dbdoctor 
+\i (00:52:01) setwindow form.dbdoctor_allegro
+\i (00:52:01) FORM dbdoctor_allegro drc YES 
+\i (00:52:01) FORM dbdoctor_allegro shapes YES 
+\i (00:52:02) FORM dbdoctor_allegro execute  
+\t (00:52:02) Dbdoctor in progress - wait...
+\t (00:52:02) Checking db records
+\t (00:52:02)     checking for orphans...
+\t (00:52:02)     Checked 100 percent
+\t (00:52:02) Regenerating DRC
+\t (00:52:02)   Original DRC errors: 0
+\t (00:52:02) Performing DRC...
+\t (00:52:02) No DRC errors detected.
+\t (00:52:02)   Updated DRC errors:  0
+\t (00:52:02) Done dbdoctor.
+\t (00:52:02) Dbdoctor completed.
+\i (00:52:07) FORM dbdoctor_allegro close  
+\i (00:52:07) setwindow pcb
+\i (00:52:07) generaledit 
+\i (00:52:09) save 
+\i (00:52:11) fillin yes 
+   (00:52:11) Loading signal.cxt 
+\t (00:52:13) Symbol 'ms12.psm' created.
+\i (00:52:13) generaledit 
+\i (00:52:16) open 
+\i (00:52:26) fillin "D:/Cadence/cdssetup/ORCAD_CAPTURE/17.2.0/Schematic_FinalProject/allegro/AIRQUALITYBLUETOOTHSENSOR.brd"
+\i (00:52:26) cd "D:/Cadence/cdssetup/ORCAD_CAPTURE/17.2.0/Schematic_FinalProject/allegro"
+\t (00:52:26) Opening existing design...
+\i (00:52:26) trapsize 1064
+\i (00:52:26) trapsize 1092
+\i (00:52:26) trapsize 1064
+\t (00:52:27) Grids are drawn 1.6000, 1.6000 apart for enhanced viewing.
+\i (00:52:27) trapsize 1079
+\t (00:52:27)     Journal end - Tue Jan 03 15:23:12 2023

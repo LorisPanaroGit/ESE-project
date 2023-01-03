@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.2.0 d001Dec-29-2022 at 12:34:33}
+{ Using PSTWRITER 17.2.0 d001Dec-31-2022 at 12:13:15}
 primitive 'C_0603C_12PF';
   pin
     '1':
@@ -525,7 +525,7 @@ primitive 'SML-P11_SML_SML-P11';
     VALUE='SML-P11';
   end_body;
 end_primitive;
-primitive 'HU-2477N-1-LF_0_LIR_HU-2477N-1-';
+primitive 'HU-2477N-1-LF_0_LIR_NEW_HU-2477';
   pin
     'VDD':
       PIN_NUMBER='(1)';
@@ -536,7 +536,7 @@ primitive 'HU-2477N-1-LF_0_LIR_HU-2477N-1-';
   end_pin;
   body
     PART_NAME='HU-2477N-1-LF_0';
-    JEDEC_TYPE='LIR';
+    JEDEC_TYPE='LIR_new';
     VALUE='HU-2477N-1-LF';
   end_body;
 end_primitive;

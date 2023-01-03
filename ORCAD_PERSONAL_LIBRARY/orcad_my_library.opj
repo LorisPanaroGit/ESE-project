@@ -21,27 +21,11 @@
       (Path "Design Resources")
       (Path "Design Resources" ".\orcad_my_library.olb")
       (Path "Outputs")
-      (Select "Design Resources" ".\orcad_my_library.olb" "PMSA003I"))
+      (Select "Design Resources" ".\orcad_my_library.olb" "HU-2477N-1-LF"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 0 200 0 326"))
-      (Tab 0))
-    (Doc
-      (Type "COrPrmBrowserDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 1208 0 332"))
-      (Path
-         "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
-      (Package "LPS-1301_9314_24")
-      (PartType "1"))
-    (Doc
-      (Type "COrPrmBrowserDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 26 1234 26 358"))
-      (Path
-         "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
-      (Package "PMSA003I")
-      (PartType "1")))
+      (Tab 0)))
   (MPSSessionName "loris"))

@@ -4,17 +4,17 @@
 (                                                                     )
 (    Drawing          : AIRQUALITYBLUETOOTHSENSOR.brd                 )
 (    Software Version : 17.2S083                                      )
-(    Date/Time        : Thu Dec 29 12:10:51 2022                      )
+(    Date/Time        : Tue Jan 03 15:23:29 2023                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Thu Dec 29 12:10:51 2022				Page     1
+Tue Jan 03 15:23:29 2023				Page     1
 
 
 ------ Pad Stack Refresh Options ------
 
-Input design  = 'D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/Schematic_FinalProject/allegro/AIRQUALITYBLUETOOTHSENSOR.brd'
+Input design  = 'D:/Cadence/cdssetup/ORCAD_CAPTURE/17.2.0/Schematic_FinalProject/allegro/AIRQUALITYBLUETOOTHSENSOR.brd'
 Output design = ''
 Reset symbol text and size locations   = 'NO'
 
@@ -41,88 +41,92 @@ PADPATH =  .
 
 ------ Pad Stack Refresh Messages ------
 
-'VIA_D025'  pad stack refresh starting.
+'SMD_RECT_W26_H35'  pad stack refresh starting.
 
-     'VIA_D025'  pad stack refreshed successfully.
+     'SMD_RECT_W26_H35'  pad stack refreshed successfully.
      
-'VIA'  pad stack refresh starting.
+'SMD_RECT_W075_H09'  pad stack refresh starting.
 
-     'VIA'  pad stack refreshed successfully.
-     
-'TH_CIRCLE_D08'  pad stack refresh starting.
-
-     'TH_CIRCLE_D08'  pad stack refreshed successfully.
-     
-'SMD_RECT_W10_H18'  pad stack refresh starting.
-
-     'SMD_RECT_W10_H18'  pad stack refreshed successfully.
-     
-'SMD_RECT_W10_H09'  pad stack refresh starting.
-
-     'SMD_RECT_W10_H09'  pad stack refreshed successfully.
-     
-'SMD_SQUARE_L05'  pad stack refresh starting.
-
-     'SMD_SQUARE_L05'  pad stack refreshed successfully.
-     
-'SMD_RECT_W09_H05'  pad stack refresh starting.
-
-     'SMD_RECT_W09_H05'  pad stack refreshed successfully.
-     
-'TH_CIRCLE_D09'  pad stack refresh starting.
-
-     'TH_CIRCLE_D09'  pad stack refreshed successfully.
-     
-'SMD_RECT_W03_H115'  pad stack refresh starting.
-
-     'SMD_RECT_W03_H115'  pad stack refreshed successfully.
-     
-'SMD_RECT_W06_H115'  pad stack refresh starting.
-
-     'SMD_RECT_W06_H115'  pad stack refreshed successfully.
-     
-'TH_CIRCLE_D065'  pad stack refresh starting.
-
-     'TH_CIRCLE_D065'  pad stack refreshed successfully.
-     
-'SMD_RECT_W218_H200'  pad stack refresh starting.
-
-     'SMD_RECT_W218_H200'  pad stack refreshed successfully.
-     
-'SMD_ROUNDRECT_W067_H03'  pad stack refresh starting.
-
-     'SMD_ROUNDRECT_W067_H03'  pad stack refreshed successfully.
-     
-'SMD_RECT_W06_H11'  pad stack refresh starting.
-
-     'SMD_RECT_W06_H11'  pad stack refreshed successfully.
-     
-'TH_CIRCLE_D11'  pad stack refresh starting.
-
-     'TH_CIRCLE_D11'  pad stack refreshed successfully.
-     
-'SMD_RECT_W05_H06'  pad stack refresh starting.
-
-     'SMD_RECT_W05_H06'  pad stack refreshed successfully.
-     
-'SMD_RECT_W074_H279'  pad stack refresh starting.
-
-     'SMD_RECT_W074_H279'  pad stack refreshed successfully.
-     
-'SMD_ROUNDRECT_W06_H025_R005'  pad stack refresh starting.
-
-     'SMD_ROUNDRECT_W06_H025_R005'  pad stack refreshed successfully.
-     
-'SMD_ROUNDRECT_H28'  pad stack refresh starting.
-
-     'SMD_ROUNDRECT_H28'  pad stack refreshed successfully.
+     'SMD_RECT_W075_H09'  pad stack refreshed successfully.
      
 'SMD_RECT_W098_H34'  pad stack refresh starting.
 
      'SMD_RECT_W098_H34'  pad stack refreshed successfully.
      
-'SMD_RECT_W075_H09'  pad stack refresh starting.
+'SMD_ROUNDRECT_H28'  pad stack refresh starting.
 
-     'SMD_RECT_W075_H09'  pad stack refreshed successfully.
+     'SMD_ROUNDRECT_H28'  pad stack refreshed successfully.
+     
+'SMD_ROUNDRECT_W06_H025_R005'  pad stack refresh starting.
+
+     'SMD_ROUNDRECT_W06_H025_R005'  pad stack refreshed successfully.
+     
+'SMD_RECT_W074_H279'  pad stack refresh starting.
+
+     'SMD_RECT_W074_H279'  pad stack refreshed successfully.
+     
+'SMD_RECT_W05_H06'  pad stack refresh starting.
+
+     'SMD_RECT_W05_H06'  pad stack refreshed successfully.
+     
+'TH_CIRCLE_D11'  pad stack refresh starting.
+
+     'TH_CIRCLE_D11'  pad stack refreshed successfully.
+     
+'SMD_RECT_W06_H11'  pad stack refresh starting.
+
+     'SMD_RECT_W06_H11'  pad stack refreshed successfully.
+     
+'SMD_ROUNDRECT_W067_H03'  pad stack refresh starting.
+
+     'SMD_ROUNDRECT_W067_H03'  pad stack refreshed successfully.
+     
+'SMD_RECT_W218_H200'  pad stack refresh starting.
+
+     'SMD_RECT_W218_H200'  pad stack refreshed successfully.
+     
+'TH_CIRCLE_D065'  pad stack refresh starting.
+
+     'TH_CIRCLE_D065'  pad stack refreshed successfully.
+     
+'SMD_RECT_W06_H115'  pad stack refresh starting.
+
+     'SMD_RECT_W06_H115'  pad stack refreshed successfully.
+     
+'SMD_RECT_W03_H115'  pad stack refresh starting.
+
+     'SMD_RECT_W03_H115'  pad stack refreshed successfully.
+     
+'TH_CIRCLE_D09'  pad stack refresh starting.
+
+     'TH_CIRCLE_D09'  pad stack refreshed successfully.
+     
+'SMD_RECT_W09_H05'  pad stack refresh starting.
+
+     'SMD_RECT_W09_H05'  pad stack refreshed successfully.
+     
+'SMD_SQUARE_L05'  pad stack refresh starting.
+
+     'SMD_SQUARE_L05'  pad stack refreshed successfully.
+     
+'SMD_RECT_W10_H09'  pad stack refresh starting.
+
+     'SMD_RECT_W10_H09'  pad stack refreshed successfully.
+     
+'SMD_RECT_W10_H18'  pad stack refresh starting.
+
+     'SMD_RECT_W10_H18'  pad stack refreshed successfully.
+     
+'TH_CIRCLE_D08'  pad stack refresh starting.
+
+     'TH_CIRCLE_D08'  pad stack refreshed successfully.
+     
+'VIA'  pad stack refresh starting.
+
+     'VIA'  pad stack refreshed successfully.
+     
+'VIA_D025'  pad stack refresh starting.
+
+     'VIA_D025'  pad stack refreshed successfully.
      
 Completed refreshing all pad stacks successfully.
