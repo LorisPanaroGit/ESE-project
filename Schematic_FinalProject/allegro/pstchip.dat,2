@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.2.0 d001Dec-31-2022 at 12:02:22}
+{ Using PSTWRITER 17.2.0 d001Jan-06-2023 at 11:11:24}
 primitive 'C_0603C_12PF';
   pin
     '1':
@@ -525,7 +525,7 @@ primitive 'SML-P11_SML_SML-P11';
     VALUE='SML-P11';
   end_body;
 end_primitive;
-primitive 'HU-2477N-1-LF_0_LIR_HU-2477N-1-';
+primitive 'HU-2477N-1-LF_0_LIR_NEW_HU-2477';
   pin
     'VDD':
       PIN_NUMBER='(1)';
@@ -536,7 +536,7 @@ primitive 'HU-2477N-1-LF_0_LIR_HU-2477N-1-';
   end_pin;
   body
     PART_NAME='HU-2477N-1-LF_0';
-    JEDEC_TYPE='LIR';
+    JEDEC_TYPE='LIR_new';
     VALUE='HU-2477N-1-LF';
   end_body;
 end_primitive;
@@ -599,76 +599,76 @@ primitive 'TPS61033_1_TPS_TPS61033';
     VALUE='TPS61033';
   end_body;
 end_primitive;
-primitive 'USB4110-GF-A_USB_USB4110-GF-A';
+primitive 'USB4110-GF-A_USB4110-GF-A_SMD_U';
   pin
-    'GND#A1':
-      PIN_NUMBER='(A1)';
+    'GND1':
+      PIN_NUMBER='(1)';
       PINUSE='POWER';
-    'VBUS#A4':
-      PIN_NUMBER='(A4)';
+    'VBUS#2':
+      PIN_NUMBER='(2)';
       PINUSE='POWER';
+    'VBUS#11':
+      PIN_NUMBER='(11)';
+      PINUSE='POWER';
+    'GND2':
+      PIN_NUMBER='(12)';
+      PINUSE='POWER';
+    'SBU2':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
     'CC1':
-      PIN_NUMBER='(A5)';
+      PIN_NUMBER='(4)';
       INPUT_LOAD='(*)';
       OUTPUT_LOAD='(*)';
       BIDIRECTIONAL='TRUE';
-    'DP1':
-      PIN_NUMBER='(A6)';
-      INPUT_LOAD='(*)';
-      OUTPUT_LOAD='(*)';
-      BIDIRECTIONAL='TRUE';
-    'DN1':
-      PIN_NUMBER='(A7)';
-      INPUT_LOAD='(*)';
-      OUTPUT_LOAD='(*)';
-      BIDIRECTIONAL='TRUE';
-    'SBU1':
-      PIN_NUMBER='(A8)';
-      INPUT_LOAD='(*)';
-      OUTPUT_LOAD='(*)';
-      BIDIRECTIONAL='TRUE';
-    'VBUS#A9':
-      PIN_NUMBER='(A9)';
-      PINUSE='POWER';
-    'GND#B1':
-      PIN_NUMBER='(B1)';
-      PINUSE='POWER';
-    'GND#A12':
-      PIN_NUMBER='(A12)';
-      PINUSE='POWER';
-    'VBUS#B4':
-      PIN_NUMBER='(B4)';
-      PINUSE='POWER';
     'CC2':
-      PIN_NUMBER='(B5)';
-      INPUT_LOAD='(*)';
-      OUTPUT_LOAD='(*)';
-      BIDIRECTIONAL='TRUE';
-    'DP2':
-      PIN_NUMBER='(B6)';
+      PIN_NUMBER='(10)';
       INPUT_LOAD='(*)';
       OUTPUT_LOAD='(*)';
       BIDIRECTIONAL='TRUE';
     'DN2':
-      PIN_NUMBER='(B7)';
+      PIN_NUMBER='(5)';
       INPUT_LOAD='(*)';
       OUTPUT_LOAD='(*)';
       BIDIRECTIONAL='TRUE';
-    'SBU2':
-      PIN_NUMBER='(B8)';
+    'DP1':
+      PIN_NUMBER='(6)';
       INPUT_LOAD='(*)';
       OUTPUT_LOAD='(*)';
       BIDIRECTIONAL='TRUE';
-    'VBUS#B9':
-      PIN_NUMBER='(B9)';
+    'DN1':
+      PIN_NUMBER='(7)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'DP2':
+      PIN_NUMBER='(8)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'SBU1':
+      PIN_NUMBER='(9)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'SH1':
+      PIN_NUMBER='(13)';
       PINUSE='POWER';
-    'GND#B12':
-      PIN_NUMBER='(B12)';
+    'SH2':
+      PIN_NUMBER='(14)';
+      PINUSE='POWER';
+    'SH3':
+      PIN_NUMBER='(15)';
+      PINUSE='POWER';
+    'SH4':
+      PIN_NUMBER='(16)';
       PINUSE='POWER';
   end_pin;
   body
     PART_NAME='USB4110-GF-A';
-    JEDEC_TYPE='USB';
+    JEDEC_TYPE='USB4110-GF-A_smd';
     VALUE='USB4110-GF-A';
   end_body;
 end_primitive;

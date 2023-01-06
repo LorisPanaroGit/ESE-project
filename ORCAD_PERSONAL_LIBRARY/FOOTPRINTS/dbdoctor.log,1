@@ -2,17 +2,17 @@
 (                                                                     )
 (    DBDOCTOR                                                         )
 (                                                                     )
-(    Drawing          : XGL4020.dra                                   )
+(    Drawing          : USB.dra                                       )
 (    Software Version : 17.2S083                                      )
-(    Date/Time        : Tue Dec 27 18:18:50 2022                      )
+(    Date/Time        : Thu Jan 05 19:34:27 2023                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 
 Regenerating DRC
-  Original DRC errors:   0
-  Updated DRC errors:    0
+  Original DRC errors:   1
+  Updated DRC errors:    1
   DRC elapsed time:      00:00:00
 
 0 warnings, 0 errors detected, 0 errors  fixed.

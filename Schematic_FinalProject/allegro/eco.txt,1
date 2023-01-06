@@ -3,41 +3,64 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  D:.../17.2.0/Schematic_FinalProject/allegro/AIRQUALITYBLUETOOTHSENSOR.brd   |
-|                                                    Sat Dec 31 12:13:16 2022  |
+|                                                    Fri Jan 06 11:11:25 2023  |
 |------------------------------------------------------------------------------|
-| COMPONENT DEFINITION added to design                                         |
+| NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    device type                                                               |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- HU-2477N-1-LF_0_LIR_NEW_HU-2477
+  GND_A        pins ADDED TO this existing net (pins not previously on any net)
+                                 U16.1                          
+                                 U16.12                         
+                                 U16.13                         
+                                 U16.14                         
+                                 U16.15                         
+                                 U16.16                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VUSB         pins ADDED TO this existing net (pins not previously on any net)
+                                 U16.2                          
+                                 U16.11                         
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   2  |
 |------------------------------------------------------------------------------|
 |  D:.../17.2.0/Schematic_FinalProject/allegro/AIRQUALITYBLUETOOTHSENSOR.brd   |
-|                                                    Sat Dec 31 12:13:16 2022  |
+|                                                    Fri Jan 06 11:11:25 2023  |
 |------------------------------------------------------------------------------|
-| COMPONENTS CHANGED from one device type to another in design                 |
+| COMPONENT DEFINITION added to design                                         |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|    device type                                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- U12                 HU-2477N-1-LF_0_LIR_NEW_HU-2477                 HU-2477N-1-LF_0_LIR_HU-2477N-1-
+ USB4110-GF-A_USB4110-GF-A_SMD_U
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   3  |
 |------------------------------------------------------------------------------|
 |  D:.../17.2.0/Schematic_FinalProject/allegro/AIRQUALITYBLUETOOTHSENSOR.brd   |
-|                                                    Sat Dec 31 12:13:16 2022  |
+|                                                    Fri Jan 06 11:11:25 2023  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in design                 |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ U16                 USB4110-GF-A_USB4110-GF-A_SMD_U                 USB4110-GF-A_USB_USB4110-GF-A
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  D:.../17.2.0/Schematic_FinalProject/allegro/AIRQUALITYBLUETOOTHSENSOR.brd   |
+|                                                    Fri Jan 06 11:11:25 2023  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- U12.1                          PRIM_FILE      .\pstchip.dat
+ U16.2                          PRIM_FILE      .\pstchip.dat
 |------------------------------------------------------------------------------|
+|       Nets changed          :       8                                        |
 |       Comp definitions added:       1                                        |
 |       Components changed    :       1                                        |
 |       Slot property added   :       1                                        |
 |                                                                              |
-|   Total ECO changes reported:       3                                        |
+|   Total ECO changes reported:      11                                        |
 |------------------------------------------------------------------------------|

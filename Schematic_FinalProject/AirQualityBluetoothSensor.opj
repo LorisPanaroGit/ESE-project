@@ -121,7 +121,8 @@
     (FLDSTUFF_Uppercase_Unconditionally "FALSE")
     (FLDSTUFF_Visibility "0")
     (FLDSTUFF_inst_or_occurrence "1")
-    (FLDSTUFF_Create_Report_File "FALSE"))
+    (FLDSTUFF_Create_Report_File "FALSE")
+    (Board_sim_option "VHDL_flow"))
   (Folder "Outputs"
     (File ".\airqualitybluetoothsensor.xrf"
       (Type "Report"))
@@ -149,6 +150,11 @@
   (DefaultLibraryBrowseDirectory "library\PSpice")
   (MPSSessionName "loris")
   (PartMRUSelector
+    (USB4110-GF-A
+      (FullPartName "USB4110-GF-A.Normal")
+      (LibraryName
+         "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
+      (DeviceIndex "0"))
     (LPS-1301_9314_24
       (FullPartName "LPS-1301_9314_24.Normal")
       (LibraryName
@@ -188,11 +194,6 @@
          "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
       (DeviceIndex "0"))
     (OFF_PAGE_CONN
-      (LibraryName
-         "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
-      (DeviceIndex "0"))
-    (USB4110-GF-A
-      (FullPartName "USB4110-GF-A.Normal")
       (LibraryName
          "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\ORCAD_PERSONAL_LIBRARY\ORCAD_MY_LIBRARY.OLB")
       (DeviceIndex "0"))
@@ -254,13 +255,16 @@
       (Path "Design Resources"
          "d:\cadence\cdssetup\orcad_capture\17.2.0\schematic_finalproject\airqualitybluetoothsensor.dsn"
          "SCHEMATIC1")
+      (Path "Design Resources"
+         "d:\cadence\cdssetup\orcad_capture\17.2.0\schematic_finalproject\airqualitybluetoothsensor.dsn"
+         "Design Cache")
       (Path "Design Resources" "Library")
       (Path "Design Resources" "Library"
          "d:\cadence\cdssetup\orcad_capture\17.2.0\orcad_personal_library\orcad_my_library.olb")
       (Path "Outputs")
       (Select "Design Resources"
          "d:\cadence\cdssetup\orcad_capture\17.2.0\schematic_finalproject\airqualitybluetoothsensor.dsn"
-         "SCHEMATIC1" "Peripheral"))
+         "SCHEMATIC1" "MCU"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -271,8 +275,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 78 1260 78 443")
-        (Scroll "0 101")
-        (Zoom "140")
+        (Scroll "0 179")
+        (Zoom "174")
         (Occurrence "/"))
       (Path
          "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\SCHEMATIC_FINALPROJECT\AIRQUALITYBLUETOOTHSENSOR.DSN")
@@ -282,11 +286,22 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 104 1286 104 469")
-        (Scroll "16 112")
-        (Zoom "140")
+        (Scroll "226 0")
+        (Zoom "184")
         (Occurrence "/"))
       (Path
          "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\SCHEMATIC_FINALPROJECT\AIRQUALITYBLUETOOTHSENSOR.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "Peripheral")))
+      (Page "Peripheral"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1312 130 495")
+        (Scroll "-121 0")
+        (Zoom "92")
+        (Occurrence "/"))
+      (Path
+         "D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\SCHEMATIC_FINALPROJECT\AIRQUALITYBLUETOOTHSENSOR.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "MCU")))
   (ISPCBBASICLICENSE "false"))

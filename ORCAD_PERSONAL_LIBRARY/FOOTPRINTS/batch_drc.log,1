@@ -2,9 +2,9 @@
 (                                                                     )
 (    DRC Update                                                       )
 (                                                                     )
-(    Drawing          : XGL4020.dra                                   )
+(    Drawing          : USB.dra                                       )
 (    Software Version : 17.2S083                                      )
-(    Date/Time        : Tue Dec 27 18:18:51 2022                      )
+(    Date/Time        : Fri Jan 06 01:18:28 2023                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -20,7 +20,7 @@
  ========= check standalone text              0:00:00
  ========= check standalone rectangles        0:00:00
 
- ..... Total number of DRC errors  0
+ ..... Total number of DRC errors  2
 
  ..... DRC update completed, total CPU time   0:00:00
  *************************************************************************

@@ -1,47 +1,10 @@
-\t (00:07:13) allegro 17.2 S083 Windows SPB 64-bit Edition
-\t (00:07:13)     Journal start - Thu Jan 05 17:37:31 2023
-\t (00:07:13)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=7988 CPUs=12
-\t (00:07:13) CmdLine= D:\Cadence\tools\bin\allegro.exe
-\t (00:07:13) 
-\d (00:07:13) Design opened: D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/0603C.dra
-\i (00:07:13) trapsize 252
-\i (00:07:14) generaledit 
-\i (00:07:16) show measure 
-\i (00:07:17) zoom in 1 
-\i (00:07:17) setwindow pcb
-\i (00:07:17) zoom in -0.7097 -0.6946
-\i (00:07:17) trapsize 126
-\i (00:07:19) pick grid -0.7600 -0.5964
-\t (00:07:19) last pick:  -0.7500 -0.6000
-\i (00:07:22) pick grid 0.7426 -0.6040
-\t (00:07:22) last pick:  0.7500 -0.6000
-\i (00:07:42) done 
-\i (00:07:42) setwindow text
-\i (00:07:42) close
-\i (00:07:42) generaledit 
-\i (00:07:43) zoom out 1 
-\i (00:07:43) setwindow pcb
-\i (00:07:43) zoom out -0.3799 -0.2214
-\i (00:07:43) trapsize 252
-\i (00:07:43) zoom out 1 
-\i (00:07:43) setwindow pcb
-\i (00:07:43) zoom out -0.0503 0.2517
-\i (00:07:43) trapsize 252
-\i (00:07:43) zoom out 1 
-\i (00:07:43) setwindow pcb
-\i (00:07:43) zoom out -0.0503 0.2517
-\i (00:07:43) trapsize 252
-\i (00:07:45) zoom out 1 
-\i (00:07:45) setwindow pcb
-\i (00:07:45) zoom out 0.3775 -0.2114
-\i (00:07:45) trapsize 252
-\i (00:07:45) zoom out 1 
-\i (00:07:45) setwindow pcb
-\i (00:07:45) zoom out 0.3775 -0.2114
-\i (00:07:45) trapsize 252
-\i (00:07:45) zoom out 1 
-\i (00:07:45) setwindow pcb
-\i (00:07:45) zoom out 0.3775 -0.2114
-\i (00:07:45) trapsize 252
-\i (00:07:59) exit 
-\t (00:07:59)     Journal end - Thu Jan 05 17:38:17 2023
+\t (00:00:21) allegro 17.2 S083 Windows SPB 64-bit Edition
+\t (00:00:21)     Journal start - Fri Jan 06 14:46:15 2023
+\t (00:00:21)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=3120 CPUs=12
+\t (00:00:21) CmdLine= D:\Cadence\tools\bin\allegro.exe
+\t (00:00:21) 
+\d (00:00:21) Design opened: D:/Cadence/cdssetup/ORCAD_CAPTURE/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/MCU.dra
+\i (00:00:21) trapsize 336
+\i (00:00:21) generaledit 
+\i (00:03:18) exit 
+\t (00:03:18)     Journal end - Fri Jan 06 14:49:12 2023

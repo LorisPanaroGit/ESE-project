@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : AIRQUALITYBLUETOOTHSENSOR.brd                 )
 (    Software Version : 17.2S083                                      )
-(    Date/Time        : Sun Jan 01 12:43:23 2023                      )
+(    Date/Time        : Fri Jan 06 11:13:25 2023                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -27,7 +27,7 @@ CmdLine: netrev.exe -y 1 -i D:\CADENCE\CDSSETUP\ORCAD_CAPTURE\17.2.0\SCHEMATIC_F
 ------ Preparing to read pst files ------
 
 Starting to read D:/CADENCE/CDSSETUP/ORCAD_CAPTURE/17.2.0/SCHEMATIC_FINALPROJECT/allegro/pstchip.dat 
-   Finished reading D:/CADENCE/CDSSETUP/ORCAD_CAPTURE/17.2.0/SCHEMATIC_FINALPROJECT/allegro/pstchip.dat (00:00:00.07)
+   Finished reading D:/CADENCE/CDSSETUP/ORCAD_CAPTURE/17.2.0/SCHEMATIC_FINALPROJECT/allegro/pstchip.dat (00:00:00.04)
 Starting to read D:/CADENCE/CDSSETUP/ORCAD_CAPTURE/17.2.0/SCHEMATIC_FINALPROJECT/allegro/pstxprt.dat 
    Finished reading D:/CADENCE/CDSSETUP/ORCAD_CAPTURE/17.2.0/SCHEMATIC_FINALPROJECT/allegro/pstxprt.dat (00:00:00.00)
 Starting to read D:/CADENCE/CDSSETUP/ORCAD_CAPTURE/17.2.0/SCHEMATIC_FINALPROJECT/allegro/pstxnet.dat 
@@ -35,76 +35,6 @@ Starting to read D:/CADENCE/CDSSETUP/ORCAD_CAPTURE/17.2.0/SCHEMATIC_FINALPROJECT
 
 ------ Oversights/Warnings/Errors ------
 
-
-#1   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-ERROR(SPMHNI-196): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' has extra pin '1'.
-
-ERROR(SPMHNI-196): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' has extra pin '2'.
-
-ERROR(SPMHNI-196): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' has extra pin '3'.
-
-ERROR(SPMHNI-196): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' has extra pin '4'.
-
-ERROR(SPMHNI-196): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' has extra pin '5'.
-
-ERROR(SPMHNI-196): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' has extra pin '6'.
-
-ERROR(SPMHNI-196): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' has extra pin '7'.
-
-ERROR(SPMHNI-196): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' has extra pin '8'.
-
-ERROR(SPMHNI-196): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' has extra pin '9'.
-
-ERROR(SPMHNI-196): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' has extra pin '10'.
-
-ERROR(SPMHNI-196): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' has extra pin '11'.
-
-ERROR(SPMHNI-196): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' has extra pin '12'.
-
-ERROR(SPMHNI-196): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' has extra pin '13'.
-
-ERROR(SPMHNI-196): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' has extra pin '14'.
-
-ERROR(SPMHNI-196): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' has extra pin '15'.
-
-ERROR(SPMHNI-196): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' has extra pin '16'.
-
-ERROR(SPMHNI-196): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' has extra pin '17'.
-
-ERROR(SPMHNI-196): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' has extra pin '18'.
-
-ERROR(SPMHNI-195): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' is missing pin 'A5'.
-
-ERROR(SPMHNI-195): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' is missing pin 'B5'.
-
-ERROR(SPMHNI-195): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' is missing pin 'A7'.
-
-ERROR(SPMHNI-195): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' is missing pin 'B7'.
-
-ERROR(SPMHNI-195): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' is missing pin 'A6'.
-
-ERROR(SPMHNI-195): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' is missing pin 'B6'.
-
-ERROR(SPMHNI-195): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' is missing pin 'A1'.
-
-ERROR(SPMHNI-195): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' is missing pin 'A12'.
-
-ERROR(SPMHNI-195): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' is missing pin 'B1'.
-
-ERROR(SPMHNI-195): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' is missing pin 'B12'.
-
-ERROR(SPMHNI-195): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' is missing pin 'A8'.
-
-ERROR(SPMHNI-195): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' is missing pin 'B8'.
-
-ERROR(SPMHNI-195): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' is missing pin 'A4'.
-
-ERROR(SPMHNI-195): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' is missing pin 'A9'.
-
-ERROR(SPMHNI-195): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' is missing pin 'B4'.
-
-ERROR(SPMHNI-195): Symbol 'USB' for device 'USB4110-GF-A_USB_USB4110-GF-A' is missing pin 'B9'.
 
 ------ Library Paths ------
 MODULEPATH =  . 
@@ -132,7 +62,7 @@ PADPATH =  .
 ------ Summary Statistics ------
 
 
-netrev run on Jan 1 12:43:23 2023
+netrev run on Jan 6 11:13:25 2023
    DESIGN NAME : 'AIRQUALITYBLUETOOTHSENSOR'
    PACKAGING ON May 24 2022 13:22:03
 
@@ -155,8 +85,8 @@ netrev run on Jan 1 12:43:23 2023
 
  No error detected
  No oversight detected
-  1 warnings detected
+ No warning detected
 
-cpu time      0:00:39
+cpu time      0:00:31
 elapsed time  0:00:00
 
