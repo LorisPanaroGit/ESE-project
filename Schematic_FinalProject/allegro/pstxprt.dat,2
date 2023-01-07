@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 17.2.0 d001Jan-06-2023 at 11:11:24 }
+{ Using PSTWRITER 17.2.0 d001Jan-07-2023 at 15:37:16 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='AIRQUALITYBLUETOOTHSENSOR';
@@ -398,7 +398,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- U11 'SML-P11_SML_SML-P11':;
+ U11 'SML-P11_SML_LED_POW':;
 
 SECTION_NUMBER 1
  '@AIRQUALITYBLUETOOTHSENSOR.SCHEMATIC1(SCH_1):INS16555@ORCAD_MY_LIBRARY.SML-P11.NORMAL(CHIPS)':
@@ -408,12 +408,12 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- U12 'HU-2477N-1-LF_0_LIR_NEW_HU-2477':;
+ U12 'SMTU2477N-LF_SLOT_HU-2477N-1-LF':;
 
 SECTION_NUMBER 1
- '@AIRQUALITYBLUETOOTHSENSOR.SCHEMATIC1(SCH_1):INS10328@AIRQUALITYBLUETOOTHSENSOR.HU-2477N-1-LF_0.NORMAL(CHIPS)':
- C_PATH='@airqualitybluetoothsensor.schematic1(sch_1):ins10328@airqualitybluetoothsensor.\hu-2477n-1-lf_0.normal\(chips)',
- P_PATH='@airqualitybluetoothsensor.schematic1(sch_1):page3_ins10328@airqualitybluetoothsensor.\hu-2477n-1-lf_0.normal\(chips)',
+ '@AIRQUALITYBLUETOOTHSENSOR.SCHEMATIC1(SCH_1):INS54025@ORCAD_MY_LIBRARY.SMTU2477N-LF.NORMAL(CHIPS)':
+ C_PATH='@airqualitybluetoothsensor.schematic1(sch_1):ins54025@orcad_my_library.\smtu2477n-lf.normal\(chips)',
+ P_PATH='@airqualitybluetoothsensor.schematic1(sch_1):page3_ins54025@orcad_my_library.\smtu2477n-lf.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -438,22 +438,22 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- U15 'SML-P11_SML_SML-P11':;
-
-SECTION_NUMBER 1
- '@AIRQUALITYBLUETOOTHSENSOR.SCHEMATIC1(SCH_1):INS34464@ORCAD_MY_LIBRARY.SML-P11.NORMAL(CHIPS)':
- C_PATH='@airqualitybluetoothsensor.schematic1(sch_1):ins34464@orcad_my_library.\sml-p11.normal\(chips)',
- P_PATH='@airqualitybluetoothsensor.schematic1(sch_1):page3_ins34464@orcad_my_library.\sml-p11.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- U16 'USB4110-GF-A_USB4110-GF-A_SMD_U':;
+ U15 'USB4110-GF-A_USB_USB4110-GF-A':;
 
 SECTION_NUMBER 1
  '@AIRQUALITYBLUETOOTHSENSOR.SCHEMATIC1(SCH_1):INS49177@ORCAD_MY_LIBRARY.USB4110-GF-A.NORMAL(CHIPS)':
  C_PATH='@airqualitybluetoothsensor.schematic1(sch_1):ins49177@orcad_my_library.\usb4110-gf-a.normal\(chips)',
  P_PATH='@airqualitybluetoothsensor.schematic1(sch_1):page3_ins49177@orcad_my_library.\usb4110-gf-a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U16 'SML-P11_SML_LED_STATUS':;
+
+SECTION_NUMBER 1
+ '@AIRQUALITYBLUETOOTHSENSOR.SCHEMATIC1(SCH_1):INS34464@ORCAD_MY_LIBRARY.SML-P11.NORMAL(CHIPS)':
+ C_PATH='@airqualitybluetoothsensor.schematic1(sch_1):ins34464@orcad_my_library.\sml-p11.normal\(chips)',
+ P_PATH='@airqualitybluetoothsensor.schematic1(sch_1):page3_ins34464@orcad_my_library.\sml-p11.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -508,7 +508,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- U6 'SML-P11_SML_SML-P11':;
+ U6 'SML-P11_SML_LED1':;
 
 SECTION_NUMBER 1
  '@AIRQUALITYBLUETOOTHSENSOR.SCHEMATIC1(SCH_1):INS4560@ORCAD_MY_LIBRARY.SML-P11.NORMAL(CHIPS)':
@@ -518,7 +518,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- U7 'SML-P11_SML_SML-P11':;
+ U7 'SML-P11_SML_LED2':;
 
 SECTION_NUMBER 1
  '@AIRQUALITYBLUETOOTHSENSOR.SCHEMATIC1(SCH_1):INS4576@ORCAD_MY_LIBRARY.SML-P11.NORMAL(CHIPS)':
@@ -528,7 +528,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- U8 'SML-P11_SML_SML-P11':;
+ U8 'SML-P11_SML_LED3':;
 
 SECTION_NUMBER 1
  '@AIRQUALITYBLUETOOTHSENSOR.SCHEMATIC1(SCH_1):INS4592@ORCAD_MY_LIBRARY.SML-P11.NORMAL(CHIPS)':

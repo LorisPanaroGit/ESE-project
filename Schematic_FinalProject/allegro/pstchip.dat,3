@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.2.0 d001Jan-06-2023 at 11:12:59}
+{ Using PSTWRITER 17.2.0 d001Jan-07-2023 at 15:44:44}
 primitive 'C_0603C_12PF';
   pin
     '1':
@@ -510,7 +510,7 @@ primitive 'FTSH-105-01-F-DV-K_JTAG_FTSH-10';
     VALUE='FTSH-105-01-F-DV-K';
   end_body;
 end_primitive;
-primitive 'SML-P11_SML_SML-P11';
+primitive 'SML-P11_SML_LED_POW';
   pin
     '\':
       PIN_NUMBER='(1)';
@@ -522,10 +522,10 @@ primitive 'SML-P11_SML_SML-P11';
   body
     PART_NAME='SML-P11';
     JEDEC_TYPE='SML';
-    VALUE='SML-P11';
+    VALUE='LED_pow';
   end_body;
 end_primitive;
-primitive 'HU-2477N-1-LF_0_LIR_NEW_HU-2477';
+primitive 'SMTU2477N-LF_LIR_NEW_SMTU2477N-';
   pin
     'VDD':
       PIN_NUMBER='(1)';
@@ -535,9 +535,9 @@ primitive 'HU-2477N-1-LF_0_LIR_NEW_HU-2477';
       PINUSE='POWER';
   end_pin;
   body
-    PART_NAME='HU-2477N-1-LF_0';
+    PART_NAME='SMTU2477N-LF';
     JEDEC_TYPE='LIR_new';
-    VALUE='HU-2477N-1-LF';
+    VALUE='SMTU2477N-LF';
   end_body;
 end_primitive;
 primitive 'MCP73831_0_MCP73831_MCP73831';
@@ -672,6 +672,21 @@ primitive 'USB4110-GF-A_USB_USB4110-GF-A';
     VALUE='USB4110-GF-A';
   end_body;
 end_primitive;
+primitive 'SML-P11_SML_LED_STATUS';
+  pin
+    '\':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '\\':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='SML-P11';
+    JEDEC_TYPE='SML';
+    VALUE='LED_status';
+  end_body;
+end_primitive;
 primitive 'M12_MS12_M12';
   pin
     'VBAT_IN':
@@ -792,6 +807,51 @@ primitive 'PMSA003I_PM2_5_PMSA003I';
     PART_NAME='PMSA003I';
     JEDEC_TYPE='PM2_5';
     VALUE='PMSA003I';
+  end_body;
+end_primitive;
+primitive 'SML-P11_SML_LED1';
+  pin
+    '\':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '\\':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='SML-P11';
+    JEDEC_TYPE='SML';
+    VALUE='LED1';
+  end_body;
+end_primitive;
+primitive 'SML-P11_SML_LED2';
+  pin
+    '\':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '\\':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='SML-P11';
+    JEDEC_TYPE='SML';
+    VALUE='LED2';
+  end_body;
+end_primitive;
+primitive 'SML-P11_SML_LED3';
+  pin
+    '\':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '\\':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='SML-P11';
+    JEDEC_TYPE='SML';
+    VALUE='LED3';
   end_body;
 end_primitive;
 primitive 'LPS-1301_9314_24_LPS_LPS-1301_9';

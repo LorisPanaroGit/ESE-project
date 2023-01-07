@@ -1,4 +1,4 @@
-HAQB_MCU  Revised: Friday, January 06, 2023
+HAQB_MCU  Revised: Saturday, January 07, 2023
 1          Revision: 1.0
 
 
@@ -7,7 +7,7 @@ HAQB_MCU  Revised: Friday, January 06, 2023
 
 
 
-Bill Of Materials        January 6,2023      11:10:49	Page1
+Bill Of Materials        January 7,2023      15:36:52	Page1
 
 Item	Quantity	Reference	Part
 ______________________________________________
@@ -38,11 +38,15 @@ ______________________________________________
 24	1	U3	MCSJK-7E-24.00-8-10-60-B-10
 25	1	U4	QTC332.76809B2R
 26	1	U5	PMSA003I
-27	5	U6,U7,U8,U11,U15	SML-P11
-28	1	U9	LPS-1301_9314_24
-29	1	U10	FTSH-105-01-F-DV-K
-30	1	U12	HU-2477N-1-LF
-31	1	U13	MCP73831
-32	1	U14	TPS61033
-33	1	U16	USB4110-GF-A
-34	1	U17	M12
+27	1	U6	LED1
+28	1	U7	LED2
+29	1	U8	LED3
+30	1	U9	LPS-1301_9314_24
+31	1	U10	FTSH-105-01-F-DV-K
+32	1	U11	LED_pow
+33	1	U12	SMTU2477N-LF
+34	1	U13	MCP73831
+35	1	U14	TPS61033
+36	1	U15	USB4110-GF-A
+37	1	U16	LED_status
+38	1	U17	M12

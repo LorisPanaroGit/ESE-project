@@ -1,0 +1,18 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Island Report                                              )
+(                                                                     )
+(    Drawing          : AIRQUALITYBLUETOOTHSENSOR.brd                 )
+(    Software Version : 17.2S083                                      )
+(    Date/Time        : Sat Jan 07 15:59:11 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total islands on design: 1
+
+
+  <<<  ETCH  >>>
+
+    Layer = TOP
+	Point on shape: (-17.2500 -1.6000)  Net: RF_FRONTEND

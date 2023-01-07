@@ -1,4 +1,4 @@
-{ Using PSTWRITER 17.2.0 d001Jan-06-2023 at 11:13:23 }
+{ Using PSTWRITER 17.2.0 d001Jan-07-2023 at 15:45:01 }
 
 #1 WARNING(ORCAP-36042): Pin "VSS" is renamed to "VSS#3" as visible power pin of same name already exists in Package CC2460F128RSM , U1: SCHEMATIC1, MCU (3.50, 0.40).
 #2 WARNING(ORCAP-36042): Pin "VSS" is renamed to "VSS#7" as visible power pin of same name already exists in Package CC2460F128RSM , U1: SCHEMATIC1, MCU (3.50, 0.40).
@@ -9,9 +9,9 @@
 #7 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#3" as visible power pin of same name already exists in Package FTSH-105-01-F-DV-K , U10: SCHEMATIC1, Peripheral (7.00, 4.40).
 #8 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#5" as visible power pin of same name already exists in Package FTSH-105-01-F-DV-K , U10: SCHEMATIC1, Peripheral (7.00, 4.40).
 #9 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#9" as visible power pin of same name already exists in Package FTSH-105-01-F-DV-K , U10: SCHEMATIC1, Peripheral (7.00, 4.40).
-#10 WARNING(ORCAP-36006): Part Name "HU-2477N-1-LF_0_LIR_NEW_HU-2477N-1-LF" is renamed to "HU-2477N-1-LF_0_LIR_NEW_HU-2477".
-#11 WARNING(ORCAP-36042): Pin "Vbus" is renamed to "VBUS#2" as visible power pin of same name already exists in Package USB4110-GF-A , U16: SCHEMATIC1, Power (2.30, 4.00).
-#12 WARNING(ORCAP-36042): Pin "Vbus" is renamed to "VBUS#11" as visible power pin of same name already exists in Package USB4110-GF-A , U16: SCHEMATIC1, Power (2.30, 4.00).
+#10 WARNING(ORCAP-36006): Part Name "SMTU2477N-LF_LIR_NEW_SMTU2477N-LF" is renamed to "SMTU2477N-LF_LIR_NEW_SMTU2477N-".
+#11 WARNING(ORCAP-36042): Pin "Vbus" is renamed to "VBUS#2" as visible power pin of same name already exists in Package USB4110-GF-A , U15: SCHEMATIC1, Power (1.90, 3.70).
+#12 WARNING(ORCAP-36042): Pin "Vbus" is renamed to "VBUS#11" as visible power pin of same name already exists in Package USB4110-GF-A , U15: SCHEMATIC1, Power (1.90, 3.70).
 #13 WARNING(ORCAP-36006): Part Name "MCSJK-7E-24.00-8-10-60-B-10_X24M_MCSJK-7E-24.00-8-10-60-B-10" is renamed to "MCSJK-7E-24.00-8-10-60-B-10_X24".
 #14 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#2" as visible power pin of same name already exists in Package MCSJK-7E-24.00-8-10-60-B-10 , U3: SCHEMATIC1, MCU (6.60, 4.40).
 #15 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#4" as visible power pin of same name already exists in Package MCSJK-7E-24.00-8-10-60-B-10 , U3: SCHEMATIC1, MCU (6.60, 4.40).
