@@ -1,10 +1,25 @@
-\t (00:00:21) allegro 17.2 S083 Windows SPB 64-bit Edition
-\t (00:00:21)     Journal start - Fri Jan 06 14:46:15 2023
-\t (00:00:21)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=3120 CPUs=12
-\t (00:00:21) CmdLine= D:\Cadence\tools\bin\allegro.exe
-\t (00:00:21) 
-\d (00:00:21) Design opened: D:/Cadence/cdssetup/ORCAD_CAPTURE/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/MCU.dra
-\i (00:00:21) trapsize 336
-\i (00:00:21) generaledit 
-\i (00:03:18) exit 
-\t (00:03:18)     Journal end - Fri Jan 06 14:49:12 2023
+\t (00:00:01) allegro 17.2 S083 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Mon Jan 09 12:14:34 2023
+\t (00:00:01)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=544 CPUs=12
+\t (00:00:01) CmdLine= D:\Cadence\tools\bin\allegro.exe
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\i (00:00:03) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged SML
+\d (00:00:03) Design opened: D:/Cadence/cdssetup/ORCAD_CAPTURE/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/SML.dra
+\i (00:00:04) trapsize 107
+\i (00:00:04) trapsize 109
+\i (00:00:04) trapsize 107
+\i (00:00:04) trapsize 110
+\i (00:00:04) trapsize 110
+\i (00:00:05) generaledit 
+\i (00:00:09) open 
+\i (00:00:18) fillin "D:/Cadence/cdssetup/ORCAD_CAPTURE/17.2.0/Schematic_FinalProject/allegro/AIRQUALITYBLUETOOTHSENSOR.brd"
+\i (00:00:18) cd "D:/Cadence/cdssetup/ORCAD_CAPTURE/17.2.0/Schematic_FinalProject/allegro"
+\t (00:00:18) Opening existing design...
+\i (00:00:18) trapsize 2128
+\i (00:00:18) trapsize 2184
+\i (00:00:18) trapsize 2128
+\t (00:00:18) Grids are drawn 3.2000, 3.2000 apart for enhanced viewing.
+\i (00:00:18) trapsize 2159
+\t (00:00:19)     Journal end - Mon Jan 09 12:14:52 2023

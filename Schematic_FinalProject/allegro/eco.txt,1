@@ -3,102 +3,41 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  D:.../17.2.0/Schematic_FinalProject/allegro/AIRQUALITYBLUETOOTHSENSOR.brd   |
-|                                                    Sat Jan 07 15:37:17 2023  |
-|------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  GND_A        pins MOVED FROM this net (to net name listed on right)
-                                 U15.2            6.8450  9.8500
-                                                                           VUSB
-                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-               pins ADDED TO this existing net (pins not previously on any net)
-                                 U15.12           6.8450 15.4500
-                                 U15.13           7.4200  7.1400
-                                 U15.14           7.4200 17.3600
-                                 U15.15          11.3500  7.1400
-                                 U15.16          11.3500 17.3600
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N106230      pins MOVED FROM this net (to net name listed on right)
-                                 R10.2           12.7500 14.8000
-                                                                           VBAT
-                                 U13.1            9.3000 13.4000
-                                                                           STAT
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  STAT         pins ADDED TO this new net
-                                 U16.2           -6.1500 20.3500
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  TO_LED4      pins MOVED FROM this net (to net name listed on right)
-                                 R10.1           12.7500 13.4000
-                                                                  TO_LED_STATUS
-                                 U15.1            6.8450  9.0500
-                                                                          GND_A
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  TO_LED_STATUS pins ADDED TO this new net
-                                 U16.1           -7.1500 20.3500
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  VUSB         pins ADDED TO this existing net (pins not previously on any net)
-                                 U15.11           6.8450 14.6500
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   2  |
-|------------------------------------------------------------------------------|
-|  D:.../17.2.0/Schematic_FinalProject/allegro/AIRQUALITYBLUETOOTHSENSOR.brd   |
-|                                                    Sat Jan 07 15:37:17 2023  |
+|                                                    Sat Jan 07 15:45:01 2023  |
 |------------------------------------------------------------------------------|
 | COMPONENT DEFINITION added to design                                         |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    device type                                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- SML-P11_SML_LED1
- SML-P11_SML_LED2
- SML-P11_SML_LED3
- SML-P11_SML_LED_POW
- SML-P11_SML_LED_STATUS
- SMTU2477N-LF_SLOT_HU-2477N-1-LF
- USB4110-GF-A_USB_USB4110-GF-A
+ SMTU2477N-LF_LIR_NEW_SMTU2477N-
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
-|                                                                    Page   3  |
+|                                                                    Page   2  |
 |------------------------------------------------------------------------------|
 |  D:.../17.2.0/Schematic_FinalProject/allegro/AIRQUALITYBLUETOOTHSENSOR.brd   |
-|                                                    Sat Jan 07 15:37:17 2023  |
+|                                                    Sat Jan 07 15:45:01 2023  |
 |------------------------------------------------------------------------------|
 | COMPONENTS CHANGED from one device type to another in design                 |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    ref des        | new device type     |   x   |   y   |  old  device type  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- U6                  SML-P11_SML_LED1      -4.6500 -15.700 SML-P11_SML_SML-P11
- U7                  SML-P11_SML_LED2      -2.7500 -15.700 SML-P11_SML_SML-P11
- U8                  SML-P11_SML_LED3      -0.9500 -15.700 SML-P11_SML_SML-P11
- U11                 SML-P11_SML_LED_POW   14.2000 14.8000 SML-P11_SML_SML-P11
- U12                 SMTU2477N-LF_SLOT_HU-2477N-1-LF  2.6000  0.4000 HU-2477N-1-LF_0_LIR_NEW_HU-2477
- U15                 USB4110-GF-A_USB_USB4110-GF-A 14.2000 12.2500 SML-P11_SML_SML-P11
- U16                 SML-P11_SML_LED_STATUS -6.6500 20.3500 USB4110-GF-A_USB_USB4110-GF-A
+ U12                 SMTU2477N-LF_LIR_NEW_SMTU2477N-                 SMTU2477N-LF_SLOT_HU-2477N-1-LF
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
-|                                                                    Page   4  |
+|                                                                    Page   3  |
 |------------------------------------------------------------------------------|
 |  D:.../17.2.0/Schematic_FinalProject/allegro/AIRQUALITYBLUETOOTHSENSOR.brd   |
-|                                                    Sat Jan 07 15:37:17 2023  |
+|                                                    Sat Jan 07 15:45:01 2023  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- U6.2           -4.6500 -15.700 PRIM_FILE      .\pstchip.dat
- U7.2           -2.7500 -15.700 PRIM_FILE      .\pstchip.dat
- U8.2           -0.9500 -15.700 PRIM_FILE      .\pstchip.dat
- U11.2          14.2000 14.8000 PRIM_FILE      .\pstchip.dat
  U12.1                          PRIM_FILE      .\pstchip.dat
- U15.2          14.2000 12.2500 PRIM_FILE      .\pstchip.dat
- U16.2          -6.6500 20.3500 PRIM_FILE      .\pstchip.dat
 |------------------------------------------------------------------------------|
-|       Nets changed          :      13                                        |
-|       Comp definitions added:       7                                        |
-|       Components changed    :       7                                        |
-|       Slot property added   :       7                                        |
+|       Comp definitions added:       1                                        |
+|       Components changed    :       1                                        |
+|       Slot property added   :       1                                        |
 |                                                                              |
-|   Total ECO changes reported:      34                                        |
+|   Total ECO changes reported:       3                                        |
 |------------------------------------------------------------------------------|
