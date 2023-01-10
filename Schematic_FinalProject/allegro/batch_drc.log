@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : AIRQUALITYBLUETOOTHSENSOR.brd                 )
 (    Software Version : 17.2S083                                      )
-(    Date/Time        : Mon Jan 09 12:16:40 2023                      )
+(    Date/Time        : Tue Jan 10 17:59:56 2023                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -20,10 +20,7 @@
  ========= check standalone text              0:00:00
  ========= check standalone rectangles        0:00:00
 
- ..... Total number of DRC errors  3
-
-
-WARNING: 1 dynamic shape(s) out of date; checking skipped on these elements.
+ ..... Total number of DRC errors  0
 
  ..... DRC update completed, total CPU time   0:00:00
  *************************************************************************

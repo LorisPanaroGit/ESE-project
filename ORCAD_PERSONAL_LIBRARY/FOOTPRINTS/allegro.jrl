@@ -1,25 +1,103 @@
-\t (00:00:01) allegro 17.2 S083 Windows SPB 64-bit Edition
-\t (00:00:01)     Journal start - Mon Jan 09 12:14:34 2023
-\t (00:00:01)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=544 CPUs=12
-\t (00:00:01) CmdLine= D:\Cadence\tools\bin\allegro.exe
-\t (00:00:01) 
-   (00:00:01) Loading axlcore.cxt 
-\t (00:00:03) Opening existing design...
-\i (00:00:03) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged SML
-\d (00:00:03) Design opened: D:/Cadence/cdssetup/ORCAD_CAPTURE/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/SML.dra
-\i (00:00:04) trapsize 107
-\i (00:00:04) trapsize 109
-\i (00:00:04) trapsize 107
-\i (00:00:04) trapsize 110
-\i (00:00:04) trapsize 110
-\i (00:00:05) generaledit 
-\i (00:00:09) open 
-\i (00:00:18) fillin "D:/Cadence/cdssetup/ORCAD_CAPTURE/17.2.0/Schematic_FinalProject/allegro/AIRQUALITYBLUETOOTHSENSOR.brd"
-\i (00:00:18) cd "D:/Cadence/cdssetup/ORCAD_CAPTURE/17.2.0/Schematic_FinalProject/allegro"
-\t (00:00:18) Opening existing design...
-\i (00:00:18) trapsize 2128
-\i (00:00:18) trapsize 2184
-\i (00:00:18) trapsize 2128
-\t (00:00:18) Grids are drawn 3.2000, 3.2000 apart for enhanced viewing.
-\i (00:00:18) trapsize 2159
-\t (00:00:19)     Journal end - Mon Jan 09 12:14:52 2023
+\t (00:03:13) allegro 17.2 S083 Windows SPB 64-bit Edition
+\t (00:03:13)     Journal start - Tue Jan 10 10:50:17 2023
+\t (00:03:13)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=17620 CPUs=12
+\t (00:03:13) CmdLine= D:\Cadence\tools\bin\allegro.exe
+\t (00:03:13) 
+\d (00:03:13) Design opened: D:/Cadence/cdssetup/ORCAD_CAPTURE/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/PM2_5.dra
+\i (00:03:14) trapsize 503
+\i (00:03:14) generaledit 
+\i (00:03:20) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:03:21) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:03:31) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: SILK ETCH TOP"
+\i (00:03:31) color -globvis off 
+\i (00:03:31) color -vis 'BOARD GEOMETRY/DESIGN_OUTLINE' 
+\i (00:03:31) color -vis 'BOARD GEOMETRY/SILKSCREEN_TOP' 
+\i (00:03:31) color -vis 'COMPONENT VALUE/SILKSCREEN_TOP' 
+\i (00:03:31) color -vis 'DEVICE TYPE/SILKSCREEN_TOP' 
+\i (00:03:31) color -vis 'DRC ERROR CLASS/TOP' 
+\i (00:03:31) color -vis ETCH/TOP 
+\i (00:03:31) color -vis 'PACKAGE GEOMETRY/SILKSCREEN_TOP' 
+\i (00:03:31) color -vis PIN/TOP 
+\i (00:03:31) color -vis 'REF DES/SILKSCREEN_TOP' 
+\i (00:03:31) color -vis TOLERANCE/SILKSCREEN_TOP 
+\i (00:03:31) color -vis 'USER PART NUMBER/SILKSCREEN_TOP' 
+\i (00:03:31) color -vis 'VIA CLASS/TOP' 
+\i (00:03:31) color -vis 'ANTI ETCH/TOP' 
+\i (00:03:31) color -vis BOUNDARY/TOP 
+\i (00:03:31) color -vis CAVITY/TOP 
+\i (00:03:31) trapsize 503
+\i (00:03:31) generaledit 
+\i (00:03:36) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: ASSEMBLY TOP"
+\i (00:03:36) color -globvis off 
+\i (00:03:36) color -vis 'BOARD GEOMETRY/DESIGN_OUTLINE' 
+\i (00:03:36) color -vis 'PACKAGE GEOMETRY/ASSEMBLY_TOP' 
+\i (00:03:36) color -vis 'REF DES/ASSEMBLY_TOP' 
+\i (00:03:36) trapsize 503
+\i (00:03:36) generaledit 
+\i (00:04:07) prepopup 1.3691 -3.0101
+\i (00:04:11) pop dyn_option_select @:@Delete 
+\i (00:04:11) delete 
+\i (00:04:11) generaledit 
+\i (00:04:21) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:04:33) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: SILKSCREENT"
+\i (00:04:33) color -globvis off 
+\i (00:04:33) color -vis 'BOARD GEOMETRY/DESIGN_OUTLINE' 
+\i (00:04:33) color -vis 'BOARD GEOMETRY/SILKSCREEN_TOP' 
+\i (00:04:33) color -vis 'COMPONENT VALUE/SILKSCREEN_TOP' 
+\i (00:04:33) color -vis 'DEVICE TYPE/SILKSCREEN_TOP' 
+\i (00:04:33) color -vis 'PACKAGE GEOMETRY/SILKSCREEN_TOP' 
+\i (00:04:33) color -vis 'REF DES/SILKSCREEN_TOP' 
+\i (00:04:33) color -vis TOLERANCE/SILKSCREEN_TOP 
+\i (00:04:33) color -vis 'USER PART NUMBER/SILKSCREEN_TOP' 
+\i (00:04:33) trapsize 503
+\i (00:04:33) generaledit 
+\i (00:04:37) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: SILK ETCH TOP"
+\i (00:04:37) color -globvis off 
+\i (00:04:37) color -vis 'BOARD GEOMETRY/DESIGN_OUTLINE' 
+\i (00:04:37) color -vis 'BOARD GEOMETRY/SILKSCREEN_TOP' 
+\i (00:04:37) color -vis 'COMPONENT VALUE/SILKSCREEN_TOP' 
+\i (00:04:37) color -vis 'DEVICE TYPE/SILKSCREEN_TOP' 
+\i (00:04:37) color -vis 'DRC ERROR CLASS/TOP' 
+\i (00:04:37) color -vis ETCH/TOP 
+\i (00:04:37) color -vis 'PACKAGE GEOMETRY/SILKSCREEN_TOP' 
+\i (00:04:37) color -vis PIN/TOP 
+\i (00:04:37) color -vis 'REF DES/SILKSCREEN_TOP' 
+\i (00:04:37) color -vis TOLERANCE/SILKSCREEN_TOP 
+\i (00:04:37) color -vis 'USER PART NUMBER/SILKSCREEN_TOP' 
+\i (00:04:37) color -vis 'VIA CLASS/TOP' 
+\i (00:04:37) color -vis 'ANTI ETCH/TOP' 
+\i (00:04:37) color -vis BOUNDARY/TOP 
+\i (00:04:37) color -vis CAVITY/TOP 
+\i (00:04:37) trapsize 503
+\i (00:04:37) generaledit 
+\i (00:05:03) pick grid -3.4430 -2.9698
+\t (00:05:03) last pick:  -3.4000 -3.0000
+\i (00:05:46) prepopup -3.4430 -2.9295
+\i (00:05:51) pick grid -3.2315 -3.6040
+\t (00:05:51) last pick:  -3.2000 -3.6000
+\i (00:05:58) drag_start grid -3.3826 -2.7886
+\i (00:05:58) move 
+\t (00:05:58) last pick:  -3.4000 -2.8000
+\t (00:05:58) Element has no origin, using pick.
+\t (00:05:58) Pick new location for the element(s).
+\i (00:06:05) drag_stop grid -4.6107 -2.2752
+\i (00:06:05) generaledit 
+\i (00:06:06) pick grid -2.9597 -3.3524
+\t (00:06:06) last pick:  -3.0000 -3.4000
+\i (00:06:09) save 
+\i (00:06:10) fillin yes 
+\t (00:06:11) Symbol 'pm2_5.psm' created.
+\i (00:06:11) generaledit 
+\i (00:06:14) open 
+\i (00:06:16) fillin "menu_cancel"
+\i (00:06:17) generaledit 
+\i (00:06:20) open 
+\i (00:06:29) fillin "D:/Cadence/cdssetup/ORCAD_CAPTURE/17.2.0/Schematic_FinalProject/allegro/AIRQUALITYBLUETOOTHSENSOR.brd"
+\i (00:06:29) cd "D:/Cadence/cdssetup/ORCAD_CAPTURE/17.2.0/Schematic_FinalProject/allegro"
+\t (00:06:29) Opening existing design...
+\i (00:06:29) trapsize 532
+\i (00:06:30) trapsize 546
+\i (00:06:30) trapsize 532
+\t (00:06:30) Grids are drawn 0.8000, 0.8000 apart for enhanced viewing.
+\i (00:06:30) trapsize 540
+\t (00:06:30)     Journal end - Tue Jan 10 10:53:34 2023

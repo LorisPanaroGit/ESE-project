@@ -1,18 +1,20 @@
 (---------------------------------------------------------------------)
 (                                                                     )
-(    Shape Island Report                                              )
+(    Shape Without Nets Report                                        )
 (                                                                     )
 (    Drawing          : AIRQUALITYBLUETOOTHSENSOR.brd                 )
 (    Software Version : 17.2S083                                      )
-(    Date/Time        : Sun Jan 08 16:05:52 2023                      )
+(    Date/Time        : Tue Jan 10 11:27:42 2023                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-  Total islands on design: 1
+  Total shapes not on a net: 1
 
 
   <<<  ETCH  >>>
 
     Layer = TOP
-	Point on shape: (-17.2500 -1.6000)  Net: RF_FRONTEND
+	Point on shape: (-17.2500 -1.6000)  Net: Dummy Net
+
+    To suppress in report attach OK_UNASSIGNED_SHAPE property to shape.
