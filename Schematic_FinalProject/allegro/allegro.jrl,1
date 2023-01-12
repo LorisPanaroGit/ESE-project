@@ -1,110 +1,110 @@
-\t (00:05:49) allegro 17.2 S083 Windows SPB 64-bit Edition
-\t (00:05:49)     Journal start - Wed Jan 11 17:07:11 2023
-\t (00:05:49)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=17584 CPUs=12
-\t (00:05:49) CmdLine= d:\cadence\tools\bin\allegro.exe D:\Documents\ESE\forno\CONSEGNA FINALE\CAD FILES\Project\allegro\BLUE_SPO2_FINAL.brd
-\t (00:05:49) 
-\d (00:05:49) Design opened: D:/Cadence/cdssetup/ORCAD_CAPTURE/17.2.0/Schematic_FinalProject/allegro/AIRQUALITYBLUETOOTHSENSOR.brd
-\i (00:05:49) generaledit 
-\i (00:05:53) artwork 
-\i (00:05:53) FORM film_control general_parameters 
-\i (00:05:53) setwindow form.film_control
-\i (00:05:53) FORM film_control general_parameters  
-\i (00:05:53) setwindow pcb
-\i (00:05:53) trapsize 2097
-\i (00:06:10) setwindow form.film_control
-\i (00:06:10) FORM film_control film_control  
-\i (00:06:16) FORM film_control undefined_line_width 0.1000 
-\i (00:06:17) FORM film_control ok  
-\i (00:06:17) setwindow pcb
-\i (00:06:17) generaledit 
-\i (00:06:19) artwork 
-\i (00:06:22) setwindow form.film_control
-\i (00:06:22) FORM film_control filmtree 'MULTISEL YES' BOTTOM 
-\i (00:06:23) FORM film_control filmtree 'MULTISEL NO' BOTTOM 
-\i (00:06:25) FORM film_control domain_setting  
-\i (00:06:27) setwindow form.film_domain
-\i (00:06:27) FORM film_domain cancel  
-\i (00:13:49) setwindow form.film_control
-\i (00:13:49) FORM film_control domain_setting  
-\i (00:13:51) setwindow form.film_domain
-\i (00:13:51) FORM film_domain film_domain cell 2,1 
-\i (00:13:51) FORM film_domain film_domain cell 1,1 
-\i (00:13:54) FORM film_domain cancel  
-\i (00:15:36) setwindow form.film_control
-\i (00:15:36) FORM film_control cancel  
-\i (00:15:36) setwindow pcb
-\i (00:15:36) generaledit 
-\i (00:15:40) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: TOP"
-\i (00:15:43) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BOTTOM"
-\i (00:15:46) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: TOP"
-\i (00:15:49) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
-\i (00:16:28) artwork 
-\i (00:16:30) setwindow form.film_control
-\i (00:16:30) FORM film_control general_parameters  
-\i (00:17:02) FORM film_control cancel  
-\i (00:17:02) setwindow pcb
-\i (00:17:02) generaledit 
-\i (00:17:27) artwork 
-\i (00:18:51) setwindow form.film_control
-\i (00:18:51) FORM film_control cancel  
-\i (00:18:51) setwindow pcb
-\i (00:18:51) generaledit 
-\i (00:19:37) artwork 
-\i (00:19:38) setwindow form.film_control
-\i (00:19:38) FORM film_control load  
-\i (00:19:45) fillin "art_param.txt"
-   (00:19:45) *Error* eval: unbound variable - DEVICE
-   (00:19:45) *Error* load: error while loading file - "D:/Cadence/cdssetup/ORCAD_CAPTURE/17.2.0/Schematic_FinalProject/allegro/art_param.txt" at line 1
-   (00:19:45) ERROR
-\i (00:19:48) FORM film_control load  
-\i (00:19:51) fillin "nc_param.txt"
-   (00:19:51) *Error* eval: unbound variable - INTEGER
-   (00:19:51) *Error* load: error while loading file - "D:/Cadence/cdssetup/ORCAD_CAPTURE/17.2.0/Schematic_FinalProject/allegro/nc_param.txt" at line 1
-   (00:19:51) ERROR
-\i (00:19:54) FORM film_control load  
-\i (00:21:49) fillin "menu_cancel"
-\i (00:22:27) FORM film_control sequence_num 11 
-\i (00:22:27) FORM film_control filmtree  BOTTOM 
-\i (00:22:29) FORM film_control filmtree  TOP 
-\i (00:22:31) FORM film_control filmtree  BOTTOM 
-\i (00:22:32) FORM film_control filmtree  TOP 
-\i (00:22:35) FORM film_control sequence_num 11 
-\i (00:22:35) FORM film_control ok  
-\i (00:22:35) setwindow pcb
-\i (00:22:35) generaledit 
-\i (00:22:38) artwork 
-\i (00:22:41) setwindow form.film_control
-\i (00:22:41) FORM film_control filmtree  TOP 
-\i (00:22:46) FORM film_control undefined_line_width 0.1000 
-\i (00:22:47) FORM film_control filmtree  BOTTOM 
-\i (00:22:50) FORM film_control select_all  
-\i (00:22:51) FORM film_control select_all  
-\i (00:22:53) FORM film_control filmtree 'MULTISEL NO' TOP 
-\i (00:22:53) FORM film_control filmtree  TOP 
-\i (00:22:54) FORM film_control filmtree 'MULTISEL NO' BOTTOM 
-\i (00:22:54) FORM film_control filmtree  BOTTOM 
-\i (00:22:56) FORM film_control general_parameters  
-\i (00:27:08) FORM film_control film_control  
-\i (00:27:11) FORM film_control load  
-\i (00:27:12) fillin "menu_cancel"
-\i (00:27:17) FORM film_control filmtree popup 'Add Manual' TOP 
-\i (00:27:23) fillin "OUTLINE"
-\i (00:27:47) setwindow form.scl_browser
-\i (00:27:47) FORM scl_browser treelist  'ANTI ETCH' 
-\i (00:28:09) FORM scl_browser treelist 'MULTISEL YES' DESIGN_OUTLINE 'BOARD GEOMETRY' 
-\i (00:28:09) FORM scl_browser treelist  DESIGN_OUTLINE 'BOARD GEOMETRY' 
-\i (00:28:14) FORM scl_browser done  
-\i (00:28:47) setwindow form.film_control
-\i (00:28:47) FORM film_control ok  
-\i (00:28:47) setwindow pcb
-\i (00:28:47) generaledit 
-\i (00:28:49) artwork 
-\i (00:28:50) setwindow form.film_control
-\i (00:28:50) FORM film_control cancel  
-\i (00:28:51) setwindow pcb
-\i (00:28:51) generaledit 
-\i (00:28:52) save 
-\i (00:28:53) fillin yes 
-\i (00:28:53) generaledit 
-\i (00:29:06) exit 
-\t (00:29:06)     Journal end - Wed Jan 11 17:30:28 2023
+\t (00:03:32) allegro 17.2 S083 Windows SPB 64-bit Edition
+\t (00:03:32)     Journal start - Thu Jan 12 17:52:05 2023
+\t (00:03:32)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=5916 CPUs=12
+\t (00:03:32) CmdLine= D:\Cadence\tools\bin\allegro.exe
+\t (00:03:32) 
+\d (00:03:32) Design opened: D:/Cadence/cdssetup/ORCAD_CAPTURE/17.2.0/Schematic_FinalProject/allegro/AIRQUALITYBLUETOOTHSENSOR.brd
+\i (00:03:32) trapsize 4195
+\i (00:03:32) shapeedit 
+\i (00:03:35) refresh symbol 
+\i (00:03:37) setwindow form.upd_element
+\i (00:03:37) FORM upd_element tree 'MULTISEL YES' 'Shape and flash symbols' 
+\i (00:03:37) FORM upd_element tree  'Shape and flash symbols' 
+\i (00:03:37) FORM upd_element tree 'MULTISEL YES' 'Place replicate modules' 
+\i (00:03:37) FORM upd_element tree  'Place replicate modules' 
+\i (00:03:38) FORM upd_element tree 'MULTISEL YES' 'Package symbols' 
+\i (00:03:38) FORM upd_element tree  'Package symbols' 
+\i (00:03:39) FORM upd_element refresh  
+\t (00:03:39) Starting Refresh Symbol...
+\t (00:03:41) Opening existing design...
+\i (00:03:41) setwindow pcb
+\i (00:03:41) trapsize 4195
+\t (00:03:42) Updating dynamic shape (1 of 1) Gnd_A, Boundary/Bottom @ (-14.2000 21.4000) ...
+\i (00:03:45) setwindow form.upd_element
+\i (00:03:45) FORM upd_element close  
+\i (00:03:45) setwindow pcb
+\i (00:03:45) shapeedit 
+\i (00:03:46) zoom in 1 
+\i (00:03:46) setwindow pcb
+\i (00:03:46) zoom in -19.1275 -0.5033
+\i (00:03:46) trapsize 2097
+\i (00:03:46) zoom in 1 
+\i (00:03:46) setwindow pcb
+\i (00:03:46) zoom in -19.1275 -0.5033
+\i (00:03:46) trapsize 1049
+\i (00:03:46) zoom in 1 
+\i (00:03:46) setwindow pcb
+\i (00:03:46) zoom in -19.1275 -0.5033
+\i (00:03:46) trapsize 524
+\i (00:03:47) pick grid -17.7642 1.1117
+\t (00:03:47) last pick:  -17.7500 1.1000
+\i (00:03:47) prepopup -17.7642 1.1117
+\i (00:03:49) pop dyn_option_select '@:@Assign net' 
+\i (00:03:49) shape assign net 
+\i (00:03:53) setwindow form.mini
+\i (00:03:53) FORM mini netname_list  
+\i (00:03:55) fillin "Rf_Frontend"
+\t (00:03:55) Updated nets of 1 of 1 shape(s)
+\t (00:03:55) Assigning selected shape(s) to net: RF_FRONTEND
+\i (00:03:58) setwindow pcb
+\i (00:03:58) save 
+\i (00:04:00) fillin yes 
+   (00:04:00) Loading apt.cxt 
+\i (00:04:00) shapeedit 
+\i (00:04:05) artwork 
+\i (00:04:07) setwindow form.film_control
+\i (00:04:07) FORM film_control select_all  
+\i (00:04:08) FORM film_control create  
+\t (00:04:08) Checking db records
+\t (00:04:08)     checking for orphans...
+\t (00:04:08)     Checked 100 percent
+\w (00:04:08) Run batch DRC to correctly regenerate DRC errs.
+
+\t (00:04:08) Done dbdoctor.
+\t (00:04:08) Starting Create artwork films...
+\w (00:04:08) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:04:09) Artwork generated with warnings.
+\i (00:04:14) setwindow pcb
+\i (00:04:14) setwindow text
+\i (00:04:14) close
+\i (00:04:16) setwindow form.film_control
+\i (00:04:16) FORM film_control ok  
+\i (00:04:16) setwindow pcb
+\i (00:04:16) shapeedit 
+\i (00:05:29) save 
+\i (00:05:30) fillin yes 
+   (00:05:30) Loading signal.cxt 
+\i (00:05:30) shapeedit 
+\i (00:05:33) drc update 
+\t (00:05:33) Performing DRC...
+\t (00:05:33) Multithreaded DRC update (12 threads).
+\t (00:05:33) No DRC errors detected.
+\i (00:05:34) shapeedit 
+\i (00:05:36) pick grid -19.3057 -3.8275
+\t (00:05:36) last pick:  -19.3000 -3.8500
+\i (00:05:36) save 
+\i (00:05:37) fillin yes 
+\i (00:05:37) shapeedit 
+\i (00:05:39) artwork 
+\i (00:05:41) setwindow form.film_control
+\i (00:05:41) FORM film_control select_all  
+\i (00:05:42) FORM film_control create  
+\t (00:05:42) Checking db records
+\t (00:05:42)     checking for orphans...
+\t (00:05:42)     Checked 100 percent
+\t (00:05:42) Done dbdoctor.
+\t (00:05:42) Starting Create artwork films...
+\w (00:05:43) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:05:44) Artwork generated with warnings.
+\i (00:05:48) setwindow pcb
+\i (00:05:48) setwindow text
+\i (00:05:48) close
+\i (00:05:49) setwindow form.film_control
+\i (00:05:49) FORM film_control cancel  
+\i (00:05:49) setwindow pcb
+\i (00:05:49) shapeedit 
+\i (00:06:06) save 
+\i (00:06:07) fillin yes 
+\i (00:06:07) shapeedit 
+\i (00:06:08) exit 
+\t (00:06:08)     Journal end - Thu Jan 12 17:54:42 2023

@@ -1,9 +1,9 @@
-Tue Jan 10 10:54:17 2023				Page     1
+Thu Jan 12 17:42:34 2023				Page     1
 
 
  
 Update Symbols/Modules Logfile
-	Tue Jan 10 10:54:17 2023
+	Thu Jan 12 17:42:34 2023
 
 ------ Module Refresh Messages ------
 
@@ -19,12 +19,12 @@ SUMMARY:    Updated 0 out of 0 modules
 (                                                                     )
 (    Drawing          : AIRQUALITYBLUETOOTHSENSOR.brd                 )
 (    Software Version : 17.2S083                                      )
-(    Date/Time        : Tue Jan 10 10:54:18 2023                      )
+(    Date/Time        : Thu Jan 12 17:42:34 2023                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Tue Jan 10 10:54:18 2023				Page     1
+Thu Jan 12 17:42:34 2023				Page     1
 
 
 ------ Symbol Refresh Directives ------
@@ -66,25 +66,25 @@ PADPATH =  .
 
 ------ Symbol Refresh Messages ------
 
-'PM2_5'  symbol refreshed successfully.
-'X32K'  symbol refreshed successfully.
-'JTAG'  symbol refreshed successfully.
-'X24M'  symbol refreshed successfully.
-'0603L'  symbol refreshed successfully.
-'0603C'  symbol refreshed successfully.
-'PATCH_AN043'  symbol refreshed successfully.
-'MCU'  symbol refreshed successfully.
-'0603R'  symbol refreshed successfully.
-'SML'  symbol refreshed successfully.
-'LPS'  symbol refreshed successfully.
-'TPS'  symbol refreshed successfully.
-'XGL4020'  symbol refreshed successfully.
-'MS12'  symbol refreshed successfully.
-'MCP73831'  symbol refreshed successfully.
-'USB'  symbol refreshed successfully.
 'LIR_NEW'  symbol refreshed successfully.
-'AB00'  symbol refreshed successfully.
+'USB'  symbol refreshed successfully.
+'MCP73831'  symbol refreshed successfully.
+'MS12'  symbol refreshed successfully.
+'XGL4020'  symbol refreshed successfully.
+'TPS'  symbol refreshed successfully.
+'LPS'  symbol refreshed successfully.
+'SML'  symbol refreshed successfully.
+'0603R'  symbol refreshed successfully.
+'MCU'  symbol refreshed successfully.
+'PATCH_AN043'  symbol refreshed successfully.
+'0603C'  symbol refreshed successfully.
+'0603L'  symbol refreshed successfully.
+'X24M'  symbol refreshed successfully.
+'JTAG'  symbol refreshed successfully.
+'X32K'  symbol refreshed successfully.
+'PM2_5'  symbol refreshed successfully.
 'SQUARE_L123'  symbol refreshed successfully.
+'AB00'  symbol refreshed successfully.
 
 
 ----- Symbol Update Summary ----

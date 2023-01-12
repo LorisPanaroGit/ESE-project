@@ -4,13 +4,13 @@
 (                                                                     )
 (    Drawing          : XGL4020.dra                                   )
 (    Software Version : 17.2S083                                      )
-(    Date/Time        : Tue Dec 27 18:18:56 2022                      )
+(    Date/Time        : Thu Jan 12 17:41:07 2023                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 Create Symbol of type: PACKAGE
-    Directory = D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS
+    Directory = D:/Cadence/cdssetup/ORCAD_CAPTURE/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS
     Name      = xgl4020.psm
     User      = loris
     Machine   = LAPTOP-PO6VQ7BQ

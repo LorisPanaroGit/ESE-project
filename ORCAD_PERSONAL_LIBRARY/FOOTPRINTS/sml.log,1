@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : SML.dra                                       )
 (    Software Version : 17.2S083                                      )
-(    Date/Time        : Tue Dec 20 15:35:41 2022                      )
+(    Date/Time        : Tue Dec 20 15:38:40 2022                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -18,7 +18,6 @@ Create Symbol of type: PACKAGE
 
 Create symbol started.
  
- ERROR(SPMHCS-1): Symbol is missing a refdes. 
 
-ERROR(SPMHA1-291): Create symbol has been aborted.
+Create symbol completed.
 
