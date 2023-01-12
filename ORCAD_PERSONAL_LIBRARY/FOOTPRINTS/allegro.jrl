@@ -1,103 +1,50 @@
-\t (00:03:13) allegro 17.2 S083 Windows SPB 64-bit Edition
-\t (00:03:13)     Journal start - Tue Jan 10 10:50:17 2023
-\t (00:03:13)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=17620 CPUs=12
-\t (00:03:13) CmdLine= D:\Cadence\tools\bin\allegro.exe
-\t (00:03:13) 
-\d (00:03:13) Design opened: D:/Cadence/cdssetup/ORCAD_CAPTURE/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/PM2_5.dra
-\i (00:03:14) trapsize 503
-\i (00:03:14) generaledit 
-\i (00:03:20) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
-\i (00:03:21) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
-\i (00:03:31) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: SILK ETCH TOP"
-\i (00:03:31) color -globvis off 
-\i (00:03:31) color -vis 'BOARD GEOMETRY/DESIGN_OUTLINE' 
-\i (00:03:31) color -vis 'BOARD GEOMETRY/SILKSCREEN_TOP' 
-\i (00:03:31) color -vis 'COMPONENT VALUE/SILKSCREEN_TOP' 
-\i (00:03:31) color -vis 'DEVICE TYPE/SILKSCREEN_TOP' 
-\i (00:03:31) color -vis 'DRC ERROR CLASS/TOP' 
-\i (00:03:31) color -vis ETCH/TOP 
-\i (00:03:31) color -vis 'PACKAGE GEOMETRY/SILKSCREEN_TOP' 
-\i (00:03:31) color -vis PIN/TOP 
-\i (00:03:31) color -vis 'REF DES/SILKSCREEN_TOP' 
-\i (00:03:31) color -vis TOLERANCE/SILKSCREEN_TOP 
-\i (00:03:31) color -vis 'USER PART NUMBER/SILKSCREEN_TOP' 
-\i (00:03:31) color -vis 'VIA CLASS/TOP' 
-\i (00:03:31) color -vis 'ANTI ETCH/TOP' 
-\i (00:03:31) color -vis BOUNDARY/TOP 
-\i (00:03:31) color -vis CAVITY/TOP 
-\i (00:03:31) trapsize 503
-\i (00:03:31) generaledit 
-\i (00:03:36) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: ASSEMBLY TOP"
-\i (00:03:36) color -globvis off 
-\i (00:03:36) color -vis 'BOARD GEOMETRY/DESIGN_OUTLINE' 
-\i (00:03:36) color -vis 'PACKAGE GEOMETRY/ASSEMBLY_TOP' 
-\i (00:03:36) color -vis 'REF DES/ASSEMBLY_TOP' 
-\i (00:03:36) trapsize 503
-\i (00:03:36) generaledit 
-\i (00:04:07) prepopup 1.3691 -3.0101
-\i (00:04:11) pop dyn_option_select @:@Delete 
-\i (00:04:11) delete 
-\i (00:04:11) generaledit 
-\i (00:04:21) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
-\i (00:04:33) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: SILKSCREENT"
-\i (00:04:33) color -globvis off 
-\i (00:04:33) color -vis 'BOARD GEOMETRY/DESIGN_OUTLINE' 
-\i (00:04:33) color -vis 'BOARD GEOMETRY/SILKSCREEN_TOP' 
-\i (00:04:33) color -vis 'COMPONENT VALUE/SILKSCREEN_TOP' 
-\i (00:04:33) color -vis 'DEVICE TYPE/SILKSCREEN_TOP' 
-\i (00:04:33) color -vis 'PACKAGE GEOMETRY/SILKSCREEN_TOP' 
-\i (00:04:33) color -vis 'REF DES/SILKSCREEN_TOP' 
-\i (00:04:33) color -vis TOLERANCE/SILKSCREEN_TOP 
-\i (00:04:33) color -vis 'USER PART NUMBER/SILKSCREEN_TOP' 
-\i (00:04:33) trapsize 503
-\i (00:04:33) generaledit 
-\i (00:04:37) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: SILK ETCH TOP"
-\i (00:04:37) color -globvis off 
-\i (00:04:37) color -vis 'BOARD GEOMETRY/DESIGN_OUTLINE' 
-\i (00:04:37) color -vis 'BOARD GEOMETRY/SILKSCREEN_TOP' 
-\i (00:04:37) color -vis 'COMPONENT VALUE/SILKSCREEN_TOP' 
-\i (00:04:37) color -vis 'DEVICE TYPE/SILKSCREEN_TOP' 
-\i (00:04:37) color -vis 'DRC ERROR CLASS/TOP' 
-\i (00:04:37) color -vis ETCH/TOP 
-\i (00:04:37) color -vis 'PACKAGE GEOMETRY/SILKSCREEN_TOP' 
-\i (00:04:37) color -vis PIN/TOP 
-\i (00:04:37) color -vis 'REF DES/SILKSCREEN_TOP' 
-\i (00:04:37) color -vis TOLERANCE/SILKSCREEN_TOP 
-\i (00:04:37) color -vis 'USER PART NUMBER/SILKSCREEN_TOP' 
-\i (00:04:37) color -vis 'VIA CLASS/TOP' 
-\i (00:04:37) color -vis 'ANTI ETCH/TOP' 
-\i (00:04:37) color -vis BOUNDARY/TOP 
-\i (00:04:37) color -vis CAVITY/TOP 
-\i (00:04:37) trapsize 503
-\i (00:04:37) generaledit 
-\i (00:05:03) pick grid -3.4430 -2.9698
-\t (00:05:03) last pick:  -3.4000 -3.0000
-\i (00:05:46) prepopup -3.4430 -2.9295
-\i (00:05:51) pick grid -3.2315 -3.6040
-\t (00:05:51) last pick:  -3.2000 -3.6000
-\i (00:05:58) drag_start grid -3.3826 -2.7886
-\i (00:05:58) move 
-\t (00:05:58) last pick:  -3.4000 -2.8000
-\t (00:05:58) Element has no origin, using pick.
-\t (00:05:58) Pick new location for the element(s).
-\i (00:06:05) drag_stop grid -4.6107 -2.2752
-\i (00:06:05) generaledit 
-\i (00:06:06) pick grid -2.9597 -3.3524
-\t (00:06:06) last pick:  -3.0000 -3.4000
-\i (00:06:09) save 
-\i (00:06:10) fillin yes 
-\t (00:06:11) Symbol 'pm2_5.psm' created.
-\i (00:06:11) generaledit 
-\i (00:06:14) open 
-\i (00:06:16) fillin "menu_cancel"
-\i (00:06:17) generaledit 
-\i (00:06:20) open 
-\i (00:06:29) fillin "D:/Cadence/cdssetup/ORCAD_CAPTURE/17.2.0/Schematic_FinalProject/allegro/AIRQUALITYBLUETOOTHSENSOR.brd"
-\i (00:06:29) cd "D:/Cadence/cdssetup/ORCAD_CAPTURE/17.2.0/Schematic_FinalProject/allegro"
-\t (00:06:29) Opening existing design...
-\i (00:06:29) trapsize 532
-\i (00:06:30) trapsize 546
-\i (00:06:30) trapsize 532
-\t (00:06:30) Grids are drawn 0.8000, 0.8000 apart for enhanced viewing.
-\i (00:06:30) trapsize 540
-\t (00:06:30)     Journal end - Tue Jan 10 10:53:34 2023
+\t (00:14:07) allegro 17.2 S083 Windows SPB 64-bit Edition
+\t (00:14:07)     Journal start - Wed Jan 11 08:43:19 2023
+\t (00:14:07)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=5112 CPUs=12
+\t (00:14:07) CmdLine= D:\Cadence\tools\bin\allegro.exe
+\t (00:14:07) 
+\d (00:14:07) Design opened: D:/Cadence/cdssetup/ORCAD_CAPTURE/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/PATCH_an043.dra
+\i (00:14:07) trapsize 914
+\i (00:14:07) generaledit 
+\i (00:14:12) pick grid 17.3480 4.3005
+\t (00:14:12) last pick:  17.3000 4.3000
+\i (00:14:14) zoom in 1 
+\i (00:14:14) setwindow pcb
+\i (00:14:14) zoom in 17.8414 2.4364
+\i (00:14:14) trapsize 457
+\i (00:14:14) zoom in 1 
+\i (00:14:14) setwindow pcb
+\i (00:14:14) zoom in 17.8414 4.2182
+\i (00:14:14) trapsize 228
+\i (00:14:16) zoom out 1 
+\i (00:14:16) setwindow pcb
+\i (00:14:16) zoom out 17.2064 3.6700
+\i (00:14:16) trapsize 457
+\i (00:14:16) zoom out 1 
+\i (00:14:16) setwindow pcb
+\i (00:14:16) zoom out 17.2064 3.1217
+\i (00:14:16) trapsize 914
+\i (00:14:17) drag_start grid 19.2668 5.4335
+\i (00:14:18) drag_stop 15.5205 2.9116
+\i (00:14:19) prepopup 16.5073 4.0629
+\i (00:14:24) pop dyn_option_select 'Change to layer@:@SILKSCREEN_TOP' 
+\i (00:14:24) change layer 
+\t (00:14:24) No DRC errors detected.
+\t (00:14:24) Changed 3 items out of 3 items found.
+\i (00:14:24) generaledit 
+\i (00:14:25) pick grid 17.7683 1.9430
+\t (00:14:25) last pick:  17.8000 1.9000
+\i (00:14:27) save 
+\i (00:14:28) fillin yes 
+\t (00:14:30) Symbol 'patch_an043.psm' created.
+\i (00:14:30) generaledit 
+\i (00:14:33) open 
+\i (00:14:46) fillin "D:/Cadence/cdssetup/ORCAD_CAPTURE/17.2.0/Schematic_FinalProject/allegro/AIRQUALITYBLUETOOTHSENSOR.brd"
+\i (00:14:46) cd "D:/Cadence/cdssetup/ORCAD_CAPTURE/17.2.0/Schematic_FinalProject/allegro"
+\t (00:14:46) Opening existing design...
+\i (00:14:46) trapsize 2128
+\i (00:14:46) trapsize 2184
+\i (00:14:47) trapsize 2128
+\t (00:14:47) Grids are drawn 3.2000, 3.2000 apart for enhanced viewing.
+\i (00:14:47) trapsize 2159
+\t (00:14:47)     Journal end - Wed Jan 11 08:43:59 2023
