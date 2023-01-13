@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : AIRQUALITYBLUETOOTHSENSOR.brd                 )
 (    Software Version : 17.2S083                                      )
-(    Date/Time        : Thu Jan 12 19:42:24 2023                      )
+(    Date/Time        : Fri Jan 13 22:06:53 2023                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -45,14 +45,13 @@
 
            Size  Plating  Tool        + Tolerance  - Tolerance
 
-         0.1200  P        T01            0.000000     0.000000
-         0.2500  P        T02            0.000000     0.000000
-         0.6500  P        T03            0.000000     0.000000
-         0.8000  P        T04            0.000000     0.000000
-         0.9000  P        T05            0.000000     0.000000
+         0.2500  P        T01            0.000000     0.000000
+         0.6500  P        T02            0.000000     0.000000
+         0.8000  P        T03            0.000000     0.000000
+         0.9000  P        T04            0.000000     0.000000
 
 
- Drill files being output to directory 'D:/Cadence/cdssetup/ORCAD_CAPTURE/17.2.0/Schematic_FinalProject/allegro' ...
+ Drill files being output to directory 'D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/Schematic_FinalProject/allegro' ...
 
 
 
@@ -61,13 +60,12 @@
 
      Tool  Num     Size      +/- Tolerance     Plating   Quantity
 
-     T01    1.   0.1200    0.0000/  0.0000      PLATED          5
-     T02    2.   0.2500    0.0000/  0.0000      PLATED         49
-     T03    3.   0.6500    0.0000/  0.0000      PLATED          2
-     T04    4.   0.8000    0.0000/  0.0000      PLATED         14
-     T05    5.   0.9000    0.0000/  0.0000      PLATED          3
+     T01    1.   0.2500    0.0000/  0.0000      PLATED         54
+     T02    2.   0.6500    0.0000/  0.0000      PLATED          2
+     T03    3.   0.8000    0.0000/  0.0000      PLATED         14
+     T04    4.   0.9000    0.0000/  0.0000      PLATED          3
 
      ---- Total holes:                                         73
 
-     ---- Total head travel:              2.00 feet (0.61 meters)
+     ---- Total head travel:              2.02 feet (0.62 meters)
 

@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : AIRQUALITYBLUETOOTHSENSOR.brd                 )
 (    Software Version : 17.2S083                                      )
-(    Date/Time        : Thu Jan 12 19:42:39 2023                      )
+(    Date/Time        : Fri Jan 13 22:07:09 2023                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -29,7 +29,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < TOP >
-     TO FILE < D:/Cadence/cdssetup/ORCAD_CAPTURE/17.2.0/Schematic_FinalProject/allegro/TOP.art > ...
+     TO FILE < D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/Schematic_FinalProject/allegro/TOP.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -53,7 +53,8 @@ Results from parameter file ...
   CIRCLE     0.20000                                  DARK 
   CIRCLE     0.25000                                  DARK 
   CIRCLE     0.65000                                  DARK 
-  CIRCLE     1.20000                                  DARK 
+  CIRCLE     1.30000                                  DARK 
+  CIRCLE     1.60000                                  DARK 
   RECTANGLE  0.30000     x 1.15000       0.000 NO     DARK 
   RECTANGLE  0.50000     x 0.50000      90.000 NO     DARK 
   RECTANGLE  0.50000     x 0.60000      90.000 NO     DARK 
@@ -79,7 +80,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < OUTLINE >
-     TO FILE < D:/Cadence/cdssetup/ORCAD_CAPTURE/17.2.0/Schematic_FinalProject/allegro/OUTLINE.art > ...
+     TO FILE < D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/Schematic_FinalProject/allegro/OUTLINE.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -100,36 +101,13 @@ Results from parameter file ...
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
   CIRCLE     0.10000                                  DARK 
-  CIRCLE     0.20000                                  DARK 
-  CIRCLE     0.25000                                  DARK 
-  CIRCLE     0.65000                                  DARK 
-  CIRCLE     1.20000                                  DARK 
-  RECTANGLE  0.30000     x 1.15000       0.000 NO     DARK 
-  RECTANGLE  0.50000     x 0.50000      90.000 NO     DARK 
-  RECTANGLE  0.50000     x 0.60000      90.000 NO     DARK 
-  RECTANGLE  0.60000     x 1.10000      90.000 NO     DARK 
-  RECTANGLE  0.60000     x 1.15000       0.000 NO     DARK 
-  RECTANGLE  0.74000     x 2.79000       0.000 NO     DARK 
-  RECTANGLE  0.75000     x 0.90000       0.000 NO     DARK 
-  RECTANGLE  0.75000     x 0.90000      90.000 NO     DARK 
-  RECTANGLE  0.90000     x 0.50000      90.000 NO     DARK 
-  RECTANGLE  0.98000     x 3.40000      90.000 NO     DARK 
-  RECTANGLE  1.00000     x 0.90000       0.000 NO     DARK 
-  RECTANGLE  1.00000     x 1.80000       0.000 NO     DARK 
-  RECTANGLE  2.18000     x 2.00000       0.000 NO     DARK 
-  PAD SHAPE  ROUNDED_RECTANGLE ,500.00   0.000 NO     DARK 
-  PAD SHAPE  ROUNDED_RECTANGLE ,500.00   0.000 NO     DARK 
-  PAD SHAPE  ROUNDED_RECTANGLE ,500.00  89.987 NO     DARK 
-  PAD SHAPE  ROUNDED_RECTANGLE ,500.00  90.000 NO     DARK 
-  PAD SHAPE  ROUNDED_RECTANGLE ,500.00  90.117 NO     DARK 
-  PAD SHAPE  ROUNDED_RECTANGLE ,1167.0 270.000 NO     DARK 
 
      OUTLINE created.
 
 
 ================================================================
      PROCESSING FILM < PM_BOT >
-     TO FILE < D:/Cadence/cdssetup/ORCAD_CAPTURE/17.2.0/Schematic_FinalProject/allegro/PM_BOT.art > ...
+     TO FILE < D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/Schematic_FinalProject/allegro/PM_BOT.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -159,7 +137,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < PM_TOP >
-     TO FILE < D:/Cadence/cdssetup/ORCAD_CAPTURE/17.2.0/Schematic_FinalProject/allegro/PM_TOP.art > ...
+     TO FILE < D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/Schematic_FinalProject/allegro/PM_TOP.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -205,7 +183,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < SILK_BOT >
-     TO FILE < D:/Cadence/cdssetup/ORCAD_CAPTURE/17.2.0/Schematic_FinalProject/allegro/SILK_BOT.art > ...
+     TO FILE < D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/Schematic_FinalProject/allegro/SILK_BOT.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -222,6 +200,9 @@ Results from parameter file ...
     WARNING: text composed 0 width line found at (5.6400 18.1300)
            ... using undefined line width of 0.1000
 
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 0.1000
+
 
 
   APERTURES USED:
@@ -235,7 +216,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < SILK_TOP >
-     TO FILE < D:/Cadence/cdssetup/ORCAD_CAPTURE/17.2.0/Schematic_FinalProject/allegro/SILK_TOP.art > ...
+     TO FILE < D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/Schematic_FinalProject/allegro/SILK_TOP.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -249,9 +230,6 @@ Results from parameter file ...
   Suppress unconnected internal pads  NO
   Draw holes only                     NO
 
-    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
-           ... using undefined line width of 0.1000
-
 
 
   APERTURES USED:
@@ -260,12 +238,12 @@ Results from parameter file ...
   ---------------------------------------------------------
   CIRCLE     0.10000                                  DARK 
 
-     SILK_TOP created with warnings
+     SILK_TOP created.
 
 
 ================================================================
      PROCESSING FILM < SM_BOT >
-     TO FILE < D:/Cadence/cdssetup/ORCAD_CAPTURE/17.2.0/Schematic_FinalProject/allegro/SM_BOT.art > ...
+     TO FILE < D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/Schematic_FinalProject/allegro/SM_BOT.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -286,13 +264,10 @@ Results from parameter file ...
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
   CIRCLE     0.10000                                  DARK 
-  CIRCLE     0.12700                                  DARK 
-  CIRCLE     0.20000                                  DARK 
-  CIRCLE     0.25000                                  DARK 
-  CIRCLE     0.40000                                  DARK 
   CIRCLE     0.45000                                  DARK 
   CIRCLE     0.65000                                  DARK 
-  CIRCLE     1.20000                                  DARK 
+  CIRCLE     1.30000                                  DARK 
+  CIRCLE     1.60000                                  DARK 
   RECTANGLE  0.75000     x 0.90000       0.000 NO     DARK 
   RECTANGLE  0.75000     x 0.90000      90.000 NO     DARK 
   RECTANGLE  2.65000     x 3.55000      90.000 NO     DARK 
@@ -302,7 +277,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < SM_TOP >
-     TO FILE < D:/Cadence/cdssetup/ORCAD_CAPTURE/17.2.0/Schematic_FinalProject/allegro/SM_TOP.art > ...
+     TO FILE < D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/Schematic_FinalProject/allegro/SM_TOP.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -323,12 +298,10 @@ Results from parameter file ...
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
   CIRCLE     0.10000                                  DARK 
-  CIRCLE     0.20000                                  DARK 
-  CIRCLE     0.25000                                  DARK 
-  CIRCLE     0.40000                                  DARK 
   CIRCLE     0.45000                                  DARK 
   CIRCLE     0.65000                                  DARK 
-  CIRCLE     1.20000                                  DARK 
+  CIRCLE     1.30000                                  DARK 
+  CIRCLE     1.60000                                  DARK 
   RECTANGLE  0.30000     x 1.15000       0.000 NO     DARK 
   RECTANGLE  0.50000     x 0.50000      90.000 NO     DARK 
   RECTANGLE  0.50000     x 0.60000      90.000 NO     DARK 
@@ -342,8 +315,8 @@ Results from parameter file ...
   RECTANGLE  1.50000     x 1.40000       0.000 NO     DARK 
   RECTANGLE  1.50000     x 2.30000       0.000 NO     DARK 
   RECTANGLE  2.18000     x 2.00000       0.000 NO     DARK 
-  PAD SHAPE  ROUNDED_RECTANGLE ,500.00   0.000 NO     DARK 
   PAD SHAPE  ROUNDED_RECTANGLE ,9333.0   0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,500.00   0.000 NO     DARK 
   PAD SHAPE  ROUNDED_RECTANGLE ,500.00  89.987 NO     DARK 
   PAD SHAPE  ROUNDED_RECTANGLE ,500.00  90.000 NO     DARK 
   PAD SHAPE  ROUNDED_RECTANGLE ,500.00  90.117 NO     DARK 
@@ -354,7 +327,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < BOTTOM >
-     TO FILE < D:/Cadence/cdssetup/ORCAD_CAPTURE/17.2.0/Schematic_FinalProject/allegro/BOTTOM.art > ...
+     TO FILE < D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/Schematic_FinalProject/allegro/BOTTOM.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -368,7 +341,7 @@ Results from parameter file ...
   Suppress unconnected internal pads  NO
   Draw holes only                     NO
 
-    WARNING: rectangle or unfilled shape composed 0 width line found at (-24.3500 21.4000)
+    WARNING: rectangle or unfilled shape composed 0 width line found at (-22.1000 21.4000)
            ... ignored.
 
 
@@ -377,11 +350,11 @@ Results from parameter file ...
   ---------------------------------------------------------
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
-  CIRCLE     0.12700                                  DARK 
   CIRCLE     0.20000                                  DARK 
   CIRCLE     0.25000                                  DARK 
   CIRCLE     0.65000                                  DARK 
-  CIRCLE     1.20000                                  DARK 
+  CIRCLE     1.30000                                  DARK 
+  CIRCLE     1.60000                                  DARK 
   RECTANGLE  0.75000     x 0.90000       0.000 NO     DARK 
   RECTANGLE  0.75000     x 0.90000      90.000 NO     DARK 
   RECTANGLE  2.60000     x 3.50000      90.000 NO     DARK 
@@ -396,7 +369,7 @@ Results from parameter file ...
         PM_BOT created.
         PM_TOP created.
         SILK_BOT created with warnings
-        SILK_TOP created with warnings
+        SILK_TOP created.
         SM_BOT created.
         SM_TOP created.
         BOTTOM created with warnings

@@ -1,0 +1,74 @@
+\t (00:00:25) allegro 17.2 S083 Windows SPB 64-bit Edition
+\t (00:00:25)     Journal start - Fri Jan 13 21:15:25 2023
+\t (00:00:25)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=2296 CPUs=12
+\t (00:00:25) CmdLine= D:\Cadence\tools\bin\allegro.exe
+\t (00:00:25) 
+\d (00:00:25) Design opened: D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/PATCH_an043.dra
+\i (00:00:25) trapsize 914
+\i (00:00:25) generaledit 
+\i (00:00:26) zoom in 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom in 1.7595 0.6272
+\i (00:00:26) trapsize 457
+\i (00:00:26) zoom in 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom in 1.2022 2.7745
+\i (00:00:26) trapsize 228
+\i (00:00:26) zoom in 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom in 0.9555 1.9879
+\i (00:00:26) trapsize 114
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out 1.2159 1.6728
+\i (00:00:27) trapsize 228
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out 1.2661 1.6727
+\i (00:00:27) trapsize 457
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out 1.2935 -0.1771
+\i (00:00:27) trapsize 914
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out 2.5636 -6.2441
+\i (00:00:27) trapsize 914
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out 3.1118 -6.1528
+\i (00:00:27) trapsize 914
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out 3.1118 -6.1528
+\i (00:00:27) trapsize 914
+\i (00:00:28) zoom in 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom in -0.1776 -1.4378
+\i (00:00:28) trapsize 457
+\i (00:00:28) zoom in 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom in -0.1776 2.2811
+\i (00:00:28) trapsize 228
+\i (00:00:28) zoom in 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom in -0.1776 2.5864
+\i (00:00:28) trapsize 114
+\i (00:00:28) zoom in 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom in 0.1307 2.0496
+\i (00:00:28) trapsize 57
+\i (00:00:28) zoom out 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom out 0.1284 2.0199
+\i (00:00:28) trapsize 114
+\i (00:00:28) zoom out 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom out 0.1376 2.0085
+\i (00:00:28) trapsize 228
+\i (00:00:28) zoom out 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom out 0.1375 2.0040
+\i (00:00:28) trapsize 457
+\i (00:02:15) exit 
+\t (00:02:16)     Journal end - Fri Jan 13 21:17:15 2023

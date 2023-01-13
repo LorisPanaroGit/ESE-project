@@ -4,17 +4,17 @@
 (                                                                     )
 (    Drawing          : AIRQUALITYBLUETOOTHSENSOR.brd                 )
 (    Software Version : 17.2S083                                      )
-(    Date/Time        : Tue Jan 03 15:23:29 2023                      )
+(    Date/Time        : Fri Jan 13 19:44:29 2023                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Tue Jan 03 15:23:29 2023				Page     1
+Fri Jan 13 19:44:29 2023				Page     1
 
 
 ------ Pad Stack Refresh Options ------
 
-Input design  = 'D:/Cadence/cdssetup/ORCAD_CAPTURE/17.2.0/Schematic_FinalProject/allegro/AIRQUALITYBLUETOOTHSENSOR.brd'
+Input design  = 'D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/Schematic_FinalProject/allegro/AIRQUALITYBLUETOOTHSENSOR.brd'
 Output design = ''
 Reset symbol text and size locations   = 'NO'
 
@@ -97,10 +97,6 @@ PADPATH =  .
 
      'SMD_RECT_W03_H115'  pad stack refreshed successfully.
      
-'TH_CIRCLE_D09'  pad stack refresh starting.
-
-     'TH_CIRCLE_D09'  pad stack refreshed successfully.
-     
 'SMD_RECT_W09_H05'  pad stack refresh starting.
 
      'SMD_RECT_W09_H05'  pad stack refreshed successfully.
@@ -117,16 +113,47 @@ PADPATH =  .
 
      'SMD_RECT_W10_H18'  pad stack refreshed successfully.
      
-'TH_CIRCLE_D08'  pad stack refresh starting.
-
-     'TH_CIRCLE_D08'  pad stack refreshed successfully.
-     
 'VIA'  pad stack refresh starting.
 
      'VIA'  pad stack refreshed successfully.
+     
+'VIA_CIRCLE_02D'  pad stack refresh starting.
+
+     'VIA_CIRCLE_02D'  pad stack refreshed successfully.
      
 'VIA_D025'  pad stack refresh starting.
 
      'VIA_D025'  pad stack refreshed successfully.
      
-Completed refreshing all pad stacks successfully.
+'VIA_PROVA'  pad stack refresh starting.
+
+     'VIA_PROVA'  pad stack refreshed successfully.
+     
+'TH_CIRCLE_D09'  pad stack refresh starting.
+
+     'TH_CIRCLE_D09'  pad stack refreshed successfully.
+     
+'TH_CIRCLE_D08'  pad stack refresh starting.
+
+     'TH_CIRCLE_D08'  pad stack refreshed successfully.
+     
+WARNING(SPMHNI-253): Unable to find pad stack, 'TH_CIRCLE_D08_DBFIX1', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'TH_CIRCLE_D08_DBFIX2', in directory search path.
+Fri Jan 13 19:44:29 2023				Page     2
+
+
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'VIA_D025_DBFIX1', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'VIA_D025_DBFIX2', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'VIA_D025_DBFIX3', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'VIA_D025_DBFIX4', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'TH_CIRCLE_D08_DBFIX3', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'TH_CIRCLE_D09_DBFIX4', in directory search path.
+
+WARNING(SPMHNI-286): Completed refreshing all pad stacks successfully. Warnings detected.

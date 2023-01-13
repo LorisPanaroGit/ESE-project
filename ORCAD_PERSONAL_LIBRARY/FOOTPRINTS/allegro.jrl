@@ -1,160 +1,26 @@
-\t (00:00:22) allegro 17.2 S083 Windows SPB 64-bit Edition
-\t (00:00:22)     Journal start - Thu Jan 12 17:48:56 2023
-\t (00:00:22)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=5916 CPUs=12
-\t (00:00:22) CmdLine= D:\Cadence\tools\bin\allegro.exe
-\t (00:00:22) 
-\d (00:00:22) Design opened: D:/Cadence/cdssetup/ORCAD_CAPTURE/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/JTAG.dra
-\i (00:00:23) trapsize 419
-\i (00:00:23) shapeedit 
-\i (00:00:25) prepopup -0.3272 3.7919
-\i (00:00:26) pop dyn_option_select '@:@Show element' 
-\i (00:00:26) show element 
-\i (00:00:26) shapeedit 
-\i (00:00:28) setwindow text
-\i (00:00:28) close
-\i (00:00:29) prepopup 1.5352 3.7080
-\i (00:00:30) pop dyn_option_select @:@Delete 
-\i (00:00:30) delete 
-\i (00:00:30) shapeedit 
-\i (00:00:31) pick grid 2.8440 4.6476
-\t (00:00:31) last pick:  2.8450 4.6500
-\i (00:00:32) shape add rect 
-\i (00:00:35) setwindow form.mini
-\i (00:00:35) FORM mini class PACKAGE GEOMETRY 
-\i (00:00:37) FORM mini subclass SILKSCREEN_TOP 
-\i (00:00:39) FORM mini dyns_fill_type Unfilled 
-\i (00:00:47) setwindow pcb
-\i (00:00:47) pick -3.5 y 4 
-\t (00:00:47) last pick:  -3.5000 4.0000
-\i (00:00:54) pick 3.5 y -4 
-\t (00:00:54) last pick:  3.5000 -4.0000
-\i (00:00:55) prepopup 3.8171 -0.8725
-\i (00:00:56) done 
-\i (00:00:57) shapeedit 
-\i (00:00:57) save 
-\i (00:00:58) fillin yes 
-\t (00:00:59) Symbol 'jtag.psm' created.
-\i (00:00:59) shapeedit 
-\i (00:01:10) open 
-\i (00:01:16) fillin "MCP73831.dra"
-\t (00:01:16) Opening existing design...
-\i (00:01:16) trapsize 432
-\i (00:01:16) trapsize 445
-\i (00:01:16) trapsize 432
-\t (00:01:16) Grids are drawn 0.8000, 0.8000 apart for enhanced viewing.
-\i (00:01:17) trapsize 432
-\d (00:01:17) Design opened: D:/Cadence/cdssetup/ORCAD_CAPTURE/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/MCP73831.dra
-\i (00:01:17) trapsize 419
-\i (00:01:17) shapeedit 
-\i (00:01:21) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: SILK ETCH TOP"
-\i (00:01:21) color -globvis off 
-\i (00:01:22) color -vis 'BOARD GEOMETRY/DESIGN_OUTLINE' 
-\i (00:01:22) color -vis 'BOARD GEOMETRY/SILKSCREEN_TOP' 
-\i (00:01:22) color -vis 'COMPONENT VALUE/SILKSCREEN_TOP' 
-\i (00:01:22) color -vis 'DEVICE TYPE/SILKSCREEN_TOP' 
-\i (00:01:22) color -vis 'DRC ERROR CLASS/TOP' 
-\i (00:01:22) color -vis ETCH/TOP 
-\i (00:01:22) color -vis 'PACKAGE GEOMETRY/SILKSCREEN_TOP' 
-\i (00:01:22) color -vis PIN/TOP 
-\i (00:01:22) color -vis 'REF DES/SILKSCREEN_TOP' 
-\i (00:01:22) color -vis TOLERANCE/SILKSCREEN_TOP 
-\i (00:01:22) color -vis 'USER PART NUMBER/SILKSCREEN_TOP' 
-\i (00:01:22) color -vis 'VIA CLASS/TOP' 
-\i (00:01:22) color -vis 'ANTI ETCH/TOP' 
-\i (00:01:22) color -vis BOUNDARY/TOP 
-\i (00:01:22) color -vis CAVITY/TOP 
-\i (00:01:22) trapsize 419
-\i (00:01:22) shapeedit 
-\i (00:01:23) prepopup 0.4782 0.5034
-\i (00:01:25) pop dyn_option_select '@:@Show element' 
-\i (00:01:25) show element 
-\i (00:01:25) shapeedit 
-\i (00:01:36) setwindow text
-\i (00:01:36) close
-\i (00:01:36) prepopup -0.0336 0.4446
-\i (00:01:39) pop dyn_option_select @:@Delete 
-\i (00:01:39) delete 
-\i (00:01:39) shapeedit 
-\i (00:01:40) shape add rect 
-\i (00:01:42) setwindow form.mini
-\i (00:01:42) FORM mini class PACKAGE GEOMETRY 
-\i (00:01:46) FORM mini subclass SILKSCREEN_TOP 
-\i (00:01:47) FORM mini dyns_fill_type Unfilled 
-\i (00:01:57) setwindow pcb
-\i (00:01:57) pick -1.55 y 0.9 
-\t (00:01:57) last pick:  -1.5500 0.9000
-\i (00:02:05) pick 1.55 y -0.9 
-\t (00:02:05) last pick:  1.5500 -0.9000
-\i (00:02:06) prepopup 3.4144 0.3859
-\i (00:02:06) done 
-\i (00:02:07) shapeedit 
-\i (00:02:08) save 
-\i (00:02:09) fillin yes 
-\t (00:02:09) Symbol 'mcp73831.psm' created.
-\i (00:02:09) shapeedit 
-\i (00:02:12) open 
-\i (00:02:15) fillin "PM2_5.dra"
-\t (00:02:15) Opening existing design...
-\i (00:02:15) trapsize 518
-\i (00:02:15) trapsize 534
-\i (00:02:15) trapsize 518
-\t (00:02:15) Grids are drawn 0.8000, 0.8000 apart for enhanced viewing.
-\i (00:02:16) trapsize 518
-\d (00:02:16) Design opened: D:/Cadence/cdssetup/ORCAD_CAPTURE/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/PM2_5.dra
-\i (00:02:16) trapsize 503
-\i (00:02:16) shapeedit 
-\i (00:02:17) prepopup 1.5705 1.8221
-\i (00:02:18) pop dyn_option_select '@:@Show element' 
-\i (00:02:18) show element 
-\i (00:02:18) shapeedit 
-\i (00:02:20) setwindow text
-\i (00:02:20) close
-\i (00:02:21) prepopup 1.0268 1.6510
-\i (00:02:23) pop dyn_option_select '@:@Show element' 
-\i (00:02:23) show element 
-\i (00:02:23) shapeedit 
-\i (00:02:37) setwindow text
-\i (00:02:37) close
-\i (00:02:37) prepopup 1.7114 1.8020
-\i (00:02:39) pop dyn_option_select @:@Delete 
-\i (00:02:39) delete 
-\i (00:02:39) shapeedit 
-\i (00:02:41) pick grid -4.5705 -1.9128
-\t (00:02:41) last pick:  -4.6000 -1.9000
-\i (00:02:41) click shape main 
-\i (00:02:41) shapeedit 
-\i (00:02:41) prepopup -4.5705 -1.9128
-\i (00:02:43) pop dyn_option_select '@:@Show element' 
-\i (00:02:43) show element 
-\i (00:02:43) shapeedit 
-\i (00:02:46) setwindow text
-\i (00:02:46) close
-\i (00:02:47) shape add rect 
-\i (00:02:50) setwindow form.mini
-\i (00:02:50) FORM mini class PACKAGE GEOMETRY 
-\i (00:02:52) FORM mini subclass SILKSCREEN_TOP 
-\i (00:02:54) FORM mini dyns_fill_type Unfilled 
-\i (00:02:59) setwindow pcb
-\i (00:02:59) pick -5 y 2 
-\t (00:02:59) last pick:  -5.0000 2.0000
-\i (00:03:05) pick 5 y -2 
-\t (00:03:05) last pick:  5.0000 -2.0000
-\i (00:03:06) prepopup 0.0805 -2.2651
-\i (00:03:07) done 
-\i (00:03:08) shapeedit 
-\i (00:03:08) pick grid -0.9463 -0.3725
-\t (00:03:08) last pick:  -0.9000 -0.4000
-\i (00:03:11) save 
-\i (00:03:12) fillin yes 
-\t (00:03:12) Symbol 'pm2_5.psm' created.
-\i (00:03:12) shapeedit 
-\i (00:03:16) open 
-\i (00:03:31) fillin "D:/Cadence/cdssetup/ORCAD_CAPTURE/17.2.0/Schematic_FinalProject/allegro/AIRQUALITYBLUETOOTHSENSOR.brd"
-\i (00:03:31) cd "D:/Cadence/cdssetup/ORCAD_CAPTURE/17.2.0/Schematic_FinalProject/allegro"
-\t (00:03:31) Opening existing design...
-\i (00:03:31) trapsize 4318
-\i (00:03:31) trapsize 4448
-\i (00:03:31) trapsize 4318
-\t (00:03:31) Grids are drawn 6.4000, 6.4000 apart for enhanced viewing.
-\i (00:03:32) trapsize 4318
-\t (00:03:32)     Journal end - Thu Jan 12 17:52:05 2023
+\t (00:00:01) allegro 17.2 S083 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Fri Jan 13 21:27:13 2023
+\t (00:00:01)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=11376 CPUs=12
+\t (00:00:01) CmdLine= D:\Cadence\tools\bin\allegro.exe
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged PM2_5
+\d (00:00:04) Design opened: D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/PM2_5.dra
+\i (00:00:04) trapsize 503
+\i (00:00:04) trapsize 518
+\i (00:00:05) trapsize 534
+\i (00:00:05) trapsize 518
+\i (00:00:05) trapsize 503
+\i (00:00:05) trapsize 503
+\i (00:00:05) generaledit 
+\i (00:00:08) open 
+\i (00:00:20) fillin "D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/Schematic_FinalProject/allegro/AIRQUALITYBLUETOOTHSENSOR.brd"
+\i (00:00:20) cd "D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/Schematic_FinalProject/allegro"
+\t (00:00:20) Opening existing design...
+\i (00:00:20) trapsize 2128
+\i (00:00:20) trapsize 2184
+\i (00:00:20) trapsize 2128
+\t (00:00:20) Grids are drawn 3.2000, 3.2000 apart for enhanced viewing.
+\i (00:00:20) trapsize 2159
+\t (00:00:20)     Journal end - Fri Jan 13 21:27:32 2023

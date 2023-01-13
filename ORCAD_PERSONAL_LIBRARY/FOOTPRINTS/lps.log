@@ -4,13 +4,13 @@
 (                                                                     )
 (    Drawing          : LPS.dra                                       )
 (    Software Version : 17.2S083                                      )
-(    Date/Time        : Thu Jan 12 17:29:58 2023                      )
+(    Date/Time        : Fri Jan 13 20:17:07 2023                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 Create Symbol of type: PACKAGE
-    Directory = D:/Cadence/cdssetup/ORCAD_CAPTURE/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS
+    Directory = D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS
     Name      = lps.psm
     User      = loris
     Machine   = LAPTOP-PO6VQ7BQ

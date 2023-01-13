@@ -1,9 +1,9 @@
-Thu Jan 12 17:42:34 2023				Page     1
+Fri Jan 13 19:44:43 2023				Page     1
 
 
  
 Update Symbols/Modules Logfile
-	Thu Jan 12 17:42:34 2023
+	Fri Jan 13 19:44:43 2023
 
 ------ Module Refresh Messages ------
 
@@ -19,17 +19,17 @@ SUMMARY:    Updated 0 out of 0 modules
 (                                                                     )
 (    Drawing          : AIRQUALITYBLUETOOTHSENSOR.brd                 )
 (    Software Version : 17.2S083                                      )
-(    Date/Time        : Thu Jan 12 17:42:34 2023                      )
+(    Date/Time        : Fri Jan 13 19:44:43 2023                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Thu Jan 12 17:42:34 2023				Page     1
+Fri Jan 13 19:44:43 2023				Page     1
 
 
 ------ Symbol Refresh Directives ------
 
-Input design  = 'D:/Cadence/cdssetup/ORCAD_CAPTURE/17.2.0/Schematic_FinalProject/allegro/AIRQUALITYBLUETOOTHSENSOR.brd'
+Input design  = 'D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/Schematic_FinalProject/allegro/AIRQUALITYBLUETOOTHSENSOR.brd'
 Output design = ''
 
 Update mechanical symbols              = 'NO'
@@ -69,10 +69,18 @@ PADPATH =  .
 'LIR_NEW'  symbol refreshed successfully.
 'USB'  symbol refreshed successfully.
 'MCP73831'  symbol refreshed successfully.
-'MS12'  symbol refreshed successfully.
+
+'MS12'  symbol starting to refresh:
+     WARNING(SPMHNI-273): Component 'U17', symbol 'MS12', location (19.8500 13.5500) had edited pins.
+     
+     'MS12'  symbol refreshed successfully.
 'XGL4020'  symbol refreshed successfully.
 'TPS'  symbol refreshed successfully.
-'LPS'  symbol refreshed successfully.
+
+'LPS'  symbol starting to refresh:
+     WARNING(SPMHNI-273): Component 'U9', symbol 'LPS', location (22.2000 -12.7500) had edited pins.
+     
+     'LPS'  symbol refreshed successfully.
 'SML'  symbol refreshed successfully.
 '0603R'  symbol refreshed successfully.
 'MCU'  symbol refreshed successfully.
@@ -82,7 +90,11 @@ PADPATH =  .
 'X24M'  symbol refreshed successfully.
 'JTAG'  symbol refreshed successfully.
 'X32K'  symbol refreshed successfully.
-'PM2_5'  symbol refreshed successfully.
+
+'PM2_5'  symbol starting to refresh:
+     WARNING(SPMHNI-273): Component 'U5', symbol 'PM2_5', location (21.4500 2.1000) had edited pins.
+     
+     'PM2_5'  symbol refreshed successfully.
 'SQUARE_L123'  symbol refreshed successfully.
 'AB00'  symbol refreshed successfully.
 
@@ -92,3 +104,6 @@ PADPATH =  .
 Updated symbols: 19 out 19
     Design updated.
 
+Completed refreshing symbols; some symbols may not have been updated due to warnings or errors.
+       0  errors detected.
+       3  warnings detected.

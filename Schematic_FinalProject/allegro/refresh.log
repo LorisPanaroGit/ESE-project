@@ -1,9 +1,9 @@
-Thu Jan 12 17:52:13 2023				Page     1
+Fri Jan 13 20:18:32 2023				Page     1
 
 
  
 Update Symbols/Modules Logfile
-	Thu Jan 12 17:52:13 2023
+	Fri Jan 13 20:18:32 2023
 
 ------ Module Refresh Messages ------
 
@@ -19,17 +19,17 @@ SUMMARY:    Updated 0 out of 0 modules
 (                                                                     )
 (    Drawing          : AIRQUALITYBLUETOOTHSENSOR.brd                 )
 (    Software Version : 17.2S083                                      )
-(    Date/Time        : Thu Jan 12 17:52:13 2023                      )
+(    Date/Time        : Fri Jan 13 20:18:32 2023                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Thu Jan 12 17:52:13 2023				Page     1
+Fri Jan 13 20:18:32 2023				Page     1
 
 
 ------ Symbol Refresh Directives ------
 
-Input design  = 'D:/Cadence/cdssetup/ORCAD_CAPTURE/17.2.0/Schematic_FinalProject/allegro/AIRQUALITYBLUETOOTHSENSOR.brd'
+Input design  = 'D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/Schematic_FinalProject/allegro/AIRQUALITYBLUETOOTHSENSOR.brd'
 Output design = ''
 
 Update mechanical symbols              = 'NO'

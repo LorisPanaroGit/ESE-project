@@ -1,110 +1,64 @@
-\t (00:03:32) allegro 17.2 S083 Windows SPB 64-bit Edition
-\t (00:03:32)     Journal start - Thu Jan 12 17:52:05 2023
-\t (00:03:32)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=5916 CPUs=12
-\t (00:03:32) CmdLine= D:\Cadence\tools\bin\allegro.exe
-\t (00:03:32) 
-\d (00:03:32) Design opened: D:/Cadence/cdssetup/ORCAD_CAPTURE/17.2.0/Schematic_FinalProject/allegro/AIRQUALITYBLUETOOTHSENSOR.brd
-\i (00:03:32) trapsize 4195
-\i (00:03:32) shapeedit 
-\i (00:03:35) refresh symbol 
-\i (00:03:37) setwindow form.upd_element
-\i (00:03:37) FORM upd_element tree 'MULTISEL YES' 'Shape and flash symbols' 
-\i (00:03:37) FORM upd_element tree  'Shape and flash symbols' 
-\i (00:03:37) FORM upd_element tree 'MULTISEL YES' 'Place replicate modules' 
-\i (00:03:37) FORM upd_element tree  'Place replicate modules' 
-\i (00:03:38) FORM upd_element tree 'MULTISEL YES' 'Package symbols' 
-\i (00:03:38) FORM upd_element tree  'Package symbols' 
-\i (00:03:39) FORM upd_element refresh  
-\t (00:03:39) Starting Refresh Symbol...
-\t (00:03:41) Opening existing design...
-\i (00:03:41) setwindow pcb
-\i (00:03:41) trapsize 4195
-\t (00:03:42) Updating dynamic shape (1 of 1) Gnd_A, Boundary/Bottom @ (-14.2000 21.4000) ...
-\i (00:03:45) setwindow form.upd_element
-\i (00:03:45) FORM upd_element close  
-\i (00:03:45) setwindow pcb
-\i (00:03:45) shapeedit 
-\i (00:03:46) zoom in 1 
-\i (00:03:46) setwindow pcb
-\i (00:03:46) zoom in -19.1275 -0.5033
-\i (00:03:46) trapsize 2097
-\i (00:03:46) zoom in 1 
-\i (00:03:46) setwindow pcb
-\i (00:03:46) zoom in -19.1275 -0.5033
-\i (00:03:46) trapsize 1049
-\i (00:03:46) zoom in 1 
-\i (00:03:46) setwindow pcb
-\i (00:03:46) zoom in -19.1275 -0.5033
-\i (00:03:46) trapsize 524
-\i (00:03:47) pick grid -17.7642 1.1117
-\t (00:03:47) last pick:  -17.7500 1.1000
-\i (00:03:47) prepopup -17.7642 1.1117
-\i (00:03:49) pop dyn_option_select '@:@Assign net' 
-\i (00:03:49) shape assign net 
-\i (00:03:53) setwindow form.mini
-\i (00:03:53) FORM mini netname_list  
-\i (00:03:55) fillin "Rf_Frontend"
-\t (00:03:55) Updated nets of 1 of 1 shape(s)
-\t (00:03:55) Assigning selected shape(s) to net: RF_FRONTEND
-\i (00:03:58) setwindow pcb
-\i (00:03:58) save 
-\i (00:04:00) fillin yes 
-   (00:04:00) Loading apt.cxt 
-\i (00:04:00) shapeedit 
-\i (00:04:05) artwork 
-\i (00:04:07) setwindow form.film_control
-\i (00:04:07) FORM film_control select_all  
-\i (00:04:08) FORM film_control create  
-\t (00:04:08) Checking db records
-\t (00:04:08)     checking for orphans...
-\t (00:04:08)     Checked 100 percent
-\w (00:04:08) Run batch DRC to correctly regenerate DRC errs.
-
-\t (00:04:08) Done dbdoctor.
-\t (00:04:08) Starting Create artwork films...
-\w (00:04:08) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
-\w (00:04:09) Artwork generated with warnings.
-\i (00:04:14) setwindow pcb
-\i (00:04:14) setwindow text
-\i (00:04:14) close
-\i (00:04:16) setwindow form.film_control
-\i (00:04:16) FORM film_control ok  
-\i (00:04:16) setwindow pcb
-\i (00:04:16) shapeedit 
-\i (00:05:29) save 
-\i (00:05:30) fillin yes 
-   (00:05:30) Loading signal.cxt 
-\i (00:05:30) shapeedit 
-\i (00:05:33) drc update 
-\t (00:05:33) Performing DRC...
-\t (00:05:33) Multithreaded DRC update (12 threads).
-\t (00:05:33) No DRC errors detected.
-\i (00:05:34) shapeedit 
-\i (00:05:36) pick grid -19.3057 -3.8275
-\t (00:05:36) last pick:  -19.3000 -3.8500
-\i (00:05:36) save 
-\i (00:05:37) fillin yes 
-\i (00:05:37) shapeedit 
-\i (00:05:39) artwork 
-\i (00:05:41) setwindow form.film_control
-\i (00:05:41) FORM film_control select_all  
-\i (00:05:42) FORM film_control create  
-\t (00:05:42) Checking db records
-\t (00:05:42)     checking for orphans...
-\t (00:05:42)     Checked 100 percent
-\t (00:05:42) Done dbdoctor.
-\t (00:05:42) Starting Create artwork films...
-\w (00:05:43) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
-\w (00:05:44) Artwork generated with warnings.
-\i (00:05:48) setwindow pcb
-\i (00:05:48) setwindow text
-\i (00:05:48) close
-\i (00:05:49) setwindow form.film_control
-\i (00:05:49) FORM film_control cancel  
-\i (00:05:49) setwindow pcb
-\i (00:05:49) shapeedit 
-\i (00:06:06) save 
-\i (00:06:07) fillin yes 
-\i (00:06:07) shapeedit 
-\i (00:06:08) exit 
-\t (00:06:08)     Journal end - Thu Jan 12 17:54:42 2023
+\t (00:00:01) allegro 17.2 S083 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Fri Jan 13 21:15:01 2023
+\t (00:00:01)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=2296 CPUs=12
+\t (00:00:01) CmdLine= D:\Cadence\tools\bin\allegro.exe
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged AIRQUALITYBLUETOOTHSENSOR
+\d (00:00:04) Design opened: D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/Schematic_FinalProject/allegro/AIRQUALITYBLUETOOTHSENSOR.brd
+\i (00:00:04) trapsize 2070
+\i (00:00:05) trapsize 2123
+\i (00:00:05) trapsize 2070
+\i (00:00:05) trapsize 2097
+\i (00:00:05) trapsize 2097
+\i (00:00:06) generaledit 
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in -15.8557 -2.8943
+\i (00:00:07) trapsize 1049
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in -15.8557 -2.8943
+\i (00:00:07) trapsize 524
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in -15.8872 -1.2373
+\i (00:00:08) trapsize 262
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in -15.8871 -1.2373
+\i (00:00:08) trapsize 131
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in -15.8871 -1.2373
+\i (00:00:08) trapsize 66
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in -15.8871 -1.2373
+\i (00:00:08) trapsize 33
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out -15.6616 -1.3192
+\i (00:00:11) trapsize 66
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out -15.6616 -1.3193
+\i (00:00:11) trapsize 131
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out -15.6615 -1.3192
+\i (00:00:11) trapsize 262
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out -15.6615 -1.3192
+\i (00:00:11) trapsize 524
+\i (00:00:13) open 
+\i (00:00:24) fillin "D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/PATCH_an043.dra"
+\i (00:00:24) cd "D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS"
+\t (00:00:24) Opening existing design...
+\i (00:00:24) trapsize 901
+\i (00:00:24) trapsize 924
+\i (00:00:25) trapsize 901
+\i (00:00:25) trapsize 901
+\t (00:00:25)     Journal end - Fri Jan 13 21:15:25 2023
