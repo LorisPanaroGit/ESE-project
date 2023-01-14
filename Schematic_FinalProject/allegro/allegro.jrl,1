@@ -1,64 +1,21 @@
 \t (00:00:01) allegro 17.2 S083 Windows SPB 64-bit Edition
-\t (00:00:01)     Journal start - Fri Jan 13 21:15:01 2023
-\t (00:00:01)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=2296 CPUs=12
+\t (00:00:01)     Journal start - Sat Jan 14 10:48:47 2023
+\t (00:00:01)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=10064 CPUs=12
 \t (00:00:01) CmdLine= D:\Cadence\tools\bin\allegro.exe
 \t (00:00:01) 
-   (00:00:01) Loading axlcore.cxt 
+   (00:00:02) Loading axlcore.cxt 
 \t (00:00:04) Opening existing design...
 \i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged AIRQUALITYBLUETOOTHSENSOR
 \d (00:00:04) Design opened: D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/Schematic_FinalProject/allegro/AIRQUALITYBLUETOOTHSENSOR.brd
-\i (00:00:04) trapsize 2070
+\i (00:00:05) trapsize 2070
 \i (00:00:05) trapsize 2123
 \i (00:00:05) trapsize 2070
 \i (00:00:05) trapsize 2097
 \i (00:00:05) trapsize 2097
 \i (00:00:06) generaledit 
-\i (00:00:07) zoom in 1 
-\i (00:00:07) setwindow pcb
-\i (00:00:07) zoom in -15.8557 -2.8943
-\i (00:00:07) trapsize 1049
-\i (00:00:07) zoom in 1 
-\i (00:00:07) setwindow pcb
-\i (00:00:07) zoom in -15.8557 -2.8943
-\i (00:00:07) trapsize 524
-\i (00:00:08) zoom in 1 
-\i (00:00:08) setwindow pcb
-\i (00:00:08) zoom in -15.8872 -1.2373
-\i (00:00:08) trapsize 262
-\i (00:00:08) zoom in 1 
-\i (00:00:08) setwindow pcb
-\i (00:00:08) zoom in -15.8871 -1.2373
-\i (00:00:08) trapsize 131
-\i (00:00:08) zoom in 1 
-\i (00:00:08) setwindow pcb
-\i (00:00:08) zoom in -15.8871 -1.2373
-\i (00:00:08) trapsize 66
-\i (00:00:08) zoom in 1 
-\i (00:00:08) setwindow pcb
-\i (00:00:08) zoom in -15.8871 -1.2373
-\i (00:00:08) trapsize 33
-\i (00:00:11) zoom out 1 
-\i (00:00:11) setwindow pcb
-\i (00:00:11) zoom out -15.6616 -1.3192
-\i (00:00:11) trapsize 66
-\i (00:00:11) zoom out 1 
-\i (00:00:11) setwindow pcb
-\i (00:00:11) zoom out -15.6616 -1.3193
-\i (00:00:11) trapsize 131
-\i (00:00:11) zoom out 1 
-\i (00:00:11) setwindow pcb
-\i (00:00:11) zoom out -15.6615 -1.3192
-\i (00:00:11) trapsize 262
-\i (00:00:11) zoom out 1 
-\i (00:00:11) setwindow pcb
-\i (00:00:11) zoom out -15.6615 -1.3192
-\i (00:00:11) trapsize 524
-\i (00:00:13) open 
-\i (00:00:24) fillin "D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/PATCH_an043.dra"
-\i (00:00:24) cd "D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS"
-\t (00:00:24) Opening existing design...
-\i (00:00:24) trapsize 901
-\i (00:00:24) trapsize 924
-\i (00:00:25) trapsize 901
-\i (00:00:25) trapsize 901
-\t (00:00:25)     Journal end - Fri Jan 13 21:15:25 2023
+\i (00:00:08) open 
+\i (00:00:14) fillin "D:/Documents/ESE/forno/CONSEGNA FINALE/CAD FILES/Project/allegro/BLUE_SPO2_FINAL.brd"
+\i (00:00:14) cd "D:/Documents/ESE/forno/CONSEGNA FINALE/CAD FILES/Project/allegro"
+\t (00:00:14) Opening existing design...
+\i (00:00:14) trapsize 3107
+\t (00:00:14)     Journal end - Sat Jan 14 10:49:00 2023
