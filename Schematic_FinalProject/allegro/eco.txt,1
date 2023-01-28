@@ -3,41 +3,9 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  D:.../17.2.0/Schematic_FinalProject/allegro/AIRQUALITYBLUETOOTHSENSOR.brd   |
-|                                                    Sat Jan 07 15:45:01 2023  |
+|                                                    Mon Jan 23 10:26:51 2023  |
 |------------------------------------------------------------------------------|
-| COMPONENT DEFINITION added to design                                         |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    device type                                                               |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- SMTU2477N-LF_LIR_NEW_SMTU2477N-
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   2  |
 |------------------------------------------------------------------------------|
-|  D:.../17.2.0/Schematic_FinalProject/allegro/AIRQUALITYBLUETOOTHSENSOR.brd   |
-|                                                    Sat Jan 07 15:45:01 2023  |
-|------------------------------------------------------------------------------|
-| COMPONENTS CHANGED from one device type to another in design                 |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    ref des        | new device type     |   x   |   y   |  old  device type  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- U12                 SMTU2477N-LF_LIR_NEW_SMTU2477N-                 SMTU2477N-LF_SLOT_HU-2477N-1-LF
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   3  |
-|------------------------------------------------------------------------------|
-|  D:.../17.2.0/Schematic_FinalProject/allegro/AIRQUALITYBLUETOOTHSENSOR.brd   |
-|                                                    Sat Jan 07 15:45:01 2023  |
-|------------------------------------------------------------------------------|
-| SLOT PROPERTIES added to design                                              |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   slot_id    |   x   |   y   |   property   |             value              |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- U12.1                          PRIM_FILE      .\pstchip.dat
-|------------------------------------------------------------------------------|
-|       Comp definitions added:       1                                        |
-|       Components changed    :       1                                        |
-|       Slot property added   :       1                                        |
 |                                                                              |
-|   Total ECO changes reported:       3                                        |
+|   Total ECO changes reported:       0                                        |
 |------------------------------------------------------------------------------|

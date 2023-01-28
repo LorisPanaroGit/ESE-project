@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.2.0 d001Jan-07-2023 at 15:37:16}
+{ Using PSTWRITER 17.2.0 d001Jan-23-2023 at 10:24:45}
 primitive 'C_0603C_12PF';
   pin
     '1':
@@ -525,7 +525,7 @@ primitive 'SML-P11_SML_LED_POW';
     VALUE='LED_pow';
   end_body;
 end_primitive;
-primitive 'SMTU2477N-LF_SLOT_HU-2477N-1-LF';
+primitive 'SMTU2477N-LF_LIR_NEW_SMTU2477N-';
   pin
     'VDD':
       PIN_NUMBER='(1)';
@@ -536,7 +536,7 @@ primitive 'SMTU2477N-LF_SLOT_HU-2477N-1-LF';
   end_pin;
   body
     PART_NAME='SMTU2477N-LF';
-    JEDEC_TYPE='slot_HU-2477N-1-LF';
+    JEDEC_TYPE='LIR_new';
     VALUE='SMTU2477N-LF';
   end_body;
 end_primitive;

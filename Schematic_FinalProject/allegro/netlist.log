@@ -1,4 +1,4 @@
-{ Using PSTWRITER 17.2.0 d001Jan-09-2023 at 12:15:33 }
+{ Using PSTWRITER 17.2.0 d001Jan-23-2023 at 10:27:49 }
 
 #1 WARNING(ORCAP-36042): Pin "VSS" is renamed to "VSS#3" as visible power pin of same name already exists in Package CC2460F128RSM , U1: SCHEMATIC1, MCU (3.50, 0.40).
 #2 WARNING(ORCAP-36042): Pin "VSS" is renamed to "VSS#7" as visible power pin of same name already exists in Package CC2460F128RSM , U1: SCHEMATIC1, MCU (3.50, 0.40).

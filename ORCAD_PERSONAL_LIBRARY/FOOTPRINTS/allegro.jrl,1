@@ -1,74 +1,337 @@
-\t (00:00:25) allegro 17.2 S083 Windows SPB 64-bit Edition
-\t (00:00:25)     Journal start - Fri Jan 13 21:15:25 2023
-\t (00:00:25)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=2296 CPUs=12
-\t (00:00:25) CmdLine= D:\Cadence\tools\bin\allegro.exe
-\t (00:00:25) 
-\d (00:00:25) Design opened: D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/PATCH_an043.dra
-\i (00:00:25) trapsize 914
-\i (00:00:25) generaledit 
-\i (00:00:26) zoom in 1 
-\i (00:00:26) setwindow pcb
-\i (00:00:26) zoom in 1.7595 0.6272
-\i (00:00:26) trapsize 457
-\i (00:00:26) zoom in 1 
-\i (00:00:26) setwindow pcb
-\i (00:00:26) zoom in 1.2022 2.7745
-\i (00:00:26) trapsize 228
-\i (00:00:26) zoom in 1 
-\i (00:00:26) setwindow pcb
-\i (00:00:26) zoom in 0.9555 1.9879
-\i (00:00:26) trapsize 114
-\i (00:00:27) zoom out 1 
-\i (00:00:27) setwindow pcb
-\i (00:00:27) zoom out 1.2159 1.6728
-\i (00:00:27) trapsize 228
-\i (00:00:27) zoom out 1 
-\i (00:00:27) setwindow pcb
-\i (00:00:27) zoom out 1.2661 1.6727
-\i (00:00:27) trapsize 457
-\i (00:00:27) zoom out 1 
-\i (00:00:27) setwindow pcb
-\i (00:00:27) zoom out 1.2935 -0.1771
-\i (00:00:27) trapsize 914
-\i (00:00:27) zoom out 1 
-\i (00:00:27) setwindow pcb
-\i (00:00:27) zoom out 2.5636 -6.2441
-\i (00:00:27) trapsize 914
-\i (00:00:27) zoom out 1 
-\i (00:00:27) setwindow pcb
-\i (00:00:27) zoom out 3.1118 -6.1528
-\i (00:00:27) trapsize 914
-\i (00:00:27) zoom out 1 
-\i (00:00:27) setwindow pcb
-\i (00:00:27) zoom out 3.1118 -6.1528
-\i (00:00:27) trapsize 914
-\i (00:00:28) zoom in 1 
-\i (00:00:28) setwindow pcb
-\i (00:00:28) zoom in -0.1776 -1.4378
-\i (00:00:28) trapsize 457
-\i (00:00:28) zoom in 1 
-\i (00:00:28) setwindow pcb
-\i (00:00:28) zoom in -0.1776 2.2811
-\i (00:00:28) trapsize 228
-\i (00:00:28) zoom in 1 
-\i (00:00:28) setwindow pcb
-\i (00:00:28) zoom in -0.1776 2.5864
-\i (00:00:28) trapsize 114
-\i (00:00:28) zoom in 1 
-\i (00:00:28) setwindow pcb
-\i (00:00:28) zoom in 0.1307 2.0496
-\i (00:00:28) trapsize 57
-\i (00:00:28) zoom out 1 
-\i (00:00:28) setwindow pcb
-\i (00:00:28) zoom out 0.1284 2.0199
-\i (00:00:28) trapsize 114
-\i (00:00:28) zoom out 1 
-\i (00:00:28) setwindow pcb
-\i (00:00:28) zoom out 0.1376 2.0085
-\i (00:00:28) trapsize 228
-\i (00:00:28) zoom out 1 
-\i (00:00:28) setwindow pcb
-\i (00:00:28) zoom out 0.1375 2.0040
-\i (00:00:28) trapsize 457
-\i (00:02:15) exit 
-\t (00:02:16)     Journal end - Fri Jan 13 21:17:15 2023
+\t (00:00:02) allegro 17.2 S083 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Mon Jan 23 09:17:56 2023
+\t (00:00:02)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=11716 CPUs=12
+\t (00:00:02) CmdLine= D:\Cadence\tools\bin\allegro.exe
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged PM2_5
+\d (00:00:05) Design opened: D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/PM2_5.dra
+\i (00:00:05) trapsize 503
+\i (00:00:05) trapsize 518
+\i (00:00:06) trapsize 534
+\i (00:00:06) trapsize 518
+\i (00:00:06) trapsize 503
+\i (00:00:06) trapsize 503
+\i (00:00:07) generaledit 
+\i (00:00:19) open 
+\i (00:00:22) fillin "TPS.dra"
+\t (00:00:22) Opening existing design...
+\t (00:00:22) Grids are drawn 0.0200, 0.0200 apart for enhanced viewing.
+\i (00:00:22) trapsize 126
+\i (00:00:22) trapsize 129
+\i (00:00:22) trapsize 126
+\t (00:00:22) Grids are drawn 0.3200, 0.3200 apart for enhanced viewing.
+\t (00:00:22) Grids are drawn 0.0200, 0.0200 apart for enhanced viewing.
+\i (00:00:22) trapsize 130
+\d (00:00:22) Design opened: D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/TPS.dra
+\i (00:00:22) generaledit 
+\i (00:00:23) zoom out 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom out 0.3091 0.7343
+\t (00:00:23) Grids are drawn 0.0400, 0.0400 apart for enhanced viewing.
+\i (00:00:23) trapsize 252
+\i (00:00:26) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:00:27) drag_start grid -1.7617 1.8960
+\i (00:00:29) drag_stop 1.7416 -1.8339
+\i (00:00:30) prepopup -0.1409 -0.1628
+\i (00:00:31) pop dyn_option_select @:@Delete 
+\i (00:00:31) delete 
+\i (00:00:31) generaledit 
+\i (00:00:46) setwindow form.find
+\i (00:00:46) FORM find all_on  
+\i (00:00:47) setwindow pcb
+\i (00:00:47) drag_start grid -1.3540 2.1376
+\i (00:00:48) drag_stop 1.5755 -1.2953
+\i (00:00:48) prepopup 1.0017 -0.8322
+\i (00:00:50) pop dyn_option_select @:@Delete 
+\i (00:00:50) delete 
+\i (00:00:50) generaledit 
+\i (00:00:52) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:00:53) zoom out 1 
+\i (00:00:53) setwindow pcb
+\i (00:00:53) zoom out 0.3624 0.0386
+\i (00:00:53) trapsize 252
+\i (00:00:53) zoom out 1 
+\i (00:00:53) setwindow pcb
+\i (00:00:53) zoom out 0.3372 0.0285
+\i (00:00:53) trapsize 252
+\i (00:00:54) zoom in 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom in -0.1359 -0.0419
+\t (00:00:54) Grids are drawn 0.0200, 0.0200 apart for enhanced viewing.
+\i (00:00:54) trapsize 126
+\i (00:00:54) zoom in 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom in -0.1358 -0.0419
+\t (00:00:54) Grids are drawn 0.0100, 0.0100 apart for enhanced viewing.
+\i (00:00:54) trapsize 63
+\i (00:00:55) zoom out 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom out -0.0552 -0.0457
+\t (00:00:55) Grids are drawn 0.0200, 0.0200 apart for enhanced viewing.
+\i (00:00:55) trapsize 126
+\i (00:00:55) zoom out 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom out -0.0553 -0.0456
+\t (00:00:55) Grids are drawn 0.0400, 0.0400 apart for enhanced viewing.
+\i (00:00:55) trapsize 252
+\i (00:01:41) shape add rect 
+\i (00:01:44) setwindow form.mini
+\i (00:01:44) FORM mini subclass ASSEMBLY_TOP 
+\i (00:01:52) setwindow pcb
+\i (00:01:52) pick -0.65 y 1.1 
+\t (00:01:52) last pick:  -0.6500 1.1000
+\i (00:02:00) pick 0.65 y -1.1 
+\t (00:02:00) last pick:  0.6500 -1.1000
+\i (00:02:02) prepopup 1.4446 -0.2030
+\i (00:02:02) done 
+\i (00:02:03) generaledit 
+\i (00:02:03) pick grid 1.3188 0.0185
+\t (00:02:03) last pick:  1.3200 0.0200
+\i (00:02:05) shape add rect 
+\i (00:02:09) setwindow form.mini
+\i (00:02:09) FORM mini subclass SILKSCREEN_TOP 
+\i (00:02:11) FORM mini dyns_fill_type Unfilled 
+\i (00:02:22) setwindow pcb
+\i (00:02:22) pick -0.33 y 1.1 
+\t (00:02:22) last pick:  -0.3300 1.1000
+\i (00:02:30) pick 0.33 y -1.1 
+\t (00:02:30) last pick:  0.3300 -1.1000
+\i (00:02:31) prepopup 2.1242 -0.3188
+\i (00:02:33) done 
+\i (00:02:33) generaledit 
+\i (00:02:37) add pin 
+\t (00:02:37) Using 'SMD_ROUNDRECT_W067_H03.pad'.
+\i (00:02:40) setwindow form.mini
+\i (00:02:40) FORM mini pad_browse  
+\i (00:02:57) fillin "Smd_Roundrect_W067_H03"
+\t (00:02:57) Using 'SMD_ROUNDRECT_W067_H03.pad'.
+\i (00:03:03) FORM mini next_pin_number 1 
+\i (00:03:04) FORM mini y_direction Down 
+\i (00:03:14) setwindow pcb
+\i (00:03:14) pick -0.74 y 0.75 
+\t (00:03:14) last pick:  -0.7400 0.7500
+\t (00:03:14) Using 'SMD_ROUNDRECT_W067_H03.pad'.
+\i (00:03:19) setwindow form.mini
+\i (00:03:19) FORM mini y_direction Up 
+\i (00:03:27) setwindow pcb
+\i (00:03:27) pick 0.74 y -0.75 
+\t (00:03:27) last pick:  0.7400 -0.7500
+\t (00:03:27) Using 'SMD_ROUNDRECT_W067_H03.pad'.
+\i (00:03:28) prepopup 0.5084 2.1980
+\i (00:03:29) done 
+\t (00:03:29) Exiting from Add Pin.
+\i (00:03:29) generaledit 
+\i (00:03:33) setwindow form.find
+\i (00:03:33) FORM find all_off  
+\i (00:03:35) FORM find text YES 
+\i (00:03:36) setwindow pcb
+\i (00:03:36) drag_start grid -0.6242 1.0906
+\i (00:03:36) move 
+\t (00:03:37) last pick:  -0.5300 0.7500
+\t (00:03:37) Pick new location for the element(s).
+\i (00:03:39) drag_stop grid 1.3792 0.7534
+\i (00:03:39) generaledit 
+\i (00:03:40) drag_start grid -0.6846 0.5067
+\i (00:03:40) move 
+\t (00:03:40) last pick:  -0.5300 0.2500
+\t (00:03:40) Pick new location for the element(s).
+\i (00:03:43) drag_stop grid 1.3691 0.2500
+\i (00:03:43) generaledit 
+\i (00:03:44) drag_start grid -0.6544 0.0638
+\i (00:03:44) move 
+\t (00:03:44) last pick:  -0.5300 -0.2500
+\t (00:03:44) Pick new location for the element(s).
+\i (00:03:46) drag_stop grid 1.3742 -0.2483
+\i (00:03:46) generaledit 
+\i (00:03:47) drag_start grid -0.6443 -0.4396
+\i (00:03:47) move 
+\t (00:03:48) last pick:  -0.5300 -0.7500
+\t (00:03:48) Pick new location for the element(s).
+\i (00:03:49) drag_stop grid 1.3842 -0.7466
+\i (00:03:49) generaledit 
+\i (00:03:50) drag_start grid -2.1393 0.8490
+\i (00:03:50) move 
+\t (00:03:51) last pick:  -2.0100 0.7500
+\t (00:03:51) Pick new location for the element(s).
+\i (00:03:52) drag_stop grid -1.3641 0.7433
+\i (00:03:52) generaledit 
+\i (00:03:53) drag_start grid -2.2349 0.3104
+\i (00:03:53) move 
+\t (00:03:53) last pick:  -2.0100 0.2500
+\t (00:03:53) Pick new location for the element(s).
+\i (00:03:55) drag_stop grid -1.3691 0.2450
+\i (00:03:56) generaledit 
+\i (00:03:57) drag_start grid -2.0285 -0.0067
+\i (00:03:57) move 
+\t (00:03:57) last pick:  -2.0100 -0.2500
+\t (00:03:57) Pick new location for the element(s).
+\i (00:03:59) drag_stop grid -1.3742 -0.2433
+\i (00:03:59) generaledit 
+\i (00:04:00) drag_start grid -2.0185 -0.5101
+\i (00:04:00) move 
+\t (00:04:00) last pick:  -2.0100 -0.7500
+\t (00:04:00) Pick new location for the element(s).
+\i (00:04:03) drag_stop grid -1.3792 -0.7517
+\i (00:04:03) generaledit 
+\i (00:04:04) prepopup 0.7953 2.3943
+\i (00:04:05) pick grid 0.2668 2.5101
+\t (00:04:05) last pick:  0.2650 2.5100
+\i (00:04:07) setwindow form.find
+\i (00:04:07) FORM find all_on  
+\i (00:04:08) setwindow pcb
+\i (00:04:08) shape add circle 
+\i (00:04:10) setwindow form.mini
+\i (00:04:10) FORM mini dyns_fill_type Unfilled 
+\i (00:04:11) FORM mini cir_place YES 
+\i (00:04:19) FORM mini cir_radius 0.2500 
+\i (00:04:29) setwindow pcb
+\i (00:04:29) pick -0.45 y 1.31 
+\t (00:04:29) last pick:  -0.4500 1.3100
+\i (00:04:30) prepopup 1.3691 1.9111
+\i (00:04:31) done 
+\i (00:04:31) generaledit 
+\i (00:04:34) label refdes 
+\t (00:04:34) Pick text location.
+\i (00:04:36) pick grid -0.0956 -0.0218
+\t (00:04:36) last pick:  -0.0950 -0.0200
+\t (00:04:36) Enter text string.
+\i (00:04:39) setwindow pcb
+\i (00:04:39) prepopup -0.2466 0.2651
+\i (00:04:40) done 
+\i (00:04:40) setwindow pcb
+\i (00:04:40) pick -0.0950 -0.0200
+\i (00:04:40) setwindow pcb
+\i (00:04:40) generaledit 
+\i (00:04:41) zoom in 1 
+\i (00:04:41) setwindow pcb
+\i (00:04:41) zoom in -0.1158 0.1745
+\t (00:04:41) Grids are drawn 0.0200, 0.0200 apart for enhanced viewing.
+\i (00:04:41) trapsize 126
+\i (00:04:41) zoom in 1 
+\i (00:04:41) setwindow pcb
+\i (00:04:41) zoom in -0.1158 0.1746
+\t (00:04:41) Grids are drawn 0.0100, 0.0100 apart for enhanced viewing.
+\i (00:04:41) trapsize 63
+\i (00:04:42) drag_start grid -0.0629 0.1495
+\i (00:04:42) move 
+\t (00:04:42) last pick:  -0.0950 -0.0200
+\t (00:04:42) Pick new location for the element(s).
+\i (00:04:44) drag_stop grid -0.2101 -0.1450
+\i (00:04:44) generaledit 
+\i (00:04:44) zoom out 1 
+\i (00:04:44) setwindow pcb
+\i (00:04:44) zoom out -0.1661 0.4150
+\t (00:04:44) Grids are drawn 0.0200, 0.0200 apart for enhanced viewing.
+\i (00:04:44) trapsize 126
+\i (00:04:44) zoom out 1 
+\i (00:04:44) setwindow pcb
+\i (00:04:44) zoom out -0.1660 0.4150
+\t (00:04:44) Grids are drawn 0.0400, 0.0400 apart for enhanced viewing.
+\i (00:04:44) trapsize 252
+\i (00:04:44) zoom out 1 
+\i (00:04:44) setwindow pcb
+\i (00:04:44) zoom out -0.3171 1.1309
+\i (00:04:44) trapsize 252
+\i (00:04:45) pick grid -1.0319 3.3909
+\t (00:04:45) last pick:  -1.0300 3.3900
+\i (00:04:47) label refdes 
+\t (00:04:48) Pick text location.
+\i (00:04:50) setwindow form.mini
+\i (00:04:50) FORM mini subclass SILKSCREEN_TOP 
+\i (00:04:50) setwindow pcb
+\i (00:04:50) zoom in 1 
+\i (00:04:50) setwindow pcb
+\i (00:04:50) zoom in -0.1913 0.1997
+\t (00:04:50) Grids are drawn 0.0200, 0.0200 apart for enhanced viewing.
+\i (00:04:50) trapsize 126
+\i (00:04:51) zoom in 1 
+\i (00:04:51) setwindow pcb
+\i (00:04:51) zoom in -0.1862 0.1997
+\t (00:04:51) Grids are drawn 0.0100, 0.0100 apart for enhanced viewing.
+\i (00:04:51) trapsize 63
+\i (00:04:51) zoom in 1 
+\i (00:04:51) setwindow pcb
+\i (00:04:51) zoom in -0.1862 0.1997
+\i (00:04:51) trapsize 31
+\i (00:04:51) zoom out 1 
+\i (00:04:51) setwindow pcb
+\i (00:04:51) zoom out -0.1616 0.1287
+\i (00:04:51) trapsize 63
+\i (00:04:51) zoom out 1 
+\i (00:04:51) setwindow pcb
+\i (00:04:51) zoom out -0.1641 0.1286
+\t (00:04:51) Grids are drawn 0.0200, 0.0200 apart for enhanced viewing.
+\i (00:04:51) trapsize 126
+\i (00:04:51) zoom out 1 
+\i (00:04:51) setwindow pcb
+\i (00:04:51) zoom out -0.1642 0.1286
+\t (00:04:51) Grids are drawn 0.0400, 0.0400 apart for enhanced viewing.
+\i (00:04:51) trapsize 252
+\i (00:04:51) zoom out 1 
+\i (00:04:51) setwindow pcb
+\i (00:04:51) zoom out 0.0101 -0.3691
+\i (00:04:51) trapsize 252
+\i (00:04:52) pick grid -0.1258 0.0134
+\t (00:04:52) last pick:  -0.1250 0.0150
+\t (00:04:52) Enter text string.
+\i (00:04:54) setwindow pcb
+\i (00:04:54) prepopup 0.1158 -0.2383
+\i (00:04:55) done 
+\i (00:04:55) setwindow pcb
+\i (00:04:55) pick -0.1250 0.0150
+\i (00:04:55) setwindow pcb
+\i (00:04:55) generaledit 
+\i (00:04:55) zoom in 1 
+\i (00:04:55) setwindow pcb
+\i (00:04:55) zoom in -0.1158 0.0185
+\t (00:04:55) Grids are drawn 0.0200, 0.0200 apart for enhanced viewing.
+\i (00:04:55) trapsize 126
+\i (00:04:56) zoom in 1 
+\i (00:04:56) setwindow pcb
+\i (00:04:56) zoom in -0.1158 0.0185
+\t (00:04:56) Grids are drawn 0.0100, 0.0100 apart for enhanced viewing.
+\i (00:04:56) trapsize 63
+\i (00:04:58) drag_start grid -0.0037 0.3658
+\i (00:04:58) move 
+\t (00:04:58) last pick:  -0.1250 0.0150
+\t (00:04:58) Pick new location for the element(s).
+\i (00:05:02) drag_stop grid -0.2076 -0.1451
+\i (00:05:02) generaledit 
+\i (00:05:03) zoom out 1 
+\i (00:05:03) setwindow pcb
+\i (00:05:03) zoom out -0.1334 0.1746
+\t (00:05:03) Grids are drawn 0.0200, 0.0200 apart for enhanced viewing.
+\i (00:05:03) trapsize 126
+\i (00:05:03) zoom out 1 
+\i (00:05:03) setwindow pcb
+\i (00:05:03) zoom out -0.1333 0.1745
+\t (00:05:03) Grids are drawn 0.0400, 0.0400 apart for enhanced viewing.
+\i (00:05:03) trapsize 252
+\i (00:05:04) pick grid 0.3322 1.8054
+\t (00:05:04) last pick:  0.3300 1.8050
+\i (00:05:09) dbdoctor 
+\i (00:05:10) setwindow form.dbdoctor_allegro
+\i (00:05:10) FORM dbdoctor_allegro shapes YES 
+\i (00:05:12) FORM dbdoctor_allegro drc YES 
+\i (00:05:13) FORM dbdoctor_allegro execute  
+\t (00:05:13) Dbdoctor in progress - wait...
+\t (00:05:13) Checking db records
+\t (00:05:13)     checking for orphans...
+\t (00:05:13)     Checked 100 percent
+\t (00:05:13) Regenerating DRC
+\t (00:05:13)   Original DRC errors: 0
+\t (00:05:13) Performing DRC...
+\t (00:05:13) No DRC errors detected.
+\t (00:05:13)   Updated DRC errors:  0
+\t (00:05:13) Done dbdoctor.
+\t (00:05:13) Dbdoctor completed.
+\i (00:05:14) FORM dbdoctor_allegro close  
+\i (00:05:14) setwindow pcb
+\i (00:05:14) generaledit 
+\i (00:10:35) exit 
+\e (00:10:35) Do you want to save the changes you made to TPS.dra?
+\i (00:10:36) fillin no 
+   (00:10:36) Loading signal.cxt 
+\t (00:10:36)     Journal end - Mon Jan 23 09:28:30 2023

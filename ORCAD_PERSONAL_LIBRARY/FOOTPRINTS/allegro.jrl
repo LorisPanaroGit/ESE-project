@@ -1,26 +1,38 @@
-\t (00:00:01) allegro 17.2 S083 Windows SPB 64-bit Edition
-\t (00:00:01)     Journal start - Fri Jan 13 21:27:13 2023
-\t (00:00:01)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=11376 CPUs=12
-\t (00:00:01) CmdLine= D:\Cadence\tools\bin\allegro.exe
-\t (00:00:01) 
-   (00:00:01) Loading axlcore.cxt 
-\t (00:00:04) Opening existing design...
-\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged PM2_5
-\d (00:00:04) Design opened: D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/PM2_5.dra
-\i (00:00:04) trapsize 503
-\i (00:00:04) trapsize 518
-\i (00:00:05) trapsize 534
-\i (00:00:05) trapsize 518
-\i (00:00:05) trapsize 503
-\i (00:00:05) trapsize 503
-\i (00:00:05) generaledit 
-\i (00:00:08) open 
-\i (00:00:20) fillin "D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/Schematic_FinalProject/allegro/AIRQUALITYBLUETOOTHSENSOR.brd"
-\i (00:00:20) cd "D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/Schematic_FinalProject/allegro"
-\t (00:00:20) Opening existing design...
-\i (00:00:20) trapsize 2128
-\i (00:00:20) trapsize 2184
-\i (00:00:20) trapsize 2128
-\t (00:00:20) Grids are drawn 3.2000, 3.2000 apart for enhanced viewing.
-\i (00:00:20) trapsize 2159
-\t (00:00:20)     Journal end - Fri Jan 13 21:27:32 2023
+\t (00:00:05) allegro 17.2 S083 Windows SPB 64-bit Edition
+\t (00:00:05)     Journal start - Mon Jan 23 10:21:19 2023
+\t (00:00:05)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=17228 CPUs=12
+\t (00:00:05) CmdLine= D:\Cadence\tools\bin\allegro.exe
+\t (00:00:05) 
+   (00:00:05) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged PM2_5
+\d (00:00:06) Design opened: D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/PM2_5.dra
+\i (00:00:06) trapsize 503
+\i (00:00:06) trapsize 518
+\i (00:00:07) trapsize 534
+\i (00:00:07) trapsize 518
+\i (00:00:07) trapsize 503
+\i (00:00:07) trapsize 503
+\i (00:00:07) generaledit 
+\i (00:00:15) open 
+\i (00:00:18) fillin "TPS.dra"
+\t (00:00:18) Opening existing design...
+\t (00:00:18) Grids are drawn 0.0200, 0.0200 apart for enhanced viewing.
+\i (00:00:18) trapsize 126
+\i (00:00:18) trapsize 129
+\i (00:00:18) trapsize 126
+\t (00:00:18) Grids are drawn 0.3200, 0.3200 apart for enhanced viewing.
+\t (00:00:18) Grids are drawn 0.0200, 0.0200 apart for enhanced viewing.
+\i (00:00:18) trapsize 130
+\d (00:00:18) Design opened: D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/TPS.dra
+\i (00:00:19) generaledit 
+\i (00:00:24) open 
+\i (00:00:33) fillin "D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/Schematic_FinalProject/allegro/AIRQUALITYBLUETOOTHSENSOR.brd"
+\i (00:00:33) cd "D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/Schematic_FinalProject/allegro"
+\t (00:00:33) Opening existing design...
+\i (00:00:33) trapsize 2128
+\i (00:00:34) trapsize 2184
+\i (00:00:34) trapsize 2128
+\t (00:00:34) Grids are drawn 3.2000, 3.2000 apart for enhanced viewing.
+\i (00:00:34) trapsize 2159
+\t (00:00:34)     Journal end - Mon Jan 23 10:21:48 2023
