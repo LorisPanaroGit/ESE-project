@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : AIRQUALITYBLUETOOTHSENSOR.brd                 )
 (    Software Version : 17.2S083                                      )
-(    Date/Time        : Mon Jan 23 18:25:32 2023                      )
+(    Date/Time        : Mon Jan 23 19:59:08 2023                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -29,7 +29,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < TOP >
-     TO FILE < D:/CADENCE/CDSSETUP/ORCAD_CAPTURE/17.2.0/SCHEMATIC_FINALPROJECT/allegro/TOP.art > ...
+     TO FILE < D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/Schematic_FinalProject/allegro/TOP.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -80,7 +80,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < OUTLINE >
-     TO FILE < D:/CADENCE/CDSSETUP/ORCAD_CAPTURE/17.2.0/SCHEMATIC_FINALPROJECT/allegro/OUTLINE.art > ...
+     TO FILE < D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/Schematic_FinalProject/allegro/OUTLINE.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -107,7 +107,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < PM_BOT >
-     TO FILE < D:/CADENCE/CDSSETUP/ORCAD_CAPTURE/17.2.0/SCHEMATIC_FINALPROJECT/allegro/PM_BOT.art > ...
+     TO FILE < D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/Schematic_FinalProject/allegro/PM_BOT.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -115,7 +115,7 @@ Results from parameter file ...
   Undefined line width                0.1000
   Mirror code                         NONE
   Rotate angle                        NONE
-  Offset x:                           0.1000
+  Offset x:                           0.0000
   Offset y:                           0.0000
   Plot negative                       NO
   Suppress unconnected internal pads  NO
@@ -137,7 +137,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < PM_TOP >
-     TO FILE < D:/CADENCE/CDSSETUP/ORCAD_CAPTURE/17.2.0/SCHEMATIC_FINALPROJECT/allegro/PM_TOP.art > ...
+     TO FILE < D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/Schematic_FinalProject/allegro/PM_TOP.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -183,7 +183,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < SILK_BOT >
-     TO FILE < D:/CADENCE/CDSSETUP/ORCAD_CAPTURE/17.2.0/SCHEMATIC_FINALPROJECT/allegro/SILK_BOT.art > ...
+     TO FILE < D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/Schematic_FinalProject/allegro/SILK_BOT.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -216,7 +216,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < SILK_TOP >
-     TO FILE < D:/CADENCE/CDSSETUP/ORCAD_CAPTURE/17.2.0/SCHEMATIC_FINALPROJECT/allegro/SILK_TOP.art > ...
+     TO FILE < D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/Schematic_FinalProject/allegro/SILK_TOP.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -243,7 +243,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < SM_BOT >
-     TO FILE < D:/CADENCE/CDSSETUP/ORCAD_CAPTURE/17.2.0/SCHEMATIC_FINALPROJECT/allegro/SM_BOT.art > ...
+     TO FILE < D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/Schematic_FinalProject/allegro/SM_BOT.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -277,7 +277,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < SM_TOP >
-     TO FILE < D:/CADENCE/CDSSETUP/ORCAD_CAPTURE/17.2.0/SCHEMATIC_FINALPROJECT/allegro/SM_TOP.art > ...
+     TO FILE < D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/Schematic_FinalProject/allegro/SM_TOP.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -327,7 +327,7 @@ Results from parameter file ...
 
 ================================================================
      PROCESSING FILM < BOTTOM >
-     TO FILE < D:/CADENCE/CDSSETUP/ORCAD_CAPTURE/17.2.0/SCHEMATIC_FINALPROJECT/allegro/BOTTOM.art > ...
+     TO FILE < D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/Schematic_FinalProject/allegro/BOTTOM.art > ...
 ================================================================
 
   FILM PARAMETERS :

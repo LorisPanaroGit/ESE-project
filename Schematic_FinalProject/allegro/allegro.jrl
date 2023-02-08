@@ -1,72 +1,150 @@
-\t (00:00:01) allegro 17.2 S083 Windows SPB 64-bit Edition
-\t (00:00:01)     Journal start - Tue Jan 24 15:03:20 2023
-\t (00:00:01)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=16412 CPUs=12
-\t (00:00:01) CmdLine= D:\Cadence\tools\bin\allegro.exe
-\t (00:00:01) 
-   (00:00:01) Loading axlcore.cxt 
-\t (00:00:04) Opening existing design...
-\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged AIRQUALITYBLUETOOTHSENSOR
-\d (00:00:04) Design opened: D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/Schematic_FinalProject/allegro/AIRQUALITYBLUETOOTHSENSOR.brd
-\i (00:00:05) trapsize 2070
-\i (00:00:05) trapsize 2123
-\i (00:00:05) trapsize 2070
-\i (00:00:05) trapsize 2097
-\i (00:00:05) trapsize 2097
-\i (00:00:06) generaledit 
-\i (00:00:07) artwork 
-\i (00:00:17) setwindow form.film_control
-\i (00:00:17) FORM film_control filmtree popup Cut BOTTOM 
-\i (00:00:22) FORM film_control filmtree popup Cut OUTLINE 
-\i (00:00:24) FORM film_control filmtree popup Cut PM_BOT 
-\i (00:00:27) FORM film_control cancel  
-\i (00:00:27) setwindow pcb
-\i (00:00:27) generaledit 
-\i (00:00:31) artwork 
-\i (00:00:38) setwindow form.film_control
-\i (00:00:38) FORM film_control cancel  
-\i (00:00:38) setwindow pcb
-\i (00:00:38) generaledit 
-\i (00:01:09) ncdrill param 
-\i (00:01:09) generaledit 
-\i (00:01:13) setwindow form.nc_parameters
-\i (00:01:13) FORM nc_parameters done  
-\i (00:01:13) setwindow pcb
-\i (00:01:13) pick grid 2.5993 8.6514
-\t (00:01:13) last pick:  2.6000 8.6500
-\i (00:01:16) nctape_full 
-\i (00:01:19) setwindow form.nc_drill
-\i (00:01:19) FORM nc_drill execute  
-\t (00:01:19) Starting Generating NC Drill...
-\i (00:01:23) FORM nc_drill close  
-\i (00:01:23) setwindow pcb
-\i (00:01:23) generaledit 
-\i (00:01:26) ncroute 
-\i (00:01:28) setwindow form.nc_route
-\i (00:01:28) FORM nc_route execute  
-\t (00:01:28) Starting NC Route...
-\i (00:01:33) FORM nc_route close  
-\i (00:01:33) setwindow pcb
-\i (00:01:33) generaledit 
-\i (00:01:37) artwork 
-\i (00:01:56) setwindow form.film_control
-\i (00:01:56) FORM film_control select_all  
-\i (00:01:58) FORM film_control create  
-\t (00:01:58) Checking db records
-\t (00:01:58)     checking for orphans...
-\t (00:01:58)     Checked 100 percent
-\t (00:01:58) Done dbdoctor.
-\t (00:01:58) Starting Create artwork films...
-\w (00:01:58) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
-\w (00:01:59) Artwork generated with warnings.
-\i (00:02:04) setwindow pcb
-\i (00:02:04) setwindow text
-\i (00:02:04) close
-\i (00:02:05) setwindow form.film_control
-\i (00:02:05) FORM film_control cancel  
-\i (00:02:05) setwindow pcb
-\i (00:02:05) generaledit 
-\i (00:02:13) exit 
-\e (00:02:14) Do you want to save the changes you made to AIRQUALITYBLUETOOTHSENSOR.brd?
-\i (00:02:15) fillin no 
-   (00:02:15) Loading signal.cxt 
-\t (00:02:15)     Journal end - Tue Jan 24 15:05:34 2023
+\t (00:05:53) allegro 17.2 S083 Windows SPB 64-bit Edition
+\t (00:05:53)     Journal start - Wed Feb 08 21:56:08 2023
+\t (00:05:53)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=7240 CPUs=12
+\t (00:05:53) CmdLine= D:\Cadence\tools\bin\allegro.exe
+\t (00:05:53) 
+\d (00:05:53) Design opened: D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/Schematic_FinalProject/allegro/AIRQUALITYBLUETOOTHSENSOR.brd
+\i (00:05:53) generaledit 
+\i (00:06:04) zoom in 1 
+\i (00:06:04) setwindow pcb
+\i (00:06:04) zoom in 22.4413 -8.8087
+\i (00:06:04) trapsize 1049
+\i (00:06:12) zoom out 1 
+\i (00:06:12) setwindow pcb
+\i (00:06:12) zoom out 17.8062 -11.1786
+\i (00:06:12) trapsize 2097
+\i (00:06:16) pick grid 35.1301 23.8885
+\t (00:06:16) last pick:  35.1500 23.9000
+\i (00:07:12) dbdoctor 
+\i (00:07:14) setwindow form.dbdoctor_allegro
+\i (00:07:14) FORM dbdoctor_allegro drc YES 
+\i (00:07:14) FORM dbdoctor_allegro shapes YES 
+\i (00:07:15) FORM dbdoctor_allegro execute  
+\t (00:07:15) Dbdoctor in progress - wait...
+\t (00:07:16) Checking db records
+\t (00:07:16)     checking for orphans...
+\t (00:07:16)     Checked 100 percent
+\t (00:07:16) Regenerating DRC
+\t (00:07:16)   Original DRC errors: 0
+\t (00:07:16) Performing DRC...
+\t (00:07:16) Multithreaded DRC update (12 threads).
+\t (00:07:17) No DRC errors detected.
+\t (00:07:17)   Updated DRC errors:  0
+\t (00:07:17) Done dbdoctor.
+\t (00:07:17) Dbdoctor completed.
+\i (00:07:19) FORM dbdoctor_allegro close  
+\i (00:07:19) setwindow pcb
+\i (00:07:19) generaledit 
+\i (00:07:23) drc update 
+\t (00:07:23) Performing DRC...
+\t (00:07:23) Multithreaded DRC update (12 threads).
+\t (00:07:23) No DRC errors detected.
+\i (00:07:24) generaledit 
+\i (00:07:25) status 
+\i (00:07:25) generaledit 
+\i (00:07:28) setwindow form.status
+\i (00:07:28) FORM status isolated_color 1 
+\i (00:07:31) setwindow pcb
+\i (00:07:31) setwindow text
+\i (00:07:31) close
+\i (00:07:33) setwindow form.status
+\i (00:07:33) FORM status done  
+\i (00:07:34) setwindow pcb
+\i (00:07:34) roam start
+\i (00:07:34) roam x -240
+\i (00:07:34) roam y -32
+\i (00:07:34) roam x -32
+\i (00:07:34) roam x -48
+\i (00:07:34) roam x -96
+\i (00:07:34) roam x -48
+\i (00:07:34) roam y 16
+\i (00:07:35) roam end
+\i (00:07:35) zoom out 1 
+\i (00:07:35) setwindow pcb
+\i (00:07:35) zoom out -13.3389 -0.6292
+\i (00:07:35) trapsize 4195
+\i (00:07:35) zoom in 1 
+\i (00:07:35) setwindow pcb
+\i (00:07:35) zoom in -14.5134 -3.1040
+\i (00:07:35) trapsize 2097
+\i (00:07:35) zoom in 1 
+\i (00:07:35) setwindow pcb
+\i (00:07:35) zoom in -14.5973 -3.1040
+\i (00:07:35) trapsize 1049
+\i (00:07:36) zoom in 1 
+\i (00:07:36) setwindow pcb
+\i (00:07:36) zoom in -15.1846 -0.4824
+\i (00:07:36) trapsize 524
+\i (00:07:40) zoom out 1 
+\i (00:07:40) setwindow pcb
+\i (00:07:40) zoom out -12.4056 -1.9295
+\i (00:07:40) trapsize 1049
+\i (00:07:40) zoom out 1 
+\i (00:07:40) setwindow pcb
+\i (00:07:40) zoom out -12.4057 -1.9295
+\i (00:07:40) trapsize 2097
+\i (00:07:41) zoom out 1 
+\i (00:07:41) setwindow pcb
+\i (00:07:41) zoom out -4.4778 -1.6359
+\i (00:07:41) trapsize 4195
+\i (00:07:41) zoom out 1 
+\i (00:07:41) setwindow pcb
+\i (00:07:41) zoom out 21.0571 -3.6913
+\i (00:07:41) trapsize 4195
+\i (00:07:42) zoom in 1 
+\i (00:07:42) setwindow pcb
+\i (00:07:42) zoom in 10.0671 -5.0335
+\i (00:07:42) trapsize 2097
+\i (00:07:49) ncdrill param 
+\i (00:07:50) generaledit 
+\i (00:07:51) setwindow form.nc_parameters
+\i (00:07:51) FORM nc_parameters done  
+\i (00:07:54) setwindow pcb
+\i (00:07:54) nctape_full 
+\i (00:07:59) setwindow form.nc_drill
+\i (00:07:59) FORM nc_drill execute  
+\t (00:07:59) Starting Generating NC Drill...
+\i (00:08:04) FORM nc_drill close  
+\i (00:08:04) setwindow pcb
+\i (00:08:04) generaledit 
+\i (00:08:06) ncroute 
+\i (00:08:07) setwindow form.nc_route
+\i (00:08:07) FORM nc_route execute  
+\t (00:08:07) Starting NC Route...
+\i (00:08:14) FORM nc_route close  
+\i (00:08:14) setwindow pcb
+\i (00:08:14) generaledit 
+\i (00:08:19) artwork 
+\i (00:08:21) setwindow form.film_control
+\i (00:08:21) FORM film_control select_all  
+\i (00:08:23) FORM film_control create  
+\t (00:08:23) Checking db records
+\t (00:08:23)     checking for orphans...
+\t (00:08:23)     Checked 100 percent
+\t (00:08:24) Done dbdoctor.
+\t (00:08:24) Starting Create artwork films...
+\w (00:08:24) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:08:25) Artwork generated with warnings.
+\i (00:08:28) setwindow pcb
+\i (00:08:28) setwindow text
+\i (00:08:28) close
+\i (00:08:30) setwindow form.film_control
+\i (00:08:30) FORM film_control cancel  
+\i (00:08:30) setwindow pcb
+\i (00:08:30) generaledit 
+\i (00:09:21) save 
+\i (00:09:23) fillin yes 
+   (00:09:23) Loading signal.cxt 
+\i (00:09:23) generaledit 
+\i (00:09:28) roam start
+\i (00:09:28) roam x -48
+\i (00:09:28) roam y -16
+\i (00:09:28) roam x -48
+\i (00:09:28) roam y -16
+\i (00:09:28) roam x -32
+\i (00:09:28) roam x -48
+\i (00:09:28) roam x -32
+\i (00:09:28) roam x -32
+\i (00:09:28) roam end
+\i (00:42:23) exit 
+\t (00:42:23)     Journal end - Wed Feb 08 22:32:38 2023

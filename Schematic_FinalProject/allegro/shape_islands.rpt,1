@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : AIRQUALITYBLUETOOTHSENSOR.brd                 )
 (    Software Version : 17.2S083                                      )
-(    Date/Time        : Tue Jan 10 11:30:43 2023                      )
+(    Date/Time        : Wed Jan 11 09:07:02 2023                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -15,4 +15,4 @@
   <<<  ETCH  >>>
 
     Layer = TOP
-	Point on shape: (-17.2500 -1.6000)  Net: GND_A
+	Point on shape: (-17.2500 -1.6000)  Net: RF_FRONTEND

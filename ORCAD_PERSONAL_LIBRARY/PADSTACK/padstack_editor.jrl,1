@@ -1,9 +1,9 @@
 \t (00:00:00) padstack_editor 17.2 S083 Windows SPB 64-bit Edition
-\t (00:00:00)     Journal start - Fri Jan 13 20:27:21 2023
-\t (00:00:00)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=11512 CPUs=12
-\t (00:00:00) CmdLine= d:\cadence\tools\bin\padstack_editor.exe D:\Cadence\cdssetup\OrCAD_Capture\17.2.0\ORCAD_PERSONAL_LIBRARY\PADSTACK\via_d025.pad
+\t (00:00:00)     Journal start - Fri Jan 13 21:15:38 2023
+\t (00:00:00)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=3396 CPUs=12
+\t (00:00:00) CmdLine= d:\cadence\tools\bin\padstack_editor.exe D:\Cadence\cdssetup\OrCAD_Capture\17.2.0\ORCAD_PERSONAL_LIBRARY\PADSTACK\smd_rect_w09_h05.pad
 \t (00:00:00) 
-\d (00:00:09) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
-\d (00:00:11) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
-\d (00:00:12) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
-\t (00:00:19)     Journal end - Fri Jan 13 20:27:40 2023
+\d (00:00:13) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:15) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:01:20) QtFillin Yes
+\t (00:01:20)     Journal end - Fri Jan 13 21:16:59 2023

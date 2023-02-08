@@ -1,38 +1,102 @@
-\t (00:00:05) allegro 17.2 S083 Windows SPB 64-bit Edition
-\t (00:00:05)     Journal start - Mon Jan 23 10:21:19 2023
-\t (00:00:05)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=17228 CPUs=12
-\t (00:00:05) CmdLine= D:\Cadence\tools\bin\allegro.exe
-\t (00:00:05) 
-   (00:00:05) Loading axlcore.cxt 
-\t (00:00:06) Opening existing design...
-\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged PM2_5
-\d (00:00:06) Design opened: D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/PM2_5.dra
-\i (00:00:06) trapsize 503
-\i (00:00:06) trapsize 518
-\i (00:00:07) trapsize 534
-\i (00:00:07) trapsize 518
-\i (00:00:07) trapsize 503
-\i (00:00:07) trapsize 503
-\i (00:00:07) generaledit 
-\i (00:00:15) open 
-\i (00:00:18) fillin "TPS.dra"
-\t (00:00:18) Opening existing design...
-\t (00:00:18) Grids are drawn 0.0200, 0.0200 apart for enhanced viewing.
-\i (00:00:18) trapsize 126
-\i (00:00:18) trapsize 129
-\i (00:00:18) trapsize 126
-\t (00:00:18) Grids are drawn 0.3200, 0.3200 apart for enhanced viewing.
-\t (00:00:18) Grids are drawn 0.0200, 0.0200 apart for enhanced viewing.
-\i (00:00:18) trapsize 130
-\d (00:00:18) Design opened: D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/TPS.dra
-\i (00:00:19) generaledit 
-\i (00:00:24) open 
-\i (00:00:33) fillin "D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/Schematic_FinalProject/allegro/AIRQUALITYBLUETOOTHSENSOR.brd"
-\i (00:00:33) cd "D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/Schematic_FinalProject/allegro"
-\t (00:00:33) Opening existing design...
-\i (00:00:33) trapsize 2128
-\i (00:00:34) trapsize 2184
-\i (00:00:34) trapsize 2128
-\t (00:00:34) Grids are drawn 3.2000, 3.2000 apart for enhanced viewing.
-\i (00:00:34) trapsize 2159
-\t (00:00:34)     Journal end - Mon Jan 23 10:21:48 2023
+\t (00:01:29) allegro 17.2 S083 Windows SPB 64-bit Edition
+\t (00:01:29)     Journal start - Mon Jan 30 09:41:05 2023
+\t (00:01:29)         Host=LAPTOP-PO6VQ7BQ User=loris Pid=10888 CPUs=12
+\t (00:01:29) CmdLine= D:\Cadence\tools\bin\allegro.exe
+\t (00:01:29) 
+\d (00:01:29) Design opened: D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS/USB.dra
+\i (00:01:29) trapsize 671
+\i (00:01:30) generaledit 
+\i (00:01:35) roam start
+\i (00:01:36) roam end
+\i (00:01:38) zoom in 1 
+\i (00:01:38) setwindow pcb
+\i (00:01:38) zoom in 3.0738 5.5570
+\i (00:01:38) trapsize 336
+\i (00:01:38) zoom in 1 
+\i (00:01:38) setwindow pcb
+\i (00:01:38) zoom in 3.0738 5.5570
+\i (00:01:38) trapsize 168
+\i (00:01:39) zoom out 1 
+\i (00:01:39) setwindow pcb
+\i (00:01:39) zoom out 2.9631 5.8658
+\i (00:01:39) trapsize 336
+\i (00:01:50) zoom out 1 
+\i (00:01:50) setwindow pcb
+\i (00:01:50) zoom out 1.5000 5.8926
+\i (00:01:50) trapsize 671
+\i (00:01:50) zoom out 1 
+\i (00:01:50) setwindow pcb
+\i (00:01:50) zoom out -0.4161 6.7919
+\i (00:01:50) trapsize 671
+\i (00:01:50) zoom out 1 
+\i (00:01:50) setwindow pcb
+\i (00:01:50) zoom out -0.4698 6.7517
+\i (00:01:50) trapsize 671
+\i (00:02:06) zoom in 1 
+\i (00:02:06) setwindow pcb
+\i (00:02:06) zoom in -2.7114 6.0940
+\i (00:02:06) trapsize 336
+\i (00:02:06) zoom in 1 
+\i (00:02:06) setwindow pcb
+\i (00:02:06) zoom in -2.7114 6.0940
+\i (00:02:06) trapsize 168
+\i (00:02:12) zoom out 1 
+\i (00:02:12) setwindow pcb
+\i (00:02:12) zoom out -1.7147 6.1846
+\i (00:02:12) trapsize 336
+\i (00:02:12) zoom out 1 
+\i (00:02:12) setwindow pcb
+\i (00:02:12) zoom out -1.7214 6.1577
+\i (00:02:12) trapsize 671
+\i (00:02:12) zoom out 1 
+\i (00:02:12) setwindow pcb
+\i (00:02:12) zoom out 1.2617 6.4027
+\i (00:02:12) trapsize 671
+\i (00:02:12) zoom out 1 
+\i (00:02:12) setwindow pcb
+\i (00:02:12) zoom out 1.2617 6.4027
+\i (00:02:12) trapsize 671
+\i (00:02:14) zoom in 1 
+\i (00:02:14) setwindow pcb
+\i (00:02:14) zoom in -3.3960 5.8792
+\i (00:02:14) trapsize 336
+\i (00:02:14) zoom in 1 
+\i (00:02:14) setwindow pcb
+\i (00:02:14) zoom in -3.3960 5.8859
+\i (00:02:14) trapsize 168
+\i (00:02:29) zoom out 1 
+\i (00:02:29) setwindow pcb
+\i (00:02:29) zoom out -2.3524 5.9363
+\i (00:02:29) trapsize 336
+\i (00:02:29) zoom out 1 
+\i (00:02:29) setwindow pcb
+\i (00:02:29) zoom out -2.3523 5.9363
+\i (00:02:29) trapsize 671
+\i (00:02:30) zoom in 1 
+\i (00:02:30) setwindow pcb
+\i (00:02:30) zoom in -2.8456 6.1208
+\i (00:02:30) trapsize 336
+\i (00:02:33) zoom in 1 
+\i (00:02:33) setwindow pcb
+\i (00:02:33) zoom in -2.7584 6.1879
+\i (00:02:33) trapsize 168
+\i (00:02:36) zoom out 1 
+\i (00:02:36) setwindow pcb
+\i (00:02:36) zoom out -2.7181 6.5135
+\i (00:02:36) trapsize 336
+\i (00:02:36) zoom out 1 
+\i (00:02:36) setwindow pcb
+\i (00:02:36) zoom out -2.7450 6.5268
+\i (00:02:36) trapsize 671
+\i (00:03:20) pick grid 3.5705 14.8322
+\t (00:03:20) last pick:  3.6000 14.8000
+\i (00:03:22) open 
+\i (00:03:32) fillin "D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/Schematic_FinalProject/allegro/AIRQUALITYBLUETOOTHSENSOR.brd"
+\i (00:03:32) cd "D:/Cadence/cdssetup/OrCAD_Capture/17.2.0/Schematic_FinalProject/allegro"
+\t (00:03:32) Opening existing design...
+\i (00:03:32) trapsize 2128
+\i (00:03:32) trapsize 2184
+\i (00:03:32) trapsize 2128
+\t (00:03:33) Grids are drawn 3.2000, 3.2000 apart for enhanced viewing.
+\i (00:03:33) trapsize 2159
+\t (00:03:33)     Journal end - Mon Jan 30 09:43:08 2023
